@@ -1,7 +1,7 @@
 @echo off
-echo Syncing with GitHub...
+echo GitHub와 동기화 중...
 git add .
-git commit -m "Auto-sync: %date% %time%"
+git commit -m "자동 동기화: %date% %time%"
 git push origin main
-echo Done.
+echo 완료.
 pause

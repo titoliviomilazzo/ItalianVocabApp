@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# Italian Vocab App
+# 이탈리아어 단어장 앱
 
-This is a personal Italian vocabulary learning application.
+개인 학습용 이탈리아어 단어장 애플리케이션입니다.
 
-## Features
-- Track new vocabulary
-- Practice quizzes
-- Progress tracking
-=======
-# ItalianVocabApp
->>>>>>> 3edfab8e736b2c9590255b0219f3cb205ce2bb64
+## 주요 기능
+- 새로운 단어 추가 및 관리
+- 퀴즈 풀기
+- 학습 진행 상황 추적
