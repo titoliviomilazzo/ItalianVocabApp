@@ -13,3 +13,16 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+android/local.properties
+.idea/
+*.iml
+

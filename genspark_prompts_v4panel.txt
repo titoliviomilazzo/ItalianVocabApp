@@ -1,0 +1,100 @@
+Image ID: 283
+Word: amare
+Story: 1. A person looking lonely. 2. Meeting a friend in the rain with an umbrella. 3. Sharing a meal and laughing. 4. A warm hug with hearts floating around.
+Prompt: A 4-panel grid comic strip telling a story for the word 'amare'.
+Panel 1: 1
+Panel 2: A person looking lonely
+Panel 3: 2
+Panel 4: Meeting a friend in the rain with an umbrella
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "amare" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 1719
+Word: correre
+Story: 1. Tying running shoes. 2. Starting a dash with a serious face. 3. Running fast with motion lines. 4. Crossing a finish line with a happy sweat.
+Prompt: A 4-panel grid comic strip telling a story for the word 'correre'.
+Panel 1: 1
+Panel 2: Tying running shoes
+Panel 3: 2
+Panel 4: Starting a dash with a serious face
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "correre" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 7058
+Word: veloce
+Story: 1. A slow turtle crawling. 2. A fast rabbit zooms past. 3. A race car appearing behind. 4. The race car leaving only a trail of smoke and speed lines.
+Prompt: A 4-panel grid comic strip telling a story for the word 'veloce'.
+Panel 1: 1
+Panel 2: A slow turtle crawling
+Panel 3: 2
+Panel 4: A fast rabbit zooms past
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "veloce (f)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 6892
+Word: triste
+Story: 1. Dropping an ice cream cone. 2. Rain starts falling on the character. 3. Sitting alone on a bench. 4. Crying with a tiny dark cloud over the head.
+Prompt: A 4-panel grid comic strip telling a story for the word 'triste'.
+Panel 1: 1
+Panel 2: Dropping an ice cream cone
+Panel 3: 2
+Panel 4: Rain starts falling on the character
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "triste" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 3672
+Word: mangiare
+Story: 1. Sitting in front of a giant pizza. 2. Taking a huge bite with cheese stretching. 3. Chewing happily with full cheeks. 4. Patting a full stomach with a smile.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mangiare'.
+Panel 1: 1
+Panel 2: Sitting in front of a giant pizza
+Panel 3: 2
+Panel 4: Taking a huge bite with cheese stretching
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mangiare" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 2928
+Word: grande
+Story: 1. Holding a small toy car. 2. Seeing a real car. 3. Standing next to a massive monster truck. 4. Looking up at a mountain-sized object in awe.
+Prompt: A 4-panel grid comic strip telling a story for the word 'grande'.
+Panel 1: 1
+Panel 2: Holding a small toy car
+Panel 3: 2
+Panel 4: Seeing a real car
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "grande (m)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 4666
+Word: piccolo
+Story: 1. Looking into a microscope. 2. Seeing a tiny bacteria. 3. Holding a single grain of rice. 4. A giant finger pointing at a microscopic ant.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piccolo'.
+Panel 1: 1
+Panel 2: Looking into a microscope
+Panel 3: 2
+Panel 4: Seeing a tiny bacteria
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piccolo (m)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 2166
+Word: dormire
+Story: 1. Yawning with mouth wide open. 2. Putting on striped pajamas. 3. Getting under a cozy blanket. 4. Sound asleep with 'Zzz' and a dream bubble.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dormire'.
+Panel 1: 1
+Panel 2: Yawning with mouth wide open
+Panel 3: 2
+Panel 4: Putting on striped pajamas
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dormire" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 271
+Word: alto
+Story: 1. A short child jumping to reach a shelf. 2. A tall person walks over. 3. The tall person easily grabbing the toy with one hand. 4. Handing the toy to the happy child.
+Prompt: A 4-panel grid comic strip telling a story for the word 'alto'.
+Panel 1: 1
+Panel 2: A short child jumping to reach a shelf
+Panel 3: 2
+Panel 4: A tall person walks over
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "alto (m)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 767
+Word: bello
+Story: 1. Walking into a garden. 2. Seeing a beautiful blooming flower. 3. Looking out to a gorgeous sunset over hills. 4. The character looking in a mirror and smiling with sparkles.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bello'.
+Panel 1: 1
+Panel 2: Walking into a garden
+Panel 3: 2
+Panel 4: Seeing a beautiful blooming flower
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bello (m)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------

@@ -1,0 +1,40 @@
+Image ID: 1
+Word: a
+Prompt: An illustration of 'a', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------
+Image ID: 2
+Word: a
+Prompt: An illustration of 'a', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------
+Image ID: 3
+Word: abbagliante
+Prompt: An illustration of 'abbagliante', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------
+Image ID: 4
+Word: abbaiare
+Prompt: An illustration of 'abbaiare', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------
+Image ID: 5
+Word: abbandonare
+Prompt: An illustration of 'abbandonare', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------
+Image ID: 6
+Word: abbandonato
+Prompt: An illustration of 'abbandonato', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------
+Image ID: 7
+Word: abbandono
+Prompt: An illustration of 'abbandono', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------
+Image ID: 8
+Word: abbassare
+Prompt: An illustration of 'abbassare', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------
+Image ID: 9
+Word: abbasso
+Prompt: An illustration of 'abbasso', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------
+Image ID: 10
+Word: abbastanza
+Prompt: An illustration of 'abbastanza', Minimalist 3D Illustration style, soft lighting, pastel colors, high quality, white background, single object focus
+----------------------------------------

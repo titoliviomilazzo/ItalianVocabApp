@@ -1,0 +1,50 @@
+Image ID: 283
+Word: amare
+Concept: Two people hugging affectionately with many red hearts floating in the air around them, expressing deep love
+Prompt: A situational 2D comic book scene depicting 'Two people hugging affectionately with many red hearts floating in the air around them, expressing deep love'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "amare" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "amare" must be clearly legible and part of the artwork.
+----------------------------------------
+Image ID: 1719
+Word: correre
+Concept: A person in athletic gear running fast on a track, with sweat and motion lines, wind blowing behind
+Prompt: A situational 2D comic book scene depicting 'A person in athletic gear running fast on a track, with sweat and motion lines, wind blowing behind'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "correre" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "correre" must be clearly legible and part of the artwork.
+----------------------------------------
+Image ID: 7058
+Word: veloce
+Concept: A sleek red sports car zooming through a city street with motion blur and speed lines
+Prompt: A situational 2D comic book scene depicting 'A sleek red sports car zooming through a city street with motion blur and speed lines'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "veloce (f)" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "veloce (f)" must be clearly legible and part of the artwork.
+----------------------------------------
+Image ID: 6892
+Word: triste
+Concept: A character sitting alone on a park bench under a small dark rain cloud, looking very depressed
+Prompt: A situational 2D comic book scene depicting 'A character sitting alone on a park bench under a small dark rain cloud, looking very depressed'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "triste" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "triste" must be clearly legible and part of the artwork.
+----------------------------------------
+Image ID: 3672
+Word: mangiare
+Concept: A hungry character happily devouring a huge slice of pizza with melting cheese
+Prompt: A situational 2D comic book scene depicting 'A hungry character happily devouring a huge slice of pizza with melting cheese'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "mangiare" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "mangiare" must be clearly legible and part of the artwork.
+----------------------------------------
+Image ID: 2928
+Word: grande
+Concept: A tiny mouse looking up in surprise at a massive, mountain-sized piece of cheese
+Prompt: A situational 2D comic book scene depicting 'A tiny mouse looking up in surprise at a massive, mountain-sized piece of cheese'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "grande (m)" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "grande (m)" must be clearly legible and part of the artwork.
+----------------------------------------
+Image ID: 4666
+Word: piccolo
+Concept: A giant character carefully holding a tiny, fragile butterfly on their fingertip
+Prompt: A situational 2D comic book scene depicting 'A giant character carefully holding a tiny, fragile butterfly on their fingertip'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "piccolo (m)" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "piccolo (m)" must be clearly legible and part of the artwork.
+----------------------------------------
+Image ID: 2166
+Word: dormire
+Concept: A character in striped pajamas sleeping soundly in a cozy bed, with 'Zzz' speech bubbles
+Prompt: A situational 2D comic book scene depicting 'A character in striped pajamas sleeping soundly in a cozy bed, with 'Zzz' speech bubbles'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "dormire" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "dormire" must be clearly legible and part of the artwork.
+----------------------------------------
+Image ID: 271
+Word: alto
+Concept: A very tall person standing next to a short person, reaching for a cat stuck on a high tree branch
+Prompt: A situational 2D comic book scene depicting 'A very tall person standing next to a short person, reaching for a cat stuck on a high tree branch'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "alto (m)" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "alto (m)" must be clearly legible and part of the artwork.
+----------------------------------------
+Image ID: 767
+Word: bello
+Concept: A character standing on a balcony overlooking a breathtakingly beautiful sunset over a Tuscan landscape
+Prompt: A situational 2D comic book scene depicting 'A character standing on a balcony overlooking a breathtakingly beautiful sunset over a Tuscan landscape'. Style: Dynamic European comic book art, clean ink lines, flat vibrant colors, expressive character acting, storytelling through composition. The Italian word "bello (m)" is integrated into the scene as a bold, clear label or caption. No complex 3D shading, focus on 2D hand-drawn charm. The text "bello (m)" must be clearly legible and part of the artwork.
+----------------------------------------
