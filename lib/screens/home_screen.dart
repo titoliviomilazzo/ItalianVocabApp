@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/word.dart';
 import '../screens/flashcard_screen.dart';
 import '../screens/quiz_screen.dart';
+import '../screens/stats_screen.dart';
 import '../services/storage_service.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -18,7 +19,9 @@ class _HomeScreenState extends State<HomeScreen> {
   late List<Word> _filteredWords;
   String _selectedLevel = 'All';
   bool _hideLearned = false;
+  String _searchQuery = '';
   final StorageService _storage = StorageService();
+  final TextEditingController _searchController = TextEditingController();
 
   @override
   void initState() {
@@ -27,12 +30,21 @@ class _HomeScreenState extends State<HomeScreen> {
     _filterWords();
   }
 
+  @override
+  void dispose() {
+    _searchController.dispose();
+    super.dispose();
+  }
+
   void _filterWords() {
     setState(() {
       _filteredWords = _allWords.where((word) {
         final matchesLevel = _selectedLevel == 'All' || word.level == _selectedLevel;
         final matchesLearned = !_hideLearned || !word.isLearned;
-        return matchesLevel && matchesLearned;
+        final matchesSearch = _searchQuery.isEmpty ||
+            word.word.toLowerCase().contains(_searchQuery.toLowerCase()) ||
+            word.meaning.toLowerCase().contains(_searchQuery.toLowerCase());
+        return matchesLevel && matchesLearned && matchesSearch;
       }).toList();
     });
   }
@@ -65,6 +77,15 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
+  void _openStats() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => StatsScreen(words: _allWords),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -73,6 +94,11 @@ class _HomeScreenState extends State<HomeScreen> {
         backgroundColor: Colors.indigo,
         foregroundColor: Colors.white,
         actions: [
+          IconButton(
+            icon: const Icon(Icons.bar_chart_rounded),
+            tooltip: '학습 통계',
+            onPressed: _openStats,
+          ),
           IconButton(
             icon: const Icon(Icons.quiz),
             tooltip: '퀴즈 모드',
@@ -113,11 +139,51 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       body: Column(
         children: [
+          // Search bar
           Padding(
-            padding: const EdgeInsets.all(8.0),
+            padding: const EdgeInsets.fromLTRB(12, 10, 12, 4),
+            child: TextField(
+              controller: _searchController,
+              decoration: InputDecoration(
+                hintText: '단어 검색 (이탈리아어 / 한국어)',
+                prefixIcon: const Icon(Icons.search, color: Colors.indigo),
+                suffixIcon: _searchQuery.isNotEmpty
+                    ? IconButton(
+                        icon: const Icon(Icons.clear, size: 20),
+                        onPressed: () {
+                          _searchController.clear();
+                          setState(() {
+                            _searchQuery = '';
+                            _filterWords();
+                          });
+                        },
+                      )
+                    : null,
+                filled: true,
+                fillColor: Colors.grey[100],
+                contentPadding: const EdgeInsets.symmetric(vertical: 0, horizontal: 16),
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(12),
+                  borderSide: BorderSide.none,
+                ),
+                focusedBorder: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(12),
+                  borderSide: const BorderSide(color: Colors.indigo, width: 1.5),
+                ),
+              ),
+              onChanged: (value) {
+                setState(() {
+                  _searchQuery = value;
+                  _filterWords();
+                });
+              },
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
             child: Text(
-              'Showing ${_filteredWords.length} words',
-              style: TextStyle(color: Colors.grey[600]),
+              '${_filteredWords.length}개 단어',
+              style: TextStyle(color: Colors.grey[600], fontSize: 13),
             ),
           ),
           Expanded(
@@ -139,7 +205,11 @@ class _HomeScreenState extends State<HomeScreen> {
                       color: word.isLearned ? Colors.grey : Colors.black,
                     ),
                   ),
-                  subtitle: Text('${word.gender} • ${word.level}'),
+                  subtitle: Text(
+                    word.meaning.isNotEmpty
+                        ? '${word.gender} • ${word.meaning}'
+                        : '${word.gender} • ${word.level}',
+                  ),
                   trailing: Row(
                     mainAxisSize: MainAxisSize.min,
                     children: [
