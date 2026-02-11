@@ -1,0 +1,1000 @@
+Image ID: 101
+Word: acquasanta
+Story: 1. Entering a church quietly. 2. Dipping fingers into a small marble basin. 3. Making the sign of the cross. 4. Feeling a sense of peace and reverence.
+Prompt: A 4-panel grid comic strip telling a story for the word 'acquasanta'.
+Panel 1: 1
+Panel 2: Entering a church quietly.
+Panel 3: 2
+Panel 4: Dipping fingers into a small marble basin.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "acquasanta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 102
+Word: acquisire
+Story: 1. Studying hard for a certification exam. 2. Taking the final test with focus. 3. Receiving a certificate in the mail. 4. Hanging the new qualification on the wall.
+Prompt: A 4-panel grid comic strip telling a story for the word 'acquisire'.
+Panel 1: 1
+Panel 2: Studying hard for a certification exam.
+Panel 3: 2
+Panel 4: Taking the final test with focus.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "acquisire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 103
+Word: acquisizione
+Story: 1. A company looking at a smaller rival. 2. Shaking hands on a big deal. 3. Signs changing on the building front. 4. The company processing the new acquisition.
+Prompt: A 4-panel grid comic strip telling a story for the word 'acquisizione'.
+Panel 1: 1
+Panel 2: A company looking at a smaller rival.
+Panel 3: 2
+Panel 4: Shaking hands on a big deal.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "acquisizione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 104
+Word: acquistare
+Story: 1. Seeing a nice shirt in a shop window. 2. Checking the price tag. 3. Paying with a credit card at the counter. 4. Walking out happily with a shopping bag.
+Prompt: A 4-panel grid comic strip telling a story for the word 'acquistare'.
+Panel 1: 1
+Panel 2: Seeing a nice shirt in a shop window.
+Panel 3: 2
+Panel 4: Checking the price tag.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "acquistare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 105
+Word: acquisto
+Story: 1. Browsing online for a new laptop. 2. Clicking the 'Buy Now' button. 3. A package arriving at the doorstep. 4. Unboxing the new purchase excitedly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'acquisto'.
+Panel 1: 1
+Panel 2: Browsing online for a new laptop.
+Panel 3: 2
+Panel 4: Clicking the 'Buy Now' button.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "acquisto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 106
+Word: acquolina
+Story: 1. Walking past a bakery smelling of fresh bread. 2. Seeing a delicious cake in the window. 3. Mouth starting to water uncontrollably. 4. Buying a slice to satisfy the craving.
+Prompt: A 4-panel grid comic strip telling a story for the word 'acquolina'.
+Panel 1: 1
+Panel 2: Walking past a bakery smelling of fresh bread.
+Panel 3: 2
+Panel 4: Seeing a delicious cake in the window.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "acquolina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 107
+Word: acrobata
+Story: 1. A circus tent full of people. 2. A performer walking on a high wire. 3. Doing a somersault in mid-air. 4. Landing perfectly to applause.
+Prompt: A 4-panel grid comic strip telling a story for the word 'acrobata'.
+Panel 1: 1
+Panel 2: A circus tent full of people.
+Panel 3: 2
+Panel 4: A performer walking on a high wire.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "acrobata (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 108
+Word: acuto
+Story: 1. A detective looking at a clue. 2. Noticing a tiny detail everyone missed. 3. Connecting the dots with sharp intelligence. 4. Solving the mystery brilliantly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'acuto'.
+Panel 1: 1
+Panel 2: A detective looking at a clue.
+Panel 3: 2
+Panel 4: Noticing a tiny detail everyone missed.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "acuto (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 109
+Word: adattare
+Story: 1. A book becoming very popular. 2. A director writing a script based on it. 3. Filming scenes for a movie. 4. The story adapted for the big screen.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adattare'.
+Panel 1: 1
+Panel 2: A book becoming very popular.
+Panel 3: 2
+Panel 4: A director writing a script based on it.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adattare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 110
+Word: adattatore
+Story: 1. Holding a plug that doesn't fit the socket. 2. Finding a travel adapter in the bag. 3. Plugging the device into the adapter. 4. The charging light turns on successfully.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adattatore'.
+Panel 1: 1
+Panel 2: Holding a plug that doesn't fit the socket.
+Panel 3: 2
+Panel 4: Finding a travel adapter in the bag.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adattatore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 111
+Word: adatto
+Story: 1. Looking for clothes for a hiking trip. 2. Trying on sturdy boots. 3. Checking if they are waterproof and comfortable. 4. Buying exactly the suitable gear.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adatto'.
+Panel 1: 1
+Panel 2: Looking for clothes for a hiking trip.
+Panel 3: 2
+Panel 4: Trying on sturdy boots.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adatto (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 112
+Word: addetto
+Story: 1. A machine breaks down in a factory. 2. Calling the maintenance staff. 3. The assigned employee arrives with tools. 4. Fixing the problem quickly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addetto'.
+Panel 1: 1
+Panel 2: A machine breaks down in a factory.
+Panel 3: 2
+Panel 4: Calling the maintenance staff.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addetto (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 113
+Word: addio
+Story: 1. A ship leaving the harbor. 2. Waving a handkerchief from the dock. 3. Tears in eyes as the ship disappears. 4. Saying a final goodbye to a loved one.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addio'.
+Panel 1: 1
+Panel 2: A ship leaving the harbor.
+Panel 3: 2
+Panel 4: Waving a handkerchief from the dock.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addio (inter., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 114
+Word: addirittura
+Story: 1. Expecting a small gift. 2. Opening the box to find car keys. 3. Disbelief that it's such a huge present. 4. Being overwhelmed by the generosity.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addirittura'.
+Panel 1: 1
+Panel 2: Expecting a small gift.
+Panel 3: 2
+Panel 4: Opening the box to find car keys.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addirittura (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 115
+Word: addizione
+Story: 1. Writing numbers on a blackboard. 2. Using a plus sign between them. 3. Counting on fingers to check. 4. Writing the correct sum at the bottom.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addizione'.
+Panel 1: 1
+Panel 2: Writing numbers on a blackboard.
+Panel 3: 2
+Panel 4: Using a plus sign between them.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addizione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 116
+Word: addobbare
+Story: 1. An empty Christmas tree in the room. 2. Hanging colorful balls and tinsel. 3. Placing a star on the very top. 4. Turning on the lights to see it sparkle.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addobbare'.
+Panel 1: 1
+Panel 2: An empty Christmas tree in the room.
+Panel 3: 2
+Panel 4: Hanging colorful balls and tinsel.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addobbare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 117
+Word: addolcire
+Story: 1. Drinking bitter black coffee. 2. Grimacing at the taste. 3. Adding a spoonful of sugar. 4. Enjoying the sweet and smooth drink.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addolcire'.
+Panel 1: 1
+Panel 2: Drinking bitter black coffee.
+Panel 3: 2
+Panel 4: Grimacing at the taste.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addolcire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 118
+Word: addomesticare
+Story: 1. A wild horse running within a fence. 2. A trainer approaching slowly with food. 3. The horse letting the trainer touch it. 4. Riding the tamed horse gently.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addomesticare'.
+Panel 1: 1
+Panel 2: A wild horse running within a fence.
+Panel 3: 2
+Panel 4: A trainer approaching slowly with food.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addomesticare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 119
+Word: addormentarsi
+Story: 1. Reading a book in bed at night. 2. Eyelids getting heavy. 3. Detailed book dropping from hands. 4. Smiling peacefully in deep sleep.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addormentarsi'.
+Panel 1: 1
+Panel 2: Reading a book in bed at night.
+Panel 3: 2
+Panel 4: Eyelids getting heavy.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addormentarsi (v.pronom.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 120
+Word: addormentato
+Story: 1. Looking at a baby in a crib. 2. The baby is perfectly still and quiet. 3. Tiptoeing out of the room. 4. Whispering 'He is asleep'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addormentato'.
+Panel 1: 1
+Panel 2: Looking at a baby in a crib.
+Panel 3: 2
+Panel 4: The baby is perfectly still and quiet.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addormentato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 121
+Word: addossare
+Story: 1. A heavy backpack on the floor. 2. Picking it up with a groan. 3. Shouldering the burden for a hike. 4. Walking up the mountain with the weight.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addossare'.
+Panel 1: 1
+Panel 2: A heavy backpack on the floor.
+Panel 3: 2
+Panel 4: Picking it up with a groan.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addossare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 122
+Word: addosso
+Story: 1. Searching pockets frantically. 2. Realizing the keys are not there. 3. Patting the jacket pocket. 4. Finding the keys right on oneself.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addosso'.
+Panel 1: 1
+Panel 2: Searching pockets frantically.
+Panel 3: 2
+Panel 4: Realizing the keys are not there.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addosso (avv., inter.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 123
+Word: addrizzare
+Story: 1. A picture frame hanging crookedly. 2. Noticing it looks wrong. 3. Nudging it gently to the left. 4. Stepping back to see it perfectly straight.
+Prompt: A 4-panel grid comic strip telling a story for the word 'addrizzare'.
+Panel 1: 1
+Panel 2: A picture frame hanging crookedly.
+Panel 3: 2
+Panel 4: Noticing it looks wrong.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "addrizzare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 124
+Word: adeguare
+Story: 1. The salary is too low for the cost of living. 2. Asking the boss for a raise. 3. The boss agreeing to adjust the pay. 4. Seeing the new, fair amount on the check.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adeguare'.
+Panel 1: 1
+Panel 2: The salary is too low for the cost of living.
+Panel 3: 2
+Panel 4: Asking the boss for a raise.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adeguare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 125
+Word: adeguato
+Story: 1. Preparing for a formal dinner. 2. choosing a tie and jacket. 3. Checking the mirror. 4. Looking adequate for the occasion.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adeguato'.
+Panel 1: 1
+Panel 2: Preparing for a formal dinner.
+Panel 3: 2
+Panel 4: choosing a tie and jacket.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adeguato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 126
+Word: aderente
+Story: 1. Buying a cycling outfit. 2. Putting on the spandex shirt. 3. It fits tight against the skin to reduce wind drag. 4. Riding fast with aerodynamic gear.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aderente'.
+Panel 1: 1
+Panel 2: Buying a cycling outfit.
+Panel 3: 2
+Panel 4: Putting on the spandex shirt.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aderente (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 127
+Word: aderire
+Story: 1. A sticker not staying on the wall. 2. Applying strong glue to the back. 3. Pressing it firmly for a minute. 4. Now it adheres perfectly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aderire'.
+Panel 1: 1
+Panel 2: A sticker not staying on the wall.
+Panel 3: 2
+Panel 4: Applying strong glue to the back.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aderire (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 128
+Word: adesione
+Story: 1. Reading a petition for a cause. 2. Signing a name on the list. 3. Showing support for the movement. 4. The group growing with new memberships.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adesione'.
+Panel 1: 1
+Panel 2: Reading a petition for a cause.
+Panel 3: 2
+Panel 4: Signing a name on the list.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adesione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 129
+Word: adesso
+Story: 1. A clock showing 12:00. 2. Stomach rumbling loudly. 3. Deciding to eat lunch immediately. 4. Eating a sandwich right now.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adesso'.
+Panel 1: 1
+Panel 2: A clock showing 12:
+Panel 3: 2
+Panel 4: Stomach rumbling loudly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adesso (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 130
+Word: adolescente
+Story: 1. A boy looking in the mirror. 2. Seeing acne and a changing face. 3. Listening to loud music in headphones. 4. Hanging out with friends at school.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adolescente'.
+Panel 1: 1
+Panel 2: A boy looking in the mirror.
+Panel 3: 2
+Panel 4: Seeing acne and a changing face.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adolescente (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 131
+Word: adolescenza
+Story: 1. Looking at old childhood photos. 2. Comparing with current teenage self. 3. Dealing with mood swings and growth. 4. A transformative time of life.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adolescenza'.
+Panel 1: 1
+Panel 2: Looking at old childhood photos.
+Panel 3: 2
+Panel 4: Comparing with current teenage self.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adolescenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 132
+Word: adoperare
+Story: 1. Holding a complex tool. 2. Reading the manual on how to use it. 3. Operating the machine carefully. 4. Successfully finishing the job.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adoperare'.
+Panel 1: 1
+Panel 2: Holding a complex tool.
+Panel 3: 2
+Panel 4: Reading the manual on how to use it.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adoperare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 133
+Word: adorare
+Story: 1. A fan seeing their idol on stage. 2. Screaming and waving hands. 3. Having posters all over the wall. 4. Absolutely adoring the singer.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adorare'.
+Panel 1: 1
+Panel 2: A fan seeing their idol on stage.
+Panel 3: 2
+Panel 4: Screaming and waving hands.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adorare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 134
+Word: adottare
+Story: 1. Visiting an animal shelter. 2. Seeing a lonely puppy in a cage. 3. Signing papers to take it home. 4. The puppy playing happily in its new house.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adottare'.
+Panel 1: 1
+Panel 2: Visiting an animal shelter.
+Panel 3: 2
+Panel 4: Seeing a lonely puppy in a cage.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adottare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 135
+Word: adozione
+Story: 1. A couple wanting a child. 2. Going through a long legal process. 3. Finally holding their new baby. 4. Celebrating the adoption with family.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adozione'.
+Panel 1: 1
+Panel 2: A couple wanting a child.
+Panel 3: 2
+Panel 4: Going through a long legal process.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adozione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 136
+Word: adriatico
+Story: 1. Looking at a map of Italy. 2. Pointing to the east coast. 3. Swimming in the blue sea near Venice. 4. Enjoying the Adriatic coast summer.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adriatico'.
+Panel 1: 1
+Panel 2: Looking at a map of Italy.
+Panel 3: 2
+Panel 4: Pointing to the east coast.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adriatico (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 137
+Word: adulto
+Story: 1. A child measuring height against a wall. 2. Years passing by quickly. 3. Start paying taxes and working. 4. Fully grown up as an adult.
+Prompt: A 4-panel grid comic strip telling a story for the word 'adulto'.
+Panel 1: 1
+Panel 2: A child measuring height against a wall.
+Panel 3: 2
+Panel 4: Years passing by quickly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "adulto (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 138
+Word: aereo
+Story: 1. Looking up at the sky. 2. Seeing a plane leave a white trail. 3. Watching an air show with stunts. 4. Admiring the aerial maneuvers.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aereo'.
+Panel 1: 1
+Panel 2: Looking up at the sky.
+Panel 3: 2
+Panel 4: Seeing a plane leave a white trail.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aereo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 139
+Word: aereo
+Story: 1. Waiting at the boarding gate. 2. Walking down the jet bridge. 3. Taking a seat near the window. 4. The plane taking off into clouds.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aereo'.
+Panel 1: 1
+Panel 2: Waiting at the boarding gate.
+Panel 3: 2
+Panel 4: Walking down the jet bridge.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aereo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 140
+Word: aeroplano
+Story: 1. A child playing with a toy plane. 2. Making zooming noises. 3. Throwing a paper airplane. 4. Dreaming of being a pilot.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aeroplano'.
+Panel 1: 1
+Panel 2: A child playing with a toy plane.
+Panel 3: 2
+Panel 4: Making zooming noises.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aeroplano (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 141
+Word: aeroporto
+Story: 1. Dragging suitcases through sliding doors. 2. Checking the departure board. 3. Going through security check. 4. Buying duty-free items before flight.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aeroporto'.
+Panel 1: 1
+Panel 2: Dragging suitcases through sliding doors.
+Panel 3: 2
+Panel 4: Checking the departure board.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aeroporto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 142
+Word: afa
+Story: 1. A hot summer day with no wind. 2. Character sweating profusely. 3. Trying to fan face with a paper. 4. The air feeling heavy and muggy.
+Prompt: A 4-panel grid comic strip telling a story for the word 'afa'.
+Panel 1: 1
+Panel 2: A hot summer day with no wind.
+Panel 3: 2
+Panel 4: Character sweating profusely.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "afa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 143
+Word: affacciare
+Story: 1. Hearing a noise outside. 2. Opening the window shutters. 3. Leaning out to see the street. 4. Waving to a friend down below.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affacciare'.
+Panel 1: 1
+Panel 2: Hearing a noise outside.
+Panel 3: 2
+Panel 4: Opening the window shutters.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affacciare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 144
+Word: affamare
+Story: 1. A cruel king taxing the village. 2. Farmers having no food left. 3. People looking very thin and weak. 4. The village suffering from starvation.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affamare'.
+Panel 1: 1
+Panel 2: A cruel king taxing the village.
+Panel 3: 2
+Panel 4: Farmers having no food left.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affamare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 145
+Word: affamato
+Story: 1. Stomach growling loudly like a beast. 2. Dreaming of a giant burger. 3. Running to the fridge. 4. Creating a massive sandwich to eat.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affamato'.
+Panel 1: 1
+Panel 2: Stomach growling loudly like a beast.
+Panel 3: 2
+Panel 4: Dreaming of a giant burger.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affamato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 146
+Word: affannarsi
+Story: 1. Running late for a bus again. 2. Sprinting down the street. 3. Panting heavily to catch breath. 4. Barely making it onto the bus.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affannarsi'.
+Panel 1: 1
+Panel 2: Running late for a bus again.
+Panel 3: 2
+Panel 4: Sprinting down the street.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affannarsi (v.pronom.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 147
+Word: affannato
+Story: 1. Finishing a marathon race. 2. Bending over with hands on knees. 3. Face red and sweaty. 4. Analyzing the breathless state.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affannato'.
+Panel 1: 1
+Panel 2: Finishing a marathon race.
+Panel 3: 2
+Panel 4: Bending over with hands on knees.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affannato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 148
+Word: affanno
+Story: 1. Stress piling up at work. 2. Feeling a tightness in the chest. 3. Taking deep breaths to calm down. 4. Trying to relieve the anxiety.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affanno'.
+Panel 1: 1
+Panel 2: Stress piling up at work.
+Panel 3: 2
+Panel 4: Feeling a tightness in the chest.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affanno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 149
+Word: affare
+Story: 1. Two businessmen talking in an office. 2. Negotiating terms of a contract. 3. Shaking hands on the deal. 4. Both looking satisfied with the business.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affare'.
+Panel 1: 1
+Panel 2: Two businessmen talking in an office.
+Panel 3: 2
+Panel 4: Negotiating terms of a contract.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affare (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 150
+Word: affascinante
+Story: 1. Walking into a mysterious old library. 2. Seeing endless rows of ancient books. 3. Feeling the magic in the air. 4. Captivated by the fascinating atmosphere.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affascinante'.
+Panel 1: 1
+Panel 2: Walking into a mysterious old library.
+Panel 3: 2
+Panel 4: Seeing endless rows of ancient books.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affascinante (p.pres., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 151
+Word: affascinare
+Story: 1. A magician on stage. 2. Performing an impossible trick. 3. The audience watching with open mouths. 4. Totally fascinating the crowd.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affascinare'.
+Panel 1: 1
+Panel 2: A magician on stage.
+Panel 3: 2
+Panel 4: Performing an impossible trick.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affascinare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 152
+Word: affaticare
+Story: 1. Carrying heavy boxes up stairs. 2. Doing it for hours without break. 3. Legs starting to shake. 4. Collapsing on the sofa, exhausted.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affaticare'.
+Panel 1: 1
+Panel 2: Carrying heavy boxes up stairs.
+Panel 3: 2
+Panel 4: Doing it for hours without break.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affaticare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 153
+Word: affatto
+Story: 1. Asking if someone is tired. 2. The person jumping with energy. 3. Shaking head vigorously 'No'. 4. Not tired at all.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affatto'.
+Panel 1: 1
+Panel 2: Asking if someone is tired.
+Panel 3: 2
+Panel 4: The person jumping with energy.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affatto (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 154
+Word: affermare
+Story: 1. A witness in a court room. 2. Raising a hand to swear truth. 3. Speaking clearly and firmly. 4. Turning a statement into a fact.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affermare'.
+Panel 1: 1
+Panel 2: A witness in a court room.
+Panel 3: 2
+Panel 4: Raising a hand to swear truth.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affermare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 155
+Word: affermazione
+Story: 1. A debate between two people. 2. One makes a strong point. 3. Nodding head in agreement. 4. A positive affirmation of the truth.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affermazione'.
+Panel 1: 1
+Panel 2: A debate between two people.
+Panel 3: 2
+Panel 4: One makes a strong point.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affermazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 156
+Word: afferrare
+Story: 1. A ball flying through the air. 2. Reaching out a hand quickly. 3. Catching the ball firmly. 4. Understanding the concept perfectly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'afferrare'.
+Panel 1: 1
+Panel 2: A ball flying through the air.
+Panel 3: 2
+Panel 4: Reaching out a hand quickly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "afferrare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 157
+Word: affettare
+Story: 1. A loaf of fresh bread on a board. 2. Holding a serrated knife. 3. Cutting even, thin slices. 4. Serving the bread in a basket.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affettare'.
+Panel 1: 1
+Panel 2: A loaf of fresh bread on a board.
+Panel 3: 2
+Panel 4: Holding a serrated knife.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affettare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 158
+Word: affettato
+Story: 1. Ordering prosciutto at the deli. 2. The machine slicing the meat thin. 3. Receiving a paper packet. 4. Making a sandwich with the cold cuts.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affettato'.
+Panel 1: 1
+Panel 2: Ordering prosciutto at the deli.
+Panel 3: 2
+Panel 4: The machine slicing the meat thin.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affettato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 159
+Word: affetto
+Story: 1. A mother looking at her child. 2. Smiling with warmth in her eyes. 3. Giving a gentle kiss on the forehead. 4. A moment of pure affection.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affetto'.
+Panel 1: 1
+Panel 2: A mother looking at her child.
+Panel 3: 2
+Panel 4: Smiling with warmth in her eyes.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affetto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 160
+Word: affetto
+Story: 1. A doctor examining a patient. 2. Diagnosing a flu virus. 3. The patient looking weak in bed. 4. Suffering from the illness.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affetto'.
+Panel 1: 1
+Panel 2: A doctor examining a patient.
+Panel 3: 2
+Panel 4: Diagnosing a flu virus.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affetto (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 161
+Word: affettuoso
+Story: 1. A puppy jumping on its owner. 2. Licking the face happily. 3. Wagging tail furiously. 4. A very affectionate welcome.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affettuoso'.
+Panel 1: 1
+Panel 2: A puppy jumping on its owner.
+Panel 3: 2
+Panel 4: Licking the face happily.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affettuoso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 162
+Word: affezionato
+Story: 1. Holding an old teddy bear. 2. Remembering childhood days. 3. Refusing to throw it away. 4. Deeply attached to the memory.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affezionato'.
+Panel 1: 1
+Panel 2: Holding an old teddy bear.
+Panel 3: 2
+Panel 4: Remembering childhood days.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affezionato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 163
+Word: affiancare
+Story: 1. A new employee looking lost. 2. A senior mentor sits next to them. 3. Showing how to do the work side-by-side. 4. Working together as a team.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affiancare'.
+Panel 1: 1
+Panel 2: A new employee looking lost.
+Panel 3: 2
+Panel 4: A senior mentor sits next to them.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affiancare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 164
+Word: affidamento
+Story: 1. Planning a rock climbing trip. 2. Checking the safety ropes. 3. Trusting the partner to hold the line. 4. Complete reliance on the equipment.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affidamento'.
+Panel 1: 1
+Panel 2: Planning a rock climbing trip.
+Panel 3: 2
+Panel 4: Checking the safety ropes.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affidamento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 165
+Word: affidare
+Story: 1. Leaving for a vacation. 2. Giving house keys to a neighbor. 3. Asking them to water plants. 4. Entrusting the home to their care.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affidare'.
+Panel 1: 1
+Panel 2: Leaving for a vacation.
+Panel 3: 2
+Panel 4: Giving house keys to a neighbor.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affidare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 166
+Word: affilato
+Story: 1. Testing a knife on a tomato. 2. It cuts effortlessly without squashing. 3. Looking at the gleaming edge. 4. A perfectly sharp blade.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affilato'.
+Panel 1: 1
+Panel 2: Testing a knife on a tomato.
+Panel 3: 2
+Panel 4: It cuts effortlessly without squashing.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affilato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 167
+Word: affinché
+Story: 1. Studying late into the night. 2. Drinking coffee to stay awake. 3. Doing all this so that... 4. Passing the exam with a high score.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affinché'.
+Panel 1: 1
+Panel 2: Studying late into the night.
+Panel 3: 2
+Panel 4: Drinking coffee to stay awake.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affinché (cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 168
+Word: affittare
+Story: 1. Looking at vacation homes online. 2. Choosing a villa by the sea. 3. Identifying the rental price. 4. Booking the house for a week.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affittare'.
+Panel 1: 1
+Panel 2: Looking at vacation homes online.
+Panel 3: 2
+Panel 4: Choosing a villa by the sea.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affittare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 169
+Word: affitto
+Story: 1. Checking the calendar for the 1st of the month. 2. Writing a check for the landlord. 3. Delivering the envelope. 4. Paying the monthly rent.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affitto'.
+Panel 1: 1
+Panel 2: Checking the calendar for the 1st of the month.
+Panel 3: 2
+Panel 4: Writing a check for the landlord.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affitto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 170
+Word: affogare
+Story: 1. Dropping a phone in a pool. 2. Watching it sink to the bottom. 3. It catches too much water. 4. The phone is ruined (drowned).
+Prompt: A 4-panel grid comic strip telling a story for the word 'affogare'.
+Panel 1: 1
+Panel 2: Dropping a phone in a pool.
+Panel 3: 2
+Panel 4: Watching it sink to the bottom.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affogare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 171
+Word: affollare
+Story: 1. A store announcing a big sale. 2. Doors opening at 9 AM. 3. Hundreds of people rushing in. 4. The shop is instantly crowded.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affollare'.
+Panel 1: 1
+Panel 2: A store announcing a big sale.
+Panel 3: 2
+Panel 4: Doors opening at 9 AM.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affollare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 172
+Word: affondare
+Story: 1. A toy boat in the bathtub. 2. A hole appears in the hull. 3. Taking on water rapidly. 4. Sinking to the bottom of the tub.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affondare'.
+Panel 1: 1
+Panel 2: A toy boat in the bathtub.
+Panel 3: 2
+Panel 4: A hole appears in the hull.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affondare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 173
+Word: affresco
+Story: 1. Looking up at a church ceiling. 2. Seeing angels painted on wet plaster. 3. Admiring the vivid colors after centuries. 4. A masterpiece of art history.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affresco'.
+Panel 1: 1
+Panel 2: Looking up at a church ceiling.
+Panel 3: 2
+Panel 4: Seeing angels painted on wet plaster.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affresco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 174
+Word: affrontare
+Story: 1. A giant monster blocks the path. 2. The hero drawing a sword. 3. Not running away, but standing firm. 4. Facing the challenge bravely.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affrontare'.
+Panel 1: 1
+Panel 2: A giant monster blocks the path.
+Panel 3: 2
+Panel 4: The hero drawing a sword.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affrontare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 175
+Word: affumicare
+Story: 1. Hanging fresh salmon in a shed. 2. Lighting a wood fire below. 3. Aromatic smoke filling the room. 4. The fish turning golden and delicious.
+Prompt: A 4-panel grid comic strip telling a story for the word 'affumicare'.
+Panel 1: 1
+Panel 2: Hanging fresh salmon in a shed.
+Panel 3: 2
+Panel 4: Lighting a wood fire below.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "affumicare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 176
+Word: africano
+Story: 1. A map of the African continent. 2. Pictures of savannahs and lions. 3. Traditional tribal masks. 4. Cultural symbols of Africa.
+Prompt: A 4-panel grid comic strip telling a story for the word 'africano'.
+Panel 1: 1
+Panel 2: A map of the African continent.
+Panel 3: 2
+Panel 4: Pictures of savannahs and lions.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "africano (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 177
+Word: agenda
+Story: 1. Having too many appointments. 2. Opening a leather planner. 3. Writing down dates and times. 4. Organizing the schedule perfectly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agenda'.
+Panel 1: 1
+Panel 2: Having too many appointments.
+Panel 3: 2
+Panel 4: Opening a leather planner.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agenda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 178
+Word: agente
+Story: 1. A person in a black suit and sunglasses. 2. Talking into a wrist radio. 3. Moving stealthily through a crowd. 4. A secret agent on a mission.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agente'.
+Panel 1: 1
+Panel 2: A person in a black suit and sunglasses.
+Panel 3: 2
+Panel 4: Talking into a wrist radio.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agente (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 179
+Word: agenzia
+Story: 1. Walking into a travel agency. 2. Seeing posters of tropical beaches. 3. Agent booking a flight ticket. 4. Planning the perfect holiday.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agenzia'.
+Panel 1: 1
+Panel 2: Walking into a travel agency.
+Panel 3: 2
+Panel 4: Seeing posters of tropical beaches.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agenzia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 180
+Word: agganciare
+Story: 1. Putting on a seatbelt in a car. 2. Pulling the strap across chest. 3. Hearing a 'click' sound. 4. Safely fastened for the ride.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agganciare'.
+Panel 1: 1
+Panel 2: Putting on a seatbelt in a car.
+Panel 3: 2
+Panel 4: Pulling the strap across chest.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agganciare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 181
+Word: aggettivo
+Story: 1. Writing the word 'Cat'. 2. Thinking it's too simple. 3. Adding 'Happy' and 'Fluffy' before it. 4. Now it's a 'Happy Fluffy Cat'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggettivo'.
+Panel 1: 1
+Panel 2: Writing the word 'Cat'.
+Panel 3: 2
+Panel 4: Thinking it's too simple.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggettivo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 182
+Word: aggiornamento
+Story: 1. Computer screen showing a loading bar. 2. 'Installing updates 30%'. 3. Waiting patiently. 4. System restarting with new features.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggiornamento'.
+Panel 1: 1
+Panel 2: Computer screen showing a loading bar.
+Panel 3: 2
+Panel 4: 'Installing updates 30%'.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggiornamento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 183
+Word: aggiornare
+Story: 1. Looking at an old resume. 2. Adding the latest job experience. 3. Changing the formatting. 4. The CV is now up to date.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggiornare'.
+Panel 1: 1
+Panel 2: Looking at an old resume.
+Panel 3: 2
+Panel 4: Adding the latest job experience.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggiornare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 184
+Word: aggirare
+Story: 1. A road blocked by construction. 2. Driver finding a side street. 3. Going around the obstacle. 4. Rejoining the main road later.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggirare'.
+Panel 1: 1
+Panel 2: A road blocked by construction.
+Panel 3: 2
+Panel 4: Driver finding a side street.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggirare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 185
+Word: aggiungere
+Story: 1. Making a soup that tastes bland. 2. Sprinkling some salt and pepper. 3. Stirring the pot. 4. Now the flavor is enhanced.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggiungere'.
+Panel 1: 1
+Panel 2: Making a soup that tastes bland.
+Panel 3: 2
+Panel 4: Sprinkling some salt and pepper.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggiungere (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 186
+Word: aggiustare
+Story: 1. A bicycle with a flat tire. 2. Using a patch kit and pump. 3. Inflating the tire again. 4. The bike is ready to ride.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggiustare'.
+Panel 1: 1
+Panel 2: A bicycle with a flat tire.
+Panel 3: 2
+Panel 4: Using a patch kit and pump.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggiustare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 187
+Word: aggrapparsi
+Story: 1. Hanging from a cliff edge. 2. Fingers gripping the rock tightly. 3. Not looking down. 4. Clinging on for dear life.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggrapparsi'.
+Panel 1: 1
+Panel 2: Hanging from a cliff edge.
+Panel 3: 2
+Panel 4: Fingers gripping the rock tightly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggrapparsi (v.pronom.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 188
+Word: aggravare
+Story: 1. Having a small cough. 2. Walking out in the rain without a coat. 3. Coughing much louder now. 4. The cold has gotten worse.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggravare'.
+Panel 1: 1
+Panel 2: Having a small cough.
+Panel 3: 2
+Panel 4: Walking out in the rain without a coat.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggravare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 189
+Word: aggredire
+Story: 1. A cat walking peacefully. 2. A dog running at it barking. 3. The cleaning hissing in defense. 4. An aggressive encounter.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggredire'.
+Panel 1: 1
+Panel 2: A cat walking peacefully.
+Panel 3: 2
+Panel 4: A dog running at it barking.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggredire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 190
+Word: aggressione
+Story: 1. Watching a nature documentary. 2. A lion stalking a zebra. 3. The sudden pounce. 4. The wild attack in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggressione'.
+Panel 1: 1
+Panel 2: Watching a nature documentary.
+Panel 3: 2
+Panel 4: A lion stalking a zebra.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggressione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 191
+Word: aggressivo
+Story: 1. A driver honking loudly in traffic. 2. Shouting out the window. 3. Cutting off other cars. 4. Driving with aggressive behavior.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aggressivo'.
+Panel 1: 1
+Panel 2: A driver honking loudly in traffic.
+Panel 3: 2
+Panel 4: Shouting out the window.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aggressivo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 192
+Word: agiato
+Story: 1. Living in a large mansion. 2. Having servants and luxury cars. 3. Wearing expensive clothes. 4. Enjoying a wealthy lifestyle.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agiato'.
+Panel 1: 1
+Panel 2: Living in a large mansion.
+Panel 3: 2
+Panel 4: Having servants and luxury cars.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agiato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 193
+Word: agile
+Story: 1. A ninja moving through shadows. 2. Jumping over a high wall. 3. Landing silently on feet. 4. Agile and quick movements.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agile'.
+Panel 1: 1
+Panel 2: A ninja moving through shadows.
+Panel 3: 2
+Panel 4: Jumping over a high wall.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agile (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 194
+Word: agio
+Story: 1. Sitting in a first-class seat. 2. Stretching legs fully. 3. Sipping champagne. 4. Traveling with great ease.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agio'.
+Panel 1: 1
+Panel 2: Sitting in a first-class seat.
+Panel 3: 2
+Panel 4: Stretching legs fully.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 195
+Word: agire
+Story: 1. Seeing someone drop their wallet. 2. Not ignoring it. 3. Picking it up and running after them. 4. Acting quickly to return it.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agire'.
+Panel 1: 1
+Panel 2: Seeing someone drop their wallet.
+Panel 3: 2
+Panel 4: Not ignoring it.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agire (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 196
+Word: agitare
+Story: 1. Holding a bottle of orange juice. 2. Seeing pulp at the bottom. 3. Shaking it vigorously. 4. Now it's mixed and ready to drink.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agitare'.
+Panel 1: 1
+Panel 2: Holding a bottle of orange juice.
+Panel 3: 2
+Panel 4: Seeing pulp at the bottom.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agitare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 197
+Word: agitazione
+Story: 1. A crowd waiting for a concert. 2. People shouting and pushing. 3. The anticipation building up. 4. A state of high agitation.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agitazione'.
+Panel 1: 1
+Panel 2: A crowd waiting for a concert.
+Panel 3: 2
+Panel 4: People shouting and pushing.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agitazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 198
+Word: aglio
+Story: 1. Peeling a white clove. 2. Chopping it finely. 3. Sizzling it in olive oil. 4. The kitchen smelling of delicious garlic.
+Prompt: A 4-panel grid comic strip telling a story for the word 'aglio'.
+Panel 1: 1
+Panel 2: Peeling a white clove.
+Panel 3: 2
+Panel 4: Chopping it finely.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "aglio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 199
+Word: agnello
+Story: 1. A green meadow in spring. 2. A white fluffy lamb. 3. Bleating softly 'Baa'. 4. Following its mother sheep.
+Prompt: A 4-panel grid comic strip telling a story for the word 'agnello'.
+Panel 1: 1
+Panel 2: A green meadow in spring.
+Panel 3: 2
+Panel 4: A white fluffy lamb.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "agnello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------
+Image ID: 200
+Word: ago
+Story: 1. Holding a torn shirt. 2. Threading a thin metal needle. 3. Stitching the fabric carefully. 4. The tear is repaired invisibly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ago'.
+Panel 1: 1
+Panel 2: Holding a torn shirt.
+Panel 3: 2
+Panel 4: Threading a thin metal needle.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ago (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels.
+----------------------------------------

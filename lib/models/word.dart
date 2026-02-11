@@ -6,6 +6,8 @@ class Word {
   final String meaning;
   final String pronunciation;
   final String story;
+  final String imagePath;
+  final bool isLearned;
 
   Word({
     required this.id,
@@ -16,9 +18,10 @@ class Word {
     required this.pronunciation,
     required this.imagePath,
     required this.story,
+    this.isLearned = false,
   });
 
-  factory Word.fromJson(Map<String, dynamic> json) {
+  factory Word.fromJson(Map<String, dynamic> json, {bool isLearned = false}) {
     return Word(
       id: json['id'] as int,
       word: json['word'] as String,
@@ -28,6 +31,7 @@ class Word {
       pronunciation: json['pronunciation'] as String,
       imagePath: json['image_path'] as String,
       story: json['story'] as String? ?? "",
+      isLearned: isLearned,
     );
   }
 
@@ -41,6 +45,22 @@ class Word {
       'pronunciation': pronunciation,
       'image_path': imagePath,
       'story': story,
+      'isLearned': isLearned,
     };
   }
+  
+  Word copyWith({bool? isLearned}) {
+    return Word(
+      id: id,
+      word: word,
+      gender: gender,
+      level: level,
+      meaning: meaning,
+      pronunciation: pronunciation,
+      imagePath: imagePath,
+      story: story,
+      isLearned: isLearned ?? this.isLearned,
+    );
+  }
 }
+

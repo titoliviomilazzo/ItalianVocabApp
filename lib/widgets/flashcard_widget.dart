@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/word.dart';
+import '../services/tts_service.dart';
 
 class FlashcardWidget extends StatefulWidget {
   final Word word;
@@ -15,15 +16,20 @@ class _FlashcardWidgetState extends State<FlashcardWidget> {
 
   @override
   Widget build(BuildContext context) {
+    final screenWidth = MediaQuery.of(context).size.width;
+    final screenHeight = MediaQuery.of(context).size.height;
+    final cardWidth = screenWidth * 0.85 > 400 ? 400.0 : screenWidth * 0.85;
+    final cardHeight = screenHeight * 0.80;
+
     return GestureDetector(
       onTap: () => setState(() => isFront = !isFront),
       child: Card(
         elevation: 8,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
         child: Container(
-          width: 300,
-          height: 450,
-          padding: const EdgeInsets.all(20),
+          width: cardWidth,
+          height: cardHeight,
+          padding: const EdgeInsets.all(12),
           child: isFront ? _buildFront() : _buildBack(),
         ),
       ),
@@ -32,20 +38,20 @@ class _FlashcardWidgetState extends State<FlashcardWidget> {
 
   Widget _buildFront() {
     return Column(
-      mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Expanded(
+          flex: 5,
           child: Container(
             width: double.infinity,
             decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(15),
-              color: Colors.grey[200],
+              borderRadius: BorderRadius.circular(12),
+              color: Colors.grey[100],
             ),
             child: ClipRRect(
-              borderRadius: BorderRadius.circular(15),
+              borderRadius: BorderRadius.circular(12),
               child: Image.asset(
                 widget.word.imagePath,
-                fit: BoxFit.cover,
+                fit: BoxFit.contain,
                 errorBuilder: (context, error, stackTrace) {
                   return const Column(
                     mainAxisAlignment: MainAxisAlignment.center,
@@ -60,21 +66,47 @@ class _FlashcardWidgetState extends State<FlashcardWidget> {
             ),
           ),
         ),
-        const SizedBox(height: 20),
-        Text(
-          widget.word.word,
-          style: const TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
+        const SizedBox(height: 12),
+        Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(
+              widget.word.word,
+              style: const TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
+            ),
+            const SizedBox(width: 8),
+            GestureDetector(
+              onTap: () {
+                // Prevent card flip, speak the word
+                TtsService.speak(widget.word.word);
+              },
+              child: Container(
+                padding: const EdgeInsets.all(6),
+                decoration: BoxDecoration(
+                  color: Colors.blue.withValues(alpha: 0.1),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                child: const Icon(
+                  Icons.volume_up,
+                  size: 24,
+                  color: Colors.blue,
+                ),
+              ),
+            ),
+          ],
         ),
+        const SizedBox(height: 4),
         Text(
           widget.word.gender,
-          style: TextStyle(fontSize: 16, color: Colors.grey[600]),
+          style: TextStyle(fontSize: 14, color: Colors.grey[600]),
         ),
+        const SizedBox(height: 4),
       ],
     );
   }
 
   Widget _buildBack() {
-    return SingleChildScrollView(
+    return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
@@ -82,25 +114,15 @@ class _FlashcardWidgetState extends State<FlashcardWidget> {
             '뜻 (Meaning)',
             style: TextStyle(fontSize: 16, color: Colors.grey, fontWeight: FontWeight.bold),
           ),
-          const SizedBox(height: 5),
+          const SizedBox(height: 12),
           Text(
             widget.word.meaning.isEmpty ? '[의미 없음]' : widget.word.meaning,
             textAlign: TextAlign.center,
-            style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-          ),
-          const Divider(height: 30),
-          const Text(
-            '4컷 만화 시나리오 (Story)',
-            style: TextStyle(fontSize: 16, color: Colors.grey, fontWeight: FontWeight.bold),
-          ),
-          const SizedBox(height: 10),
-          Text(
-            widget.word.story.isEmpty ? '[시나리오 없음]' : widget.word.story.replaceAll('. ', '.\n'),
-            textAlign: TextAlign.left,
-            style: const TextStyle(fontSize: 14, height: 1.4),
+            style: const TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
           ),
         ],
       ),
     );
   }
 }
+

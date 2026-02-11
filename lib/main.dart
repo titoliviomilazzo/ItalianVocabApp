@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'models/word.dart';
 import 'screens/home_screen.dart';
+import 'services/storage_service.dart';
 
 void main() {
   runApp(const MyApp());
@@ -45,7 +46,13 @@ class _DataLoadingWrapperState extends State<DataLoadingWrapper> {
     try {
       final String response = await rootBundle.loadString('assets/data/vocab.json');
       final List<dynamic> data = json.decode(response);
-      return data.map((json) => Word.fromJson(json)).toList();
+      final storage = StorageService();
+      final learnedIds = await storage.getLearnedWords();
+      
+      return data.map((json) {
+        final word = Word.fromJson(json);
+        return word.copyWith(isLearned: learnedIds.contains(word.id));
+      }).toList();
     } catch (e) {
       debugPrint('Error loading vocab.json: $e');
       rethrow;
