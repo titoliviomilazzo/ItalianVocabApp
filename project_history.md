@@ -18,19 +18,23 @@
     - Developed a robust prompt generation script (`scripts/generate_prompts.py`) that creates 4-panel comic strip prompts for Genspark/Midjourney.
     - Validated styles (V1-V7) and settled on "European 2D comic book style".
     - Generated `genspark_prompts_batch1.txt` for the first 100 words.
-3.  **UI Development:**
+3.  **Image Generation Automation:**
+    - Created `scripts/generate_images_gemini.py`: A Python script to batch-generate images using Gemini API (`gemini-2.5-flash-image`) and Imagen API (`imagen-3.0-generate-002`).
+    - Implemented a robust retry mechanism with rate limit handling (429/404 errors) and auto-fallback between models to maximize quota usage.
+    - Created `scripts/run_all_batches.ps1`: A PowerShell script to orchestrate the generation process across 138 batch files (Batch 5-142), featuring progress tracking and resumability.
+4.  **UI Development:**
     - **HomeScreen:** Displays the vocabulary list with level indicators.
     - **FlashcardScreen:** Implemented a swipeable PageView for flashcards.
     - **FlashcardWidget:** Features flip animation (Front: Word/Image, Back: Meaning/Story).
     - **Navigation:** seamless transition from Home to Flashcards.
-4.  **Debugging:**
+5.  **Debugging:**
     - Fixed `flutter run` issues by using external terminals and cleaning cache.
     - Implemented error handling for missing images.
 
 ## Next Steps (To-Do)
-1.  **Image Generation:**
-    - User to generate images for Batch 1 using `genspark_prompts_batch1.txt`.
-    - Save images as `word_id.webp` in `assets/images/`.
+1.  **Image Generation Execution:**
+    - Run `run_all_batches.ps1` daily to generate images for Batch 5-142 using free tier quotas.
+    - Consider upgrading to paid tier for faster processing if needed.
 2.  **Data Enrichment (Batch 2+):**
     - Run scripts to generate meanings/stories for the remaining ~7,100 words.
     - Update `vocab.json`.
