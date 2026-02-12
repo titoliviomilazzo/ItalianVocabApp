@@ -268,24 +268,6 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
               ),
             ),
 
-            // ── Story ──
-            if (widget.word.story.isNotEmpty) ...[
-              const SizedBox(height: 20),
-              _buildSection(
-                label: 'Story',
-                icon: Icons.auto_stories,
-                child: Text(
-                  widget.word.story,
-                  textAlign: TextAlign.center,
-                  style: GoogleFonts.inter(
-                    fontSize: 14,
-                    color: AppTheme.darkEspresso.withValues(alpha: 0.8),
-                    height: 1.6,
-                  ),
-                ),
-              ),
-            ],
-
             // ── Example sentence ──
             if (widget.word.example.isNotEmpty) ...[
               const SizedBox(height: 20),
