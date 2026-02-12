@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="italian_vocab_app"
+        android:label="Dammi Parole"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

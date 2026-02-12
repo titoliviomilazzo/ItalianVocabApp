@@ -1,7 +1,9 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import '../models/word.dart';
 import '../services/tts_service.dart';
+import '../theme/app_theme.dart';
 
 class QuizScreen extends StatefulWidget {
   final List<Word> words;
@@ -27,13 +29,11 @@ class _QuizScreenState extends State<QuizScreen> {
   @override
   void initState() {
     super.initState();
-    // Only use words that have meanings
     _allWordsWithMeaning = widget.words
         .where((w) => w.meaning.isNotEmpty)
         .toList();
     _quizWords = List.from(_allWordsWithMeaning)..shuffle(_random);
     
-    // Limit to 20 questions per session
     if (_quizWords.length > 20) {
       _quizWords = _quizWords.sublist(0, 20);
     }
@@ -45,7 +45,6 @@ class _QuizScreenState extends State<QuizScreen> {
     final correctWord = _quizWords[_currentIndex];
     final correctMeaning = correctWord.meaning;
 
-    // Get 3 wrong answers from all words with meaning
     final wrongWords = _allWordsWithMeaning
         .where((w) => w.id != correctWord.id && w.meaning.isNotEmpty)
         .toList()
@@ -109,24 +108,29 @@ class _QuizScreenState extends State<QuizScreen> {
       context: context,
       barrierDismissible: false,
       builder: (context) => AlertDialog(
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
-        title: Text('$emoji 퀴즈 결과', style: const TextStyle(fontSize: 24)),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
+        backgroundColor: AppTheme.warmCream,
+        title: Text('$emoji 퀴즈 결과', style: GoogleFonts.outfit(fontSize: 24)),
         content: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
             Text(
               '$_score / $_totalAnswered',
-              style: const TextStyle(fontSize: 48, fontWeight: FontWeight.bold, color: Colors.indigo),
+              style: GoogleFonts.outfit(
+                fontSize: 48,
+                fontWeight: FontWeight.bold,
+                color: AppTheme.terracotta,
+              ),
             ),
             const SizedBox(height: 8),
             Text(
               '$percentage% 정답률',
-              style: TextStyle(fontSize: 18, color: Colors.grey[600]),
+              style: GoogleFonts.inter(fontSize: 18, color: AppTheme.warmGrey),
             ),
             const SizedBox(height: 16),
             Text(
               message,
-              style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w500),
+              style: GoogleFonts.inter(fontSize: 20, fontWeight: FontWeight.w500),
             ),
           ],
         ),
@@ -136,7 +140,7 @@ class _QuizScreenState extends State<QuizScreen> {
               Navigator.of(context).pop();
               Navigator.of(context).pop();
             },
-            child: const Text('홈으로'),
+            child: Text('홈으로', style: TextStyle(color: AppTheme.warmGrey)),
           ),
           ElevatedButton(
             onPressed: () {
@@ -153,8 +157,9 @@ class _QuizScreenState extends State<QuizScreen> {
               });
             },
             style: ElevatedButton.styleFrom(
-              backgroundColor: Colors.indigo,
+              backgroundColor: AppTheme.terracotta,
               foregroundColor: Colors.white,
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
             ),
             child: const Text('다시 도전'),
           ),
@@ -164,19 +169,19 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   Color _getOptionColor(int index) {
-    if (!_answered) return Colors.white;
-    if (index == _correctOptionIndex) return Colors.green.shade50;
-    if (index == _selectedOptionIndex) return Colors.red.shade50;
-    return Colors.white;
+    if (!_answered) return AppTheme.softWhite;
+    if (index == _correctOptionIndex) return AppTheme.oliveGreen.withValues(alpha: 0.1);
+    if (index == _selectedOptionIndex) return AppTheme.terracotta.withValues(alpha: 0.1);
+    return AppTheme.softWhite;
   }
 
   Color _getOptionBorderColor(int index) {
     if (!_answered) {
-      return index == _selectedOptionIndex ? Colors.indigo : Colors.grey.shade300;
+      return index == _selectedOptionIndex ? AppTheme.terracotta : Colors.grey.shade200;
     }
-    if (index == _correctOptionIndex) return Colors.green;
-    if (index == _selectedOptionIndex) return Colors.red;
-    return Colors.grey.shade300;
+    if (index == _correctOptionIndex) return AppTheme.oliveGreen;
+    if (index == _selectedOptionIndex) return AppTheme.terracotta;
+    return Colors.grey.shade200;
   }
 
   IconData? _getOptionIcon(int index) {
@@ -190,15 +195,16 @@ class _QuizScreenState extends State<QuizScreen> {
   Widget build(BuildContext context) {
     if (_quizWords.isEmpty) {
       return Scaffold(
+        backgroundColor: AppTheme.warmCream,
         appBar: AppBar(
-          title: const Text('퀴즈'),
-          backgroundColor: Colors.indigo,
+          title: Text('퀴즈', style: GoogleFonts.outfit(fontWeight: FontWeight.bold)),
+          flexibleSpace: Container(decoration: const BoxDecoration(gradient: AppTheme.appBarGradient)),
           foregroundColor: Colors.white,
         ),
-        body: const Center(
+        body: Center(
           child: Text('의미가 있는 단어가 부족합니다.\n먼저 단어 데이터를 보강해 주세요.',
             textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 18)),
+            style: GoogleFonts.inter(fontSize: 18, color: AppTheme.warmGrey)),
         ),
       );
     }
@@ -206,17 +212,29 @@ class _QuizScreenState extends State<QuizScreen> {
     final currentWord = _quizWords[_currentIndex];
 
     return Scaffold(
+      backgroundColor: AppTheme.warmCream,
       appBar: AppBar(
-        title: Text('퀴즈 ${_currentIndex + 1}/${_quizWords.length}'),
-        backgroundColor: Colors.indigo,
+        title: Text(
+          '퀴즈 ${_currentIndex + 1}/${_quizWords.length}',
+          style: GoogleFonts.inter(fontWeight: FontWeight.w600, fontSize: 16),
+        ),
+        flexibleSpace: Container(decoration: const BoxDecoration(gradient: AppTheme.appBarGradient)),
         foregroundColor: Colors.white,
+        elevation: 0,
         actions: [
           Center(
             child: Padding(
               padding: const EdgeInsets.only(right: 16),
-              child: Text(
-                '✅ $_score / $_totalAnswered',
-                style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                decoration: BoxDecoration(
+                  color: Colors.white.withValues(alpha: 0.2),
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: Text(
+                  '✅ $_score / $_totalAnswered',
+                  style: GoogleFonts.inter(fontSize: 14, fontWeight: FontWeight.bold, color: Colors.white),
+                ),
               ),
             ),
           ),
@@ -231,62 +249,67 @@ class _QuizScreenState extends State<QuizScreen> {
               borderRadius: BorderRadius.circular(10),
               child: LinearProgressIndicator(
                 value: (_currentIndex + 1) / _quizWords.length,
-                minHeight: 8,
-                backgroundColor: Colors.grey[200],
-                valueColor: const AlwaysStoppedAnimation<Color>(Colors.indigo),
+                minHeight: 6,
+                backgroundColor: AppTheme.lightTerracotta,
+                valueColor: const AlwaysStoppedAnimation<Color>(AppTheme.terracotta),
+              ),
+            ),
+            const SizedBox(height: 24),
+
+            // Word display
+            Container(
+              width: double.infinity,
+              padding: const EdgeInsets.symmetric(vertical: 24, horizontal: 20),
+              decoration: AppTheme.cardDecoration,
+              child: Column(
+                children: [
+                  Text(
+                    currentWord.word,
+                    style: GoogleFonts.outfit(
+                      fontSize: 32,
+                      fontWeight: FontWeight.bold,
+                      color: AppTheme.darkEspresso,
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    currentWord.gender,
+                    style: GoogleFonts.inter(
+                      fontSize: 13,
+                      color: AppTheme.warmGrey,
+                      fontStyle: FontStyle.italic,
+                    ),
+                  ),
+                  const SizedBox(height: 12),
+                  GestureDetector(
+                    onTap: () => TtsService.speak(currentWord.word),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
+                      decoration: BoxDecoration(
+                        color: AppTheme.terracotta.withValues(alpha: 0.1),
+                        borderRadius: BorderRadius.circular(20),
+                      ),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          const Icon(Icons.volume_up_rounded, color: AppTheme.terracotta, size: 18),
+                          const SizedBox(width: 4),
+                          Text('발음 듣기', style: GoogleFonts.inter(color: AppTheme.terracotta, fontWeight: FontWeight.w500, fontSize: 13)),
+                        ],
+                      ),
+                    ),
+                  ),
+                ],
               ),
             ),
             const SizedBox(height: 20),
 
-            // Word display
-            Card(
-              elevation: 4,
-              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-              child: Container(
-                width: double.infinity,
-                padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 20),
-                child: Column(
-                  children: [
-                    Text(
-                      currentWord.word,
-                      style: const TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      currentWord.gender,
-                      style: TextStyle(fontSize: 13, color: Colors.grey[500]),
-                    ),
-                    const SizedBox(height: 8),
-                    GestureDetector(
-                      onTap: () => TtsService.speak(currentWord.word),
-                      child: Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
-                        decoration: BoxDecoration(
-                          color: Colors.indigo.withValues(alpha: 0.1),
-                          borderRadius: BorderRadius.circular(20),
-                        ),
-                        child: const Row(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            Icon(Icons.volume_up, color: Colors.indigo, size: 18),
-                            SizedBox(width: 4),
-                            Text('발음 듣기', style: TextStyle(color: Colors.indigo, fontWeight: FontWeight.w500, fontSize: 13)),
-                          ],
-                        ),
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-            ),
-            const SizedBox(height: 16),
-
             // Question label
-            const Text(
+            Text(
               '이 단어의 뜻은?',
-              style: TextStyle(fontSize: 16, fontWeight: FontWeight.w500, color: Colors.black54),
+              style: GoogleFonts.inter(fontSize: 15, fontWeight: FontWeight.w500, color: AppTheme.warmGrey),
             ),
-            const SizedBox(height: 12),
+            const SizedBox(height: 14),
 
             // Options
             ...List.generate(4, (index) {
@@ -295,7 +318,7 @@ class _QuizScreenState extends State<QuizScreen> {
                 padding: const EdgeInsets.only(bottom: 10),
                 child: InkWell(
                   onTap: () => _handleOptionTap(index),
-                  borderRadius: BorderRadius.circular(12),
+                  borderRadius: BorderRadius.circular(14),
                   child: AnimatedContainer(
                     duration: const Duration(milliseconds: 300),
                     width: double.infinity,
@@ -304,25 +327,32 @@ class _QuizScreenState extends State<QuizScreen> {
                       color: _getOptionColor(index),
                       border: Border.all(
                         color: _getOptionBorderColor(index),
-                        width: 2,
+                        width: 1.5,
                       ),
-                      borderRadius: BorderRadius.circular(12),
+                      borderRadius: BorderRadius.circular(14),
+                      boxShadow: [
+                        BoxShadow(
+                          color: Colors.black.withValues(alpha: 0.03),
+                          blurRadius: 6,
+                          offset: const Offset(0, 2),
+                        ),
+                      ],
                     ),
                     child: Row(
                       children: [
                         Container(
-                          width: 28,
-                          height: 28,
+                          width: 30,
+                          height: 30,
                           decoration: BoxDecoration(
-                            color: Colors.indigo.withValues(alpha: 0.1),
+                            color: AppTheme.terracotta.withValues(alpha: 0.08),
                             borderRadius: BorderRadius.circular(8),
                           ),
                           child: Center(
                             child: Text(
-                              String.fromCharCode(65 + index), // A, B, C, D
-                              style: const TextStyle(
+                              String.fromCharCode(65 + index),
+                              style: GoogleFonts.inter(
                                 fontWeight: FontWeight.bold,
-                                color: Colors.indigo,
+                                color: AppTheme.terracotta,
                                 fontSize: 13,
                               ),
                             ),
@@ -332,13 +362,13 @@ class _QuizScreenState extends State<QuizScreen> {
                         Expanded(
                           child: Text(
                             _options[index],
-                            style: const TextStyle(fontSize: 15),
+                            style: GoogleFonts.inter(fontSize: 15, color: AppTheme.darkEspresso),
                           ),
                         ),
                         if (icon != null)
                           Icon(
                             icon,
-                            color: index == _correctOptionIndex ? Colors.green : Colors.red,
+                            color: index == _correctOptionIndex ? AppTheme.oliveGreen : AppTheme.terracotta,
                           ),
                       ],
                     ),
@@ -349,24 +379,31 @@ class _QuizScreenState extends State<QuizScreen> {
           ],
         ),
       ),
-      // Next button always visible at the bottom
       bottomNavigationBar: _answered
-          ? SafeArea(
-              child: Padding(
-                padding: const EdgeInsets.fromLTRB(20, 8, 20, 16),
-                child: SizedBox(
-                  width: double.infinity,
-                  height: 50,
-                  child: ElevatedButton(
-                    onPressed: _nextQuestion,
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.indigo,
-                      foregroundColor: Colors.white,
-                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                    ),
-                    child: Text(
-                      _currentIndex < _quizWords.length - 1 ? '다음 문제' : '결과 보기',
-                      style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+          ? Container(
+              decoration: BoxDecoration(
+                color: AppTheme.warmCream,
+                boxShadow: [
+                  BoxShadow(color: Colors.black.withValues(alpha: 0.04), blurRadius: 8, offset: const Offset(0, -2)),
+                ],
+              ),
+              child: SafeArea(
+                child: Padding(
+                  padding: const EdgeInsets.fromLTRB(20, 8, 20, 10),
+                  child: SizedBox(
+                    width: double.infinity,
+                    height: 50,
+                    child: ElevatedButton(
+                      onPressed: _nextQuestion,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: AppTheme.terracotta,
+                        foregroundColor: Colors.white,
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+                      ),
+                      child: Text(
+                        _currentIndex < _quizWords.length - 1 ? '다음 문제' : '결과 보기',
+                        style: GoogleFonts.inter(fontSize: 17, fontWeight: FontWeight.bold),
+                      ),
                     ),
                   ),
                 ),

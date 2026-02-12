@@ -7,6 +7,7 @@ class Word {
   final String pronunciation;
   final String story;
   final String imagePath;
+  final String example;
   final bool isLearned;
 
   Word({
@@ -18,6 +19,7 @@ class Word {
     required this.pronunciation,
     required this.imagePath,
     required this.story,
+    this.example = '',
     this.isLearned = false,
   });
 
@@ -31,6 +33,7 @@ class Word {
       pronunciation: json['pronunciation'] as String,
       imagePath: json['image_path'] as String,
       story: json['story'] as String? ?? "",
+      example: json['example'] as String? ?? "",
       isLearned: isLearned,
     );
   }
@@ -45,6 +48,7 @@ class Word {
       'pronunciation': pronunciation,
       'image_path': imagePath,
       'story': story,
+      'example': example,
       'isLearned': isLearned,
     };
   }
@@ -59,6 +63,7 @@ class Word {
       pronunciation: pronunciation,
       imagePath: imagePath,
       story: story,
+      example: example,
       isLearned: isLearned ?? this.isLearned,
     );
   }

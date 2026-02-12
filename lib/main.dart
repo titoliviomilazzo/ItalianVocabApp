@@ -1,9 +1,11 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'models/word.dart';
 import 'screens/home_screen.dart';
 import 'services/storage_service.dart';
+import 'theme/app_theme.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,11 +17,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Italiano 2000',
+      title: 'Dammi Parole',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.indigo),
-        useMaterial3: true,
+      theme: AppTheme.lightTheme.copyWith(
+        textTheme: GoogleFonts.interTextTheme(
+          AppTheme.lightTheme.textTheme,
+        ),
       ),
       home: const DataLoadingWrapper(),
     );
@@ -65,8 +68,25 @@ class _DataLoadingWrapperState extends State<DataLoadingWrapper> {
       future: _wordsFuture,
       builder: (context, snapshot) {
         if (snapshot.connectionState == ConnectionState.waiting) {
-          return const Scaffold(
-            body: Center(child: CircularProgressIndicator()),
+          return Scaffold(
+            backgroundColor: AppTheme.warmCream,
+            body: Center(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text(
+                    'Dammi Parole',
+                    style: GoogleFonts.outfit(
+                      fontSize: 32,
+                      fontWeight: FontWeight.bold,
+                      color: AppTheme.terracotta,
+                    ),
+                  ),
+                  const SizedBox(height: 24),
+                  const CircularProgressIndicator(color: AppTheme.terracotta),
+                ],
+              ),
+            ),
           );
         } else if (snapshot.hasError) {
           return Scaffold(

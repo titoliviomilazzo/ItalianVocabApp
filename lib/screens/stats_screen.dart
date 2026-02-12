@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import '../models/word.dart';
+import '../theme/app_theme.dart';
 
 class StatsScreen extends StatelessWidget {
   final List<Word> words;
@@ -14,7 +16,6 @@ class StatsScreen extends StatelessWidget {
     final withImage = words.where((w) => !w.imagePath.endsWith('.webp')).length;
     final learnedPercent = totalWords > 0 ? (learnedWords / totalWords * 100) : 0.0;
 
-    // Level breakdown
     final levels = ['Fondamentale', 'Alto Uso', 'Alta Disponibilità'];
     final levelData = levels.map((level) {
       final total = words.where((w) => w.level == level).length;
@@ -23,64 +24,72 @@ class StatsScreen extends StatelessWidget {
     }).toList();
 
     return Scaffold(
+      backgroundColor: AppTheme.warmCream,
       appBar: AppBar(
-        title: const Text('학습 통계'),
-        backgroundColor: Colors.indigo,
+        title: Text('학습 통계', style: GoogleFonts.outfit(fontWeight: FontWeight.bold)),
+        flexibleSpace: Container(decoration: const BoxDecoration(gradient: AppTheme.appBarGradient)),
         foregroundColor: Colors.white,
+        elevation: 0,
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(20),
         child: Column(
           children: [
             // Overall progress card
-            Card(
-              elevation: 4,
-              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-              child: Padding(
-                padding: const EdgeInsets.all(24),
-                child: Column(
-                  children: [
-                    const Text(
-                      '전체 학습 진행률',
-                      style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: Colors.black54),
+            Container(
+              width: double.infinity,
+              padding: const EdgeInsets.all(28),
+              decoration: AppTheme.cardDecoration,
+              child: Column(
+                children: [
+                  Text(
+                    '전체 학습 진행률',
+                    style: GoogleFonts.inter(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                      color: AppTheme.warmGrey,
                     ),
-                    const SizedBox(height: 20),
-                    SizedBox(
-                      width: 150,
-                      height: 150,
-                      child: Stack(
-                        fit: StackFit.expand,
-                        children: [
-                          CircularProgressIndicator(
-                            value: learnedPercent / 100,
-                            strokeWidth: 12,
-                            backgroundColor: Colors.grey[200],
-                            valueColor: const AlwaysStoppedAnimation<Color>(Colors.indigo),
-                          ),
-                          Center(
-                            child: Column(
-                              mainAxisSize: MainAxisSize.min,
-                              children: [
-                                Text(
-                                  '${learnedPercent.round()}%',
-                                  style: const TextStyle(
-                                    fontSize: 36,
-                                    fontWeight: FontWeight.bold,
-                                    color: Colors.indigo,
-                                  ),
+                  ),
+                  const SizedBox(height: 24),
+                  SizedBox(
+                    width: 150,
+                    height: 150,
+                    child: Stack(
+                      fit: StackFit.expand,
+                      children: [
+                        CircularProgressIndicator(
+                          value: learnedPercent / 100,
+                          strokeWidth: 12,
+                          backgroundColor: AppTheme.lightTerracotta,
+                          valueColor: const AlwaysStoppedAnimation<Color>(AppTheme.terracotta),
+                          strokeCap: StrokeCap.round,
+                        ),
+                        Center(
+                          child: Column(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              Text(
+                                '${learnedPercent.round()}%',
+                                style: GoogleFonts.outfit(
+                                  fontSize: 36,
+                                  fontWeight: FontWeight.bold,
+                                  color: AppTheme.terracotta,
                                 ),
-                                Text(
-                                  '$learnedWords / $totalWords',
-                                  style: TextStyle(fontSize: 14, color: Colors.grey[600]),
+                              ),
+                              Text(
+                                '$learnedWords / $totalWords',
+                                style: GoogleFonts.inter(
+                                  fontSize: 14,
+                                  color: AppTheme.warmGrey,
                                 ),
-                              ],
-                            ),
+                              ),
+                            ],
                           ),
-                        ],
-                      ),
+                        ),
+                      ],
                     ),
-                  ],
-                ),
+                  ),
+                ],
               ),
             ),
             const SizedBox(height: 20),
@@ -88,81 +97,92 @@ class StatsScreen extends StatelessWidget {
             // Quick stats row
             Row(
               children: [
-                _buildStatCard('📚 전체 단어', '$totalWords', Colors.indigo),
+                _buildStatCard('📚 전체 단어', '$totalWords', AppTheme.terracotta),
                 const SizedBox(width: 12),
-                _buildStatCard('✅ 학습 완료', '$learnedWords', Colors.green),
+                _buildStatCard('✅ 학습 완료', '$learnedWords', AppTheme.oliveGreen),
               ],
             ),
             const SizedBox(height: 12),
             Row(
               children: [
-                _buildStatCard('📝 뜻 보강', '$withMeaning', Colors.orange),
+                _buildStatCard('📝 뜻 보강', '$withMeaning', AppTheme.goldenAmber),
                 const SizedBox(width: 12),
-                _buildStatCard('🖼️ 이미지', '$withImage', Colors.blue),
+                _buildStatCard('🖼️ 이미지', '$withImage', AppTheme.altaDisponibilita),
               ],
             ),
             const SizedBox(height: 24),
 
             // Level breakdown
-            Card(
-              elevation: 4,
-              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-              child: Padding(
-                padding: const EdgeInsets.all(20),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    const Text(
-                      '레벨별 진행률',
-                      style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: Colors.black54),
+            Container(
+              width: double.infinity,
+              padding: const EdgeInsets.all(20),
+              decoration: AppTheme.cardDecoration,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    '레벨별 진행률',
+                    style: GoogleFonts.inter(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                      color: AppTheme.warmGrey,
                     ),
-                    const SizedBox(height: 16),
-                    ...levelData.map((stat) => Padding(
-                      padding: const EdgeInsets.only(bottom: 16),
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Row(
-                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                            children: [
-                              Row(
-                                children: [
-                                  Container(
-                                    width: 12,
-                                    height: 12,
-                                    decoration: BoxDecoration(
-                                      color: _getLevelColor(stat.level),
-                                      borderRadius: BorderRadius.circular(3),
-                                    ),
+                  ),
+                  const SizedBox(height: 20),
+                  ...levelData.map((stat) => Padding(
+                    padding: const EdgeInsets.only(bottom: 18),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          children: [
+                            Row(
+                              children: [
+                                Container(
+                                  width: 12,
+                                  height: 12,
+                                  decoration: BoxDecoration(
+                                    color: AppTheme.getLevelColor(stat.level),
+                                    borderRadius: BorderRadius.circular(3),
                                   ),
-                                  const SizedBox(width: 8),
-                                  Text(
-                                    stat.level,
-                                    style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w500),
+                                ),
+                                const SizedBox(width: 8),
+                                Text(
+                                  stat.level,
+                                  style: GoogleFonts.inter(
+                                    fontSize: 14,
+                                    fontWeight: FontWeight.w500,
+                                    color: AppTheme.darkEspresso,
                                   ),
-                                ],
+                                ),
+                              ],
+                            ),
+                            Text(
+                              '${stat.learned} / ${stat.total}',
+                              style: GoogleFonts.inter(
+                                fontSize: 13,
+                                color: AppTheme.warmGrey,
                               ),
-                              Text(
-                                '${stat.learned} / ${stat.total}',
-                                style: TextStyle(fontSize: 14, color: Colors.grey[600]),
-                              ),
-                            ],
-                          ),
-                          const SizedBox(height: 6),
-                          ClipRRect(
-                            borderRadius: BorderRadius.circular(6),
-                            child: LinearProgressIndicator(
-                              value: stat.total > 0 ? stat.learned / stat.total : 0,
-                              minHeight: 10,
-                              backgroundColor: Colors.grey[200],
-                              valueColor: AlwaysStoppedAnimation<Color>(_getLevelColor(stat.level)),
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 8),
+                        ClipRRect(
+                          borderRadius: BorderRadius.circular(6),
+                          child: LinearProgressIndicator(
+                            value: stat.total > 0 ? stat.learned / stat.total : 0,
+                            minHeight: 8,
+                            backgroundColor: AppTheme.lightTerracotta,
+                            valueColor: AlwaysStoppedAnimation<Color>(
+                              AppTheme.getLevelColor(stat.level),
                             ),
                           ),
-                        ],
-                      ),
-                    )),
-                  ],
-                ),
+                        ),
+                      ],
+                    ),
+                  )),
+                ],
               ),
             ),
           ],
@@ -173,36 +193,41 @@ class StatsScreen extends StatelessWidget {
 
   Widget _buildStatCard(String label, String value, Color color) {
     return Expanded(
-      child: Card(
-        elevation: 2,
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-        child: Padding(
-          padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 12),
-          child: Column(
-            children: [
-              Text(
-                value,
-                style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold, color: color),
+      child: Container(
+        padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 12),
+        decoration: BoxDecoration(
+          color: AppTheme.softWhite,
+          borderRadius: BorderRadius.circular(16),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withValues(alpha: 0.04),
+              blurRadius: 8,
+              offset: const Offset(0, 2),
+            ),
+          ],
+        ),
+        child: Column(
+          children: [
+            Text(
+              value,
+              style: GoogleFonts.outfit(
+                fontSize: 28,
+                fontWeight: FontWeight.bold,
+                color: color,
               ),
-              const SizedBox(height: 4),
-              Text(
-                label,
-                style: TextStyle(fontSize: 13, color: Colors.grey[600]),
+            ),
+            const SizedBox(height: 4),
+            Text(
+              label,
+              style: GoogleFonts.inter(
+                fontSize: 13,
+                color: AppTheme.warmGrey,
               ),
-            ],
-          ),
+            ),
+          ],
         ),
       ),
     );
-  }
-
-  Color _getLevelColor(String level) {
-    switch (level) {
-      case 'Fondamentale': return Colors.green;
-      case 'Alto Uso': return Colors.orange;
-      case 'Alta Disponibilità': return Colors.blue;
-      default: return Colors.grey;
-    }
   }
 }
 
