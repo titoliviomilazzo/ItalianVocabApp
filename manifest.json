@@ -1,11 +1,11 @@
 {
-    "name": "italian_vocab_app",
-    "short_name": "italian_vocab_app",
+    "name": "Dammi Parole",
+    "short_name": "Dammi Parole",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FFF8F0",
+    "theme_color": "#C75B39",
+    "description": "Italian Vocabulary Learning App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
