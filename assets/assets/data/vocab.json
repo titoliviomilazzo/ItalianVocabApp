@@ -1006,1048 +1006,1048 @@
     "level": "Alta Disponibilità",
     "meaning": "성수 (가톨릭)",
     "pronunciation": "",
-    "image_path": "assets/images/101.webp",
+    "image_path": "assets/images/101_acquasanta.png",
     "story": "1. Entering a church quietly. 2. Dipping fingers into a small marble basin. 3. Making the sign of the cross. 4. Feeling a sense of peace and reverence."
   },
   {
     "id": 102,
-    "word": "acquisire",
-    "gender": "v.tr.",
+    "word": "acquavite",
+    "gender": "s.f.",
     "level": "Alto Uso",
-    "meaning": "취득하다, 획득하다",
+    "meaning": "증류주, 브랜디",
     "pronunciation": "",
-    "image_path": "assets/images/102.webp",
-    "story": "1. Studying hard for a certification exam. 2. Taking the final test with focus. 3. Receiving a certificate in the mail. 4. Hanging the new qualification on the wall."
+    "image_path": "assets/images/102_acquavite.png",
+    "story": "1. Harvesting grapes from a vineyard. 2. Distilling them in a copper still. 3. A clear, strong liquid pouring out. 4. Sipping the potent acquavite carefully."
   },
   {
     "id": 103,
-    "word": "acquisizione",
-    "gender": "s.f.",
+    "word": "acquazzone",
+    "gender": "s.m.",
     "level": "Alto Uso",
-    "meaning": "취득, 획득",
+    "meaning": "폭우, 소나기",
     "pronunciation": "",
-    "image_path": "assets/images/103.webp",
-    "story": "1. A company looking at a smaller rival. 2. Shaking hands on a big deal. 3. Signs changing on the building front. 4. The company processing the new acquisition."
+    "image_path": "assets/images/103_acquazzone.png",
+    "story": "1. Dark clouds gathering suddenly. 2. Heavy rain pouring down. 3. People running for shelter. 4. Streets flooded with rainwater."
   },
   {
     "id": 104,
-    "word": "acquistare",
-    "gender": "v.tr. e intr.",
+    "word": "acquedotto",
+    "gender": "s.m.",
     "level": "Fondamentale",
-    "meaning": "구입하다, 사다",
+    "meaning": "수도, 수로",
     "pronunciation": "",
-    "image_path": "assets/images/104.webp",
-    "story": "1. Seeing a nice shirt in a shop window. 2. Checking the price tag. 3. Paying with a credit card at the counter. 4. Walking out happily with a shopping bag."
+    "image_path": "assets/images/104_acquedotto.png",
+    "story": "1. Ancient Roman arches stretching across a valley. 2. Water flowing through stone channels. 3. Supplying the city with fresh water. 4. A marvel of ancient engineering."
   },
   {
     "id": 105,
-    "word": "acquisto",
-    "gender": "s.m.",
+    "word": "acqueo",
+    "gender": "agg.",
     "level": "Fondamentale",
-    "meaning": "구입, 구매",
+    "meaning": "물의, 수성의",
     "pronunciation": "",
-    "image_path": "assets/images/105.webp",
-    "story": "1. Browsing online for a new laptop. 2. Clicking the 'Buy Now' button. 3. A package arriving at the doorstep. 4. Unboxing the new purchase excitedly."
+    "image_path": "assets/images/105_acqueo.png",
+    "story": "1. Looking at a glass of clear liquid. 2. Examining it under a microscope. 3. Water molecules moving freely. 4. An aqueous solution for experiments."
   },
   {
     "id": 106,
-    "word": "acquolina",
-    "gender": "s.f.",
+    "word": "acquirente",
+    "gender": "s.m. e f.",
     "level": "Alta Disponibilità",
-    "meaning": "군침",
+    "meaning": "구매자, 매수인",
     "pronunciation": "",
-    "image_path": "assets/images/106.webp",
-    "story": "1. Walking past a bakery smelling of fresh bread. 2. Seeing a delicious cake in the window. 3. Mouth starting to water uncontrollably. 4. Buying a slice to satisfy the craving."
+    "image_path": "assets/images/106_acquirente.png",
+    "story": "1. A house with a For Sale sign. 2. A couple viewing the property. 3. Negotiating the price. 4. The buyer signing the contract."
   },
   {
     "id": 107,
-    "word": "acrobata",
-    "gender": "s.m. e f.",
+    "word": "acquistare",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "곡예사",
+    "meaning": "구입하다, 사다",
     "pronunciation": "",
-    "image_path": "assets/images/107.webp",
-    "story": "1. A circus tent full of people. 2. A performer walking on a high wire. 3. Doing a somersault in mid-air. 4. Landing perfectly to applause."
+    "image_path": "assets/images/107_acquistare.png",
+    "story": "1. Seeing a nice shirt in a shop window. 2. Checking the price tag. 3. Paying with a credit card at the counter. 4. Walking out happily with a shopping bag."
   },
   {
     "id": 108,
-    "word": "acuto",
-    "gender": "agg., s.m.",
+    "word": "acquisto",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "날카로운, 예리한",
+    "meaning": "구입, 구매",
     "pronunciation": "",
-    "image_path": "assets/images/108.webp",
-    "story": "1. A detective looking at a clue. 2. Noticing a tiny detail everyone missed. 3. Connecting the dots with sharp intelligence. 4. Solving the mystery brilliantly."
+    "image_path": "assets/images/108_acquisto.png",
+    "story": "1. Browsing online for a new laptop. 2. Clicking the 'Buy Now' button. 3. A package arriving at the doorstep. 4. Unboxing the new purchase excitedly."
   },
   {
     "id": 109,
-    "word": "adattare",
-    "gender": "v.tr.",
+    "word": "acrobata",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "적응시키다, 개작하다",
+    "meaning": "곡예사",
     "pronunciation": "",
-    "image_path": "assets/images/109.webp",
-    "story": "1. A book becoming very popular. 2. A director writing a script based on it. 3. Filming scenes for a movie. 4. The story adapted for the big screen."
+    "image_path": "assets/images/109_acrobata.png",
+    "story": "1. A circus tent full of people. 2. A performer walking on a high wire. 3. Doing a somersault in mid-air. 4. Landing perfectly to applause."
   },
   {
     "id": 110,
-    "word": "adattatore",
-    "gender": "s.m.",
+    "word": "acrobazia",
+    "gender": "s.f.",
     "level": "Alta Disponibilità",
-    "meaning": "어댑터",
+    "meaning": "곡예, 묘기",
     "pronunciation": "",
-    "image_path": "assets/images/110.webp",
-    "story": "1. Holding a plug that doesn't fit the socket. 2. Finding a travel adapter in the bag. 3. Plugging the device into the adapter. 4. The charging light turns on successfully."
+    "image_path": "assets/images/110_acrobazia.png",
+    "story": "1. A circus performer on a trapeze. 2. Swinging higher and higher. 3. A triple somersault in the air. 4. Landing perfectly to thunderous applause."
   },
   {
     "id": 111,
-    "word": "adatto",
-    "gender": "agg.",
+    "word": "acustica",
+    "gender": "s.f.",
     "level": "Fondamentale",
-    "meaning": "적합한, 알맞은",
+    "meaning": "음향학, 음향",
     "pronunciation": "",
-    "image_path": "assets/images/111.webp",
-    "story": "1. Looking for clothes for a hiking trip. 2. Trying on sturdy boots. 3. Checking if they are waterproof and comfortable. 4. Buying exactly the suitable gear."
+    "image_path": "assets/images/111_acustica.png",
+    "story": "1. A concert hall being designed. 2. Engineers testing sound waves. 3. Adjusting panels on the walls. 4. Perfect acoustics for the orchestra."
   },
   {
     "id": 112,
-    "word": "addetto",
-    "gender": "p.pass., agg., s.m.",
+    "word": "acustico",
+    "gender": "agg.",
     "level": "Alto Uso",
-    "meaning": "담당자, 직원",
+    "meaning": "음향의, 청각의",
     "pronunciation": "",
-    "image_path": "assets/images/112.webp",
-    "story": "1. A machine breaks down in a factory. 2. Calling the maintenance staff. 3. The assigned employee arrives with tools. 4. Fixing the problem quickly."
+    "image_path": "assets/images/112_acustico.png",
+    "story": "1. A musician holding an acoustic guitar. 2. No electric amplifier needed. 3. The natural sound filling the room. 4. A beautiful acoustic performance."
   },
   {
     "id": 113,
-    "word": "addio",
-    "gender": "inter., s.m.",
+    "word": "acutezza",
+    "gender": "s.f.",
     "level": "Alto Uso",
-    "meaning": "작별 (영원한)",
+    "meaning": "예리함, 날카로움",
     "pronunciation": "",
-    "image_path": "assets/images/113.webp",
-    "story": "1. A ship leaving the harbor. 2. Waving a handkerchief from the dock. 3. Tears in eyes as the ship disappears. 4. Saying a final goodbye to a loved one."
+    "image_path": "assets/images/113_acutezza.png",
+    "story": "1. A detective examining clues. 2. Noticing a tiny detail others missed. 3. Connecting the pieces together. 4. Solving the case with sharp insight."
   },
   {
     "id": 114,
-    "word": "addirittura",
-    "gender": "avv.",
+    "word": "acuto",
+    "gender": "",
     "level": "Fondamentale",
-    "meaning": "심지어, 무려",
+    "meaning": "날카로운, 예리한",
     "pronunciation": "",
-    "image_path": "assets/images/114.webp",
-    "story": "1. Expecting a small gift. 2. Opening the box to find car keys. 3. Disbelief that it's such a huge present. 4. Being overwhelmed by the generosity."
+    "image_path": "assets/images/114_acuto.png",
+    "story": "1. A detective looking at a clue. 2. Noticing a tiny detail everyone missed. 3. Connecting the dots with sharp intelligence. 4. Solving the mystery brilliantly."
   },
   {
     "id": 115,
-    "word": "addizione",
-    "gender": "s.f.",
+    "word": "adagiare",
+    "gender": "v.tr.",
     "level": "Alta Disponibilità",
-    "meaning": "덧셈, 추가",
+    "meaning": "조심스럽게 눕히다",
     "pronunciation": "",
-    "image_path": "assets/images/115.webp",
-    "story": "1. Writing numbers on a blackboard. 2. Using a plus sign between them. 3. Counting on fingers to check. 4. Writing the correct sum at the bottom."
+    "image_path": "assets/images/115_adagiare.png",
+    "story": "1. A mother holding a sleeping baby. 2. Walking softly to the crib. 3. Gently laying the baby down. 4. The baby sleeping peacefully."
   },
   {
     "id": 116,
-    "word": "addobbare",
-    "gender": "v.tr.",
+    "word": "adagio",
+    "gender": "avv.",
     "level": "Alta Disponibilità",
-    "meaning": "장식하다",
+    "meaning": "천천히, 서서히",
     "pronunciation": "",
-    "image_path": "assets/images/116.webp",
-    "story": "1. An empty Christmas tree in the room. 2. Hanging colorful balls and tinsel. 3. Placing a star on the very top. 4. Turning on the lights to see it sparkle."
+    "image_path": "assets/images/116_adagio.png",
+    "story": "1. A pianist at the keyboard. 2. Playing the notes very slowly. 3. Each note lingering in the air. 4. A beautiful, slow melody."
   },
   {
     "id": 117,
-    "word": "addolcire",
-    "gender": "v.tr.",
+    "word": "adattabile",
+    "gender": "agg.",
     "level": "Alta Disponibilità",
-    "meaning": "달게 하다, 부드럽게 하다",
+    "meaning": "적응할 수 있는",
     "pronunciation": "",
-    "image_path": "assets/images/117.webp",
-    "story": "1. Drinking bitter black coffee. 2. Grimacing at the taste. 3. Adding a spoonful of sugar. 4. Enjoying the sweet and smooth drink."
+    "image_path": "assets/images/117_adattabile.png",
+    "story": "1. A chameleon on a green leaf. 2. Moving to a brown branch. 3. Changing color to match. 4. Perfectly adaptable to any environment."
   },
   {
     "id": 118,
-    "word": "addomesticare",
-    "gender": "v.tr.",
+    "word": "adattamento",
+    "gender": "s.m.",
     "level": "Alta Disponibilità",
-    "meaning": "길들이다",
+    "meaning": "적응, 각색",
     "pronunciation": "",
-    "image_path": "assets/images/118.webp",
-    "story": "1. A wild horse running within a fence. 2. A trainer approaching slowly with food. 3. The horse letting the trainer touch it. 4. Riding the tamed horse gently."
+    "image_path": "assets/images/118_adattamento.png",
+    "story": "1. A popular novel on a shelf. 2. A film director reading it. 3. Writing a screenplay based on it. 4. The movie adaptation premieres."
   },
   {
     "id": 119,
-    "word": "addormentarsi",
-    "gender": "v.pronom.intr.",
+    "word": "adattare",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "잠들다",
+    "meaning": "적응시키다, 개작하다",
     "pronunciation": "",
-    "image_path": "assets/images/119.webp",
-    "story": "1. Reading a book in bed at night. 2. Eyelids getting heavy. 3. Detailed book dropping from hands. 4. Smiling peacefully in deep sleep."
+    "image_path": "assets/images/119_adattare.png",
+    "story": "1. A book becoming very popular. 2. A director writing a script based on it. 3. Filming scenes for a movie. 4. The story adapted for the big screen."
   },
   {
     "id": 120,
-    "word": "addormentato",
-    "gender": "p.pass., agg.",
+    "word": "adatto",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "잠든",
+    "meaning": "적합한, 알맞은",
     "pronunciation": "",
-    "image_path": "assets/images/120.webp",
-    "story": "1. Looking at a baby in a crib. 2. The baby is perfectly still and quiet. 3. Tiptoeing out of the room. 4. Whispering 'He is asleep'."
+    "image_path": "assets/images/120_adatto.png",
+    "story": "1. Looking for clothes for a hiking trip. 2. Trying on sturdy boots. 3. Checking if they are waterproof and comfortable. 4. Buying exactly the suitable gear."
   },
   {
     "id": 121,
-    "word": "addossare",
+    "word": "addebitare",
     "gender": "v.tr.",
     "level": "Fondamentale",
-    "meaning": "떠맡기다, 기대다",
+    "meaning": "청구하다, 부과하다",
     "pronunciation": "",
-    "image_path": "assets/images/121.webp",
-    "story": "1. A heavy backpack on the floor. 2. Picking it up with a groan. 3. Shouldering the burden for a hike. 4. Walking up the mountain with the weight."
+    "image_path": "assets/images/121_addebitare.png",
+    "story": "1. A waiter bringing the restaurant bill. 2. Checking the charges carefully. 3. Handing over a credit card. 4. The amount debited from the account."
   },
   {
     "id": 122,
-    "word": "addosso",
-    "gender": "avv., inter.",
+    "word": "addebito",
+    "gender": "s.m.",
     "level": "Alta Disponibilità",
-    "meaning": "몸에 지니고, ~위에",
+    "meaning": "청구, 부과",
     "pronunciation": "",
-    "image_path": "assets/images/122.webp",
-    "story": "1. Searching pockets frantically. 2. Realizing the keys are not there. 3. Patting the jacket pocket. 4. Finding the keys right on oneself."
+    "image_path": "assets/images/122_addebito.png",
+    "story": "1. Opening a bank statement. 2. Seeing an unexpected charge. 3. Calling the bank to inquire. 4. Resolving the billing issue."
   },
   {
     "id": 123,
-    "word": "addrizzare",
+    "word": "addentare",
     "gender": "v.tr.",
     "level": "Alta Disponibilità",
-    "meaning": "똑바로 하다",
+    "meaning": "물다, 깨물다",
     "pronunciation": "",
-    "image_path": "assets/images/123.webp",
-    "story": "1. A picture frame hanging crookedly. 2. Noticing it looks wrong. 3. Nudging it gently to the left. 4. Stepping back to see it perfectly straight."
+    "image_path": "assets/images/123_addentare.png",
+    "story": "1. Holding a big juicy apple. 2. Opening mouth wide. 3. Biting into it with a crunch. 4. Juice dripping down the chin."
   },
   {
     "id": 124,
-    "word": "adeguare",
-    "gender": "v.tr.",
+    "word": "addestramento",
+    "gender": "s.m.",
     "level": "Alto Uso",
-    "meaning": "조정하다, 적응시키다",
+    "meaning": "훈련, 조련",
     "pronunciation": "",
-    "image_path": "assets/images/124.webp",
-    "story": "1. The salary is too low for the cost of living. 2. Asking the boss for a raise. 3. The boss agreeing to adjust the pay. 4. Seeing the new, fair amount on the check."
+    "image_path": "assets/images/124_addestramento.png",
+    "story": "1. A military training camp. 2. Soldiers running an obstacle course. 3. Practicing drills together. 4. Ready after intense training."
   },
   {
     "id": 125,
-    "word": "adeguato",
-    "gender": "p.pass., agg., s.m.",
+    "word": "addestrare",
+    "gender": "v.tr.",
     "level": "Alto Uso",
-    "meaning": "적절한",
+    "meaning": "훈련시키다, 조련하다",
     "pronunciation": "",
-    "image_path": "assets/images/125.webp",
-    "story": "1. Preparing for a formal dinner. 2. choosing a tie and jacket. 3. Checking the mirror. 4. Looking adequate for the occasion."
+    "image_path": "assets/images/125_addestrare.png",
+    "story": "1. A dog trainer with a puppy. 2. Teaching it to sit and stay. 3. Rewarding with treats. 4. A well-trained dog obeying commands."
   },
   {
     "id": 126,
-    "word": "aderente",
-    "gender": "p.pres., agg., s.m. e f.",
+    "word": "addetto",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "딱 달라붙는",
+    "meaning": "담당자, 직원",
     "pronunciation": "",
-    "image_path": "assets/images/126.webp",
-    "story": "1. Buying a cycling outfit. 2. Putting on the spandex shirt. 3. It fits tight against the skin to reduce wind drag. 4. Riding fast with aerodynamic gear."
+    "image_path": "assets/images/126_addetto.png",
+    "story": "1. A machine breaks down in a factory. 2. Calling the maintenance staff. 3. The assigned employee arrives with tools. 4. Fixing the problem quickly."
   },
   {
     "id": 127,
-    "word": "aderire",
-    "gender": "v.intr.",
+    "word": "addiaccio",
+    "gender": "s.m.",
     "level": "Alto Uso",
-    "meaning": "달라붙다, 가입하다",
+    "meaning": "야영, 노숙",
     "pronunciation": "",
-    "image_path": "assets/images/127.webp",
-    "story": "1. A sticker not staying on the wall. 2. Applying strong glue to the back. 3. Pressing it firmly for a minute. 4. Now it adheres perfectly."
+    "image_path": "assets/images/127_addiaccio.png",
+    "story": "1. Shepherds in the mountains at night. 2. Sleeping outdoors under the stars. 3. A campfire keeping them warm. 4. Waking up in the open air."
   },
   {
     "id": 128,
-    "word": "adesione",
-    "gender": "s.f.",
+    "word": "addio",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "가입, 동의",
+    "meaning": "작별 (영원한)",
     "pronunciation": "",
-    "image_path": "assets/images/128.webp",
-    "story": "1. Reading a petition for a cause. 2. Signing a name on the list. 3. Showing support for the movement. 4. The group growing with new memberships."
+    "image_path": "assets/images/128_addio.png",
+    "story": "1. A ship leaving the harbor. 2. Waving a handkerchief from the dock. 3. Tears in eyes as the ship disappears. 4. Saying a final goodbye to a loved one."
   },
   {
     "id": 129,
-    "word": "adesso",
-    "gender": "avv.",
+    "word": "addirsi",
+    "gender": "v.intr.",
     "level": "Fondamentale",
-    "meaning": "지금",
+    "meaning": "어울리다, 적합하다",
     "pronunciation": "",
-    "image_path": "assets/images/129.webp",
-    "story": "1. A clock showing 12:00. 2. Stomach rumbling loudly. 3. Deciding to eat lunch immediately. 4. Eating a sandwich right now."
+    "image_path": "assets/images/129_addirsi.png",
+    "story": "1. Trying on a formal suit. 2. Looking in the mirror. 3. The color and style fitting perfectly. 4. A look that truly suits the person."
   },
   {
     "id": 130,
-    "word": "adolescente",
-    "gender": "agg., s.m. e f.",
+    "word": "addirittura",
+    "gender": "",
     "level": "Fondamentale",
-    "meaning": "청소년",
+    "meaning": "심지어, 무려",
     "pronunciation": "",
-    "image_path": "assets/images/130.webp",
-    "story": "1. A boy looking in the mirror. 2. Seeing acne and a changing face. 3. Listening to loud music in headphones. 4. Hanging out with friends at school."
+    "image_path": "assets/images/130_addirittura.png",
+    "story": "1. Expecting a small gift. 2. Opening the box to find car keys. 3. Disbelief that it's such a huge present. 4. Being overwhelmed by the generosity."
   },
   {
     "id": 131,
-    "word": "adolescenza",
-    "gender": "s.f.",
+    "word": "additivo",
+    "gender": "s.m.",
     "level": "Alto Uso",
-    "meaning": "청소년기",
+    "meaning": "첨가물, 첨가제",
     "pronunciation": "",
-    "image_path": "assets/images/131.webp",
-    "story": "1. Looking at old childhood photos. 2. Comparing with current teenage self. 3. Dealing with mood swings and growth. 4. A transformative time of life."
+    "image_path": "assets/images/131_additivo.png",
+    "story": "1. Reading a food ingredient label. 2. Seeing chemical names listed. 3. Preservatives and colorings added. 4. Choosing natural food instead."
   },
   {
     "id": 132,
-    "word": "adoperare",
-    "gender": "v.tr., v.intr.",
+    "word": "addobbare",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "사용하다",
+    "meaning": "장식하다",
     "pronunciation": "",
-    "image_path": "assets/images/132.webp",
-    "story": "1. Holding a complex tool. 2. Reading the manual on how to use it. 3. Operating the machine carefully. 4. Successfully finishing the job."
+    "image_path": "assets/images/132_addobbare.png",
+    "story": "1. An empty Christmas tree in the room. 2. Hanging colorful balls and tinsel. 3. Placing a star on the very top. 4. Turning on the lights to see it sparkle."
   },
   {
     "id": 133,
-    "word": "adorare",
-    "gender": "v.tr.",
+    "word": "addobbo",
+    "gender": "s.m.",
     "level": "Fondamentale",
-    "meaning": "숭배하다, 매우 좋아하다",
+    "meaning": "장식, 장식물",
     "pronunciation": "",
-    "image_path": "assets/images/133.webp",
-    "story": "1. A fan seeing their idol on stage. 2. Screaming and waving hands. 3. Having posters all over the wall. 4. Absolutely adoring the singer."
+    "image_path": "assets/images/133_addobbo.png",
+    "story": "1. A Christmas tree waiting to be decorated. 2. Colorful ornaments in a box. 3. Hanging each one carefully. 4. The tree beautifully adorned."
   },
   {
     "id": 134,
-    "word": "adottare",
-    "gender": "v.tr.",
+    "word": "addolcire",
+    "gender": "",
     "level": "Fondamentale",
-    "meaning": "입양하다, 채택하다",
+    "meaning": "달게 하다, 부드럽게 하다",
     "pronunciation": "",
-    "image_path": "assets/images/134.webp",
-    "story": "1. Visiting an animal shelter. 2. Seeing a lonely puppy in a cage. 3. Signing papers to take it home. 4. The puppy playing happily in its new house."
+    "image_path": "assets/images/134_addolcire.png",
+    "story": "1. Drinking bitter black coffee. 2. Grimacing at the taste. 3. Adding a spoonful of sugar. 4. Enjoying the sweet and smooth drink."
   },
   {
     "id": 135,
-    "word": "adozione",
-    "gender": "s.f.",
+    "word": "addome",
+    "gender": "s.m.",
     "level": "Alto Uso",
-    "meaning": "입양, 채택",
+    "meaning": "복부, 배",
     "pronunciation": "",
-    "image_path": "assets/images/135.webp",
-    "story": "1. A couple wanting a child. 2. Going through a long legal process. 3. Finally holding their new baby. 4. Celebrating the adoption with family."
+    "image_path": "assets/images/135_addome.png",
+    "story": "1. A doctor examining a patient. 2. Pressing gently on the abdomen. 3. Checking for any pain. 4. A healthy abdomen confirmed."
   },
   {
     "id": 136,
-    "word": "adriatico",
-    "gender": "agg.",
+    "word": "addomesticare",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "아드리아 해의",
+    "meaning": "길들이다",
     "pronunciation": "",
-    "image_path": "assets/images/136.webp",
-    "story": "1. Looking at a map of Italy. 2. Pointing to the east coast. 3. Swimming in the blue sea near Venice. 4. Enjoying the Adriatic coast summer."
+    "image_path": "assets/images/136_addomesticare.png",
+    "story": "1. A wild horse running within a fence. 2. A trainer approaching slowly with food. 3. The horse letting the trainer touch it. 4. Riding the tamed horse gently."
   },
   {
     "id": 137,
-    "word": "adulto",
-    "gender": "agg., s.m.",
+    "word": "addormentare",
+    "gender": "v.tr.",
     "level": "Fondamentale",
-    "meaning": "성인, 어른",
+    "meaning": "재우다, 잠들게 하다",
     "pronunciation": "",
-    "image_path": "assets/images/137.webp",
-    "story": "1. A child measuring height against a wall. 2. Years passing by quickly. 3. Start paying taxes and working. 4. Fully grown up as an adult."
+    "image_path": "assets/images/137_addormentare.png",
+    "story": "1. A mother reading a bedtime story. 2. The child listening with heavy eyes. 3. Slowly drifting off to sleep. 4. Tucking the blanket gently."
   },
   {
     "id": 138,
-    "word": "aereo",
-    "gender": "agg., s.m.",
+    "word": "addormentarsi",
+    "gender": "",
     "level": "Fondamentale",
-    "meaning": "항공의, 공기의",
+    "meaning": "잠들다",
     "pronunciation": "",
-    "image_path": "assets/images/138.webp",
-    "story": "1. Looking up at the sky. 2. Seeing a plane leave a white trail. 3. Watching an air show with stunts. 4. Admiring the aerial maneuvers."
+    "image_path": "assets/images/138_addormentarsi.png",
+    "story": "1. Reading a book in bed at night. 2. Eyelids getting heavy. 3. Detailed book dropping from hands. 4. Smiling peacefully in deep sleep."
   },
   {
     "id": 139,
-    "word": "aereo",
-    "gender": "s.m.",
+    "word": "addossare",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "비행기",
+    "meaning": "떠맡기다, 기대다",
     "pronunciation": "",
-    "image_path": "assets/images/139.webp",
-    "story": "1. Waiting at the boarding gate. 2. Walking down the jet bridge. 3. Taking a seat near the window. 4. The plane taking off into clouds."
+    "image_path": "assets/images/139_addossare.png",
+    "story": "1. A heavy backpack on the floor. 2. Picking it up with a groan. 3. Shouldering the burden for a hike. 4. Walking up the mountain with the weight."
   },
   {
     "id": 140,
-    "word": "aeroplano",
-    "gender": "s.m.",
+    "word": "addosso",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "비행기 (Aeroplano)",
+    "meaning": "몸에 지니고, ~위에",
     "pronunciation": "",
-    "image_path": "assets/images/140.webp",
-    "story": "1. A child playing with a toy plane. 2. Making zooming noises. 3. Throwing a paper airplane. 4. Dreaming of being a pilot."
+    "image_path": "assets/images/140_addosso.png",
+    "story": "1. Searching pockets frantically. 2. Realizing the keys are not there. 3. Patting the jacket pocket. 4. Finding the keys right on oneself."
   },
   {
     "id": 141,
-    "word": "aeroporto",
-    "gender": "s.m.",
+    "word": "addurre",
+    "gender": "v.tr.",
     "level": "Alto Uso",
-    "meaning": "공항",
+    "meaning": "제시하다, 인용하다",
     "pronunciation": "",
-    "image_path": "assets/images/141.webp",
-    "story": "1. Dragging suitcases through sliding doors. 2. Checking the departure board. 3. Going through security check. 4. Buying duty-free items before flight."
+    "image_path": "assets/images/141_addurre.png",
+    "story": "1. A lawyer in a courtroom. 2. Presenting evidence to the judge. 3. Citing legal precedents. 4. Building a strong argument."
   },
   {
     "id": 142,
-    "word": "afa",
-    "gender": "s.f.",
+    "word": "adeguamento",
+    "gender": "s.m.",
     "level": "Alta Disponibilità",
-    "meaning": "무더위",
+    "meaning": "조정, 적응",
     "pronunciation": "",
-    "image_path": "assets/images/142.webp",
-    "story": "1. A hot summer day with no wind. 2. Character sweating profusely. 3. Trying to fan face with a paper. 4. The air feeling heavy and muggy."
+    "image_path": "assets/images/142_adeguamento.png",
+    "story": "1. New safety regulations announced. 2. A factory reviewing its procedures. 3. Making changes to comply. 4. Successfully adjusted to new standards."
   },
   {
     "id": 143,
-    "word": "affacciare",
-    "gender": "v.tr. e intr.",
+    "word": "adeguare",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "내밀다, (창밖을) 보다",
+    "meaning": "조정하다, 적응시키다",
     "pronunciation": "",
-    "image_path": "assets/images/143.webp",
-    "story": "1. Hearing a noise outside. 2. Opening the window shutters. 3. Leaning out to see the street. 4. Waving to a friend down below."
+    "image_path": "assets/images/143_adeguare.png",
+    "story": "1. The salary is too low for the cost of living. 2. Asking the boss for a raise. 3. The boss agreeing to adjust the pay. 4. Seeing the new, fair amount on the check."
   },
   {
     "id": 144,
-    "word": "affamare",
-    "gender": "v.tr., v.intr.",
+    "word": "adeguatamente",
+    "gender": "avv.",
     "level": "Alta Disponibilità",
-    "meaning": "굶주리게 하다",
+    "meaning": "적절하게, 충분히",
     "pronunciation": "",
-    "image_path": "assets/images/144.webp",
-    "story": "1. A cruel king taxing the village. 2. Farmers having no food left. 3. People looking very thin and weak. 4. The village suffering from starvation."
+    "image_path": "assets/images/144_adeguatamente.png",
+    "story": "1. Preparing for a cold winter hike. 2. Wearing warm layers and boots. 3. Packing enough food and water. 4. Adequately prepared for the journey."
   },
   {
     "id": 145,
-    "word": "affamato",
-    "gender": "p.pass., agg., s.m.",
+    "word": "adeguato",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "배고픈",
+    "meaning": "적절한",
     "pronunciation": "",
-    "image_path": "assets/images/145.webp",
-    "story": "1. Stomach growling loudly like a beast. 2. Dreaming of a giant burger. 3. Running to the fridge. 4. Creating a massive sandwich to eat."
+    "image_path": "assets/images/145_adeguato.png",
+    "story": "1. Preparing for a formal dinner. 2. choosing a tie and jacket. 3. Checking the mirror. 4. Looking adequate for the occasion."
   },
   {
     "id": 146,
-    "word": "affannarsi",
-    "gender": "v.pronom.intr.",
+    "word": "adempiere",
+    "gender": "v.tr.",
     "level": "Alta Disponibilità",
-    "meaning": "애쓰다, 숨이 차다",
+    "meaning": "이행하다, 수행하다",
     "pronunciation": "",
-    "image_path": "assets/images/146.webp",
-    "story": "1. Running late for a bus again. 2. Sprinting down the street. 3. Panting heavily to catch breath. 4. Barely making it onto the bus."
+    "image_path": "assets/images/146_adempiere.png",
+    "story": "1. Signing a contract at work. 2. Reading the obligations carefully. 3. Completing every task on time. 4. Fulfilling all promises made."
   },
   {
     "id": 147,
-    "word": "affannato",
-    "gender": "p.pass., agg.",
+    "word": "adempimento",
+    "gender": "s.m.",
     "level": "Alta Disponibilità",
-    "meaning": "숨이 찬, 괴로워하는",
+    "meaning": "이행, 수행",
     "pronunciation": "",
-    "image_path": "assets/images/147.webp",
-    "story": "1. Finishing a marathon race. 2. Bending over with hands on knees. 3. Face red and sweaty. 4. Analyzing the breathless state."
+    "image_path": "assets/images/147_adempimento.png",
+    "story": "1. A checklist of duties. 2. Completing each one by one. 3. The last item checked off. 4. Full fulfillment of responsibilities."
   },
   {
     "id": 148,
-    "word": "affanno",
-    "gender": "s.m.",
+    "word": "aderente",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "호흡 곤란, 고민",
+    "meaning": "딱 달라붙는",
     "pronunciation": "",
-    "image_path": "assets/images/148.webp",
-    "story": "1. Stress piling up at work. 2. Feeling a tightness in the chest. 3. Taking deep breaths to calm down. 4. Trying to relieve the anxiety."
+    "image_path": "assets/images/148_aderente.png",
+    "story": "1. Buying a cycling outfit. 2. Putting on the spandex shirt. 3. It fits tight against the skin to reduce wind drag. 4. Riding fast with aerodynamic gear."
   },
   {
     "id": 149,
-    "word": "affare",
-    "gender": "s.m.",
+    "word": "aderenza",
+    "gender": "s.f.",
     "level": "Fondamentale",
-    "meaning": "일, 거래, 물건",
+    "meaning": "밀착, 부착, 지지",
     "pronunciation": "",
-    "image_path": "assets/images/149.webp",
-    "story": "1. Two businessmen talking in an office. 2. Negotiating terms of a contract. 3. Shaking hands on the deal. 4. Both looking satisfied with the business."
+    "image_path": "assets/images/149_aderenza.png",
+    "story": "1. Tires on a wet road. 2. Testing their grip. 3. Good traction keeping the car safe. 4. Strong adherence to the surface."
   },
   {
     "id": 150,
-    "word": "affascinante",
-    "gender": "p.pres., agg.",
+    "word": "aderire",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "매혹적인",
+    "meaning": "달라붙다, 가입하다",
     "pronunciation": "",
-    "image_path": "assets/images/150.webp",
-    "story": "1. Walking into a mysterious old library. 2. Seeing endless rows of ancient books. 3. Feeling the magic in the air. 4. Captivated by the fascinating atmosphere."
+    "image_path": "assets/images/150_aderire.png",
+    "story": "1. A sticker not staying on the wall. 2. Applying strong glue to the back. 3. Pressing it firmly for a minute. 4. Now it adheres perfectly."
   },
   {
     "id": 151,
-    "word": "affascinare",
-    "gender": "v.tr.",
+    "word": "adescamento",
+    "gender": "s.m.",
     "level": "Alto Uso",
-    "meaning": "매혹하다",
+    "meaning": "유인, 유혹",
     "pronunciation": "",
-    "image_path": "assets/images/151.webp",
-    "story": "1. A magician on stage. 2. Performing an impossible trick. 3. The audience watching with open mouths. 4. Totally fascinating the crowd."
+    "image_path": "assets/images/151_adescamento.png",
+    "story": "1. A fisherman preparing bait. 2. Placing it carefully on the hook. 3. Casting the line into the water. 4. A fish drawn to the lure."
   },
   {
     "id": 152,
-    "word": "affaticare",
+    "word": "adescare",
     "gender": "v.tr.",
     "level": "Alta Disponibilità",
-    "meaning": "지치게 하다",
+    "meaning": "유인하다, 미끼로 꾀다",
     "pronunciation": "",
-    "image_path": "assets/images/152.webp",
-    "story": "1. Carrying heavy boxes up stairs. 2. Doing it for hours without break. 3. Legs starting to shake. 4. Collapsing on the sofa, exhausted."
+    "image_path": "assets/images/152_adescare.png",
+    "story": "1. A trap set in the forest. 2. Food placed inside as bait. 3. An animal approaching cautiously. 4. Lured by the irresistible scent."
   },
   {
     "id": 153,
-    "word": "affatto",
-    "gender": "avv.",
+    "word": "adesione",
+    "gender": "",
     "level": "Fondamentale",
-    "meaning": "전혀, 조금도",
+    "meaning": "가입, 동의",
     "pronunciation": "",
-    "image_path": "assets/images/153.webp",
-    "story": "1. Asking if someone is tired. 2. The person jumping with energy. 3. Shaking head vigorously 'No'. 4. Not tired at all."
+    "image_path": "assets/images/153_adesione.png",
+    "story": "1. Reading a petition for a cause. 2. Signing a name on the list. 3. Showing support for the movement. 4. The group growing with new memberships."
   },
   {
     "id": 154,
-    "word": "affermare",
-    "gender": "v.tr.",
+    "word": "adesivo",
+    "gender": "s.m., agg.",
     "level": "Fondamentale",
-    "meaning": "단언하다, 주장하다",
+    "meaning": "접착제, 스티커",
     "pronunciation": "",
-    "image_path": "assets/images/154.webp",
-    "story": "1. A witness in a court room. 2. Raising a hand to swear truth. 3. Speaking clearly and firmly. 4. Turning a statement into a fact."
+    "image_path": "assets/images/154_adesivo.png",
+    "story": "1. A child with a sheet of stickers. 2. Peeling one off carefully. 3. Sticking it on a notebook. 4. Colorful adhesive decorations everywhere."
   },
   {
     "id": 155,
-    "word": "affermazione",
-    "gender": "s.f.",
+    "word": "adesso",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "단언, 확언",
+    "meaning": "지금",
     "pronunciation": "",
-    "image_path": "assets/images/155.webp",
-    "story": "1. A debate between two people. 2. One makes a strong point. 3. Nodding head in agreement. 4. A positive affirmation of the truth."
+    "image_path": "assets/images/155_adesso.png",
+    "story": "1. A clock showing 12:00. 2. Stomach rumbling loudly. 3. Deciding to eat lunch immediately. 4. Eating a sandwich right now."
   },
   {
     "id": 156,
-    "word": "afferrare",
-    "gender": "v.tr., v.intr.",
+    "word": "adiacente",
+    "gender": "agg.",
     "level": "Alto Uso",
-    "meaning": "잡다, 이해하다",
+    "meaning": "인접한, 이웃한",
     "pronunciation": "",
-    "image_path": "assets/images/156.webp",
-    "story": "1. A ball flying through the air. 2. Reaching out a hand quickly. 3. Catching the ball firmly. 4. Understanding the concept perfectly."
+    "image_path": "assets/images/156_adiacente.png",
+    "story": "1. Two houses side by side. 2. Sharing a common wall. 3. Neighbors waving from adjacent gardens. 4. The buildings close together."
   },
   {
     "id": 157,
-    "word": "affettare",
+    "word": "adibire",
     "gender": "v.tr.",
     "level": "Alta Disponibilità",
-    "meaning": "얇게 썰다",
+    "meaning": "사용하다, 충당하다",
     "pronunciation": "",
-    "image_path": "assets/images/157.webp",
-    "story": "1. A loaf of fresh bread on a board. 2. Holding a serrated knife. 3. Cutting even, thin slices. 4. Serving the bread in a basket."
+    "image_path": "assets/images/157_adibire.png",
+    "story": "1. An empty room in an office. 2. Deciding to use it as a meeting room. 3. Adding a table and chairs. 4. The room now designated for meetings."
   },
   {
     "id": 158,
-    "word": "affettato",
-    "gender": "p.pass., agg., s.m.",
+    "word": "adipe",
+    "gender": "s.m.",
     "level": "Alta Disponibilità",
-    "meaning": "얇게 썬 (햄 등)",
+    "meaning": "지방, 지방 조직",
     "pronunciation": "",
-    "image_path": "assets/images/158.webp",
-    "story": "1. Ordering prosciutto at the deli. 2. The machine slicing the meat thin. 3. Receiving a paper packet. 4. Making a sandwich with the cold cuts."
+    "image_path": "assets/images/158_adipe.png",
+    "story": "1. A biology class studying the body. 2. Diagrams showing fat tissue. 3. Understanding its role as energy storage. 4. Adipose tissue under the skin."
   },
   {
     "id": 159,
-    "word": "affetto",
-    "gender": "s.m.",
+    "word": "adiposo",
+    "gender": "agg.",
     "level": "Alto Uso",
-    "meaning": "애정",
+    "meaning": "지방의, 비만한",
     "pronunciation": "",
-    "image_path": "assets/images/159.webp",
-    "story": "1. A mother looking at her child. 2. Smiling with warmth in her eyes. 3. Giving a gentle kiss on the forehead. 4. A moment of pure affection."
+    "image_path": "assets/images/159_adiposo.png",
+    "story": "1. A doctor reviewing health charts. 2. Measuring body fat percentage. 3. Explaining adipose tissue levels. 4. Recommending diet and exercise."
   },
   {
     "id": 160,
-    "word": "affetto",
-    "gender": "agg.",
+    "word": "adirarsi",
+    "gender": "v.pronom.intr.",
     "level": "Alto Uso",
-    "meaning": "걸린, 침범된",
+    "meaning": "화내다, 격분하다",
     "pronunciation": "",
-    "image_path": "assets/images/160.webp",
-    "story": "1. A doctor examining a patient. 2. Diagnosing a flu virus. 3. The patient looking weak in bed. 4. Suffering from the illness."
+    "image_path": "assets/images/160_adirarsi.png",
+    "story": "1. Someone cutting in line. 2. Face turning red with anger. 3. Clenching fists tightly. 4. Taking deep breaths to calm down."
   },
   {
     "id": 161,
-    "word": "affettuoso",
-    "gender": "agg.",
+    "word": "adito",
+    "gender": "s.m.",
     "level": "Alto Uso",
-    "meaning": "다정한",
+    "meaning": "입구, 접근",
     "pronunciation": "",
-    "image_path": "assets/images/161.webp",
-    "story": "1. A puppy jumping on its owner. 2. Licking the face happily. 3. Wagging tail furiously. 4. A very affectionate welcome."
+    "image_path": "assets/images/161_adito.png",
+    "story": "1. A narrow passageway in an old castle. 2. Walking through a stone entrance. 3. Discovering a hidden room beyond. 4. The secret entry revealed."
   },
   {
     "id": 162,
-    "word": "affezionato",
-    "gender": "p.pass., agg.",
+    "word": "adolescente",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "애착을 가진",
+    "meaning": "청소년",
     "pronunciation": "",
-    "image_path": "assets/images/162.webp",
-    "story": "1. Holding an old teddy bear. 2. Remembering childhood days. 3. Refusing to throw it away. 4. Deeply attached to the memory."
+    "image_path": "assets/images/162_adolescente.png",
+    "story": "1. A boy looking in the mirror. 2. Seeing acne and a changing face. 3. Listening to loud music in headphones. 4. Hanging out with friends at school."
   },
   {
     "id": 163,
-    "word": "affiancare",
-    "gender": "v.tr.",
+    "word": "adolescenza",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "나란히 놓다, 돕다",
+    "meaning": "청소년기",
     "pronunciation": "",
-    "image_path": "assets/images/163.webp",
-    "story": "1. A new employee looking lost. 2. A senior mentor sits next to them. 3. Showing how to do the work side-by-side. 4. Working together as a team."
+    "image_path": "assets/images/163_adolescenza.png",
+    "story": "1. Looking at old childhood photos. 2. Comparing with current teenage self. 3. Dealing with mood swings and growth. 4. A transformative time of life."
   },
   {
     "id": 164,
-    "word": "affidamento",
-    "gender": "s.m.",
+    "word": "adombrare",
+    "gender": "v.tr.",
     "level": "Alto Uso",
-    "meaning": "신뢰, 위탁",
+    "meaning": "그늘지게 하다, 암시하다",
     "pronunciation": "",
-    "image_path": "assets/images/164.webp",
-    "story": "1. Planning a rock climbing trip. 2. Checking the safety ropes. 3. Trusting the partner to hold the line. 4. Complete reliance on the equipment."
+    "image_path": "assets/images/164_adombrare.png",
+    "story": "1. A large tree casting a shadow. 2. A speech hinting at a hidden meaning. 3. A worried look on someone face. 4. Something subtly overshadowed."
   },
   {
     "id": 165,
-    "word": "affidare",
-    "gender": "v.tr.",
+    "word": "adoperare",
+    "gender": "",
     "level": "Fondamentale",
-    "meaning": "맡기다, 위탁하다",
+    "meaning": "사용하다",
     "pronunciation": "",
-    "image_path": "assets/images/165.webp",
-    "story": "1. Leaving for a vacation. 2. Giving house keys to a neighbor. 3. Asking them to water plants. 4. Entrusting the home to their care."
+    "image_path": "assets/images/165_adoperare.png",
+    "story": "1. Holding a complex tool. 2. Reading the manual on how to use it. 3. Operating the machine carefully. 4. Successfully finishing the job."
   },
   {
     "id": 166,
-    "word": "affilato",
-    "gender": "p.pass., agg.",
+    "word": "adorabile",
+    "gender": "agg.",
     "level": "Alta Disponibilità",
-    "meaning": "날카로운",
+    "meaning": "사랑스러운, 귀여운",
     "pronunciation": "",
-    "image_path": "assets/images/166.webp",
-    "story": "1. Testing a knife on a tomato. 2. It cuts effortlessly without squashing. 3. Looking at the gleaming edge. 4. A perfectly sharp blade."
+    "image_path": "assets/images/166_adorabile.png",
+    "story": "1. A tiny puppy with big eyes. 2. A baby laughing joyfully. 3. A kitten playing with yarn. 4. Adorable moments everywhere."
   },
   {
     "id": 167,
-    "word": "affinché",
-    "gender": "cong.",
+    "word": "adorare",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "~하도록, ~하기 위해",
+    "meaning": "숭배하다, 매우 좋아하다",
     "pronunciation": "",
-    "image_path": "assets/images/167.webp",
-    "story": "1. Studying late into the night. 2. Drinking coffee to stay awake. 3. Doing all this so that... 4. Passing the exam with a high score."
+    "image_path": "assets/images/167_adorare.png",
+    "story": "1. A fan seeing their idol on stage. 2. Screaming and waving hands. 3. Having posters all over the wall. 4. Absolutely adoring the singer."
   },
   {
     "id": 168,
-    "word": "affittare",
-    "gender": "v.tr.",
+    "word": "adorazione",
+    "gender": "s.f.",
     "level": "Alto Uso",
-    "meaning": "임대하다, 빌리다",
+    "meaning": "숭배, 경배",
     "pronunciation": "",
-    "image_path": "assets/images/168.webp",
-    "story": "1. Looking at vacation homes online. 2. Choosing a villa by the sea. 3. Identifying the rental price. 4. Booking the house for a week."
+    "image_path": "assets/images/168_adorazione.png",
+    "story": "1. People kneeling in a temple. 2. Candles lit in reverence. 3. Prayers spoken with devotion. 4. Deep adoration and worship."
   },
   {
     "id": 169,
-    "word": "affitto",
-    "gender": "s.m.",
+    "word": "adornare",
+    "gender": "v.tr.",
     "level": "Alto Uso",
-    "meaning": "임대료, 집세",
+    "meaning": "장식하다, 꾸미다",
     "pronunciation": "",
-    "image_path": "assets/images/169.webp",
-    "story": "1. Checking the calendar for the 1st of the month. 2. Writing a check for the landlord. 3. Delivering the envelope. 4. Paying the monthly rent."
+    "image_path": "assets/images/169_adornare.png",
+    "story": "1. A plain white cake on the table. 2. Adding flowers and ribbons. 3. Piping colorful frosting. 4. A beautifully adorned masterpiece."
   },
   {
     "id": 170,
-    "word": "affogare",
-    "gender": "v.tr. e intr.",
+    "word": "adorno",
+    "gender": "agg.",
     "level": "Alta Disponibilità",
-    "meaning": "익사하다, 잠기다",
+    "meaning": "장식된, 꾸며진",
     "pronunciation": "",
-    "image_path": "assets/images/170.webp",
-    "story": "1. Dropping a phone in a pool. 2. Watching it sink to the bottom. 3. It catches too much water. 4. The phone is ruined (drowned)."
+    "image_path": "assets/images/170_adorno.png",
+    "story": "1. A palace hall with gold trim. 2. Walls covered in paintings. 3. Crystal chandeliers hanging above. 4. A room richly adorned."
   },
   {
     "id": 171,
-    "word": "affollare",
-    "gender": "v.tr.",
+    "word": "adottare",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "채우다, 쇄도하다",
+    "meaning": "입양하다, 채택하다",
     "pronunciation": "",
-    "image_path": "assets/images/171.webp",
-    "story": "1. A store announcing a big sale. 2. Doors opening at 9 AM. 3. Hundreds of people rushing in. 4. The shop is instantly crowded."
+    "image_path": "assets/images/171_adottare.png",
+    "story": "1. Visiting an animal shelter. 2. Seeing a lonely puppy in a cage. 3. Signing papers to take it home. 4. The puppy playing happily in its new house."
   },
   {
     "id": 172,
-    "word": "affondare",
-    "gender": "v.tr. e intr.",
+    "word": "adottivo",
+    "gender": "agg.",
     "level": "Alto Uso",
-    "meaning": "가라앉다",
+    "meaning": "입양의, 양자의",
     "pronunciation": "",
-    "image_path": "assets/images/172.webp",
-    "story": "1. A toy boat in the bathtub. 2. A hole appears in the hull. 3. Taking on water rapidly. 4. Sinking to the bottom of the tub."
+    "image_path": "assets/images/172_adottivo.png",
+    "story": "1. A couple visiting an orphanage. 2. Meeting a child for the first time. 3. Signing adoption papers. 4. A new adoptive family together."
   },
   {
     "id": 173,
-    "word": "affresco",
-    "gender": "s.m.",
+    "word": "adozione",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "프레스코화",
+    "meaning": "입양, 채택",
     "pronunciation": "",
-    "image_path": "assets/images/173.webp",
-    "story": "1. Looking up at a church ceiling. 2. Seeing angels painted on wet plaster. 3. Admiring the vivid colors after centuries. 4. A masterpiece of art history."
+    "image_path": "assets/images/173_adozione.png",
+    "story": "1. A couple wanting a child. 2. Going through a long legal process. 3. Finally holding their new baby. 4. Celebrating the adoption with family."
   },
   {
     "id": 174,
-    "word": "affrontare",
-    "gender": "v.tr.",
+    "word": "adriatico",
+    "gender": "",
     "level": "Fondamentale",
-    "meaning": "직면하다, 대처하다",
+    "meaning": "아드리아 해의",
     "pronunciation": "",
-    "image_path": "assets/images/174.webp",
-    "story": "1. A giant monster blocks the path. 2. The hero drawing a sword. 3. Not running away, but standing firm. 4. Facing the challenge bravely."
+    "image_path": "assets/images/174_adriatico.png",
+    "story": "1. Looking at a map of Italy. 2. Pointing to the east coast. 3. Swimming in the blue sea near Venice. 4. Enjoying the Adriatic coast summer."
   },
   {
     "id": 175,
-    "word": "affumicare",
+    "word": "adulare",
     "gender": "v.tr.",
     "level": "Alta Disponibilità",
-    "meaning": "훈제하다",
+    "meaning": "아첨하다",
     "pronunciation": "",
-    "image_path": "assets/images/175.webp",
-    "story": "1. Hanging fresh salmon in a shed. 2. Lighting a wood fire below. 3. Aromatic smoke filling the room. 4. The fish turning golden and delicious."
+    "image_path": "assets/images/175_adulare.png",
+    "story": "1. An employee praising the boss excessively. 2. Compliments that seem too generous. 3. Others rolling their eyes. 4. Flattery with an ulterior motive."
   },
   {
     "id": 176,
-    "word": "africano",
-    "gender": "agg., s.m.",
+    "word": "adulazione",
+    "gender": "s.f.",
     "level": "Alto Uso",
-    "meaning": "아프리카의",
+    "meaning": "아첨, 아부",
     "pronunciation": "",
-    "image_path": "assets/images/176.webp",
-    "story": "1. A map of the African continent. 2. Pictures of savannahs and lions. 3. Traditional tribal masks. 4. Cultural symbols of Africa."
+    "image_path": "assets/images/176_adulazione.png",
+    "story": "1. A courtier bowing before the king. 2. Showering with excessive praise. 3. The king suspicious of the flattery. 4. Hollow adulation exposed."
   },
   {
     "id": 177,
-    "word": "agenda",
-    "gender": "s.f.",
+    "word": "adulterare",
+    "gender": "v.tr.",
     "level": "Alto Uso",
-    "meaning": "수첩, 다이어리",
+    "meaning": "불순물을 섞다, 변조하다",
     "pronunciation": "",
-    "image_path": "assets/images/177.webp",
-    "story": "1. Having too many appointments. 2. Opening a leather planner. 3. Writing down dates and times. 4. Organizing the schedule perfectly."
+    "image_path": "assets/images/177_adulterare.png",
+    "story": "1. A food inspector checking products. 2. Discovering diluted olive oil. 3. Testing for added chemicals. 4. The adulterated product pulled from shelves."
   },
   {
     "id": 178,
-    "word": "agente",
-    "gender": "p.pres., agg., s.m. e f.",
+    "word": "adulterio",
+    "gender": "s.m.",
     "level": "Fondamentale",
-    "meaning": "요원, 대리인",
+    "meaning": "간통, 불륜",
     "pronunciation": "",
-    "image_path": "assets/images/178.webp",
-    "story": "1. A person in a black suit and sunglasses. 2. Talking into a wrist radio. 3. Moving stealthily through a crowd. 4. A secret agent on a mission."
+    "image_path": "assets/images/178_adulterio.png",
+    "story": "1. A couple seemingly happy together. 2. Secret messages on a phone. 3. The truth coming to light. 4. A relationship broken by betrayal."
   },
   {
     "id": 179,
-    "word": "agenzia",
-    "gender": "s.f.",
+    "word": "adultero",
+    "gender": "agg., s.m.",
     "level": "Fondamentale",
-    "meaning": "대리점, 여행사",
+    "meaning": "간통자",
     "pronunciation": "",
-    "image_path": "assets/images/179.webp",
-    "story": "1. Walking into a travel agency. 2. Seeing posters of tropical beaches. 3. Agent booking a flight ticket. 4. Planning the perfect holiday."
+    "image_path": "assets/images/179_adultero.png",
+    "story": "1. A person leading a double life. 2. Sneaking around in secret. 3. Eventually caught by evidence. 4. Facing the consequences of betrayal."
   },
   {
     "id": 180,
-    "word": "agganciare",
-    "gender": "v.tr.",
+    "word": "adulto",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "걸다, 잠그다",
+    "meaning": "성인, 어른",
     "pronunciation": "",
-    "image_path": "assets/images/180.webp",
-    "story": "1. Putting on a seatbelt in a car. 2. Pulling the strap across chest. 3. Hearing a 'click' sound. 4. Safely fastened for the ride."
+    "image_path": "assets/images/180_adulto.png",
+    "story": "1. A child measuring height against a wall. 2. Years passing by quickly. 3. Start paying taxes and working. 4. Fully grown up as an adult."
   },
   {
     "id": 181,
-    "word": "aggettivo",
-    "gender": "s.m.",
+    "word": "adunanza",
+    "gender": "s.f.",
     "level": "Alto Uso",
-    "meaning": "형용사",
+    "meaning": "집회, 모임",
     "pronunciation": "",
-    "image_path": "assets/images/181.webp",
-    "story": "1. Writing the word 'Cat'. 2. Thinking it's too simple. 3. Adding 'Happy' and 'Fluffy' before it. 4. Now it's a 'Happy Fluffy Cat'."
+    "image_path": "assets/images/181_adunanza.png",
+    "story": "1. A town hall with seats filling up. 2. Citizens gathering for a meeting. 3. A speaker at the podium. 4. Important decisions made together."
   },
   {
     "id": 182,
-    "word": "aggiornamento",
-    "gender": "s.m.",
+    "word": "adunare",
+    "gender": "v.tr.",
     "level": "Alto Uso",
-    "meaning": "업데이트, 갱신",
+    "meaning": "모으다, 집합시키다",
     "pronunciation": "",
-    "image_path": "assets/images/182.webp",
-    "story": "1. Computer screen showing a loading bar. 2. 'Installing updates 30%'. 3. Waiting patiently. 4. System restarting with new features."
+    "image_path": "assets/images/182_adunare.png",
+    "story": "1. A general summoning troops. 2. Soldiers assembling in the square. 3. Standing in formation. 4. All gathered and ready."
   },
   {
     "id": 183,
-    "word": "aggiornare",
-    "gender": "v.tr.",
+    "word": "adunata",
+    "gender": "s.f.",
     "level": "Alto Uso",
-    "meaning": "갱신하다",
+    "meaning": "집합, 소집",
     "pronunciation": "",
-    "image_path": "assets/images/183.webp",
-    "story": "1. Looking at an old resume. 2. Adding the latest job experience. 3. Changing the formatting. 4. The CV is now up to date."
+    "image_path": "assets/images/183_adunata.png",
+    "story": "1. A bugle call at dawn. 2. Soldiers rushing to the courtyard. 3. Roll call by the commander. 4. Everyone assembled for duty."
   },
   {
     "id": 184,
-    "word": "aggirare",
-    "gender": "v.tr.",
+    "word": "adunco",
+    "gender": "agg.",
     "level": "Alto Uso",
-    "meaning": "우회하다, 속이다",
+    "meaning": "갈고리 모양의, 구부러진",
     "pronunciation": "",
-    "image_path": "assets/images/184.webp",
-    "story": "1. A road blocked by construction. 2. Driver finding a side street. 3. Going around the obstacle. 4. Rejoining the main road later."
+    "image_path": "assets/images/184_adunco.png",
+    "story": "1. An eagle with a hooked beak. 2. A curved sword on display. 3. A bent nail on the wall. 4. Everything hooked and curved."
   },
   {
     "id": 185,
-    "word": "aggiungere",
-    "gender": "v.tr., v.intr.",
+    "word": "aerare",
+    "gender": "v.tr.",
     "level": "Fondamentale",
-    "meaning": "추가하다, 더하다",
+    "meaning": "환기하다, 통풍시키다",
     "pronunciation": "",
-    "image_path": "assets/images/185.webp",
-    "story": "1. Making a soup that tastes bland. 2. Sprinkling some salt and pepper. 3. Stirring the pot. 4. Now the flavor is enhanced."
+    "image_path": "assets/images/185_aerare.png",
+    "story": "1. A stuffy room with closed windows. 2. Opening them wide. 3. Fresh air flowing in. 4. The room feeling clean and fresh."
   },
   {
     "id": 186,
-    "word": "aggiustare",
-    "gender": "v.tr.",
+    "word": "aerazione",
+    "gender": "s.f.",
     "level": "Alto Uso",
-    "meaning": "고치다, 수리하다",
+    "meaning": "환기, 통풍",
     "pronunciation": "",
-    "image_path": "assets/images/186.webp",
-    "story": "1. A bicycle with a flat tire. 2. Using a patch kit and pump. 3. Inflating the tire again. 4. The bike is ready to ride."
+    "image_path": "assets/images/186_aerazione.png",
+    "story": "1. A ventilation system in a building. 2. Air ducts running along the ceiling. 3. Fans pushing fresh air through. 4. Good aeration for comfort."
   },
   {
     "id": 187,
-    "word": "aggrapparsi",
-    "gender": "v.pronom.intr.",
+    "word": "aereo",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "필사적으로 잡다",
+    "meaning": "비행기",
     "pronunciation": "",
-    "image_path": "assets/images/187.webp",
-    "story": "1. Hanging from a cliff edge. 2. Fingers gripping the rock tightly. 3. Not looking down. 4. Clinging on for dear life."
+    "image_path": "assets/images/187_aereo.png",
+    "story": "1. Waiting at the boarding gate. 2. Walking down the jet bridge. 3. Taking a seat near the window. 4. The plane taking off into clouds."
   },
   {
     "id": 188,
-    "word": "aggravare",
-    "gender": "v.tr., v.intr.",
+    "word": "aeronautica",
+    "gender": "s.f.",
     "level": "Alta Disponibilità",
-    "meaning": "악화시키다",
+    "meaning": "항공학, 공군",
     "pronunciation": "",
-    "image_path": "assets/images/188.webp",
-    "story": "1. Having a small cough. 2. Walking out in the rain without a coat. 3. Coughing much louder now. 4. The cold has gotten worse."
+    "image_path": "assets/images/188_aeronautica.png",
+    "story": "1. Fighter jets on a runway. 2. Pilots in flight suits. 3. An air force base. 4. The aeronautics keeping skies safe."
   },
   {
     "id": 189,
-    "word": "aggredire",
-    "gender": "v.tr.",
+    "word": "aeroplano",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "공격하다",
+    "meaning": "비행기 (Aeroplano)",
     "pronunciation": "",
-    "image_path": "assets/images/189.webp",
-    "story": "1. A cat walking peacefully. 2. A dog running at it barking. 3. The cleaning hissing in defense. 4. An aggressive encounter."
+    "image_path": "assets/images/189_aeroplano.png",
+    "story": "1. A child playing with a toy plane. 2. Making zooming noises. 3. Throwing a paper airplane. 4. Dreaming of being a pilot."
   },
   {
     "id": 190,
-    "word": "aggressione",
-    "gender": "s.f.",
+    "word": "aeroporto",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "공격, 침략",
+    "meaning": "공항",
     "pronunciation": "",
-    "image_path": "assets/images/190.webp",
-    "story": "1. Watching a nature documentary. 2. A lion stalking a zebra. 3. The sudden pounce. 4. The wild attack in action."
+    "image_path": "assets/images/190_aeroporto.png",
+    "story": "1. Dragging suitcases through sliding doors. 2. Checking the departure board. 3. Going through security check. 4. Buying duty-free items before flight."
   },
   {
     "id": 191,
-    "word": "aggressivo",
-    "gender": "agg.",
+    "word": "aerosol",
+    "gender": "s.m.",
     "level": "Alto Uso",
-    "meaning": "공격적인",
+    "meaning": "에어로졸, 분무기",
     "pronunciation": "",
-    "image_path": "assets/images/191.webp",
-    "story": "1. A driver honking loudly in traffic. 2. Shouting out the window. 3. Cutting off other cars. 4. Driving with aggressive behavior."
+    "image_path": "assets/images/191_aerosol.png",
+    "story": "1. A can of spray paint. 2. Pressing the nozzle. 3. Fine mist spraying out. 4. An aerosol cloud of color."
   },
   {
     "id": 192,
-    "word": "agiato",
-    "gender": "p.pass., agg.",
+    "word": "afa",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "유복한",
+    "meaning": "무더위",
     "pronunciation": "",
-    "image_path": "assets/images/192.webp",
-    "story": "1. Living in a large mansion. 2. Having servants and luxury cars. 3. Wearing expensive clothes. 4. Enjoying a wealthy lifestyle."
+    "image_path": "assets/images/192_afa.png",
+    "story": "1. A hot summer day with no wind. 2. Character sweating profusely. 3. Trying to fan face with a paper. 4. The air feeling heavy and muggy."
   },
   {
     "id": 193,
-    "word": "agile",
+    "word": "affabile",
     "gender": "agg.",
     "level": "Alta Disponibilità",
-    "meaning": "민첩한",
+    "meaning": "상냥한, 친절한",
     "pronunciation": "",
-    "image_path": "assets/images/193.webp",
-    "story": "1. A ninja moving through shadows. 2. Jumping over a high wall. 3. Landing silently on feet. 4. Agile and quick movements."
+    "image_path": "assets/images/193_affabile.png",
+    "story": "1. Meeting a new neighbor. 2. They greet with a warm smile. 3. Offering tea and conversation. 4. An affable and friendly person."
   },
   {
     "id": 194,
-    "word": "agio",
-    "gender": "s.m.",
+    "word": "affaccendarsi",
+    "gender": "v.pronom.intr.",
     "level": "Alto Uso",
-    "meaning": "편안함, 여유",
+    "meaning": "분주히 움직이다",
     "pronunciation": "",
-    "image_path": "assets/images/194.webp",
-    "story": "1. Sitting in a first-class seat. 2. Stretching legs fully. 3. Sipping champagne. 4. Traveling with great ease."
+    "image_path": "assets/images/194_affaccendarsi.png",
+    "story": "1. A chef in a busy kitchen. 2. Running between stoves and counters. 3. Chopping, stirring, and plating. 4. Bustling to prepare the meal."
   },
   {
     "id": 195,
-    "word": "agire",
-    "gender": "v.intr.",
+    "word": "affacciare",
+    "gender": "",
     "level": "Fondamentale",
-    "meaning": "행동하다",
+    "meaning": "내밀다, (창밖을) 보다",
     "pronunciation": "",
-    "image_path": "assets/images/195.webp",
-    "story": "1. Seeing someone drop their wallet. 2. Not ignoring it. 3. Picking it up and running after them. 4. Acting quickly to return it."
+    "image_path": "assets/images/195_affacciare.png",
+    "story": "1. Hearing a noise outside. 2. Opening the window shutters. 3. Leaning out to see the street. 4. Waving to a friend down below."
   },
   {
     "id": 196,
-    "word": "agitare",
-    "gender": "v.tr.",
+    "word": "affacciarsi",
+    "gender": "v.pronom.intr.",
     "level": "Alto Uso",
-    "meaning": "흔들다, 휘젓다",
+    "meaning": "(창에) 나타나다, 내다보다",
     "pronunciation": "",
-    "image_path": "assets/images/196.webp",
-    "story": "1. Holding a bottle of orange juice. 2. Seeing pulp at the bottom. 3. Shaking it vigorously. 4. Now it's mixed and ready to drink."
+    "image_path": "assets/images/196_affacciarsi.png",
+    "story": "1. Hearing music from outside. 2. Walking to the balcony. 3. Leaning out to look down. 4. Watching a street performer below."
   },
   {
     "id": 197,
-    "word": "agitazione",
-    "gender": "s.f.",
+    "word": "affamare",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "흥분, 동요",
+    "meaning": "굶주리게 하다",
     "pronunciation": "",
-    "image_path": "assets/images/197.webp",
-    "story": "1. A crowd waiting for a concert. 2. People shouting and pushing. 3. The anticipation building up. 4. A state of high agitation."
+    "image_path": "assets/images/197_affamare.png",
+    "story": "1. A cruel king taxing the village. 2. Farmers having no food left. 3. People looking very thin and weak. 4. The village suffering from starvation."
   },
   {
     "id": 198,
-    "word": "aglio",
-    "gender": "s.m.",
+    "word": "affamato",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "마늘",
+    "meaning": "배고픈",
     "pronunciation": "",
-    "image_path": "assets/images/198.webp",
-    "story": "1. Peeling a white clove. 2. Chopping it finely. 3. Sizzling it in olive oil. 4. The kitchen smelling of delicious garlic."
+    "image_path": "assets/images/198_affamato.png",
+    "story": "1. Stomach growling loudly like a beast. 2. Dreaming of a giant burger. 3. Running to the fridge. 4. Creating a massive sandwich to eat."
   },
   {
     "id": 199,
-    "word": "agnello",
-    "gender": "s.m.",
+    "word": "affannare",
+    "gender": "v.tr.",
     "level": "Alto Uso",
-    "meaning": "어린 양",
+    "meaning": "숨차게 하다, 걱정시키다",
     "pronunciation": "",
-    "image_path": "assets/images/199.webp",
-    "story": "1. A green meadow in spring. 2. A white fluffy lamb. 3. Bleating softly 'Baa'. 4. Following its mother sheep."
+    "image_path": "assets/images/199_affannare.png",
+    "story": "1. Running up a steep hill. 2. Breathing getting heavier. 3. Heart pounding fast. 4. Stopping to catch breath."
   },
   {
     "id": 200,
-    "word": "ago",
-    "gender": "s.m.",
+    "word": "affannarsi",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "바늘",
+    "meaning": "애쓰다, 숨이 차다",
     "pronunciation": "",
-    "image_path": "assets/images/200.webp",
-    "story": "1. Holding a torn shirt. 2. Threading a thin metal needle. 3. Stitching the fabric carefully. 4. The tear is repaired invisibly."
+    "image_path": "assets/images/200_affannarsi.png",
+    "story": "1. Running late for a bus again. 2. Sprinting down the street. 3. Panting heavily to catch breath. 4. Barely making it onto the bus."
   },
   {
     "id": 201,
-    "word": "agonia",
-    "gender": "s.f.",
+    "word": "affanno",
+    "gender": "",
     "level": "Alta Disponibilità",
-    "meaning": "고통, 임종",
+    "meaning": "호흡 곤란, 고민",
     "pronunciation": "",
-    "image_path": "assets/images/201.webp",
-    "story": "1. A person lying in a hospital bed. 2. Family members gathered around, holding hands. 3. The heart monitor beeping slowly. 4. A moment of final goodbye."
+    "image_path": "assets/images/201_affanno.png",
+    "story": "1. Stress piling up at work. 2. Feeling a tightness in the chest. 3. Taking deep breaths to calm down. 4. Trying to relieve the anxiety."
   },
   {
     "id": 202,
-    "word": "agosto",
-    "gender": "s.m.",
+    "word": "affannoso",
+    "gender": "agg.",
     "level": "Fondamentale",
-    "meaning": "8월",
+    "meaning": "숨가쁜, 고통스러운",
     "pronunciation": "",
-    "image_path": "assets/images/202.webp",
-    "story": "1. A calendar showing August. 2. People swimming at a crowded beach. 3. Ice cream melting in the hot sun. 4. Fireworks lighting up the summer night."
+    "image_path": "assets/images/202_affannoso.png",
+    "story": "1. Climbing the last flight of stairs. 2. Panting heavily. 3. Sweat on the forehead. 4. A breathless and laborious effort."
   },
   {
     "id": 203,
-    "word": "agricolo",
-    "gender": "agg.",
+    "word": "affare",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "농업의",
+    "meaning": "일, 거래, 물건",
     "pronunciation": "",
-    "image_path": "assets/images/203.webp",
-    "story": "1. Wide green fields stretching to the horizon. 2. A tractor plowing the soil. 3. Crops growing in neat rows. 4. A sign reading 'Agricultural Zone'."
+    "image_path": "assets/images/203_affare.png",
+    "story": "1. Two businessmen talking in an office. 2. Negotiating terms of a contract. 3. Shaking hands on the deal. 4. Both looking satisfied with the business."
   },
   {
     "id": 204,
-    "word": "agricoltore",
-    "gender": "s.m.",
+    "word": "affarista",
+    "gender": "s.m. e f.",
     "level": "Alta Disponibilità",
-    "meaning": "농부",
+    "meaning": "사업가, 장사꾼",
     "pronunciation": "",
-    "image_path": "assets/images/204.webp",
-    "story": "1. Waking up at sunrise on a farm. 2. Feeding chickens and collecting eggs. 3. Driving a tractor through a wheat field. 4. Selling fresh produce at a market."
+    "image_path": "assets/images/204_affarista.png",
+    "story": "1. A shrewd dealer at a market. 2. Buying low and selling high. 3. Always looking for the next deal. 4. A profit-driven businessperson."
   },
   {
     "id": 205,
-    "word": "agricoltura",
-    "gender": "s.f.",
+    "word": "affascinante",
+    "gender": "",
     "level": "Alto Uso",
-    "meaning": "농업",
+    "meaning": "매혹적인",
     "pronunciation": "",
-    "image_path": "assets/images/205.webp",
-    "story": "1. An ancient farmer planting seeds by hand. 2. Modern machines harvesting grain. 3. A graph showing crop production. 4. Agriculture feeding the world."
+    "image_path": "assets/images/205_affascinante.png",
+    "story": "1. Walking into a mysterious old library. 2. Seeing endless rows of ancient books. 3. Feeling the magic in the air. 4. Captivated by the fascinating atmosphere."
   },
   {
     "id": 206,
@@ -2056,7 +2056,7 @@
     "level": "Alta Disponibilità",
     "meaning": "감귤류",
     "pronunciation": "",
-    "image_path": "assets/images/206.webp",
+    "image_path": "assets/images/206_agrume.png",
     "story": "1. A basket full of oranges, lemons, and limes. 2. Cutting a grapefruit in half. 3. Squeezing fresh lemon juice. 4. The tangy, refreshing taste of citrus."
   },
   {
@@ -2066,7 +2066,7 @@
     "level": "Alta Disponibilità",
     "meaning": "날카롭게 하다",
     "pronunciation": "",
-    "image_path": "assets/images/207.webp",
+    "image_path": "assets/images/207_aguzzare.png",
     "story": "1. Holding a dull pencil. 2. Putting it into a sharpener. 3. Turning the crank carefully. 4. A perfectly sharp point ready to write."
   },
   {
@@ -2076,7 +2076,7 @@
     "level": "Alta Disponibilità",
     "meaning": "뾰족한",
     "pronunciation": "",
-    "image_path": "assets/images/208.webp",
+    "image_path": "assets/images/208_aguzzo.png",
     "story": "1. A mountain peak covered in snow. 2. A cactus with sharp spines. 3. A needle pointing upward. 4. Everything looking sharp and pointed."
   },
   {
@@ -2086,7 +2086,7 @@
     "level": "Alta Disponibilità",
     "meaning": "화단",
     "pronunciation": "",
-    "image_path": "assets/images/209.webp",
+    "image_path": "assets/images/209_aiuola.png",
     "story": "1. An empty patch of soil in a garden. 2. Planting colorful flowers in rows. 3. Watering them with a small can. 4. A beautiful flower bed in full bloom."
   },
   {
@@ -2096,7 +2096,7 @@
     "level": "Fondamentale",
     "meaning": "돕다",
     "pronunciation": "",
-    "image_path": "assets/images/210.webp",
+    "image_path": "assets/images/210_aiutare.png",
     "story": "1. An elderly person struggling with grocery bags. 2. A young person running over. 3. Carrying the bags to the car. 4. A grateful smile and a 'thank you'."
   },
   {
@@ -2106,7 +2106,7 @@
     "level": "Fondamentale",
     "meaning": "도움",
     "pronunciation": "",
-    "image_path": "assets/images/211.webp",
+    "image_path": "assets/images/211_aiuto.png",
     "story": "1. A person stuck in quicksand. 2. Shouting 'Aiuto! Help!' loudly. 3. Someone throwing a rope. 4. Being pulled to safety."
   },
   {
@@ -2116,7 +2116,7 @@
     "level": "Fondamentale",
     "meaning": "날개",
     "pronunciation": "",
-    "image_path": "assets/images/212.webp",
+    "image_path": "assets/images/212_ala.png",
     "story": "1. A bird spreading its wings wide. 2. An airplane wing seen from a window. 3. A butterfly with colorful wings. 4. The symbol of freedom and flight."
   },
   {
@@ -2126,7 +2126,7 @@
     "level": "Fondamentale",
     "meaning": "새벽, 여명",
     "pronunciation": "",
-    "image_path": "assets/images/213.webp",
+    "image_path": "assets/images/213_alba.png",
     "story": "1. A dark sky before sunrise. 2. The horizon turning pink and orange. 3. The first rays of sunlight. 4. A new day begins at dawn."
   },
   {
@@ -2136,7 +2136,7 @@
     "level": "Alto Uso",
     "meaning": "알바니아의, 알바니아인",
     "pronunciation": "",
-    "image_path": "assets/images/214.webp",
+    "image_path": "assets/images/214_albanese.png",
     "story": "1. A map of southeastern Europe. 2. Pointing to Albania on the Adriatic coast. 3. The Albanian flag with a double-headed eagle. 4. Historic stone buildings in Berat."
   },
   {
@@ -2146,7 +2146,7 @@
     "level": "Fondamentale",
     "meaning": "호텔, 여관",
     "pronunciation": "",
-    "image_path": "assets/images/215.webp",
+    "image_path": "assets/images/215_albergo.png",
     "story": "1. Arriving at a fancy hotel entrance. 2. Checking in at the reception desk. 3. A bellboy carrying luggage to the room. 4. Relaxing in a comfortable bed."
   },
   {
@@ -2156,7 +2156,7 @@
     "level": "Fondamentale",
     "meaning": "나무",
     "pronunciation": "",
-    "image_path": "assets/images/216.webp",
+    "image_path": "assets/images/216_albero.png",
     "story": "1. A tiny seed in the ground. 2. A small sapling growing. 3. A tall oak tree with thick branches. 4. Children playing under its shade."
   },
   {
@@ -2166,7 +2166,7 @@
     "level": "Alta Disponibilità",
     "meaning": "살구",
     "pronunciation": "",
-    "image_path": "assets/images/217.webp",
+    "image_path": "assets/images/217_albicocca.png",
     "story": "1. An orange fruit hanging from a tree. 2. Picking it gently. 3. Cutting it open to reveal the pit. 4. Tasting the sweet, soft apricot."
   },
   {
@@ -2176,7 +2176,7 @@
     "level": "Fondamentale",
     "meaning": "앨범",
     "pronunciation": "",
-    "image_path": "assets/images/218.webp",
+    "image_path": "assets/images/218_album.png",
     "story": "1. Opening a photo album on the table. 2. Seeing childhood pictures. 3. Laughing at funny memories. 4. Adding a new photo to the collection."
   },
   {
@@ -2186,7 +2186,7 @@
     "level": "Alto Uso",
     "meaning": "알코올",
     "pronunciation": "",
-    "image_path": "assets/images/219.webp",
+    "image_path": "assets/images/219_alcol.png",
     "story": "1. A bottle of wine being poured. 2. A beer mug with foam. 3. A 'No drinking and driving' sign. 4. A pharmacy shelf with rubbing alcohol."
   },
   {
@@ -2196,7 +2196,7 @@
     "level": "Fondamentale",
     "meaning": "어떤, 약간의",
     "pronunciation": "",
-    "image_path": "assets/images/220.webp",
+    "image_path": "assets/images/220_alcuno.png",
     "story": "1. Looking inside a nearly empty fridge. 2. Finding some leftover cheese. 3. Checking if any milk is left. 4. Making do with what little there is."
   },
   {
@@ -2206,7 +2206,7 @@
     "level": "Alta Disponibilità",
     "meaning": "알파벳",
     "pronunciation": "",
-    "image_path": "assets/images/221.webp",
+    "image_path": "assets/images/221_alfabeto.png",
     "story": "1. A child's ABC poster on the wall. 2. Pointing at the letter A. 3. Singing the alphabet song. 4. Writing all 26 letters on paper."
   },
   {
@@ -2216,7 +2216,7 @@
     "level": "Alta Disponibilità",
     "meaning": "해조, 조류",
     "pronunciation": "",
-    "image_path": "assets/images/222.webp",
+    "image_path": "assets/images/222_alga.png",
     "story": "1. Walking along a rocky beach. 2. Seeing green seaweed on the rocks. 3. A diver swimming through underwater kelp. 4. Seaweed used in sushi rolls."
   },
   {
@@ -2226,7 +2226,7 @@
     "level": "Alta Disponibilità",
     "meaning": "알제리의, 알제리인",
     "pronunciation": "",
-    "image_path": "assets/images/223.webp",
+    "image_path": "assets/images/223_algerino.png",
     "story": "1. A map of North Africa. 2. Pointing to Algeria, the largest African country. 3. The Algerian flag (green and white with red star). 4. The Sahara desert landscape."
   },
   {
@@ -2236,7 +2236,7 @@
     "level": "Alto Uso",
     "meaning": "외계인, 이질적인",
     "pronunciation": "",
-    "image_path": "assets/images/224.webp",
+    "image_path": "assets/images/224_alieno.png",
     "story": "1. A flying saucer in the night sky. 2. A green creature stepping out. 3. Raising a hand saying 'We come in peace'. 4. An alien encounter in the movies."
   },
   {
@@ -2246,7 +2246,7 @@
     "level": "Alto Uso",
     "meaning": "식품의, 식량의",
     "pronunciation": "",
-    "image_path": "assets/images/225.webp",
+    "image_path": "assets/images/225_alimentare.png",
     "story": "1. Walking through a supermarket aisle. 2. Reading 'Food Products' on a sign. 3. Checking nutritional labels. 4. Filling the cart with alimentary goods."
   },
   {
@@ -2256,7 +2256,7 @@
     "level": "Alto Uso",
     "meaning": "먹이다, 공급하다",
     "pronunciation": "",
-    "image_path": "assets/images/226.webp",
+    "image_path": "assets/images/226_alimentare_v.png",
     "story": "1. A mother bird bringing a worm. 2. Baby birds opening their beaks. 3. Feeding them one by one. 4. The chicks growing bigger each day."
   },
   {
@@ -2266,7 +2266,7 @@
     "level": "Alta Disponibilità",
     "meaning": "식료품점",
     "pronunciation": "",
-    "image_path": "assets/images/227.webp",
+    "image_path": "assets/images/227_alimentari.png",
     "story": "1. A small corner shop with a striped awning. 2. Fresh fruits and vegetables displayed outside. 3. The owner greeting customers warmly. 4. Buying bread, cheese, and ham."
   },
   {
@@ -2276,7 +2276,7 @@
     "level": "Alto Uso",
     "meaning": "영양, 식사",
     "pronunciation": "",
-    "image_path": "assets/images/228.webp",
+    "image_path": "assets/images/228_alimentazione.png",
     "story": "1. A food pyramid diagram. 2. Fruits, veggies, grains, and protein. 3. A balanced meal on a plate. 4. Healthy nutrition for a strong body."
   },
   {
@@ -2286,7 +2286,7 @@
     "level": "Alto Uso",
     "meaning": "음식, 식품",
     "pronunciation": "",
-    "image_path": "assets/images/229.webp",
+    "image_path": "assets/images/229_alimento.png",
     "story": "1. A table full of different dishes. 2. Pasta, salad, bread, and fruit. 3. Choosing what to eat. 4. Food that nourishes the body."
   },
   {
@@ -2296,7 +2296,7 @@
     "level": "Alta Disponibilità",
     "meaning": "입김, 숨결",
     "pronunciation": "",
-    "image_path": "assets/images/230.webp",
+    "image_path": "assets/images/230_alito.png",
     "story": "1. A cold winter morning. 2. Breathing out and seeing white mist. 3. Fogging up a glass window. 4. Drawing a smiley face in the breath."
   },
   {
@@ -2306,7 +2306,7 @@
     "level": "Alta Disponibilità",
     "meaning": "묶다, 잠그다",
     "pronunciation": "",
-    "image_path": "assets/images/231.webp",
+    "image_path": "assets/images/231_allacciare.png",
     "story": "1. Looking down at untied shoes. 2. Bending down. 3. Tying the laces in a bow. 4. Standing up ready to walk."
   },
   {
@@ -2316,7 +2316,7 @@
     "level": "Alta Disponibilità",
     "meaning": "침수시키다",
     "pronunciation": "",
-    "image_path": "assets/images/232.webp",
+    "image_path": "assets/images/232_allagare.png",
     "story": "1. Heavy rain pouring for days. 2. A river overflowing its banks. 3. Streets turning into rivers. 4. Houses flooded up to the windows."
   },
   {
@@ -2326,7 +2326,7 @@
     "level": "Alto Uso",
     "meaning": "넓히다",
     "pronunciation": "",
-    "image_path": "assets/images/233.webp",
+    "image_path": "assets/images/233_allargare.png",
     "story": "1. A narrow road with traffic jams. 2. Construction workers with machines. 3. Adding extra lanes. 4. The widened road flowing smoothly."
   },
   {
@@ -2336,7 +2336,7 @@
     "level": "Alta Disponibilità",
     "meaning": "경보를 울리다",
     "pronunciation": "",
-    "image_path": "assets/images/234.webp",
+    "image_path": "assets/images/234_allarmare.png",
     "story": "1. Smoke detected in a building. 2. Someone pulling the fire alarm. 3. A loud siren blaring. 4. Everyone evacuating in an orderly fashion."
   },
   {
@@ -2346,7 +2346,7 @@
     "level": "Alto Uso",
     "meaning": "경보, 경보기",
     "pronunciation": "",
-    "image_path": "assets/images/235.webp",
+    "image_path": "assets/images/235_allarme.png",
     "story": "1. An alarm clock ringing at 7 AM. 2. A car alarm going off in the parking lot. 3. A fire alarm flashing red. 4. All kinds of alarms alerting people."
   },
   {
@@ -2356,7 +2356,7 @@
     "level": "Alta Disponibilità",
     "meaning": "젖을 먹이다",
     "pronunciation": "",
-    "image_path": "assets/images/236.webp",
+    "image_path": "assets/images/236_allattare.png",
     "story": "1. A mother holding a newborn baby. 2. The baby crying for milk. 3. Breastfeeding the infant gently. 4. The baby falling asleep peacefully."
   },
   {
@@ -2366,7 +2366,7 @@
     "level": "Alto Uso",
     "meaning": "동맹",
     "pronunciation": "",
-    "image_path": "assets/images/237.webp",
+    "image_path": "assets/images/237_alleanza.png",
     "story": "1. Two medieval kings meeting. 2. Signing a treaty on parchment. 3. Shaking hands firmly. 4. Their armies marching together as allies."
   },
   {
@@ -2376,7 +2376,7 @@
     "level": "Alta Disponibilità",
     "meaning": "동맹을 맺다",
     "pronunciation": "",
-    "image_path": "assets/images/238.webp",
+    "image_path": "assets/images/238_allearsi.png",
     "story": "1. Two small companies struggling alone. 2. Discussing a partnership over coffee. 3. Signing a cooperation agreement. 4. Growing stronger together."
   },
   {
@@ -2386,7 +2386,7 @@
     "level": "Alto Uso",
     "meaning": "동맹국, 동맹한",
     "pronunciation": "",
-    "image_path": "assets/images/239.webp",
+    "image_path": "assets/images/239_alleato.png",
     "story": "1. A group of nations around a table. 2. Flags of allied countries displayed. 3. Working together on a common goal. 4. Stronger as united allies."
   },
   {
@@ -2396,7 +2396,7 @@
     "level": "Alto Uso",
     "meaning": "첨부 파일",
     "pronunciation": "",
-    "image_path": "assets/images/240.webp",
+    "image_path": "assets/images/240_allegato.png",
     "story": "1. Writing an email on a computer. 2. Clicking the paperclip icon. 3. Selecting a document to attach. 4. Sending the email with the attachment."
   },
   {
@@ -2406,7 +2406,7 @@
     "level": "Alta Disponibilità",
     "meaning": "가볍게 하다",
     "pronunciation": "",
-    "image_path": "assets/images/241.webp",
+    "image_path": "assets/images/241_alleggerire.png",
     "story": "1. A backpack that's too heavy. 2. Removing unnecessary books. 3. Taking out the water bottle. 4. The bag feels much lighter now."
   },
   {
@@ -2416,7 +2416,7 @@
     "level": "Alto Uso",
     "meaning": "기쁨, 즐거움",
     "pronunciation": "",
-    "image_path": "assets/images/242.webp",
+    "image_path": "assets/images/242_allegria.png",
     "story": "1. A child running to open birthday presents. 2. Jumping up and down with excitement. 3. Friends singing and dancing. 4. Pure joy and happiness."
   },
   {
@@ -2426,7 +2426,7 @@
     "level": "Alto Uso",
     "meaning": "즐거운, 쾌활한",
     "pronunciation": "",
-    "image_path": "assets/images/243.webp",
+    "image_path": "assets/images/243_allegro.png",
     "story": "1. A person whistling a happy tune. 2. Wearing bright, colorful clothes. 3. Smiling at everyone on the street. 4. Spreading cheerful energy everywhere."
   },
   {
@@ -2436,7 +2436,7 @@
     "level": "Alto Uso",
     "meaning": "훈련",
     "pronunciation": "",
-    "image_path": "assets/images/244.webp",
+    "image_path": "assets/images/244_allenamento.png",
     "story": "1. A soccer player lacing up cleats. 2. Doing warm-up stretches. 3. Running drills on the field. 4. Exhausted but stronger after training."
   },
   {
@@ -2446,7 +2446,7 @@
     "level": "Alto Uso",
     "meaning": "훈련하다",
     "pronunciation": "",
-    "image_path": "assets/images/245.webp",
+    "image_path": "assets/images/245_allenare.png",
     "story": "1. A boxing coach holding pads. 2. A boxer throwing punch combinations. 3. Sweating through intense rounds. 4. Getting ready for the big fight."
   },
   {
@@ -2456,7 +2456,7 @@
     "level": "Alto Uso",
     "meaning": "감독, 코치",
     "pronunciation": "",
-    "image_path": "assets/images/246.webp",
+    "image_path": "assets/images/246_allenatore.png",
     "story": "1. A man in a tracksuit on the sideline. 2. Shouting tactics to the team. 3. Drawing plays on a whiteboard. 4. Celebrating a victory with the players."
   },
   {
@@ -2466,7 +2466,7 @@
     "level": "Alta Disponibilità",
     "meaning": "느슨하게 하다",
     "pronunciation": "",
-    "image_path": "assets/images/247.webp",
+    "image_path": "assets/images/247_allentare.png",
     "story": "1. A belt that's too tight after dinner. 2. Reaching down to the buckle. 3. Loosening it by one notch. 4. Breathing comfortably again."
   },
   {
@@ -2476,7 +2476,7 @@
     "level": "Alta Disponibilità",
     "meaning": "알레르기",
     "pronunciation": "",
-    "image_path": "assets/images/248.webp",
+    "image_path": "assets/images/248_allergia.png",
     "story": "1. Spring flowers blooming everywhere. 2. Sneezing uncontrollably. 3. Eyes watering and nose running. 4. Taking an antihistamine for relief."
   },
   {
@@ -2486,7 +2486,7 @@
     "level": "Alto Uso",
     "meaning": "기르다, 사육하다",
     "pronunciation": "",
-    "image_path": "assets/images/249.webp",
+    "image_path": "assets/images/249_allevare.png",
     "story": "1. A farm with baby chicks. 2. Feeding them grain daily. 3. Keeping them warm in a coop. 4. The chicks growing into healthy hens."
   },
   {
@@ -2496,7 +2496,7 @@
     "level": "Alto Uso",
     "meaning": "학생, 제자",
     "pronunciation": "",
-    "image_path": "assets/images/250.webp",
+    "image_path": "assets/images/250_allievo.png",
     "story": "1. A classroom full of students. 2. A teacher writing on the board. 3. A student raising a hand to answer. 4. Getting an A on the test."
   },
   {
@@ -2506,7 +2506,7 @@
     "level": "Alta Disponibilità",
     "meaning": "정렬하다",
     "pronunciation": "",
-    "image_path": "assets/images/251.webp",
+    "image_path": "assets/images/251_allineare.png",
     "story": "1. Books scattered randomly on a shelf. 2. Taking them all down. 3. Arranging them by size and color. 4. A perfectly aligned bookshelf."
   },
   {
@@ -2516,7 +2516,7 @@
     "level": "Alto Uso",
     "meaning": "숙소",
     "pronunciation": "",
-    "image_path": "assets/images/252.webp",
+    "image_path": "assets/images/252_alloggio.png",
     "story": "1. Searching for a place to stay online. 2. Comparing hotels and hostels. 3. Booking a cozy apartment. 4. Arriving at the accommodation with bags."
   },
   {
@@ -2526,7 +2526,7 @@
     "level": "Fondamentale",
     "meaning": "멀리하다, 떼어놓다",
     "pronunciation": "",
-    "image_path": "assets/images/253.webp",
+    "image_path": "assets/images/253_allontanare.png",
     "story": "1. A dog getting too close to a cake. 2. Picking up the dog gently. 3. Moving it to another room. 4. Keeping the cake safe and untouched."
   },
   {
@@ -2536,7 +2536,7 @@
     "level": "Fondamentale",
     "meaning": "그때, 그러면",
     "pronunciation": "",
-    "image_path": "assets/images/254.webp",
+    "image_path": "assets/images/254_allora.png",
     "story": "1. Someone asking 'What did you do then?'. 2. Thinking back to that moment. 3. Remembering the exact events. 4. 'Well, then I decided to leave'."
   },
   {
@@ -2546,7 +2546,7 @@
     "level": "Alta Disponibilità",
     "meaning": "엄지발가락",
     "pronunciation": "",
-    "image_path": "assets/images/255.webp",
+    "image_path": "assets/images/255_alluce.png",
     "story": "1. Stubbing a toe on a table leg. 2. Hopping around in pain. 3. Looking down at the swollen big toe. 4. Putting ice on it carefully."
   },
   {
@@ -2556,7 +2556,7 @@
     "level": "Alto Uso",
     "meaning": "암시하다, 넌지시 말하다",
     "pronunciation": "",
-    "image_path": "assets/images/256.webp",
+    "image_path": "assets/images/256_alludere.png",
     "story": "1. A friend asking about birthday plans. 2. Dropping subtle hints about a surprise. 3. Winking and changing the subject. 4. Not saying it directly but hinting."
   },
   {
@@ -2566,7 +2566,7 @@
     "level": "Alta Disponibilità",
     "meaning": "알루미늄",
     "pronunciation": "",
-    "image_path": "assets/images/257.webp",
+    "image_path": "assets/images/257_alluminio.png",
     "story": "1. A shiny roll of aluminum foil. 2. Wrapping leftover food. 3. A crushed soda can for recycling. 4. Lightweight metal used everywhere."
   },
   {
@@ -2576,7 +2576,7 @@
     "level": "Fondamentale",
     "meaning": "늘이다, 길게 하다",
     "pronunciation": "",
-    "image_path": "assets/images/258.webp",
+    "image_path": "assets/images/258_allungare.png",
     "story": "1. A piece of dough on a table. 2. Rolling it with a pin. 3. Stretching it longer and thinner. 4. A perfectly elongated pasta shape."
   },
   {
@@ -2586,7 +2586,7 @@
     "level": "Alta Disponibilità",
     "meaning": "홍수",
     "pronunciation": "",
-    "image_path": "assets/images/259.webp",
+    "image_path": "assets/images/259_alluvione.png",
     "story": "1. Dark storm clouds gathering. 2. Torrential rain falling for hours. 3. Rivers bursting their banks. 4. A town submerged in floodwater."
   },
   {
@@ -2596,7 +2596,7 @@
     "level": "Fondamentale",
     "meaning": "적어도",
     "pronunciation": "",
-    "image_path": "assets/images/260.webp",
+    "image_path": "assets/images/260_almeno.png",
     "story": "1. Wanting to buy a car but having little money. 2. Checking the minimum price. 3. Finding a used one that works. 4. At least having basic transportation."
   },
   {
@@ -2606,7 +2606,7 @@
     "level": "Alto Uso",
     "meaning": "다소, 상당히",
     "pronunciation": "",
-    "image_path": "assets/images/261.webp",
+    "image_path": "assets/images/261_alquanto.png",
     "story": "1. Tasting a new dish. 2. Finding it somewhat spicy. 3. It's not terrible but not great. 4. A rather unusual flavor."
   },
   {
@@ -2616,7 +2616,7 @@
     "level": "Alta Disponibilità",
     "meaning": "그네",
     "pronunciation": "",
-    "image_path": "assets/images/262.webp",
+    "image_path": "assets/images/262_altalena.png",
     "story": "1. A playground with a wooden swing. 2. A child sitting on the seat. 3. Being pushed higher and higher. 4. Laughing as they swing back and forth."
   },
   {
@@ -2626,7 +2626,7 @@
     "level": "Alto Uso",
     "meaning": "매우, 고도로",
     "pronunciation": "",
-    "image_path": "assets/images/263.webp",
+    "image_path": "assets/images/263_altamente.png",
     "story": "1. A scientist in a lab coat. 2. Working on a highly complex experiment. 3. The results are extremely precise. 4. A highly successful research project."
   },
   {
@@ -2636,7 +2636,7 @@
     "level": "Alto Uso",
     "meaning": "제단",
     "pronunciation": "",
-    "image_path": "assets/images/264.webp",
+    "image_path": "assets/images/264_altare.png",
     "story": "1. Walking into an old church. 2. Seeing a decorated marble altar. 3. Candles and flowers placed on it. 4. A sacred place for worship."
   },
   {
@@ -2646,7 +2646,7 @@
     "level": "Alto Uso",
     "meaning": "변경하다, 바꾸다",
     "pronunciation": "",
-    "image_path": "assets/images/265.webp",
+    "image_path": "assets/images/265_alterare.png",
     "story": "1. A photo being edited on a computer. 2. Changing the colors and contrast. 3. The original image looking different. 4. The altered version saved as new."
   },
   {
@@ -2656,7 +2656,7 @@
     "level": "Alto Uso",
     "meaning": "교대하다, 번갈아 하다",
     "pronunciation": "",
-    "image_path": "assets/images/266.webp",
+    "image_path": "assets/images/266_alternare.png",
     "story": "1. Two drivers on a long road trip. 2. One drives for two hours. 3. Then they switch seats. 4. Taking turns alternating the driving."
   },
   {
@@ -2666,7 +2666,7 @@
     "level": "Alto Uso",
     "meaning": "대안",
     "pronunciation": "",
-    "image_path": "assets/images/267.webp",
+    "image_path": "assets/images/267_alternativa.png",
     "story": "1. A road blocked by construction. 2. Checking the GPS for another route. 3. Finding two alternative paths. 4. Choosing the faster option."
   },
   {
@@ -2676,7 +2676,7 @@
     "level": "Alto Uso",
     "meaning": "대안의",
     "pronunciation": "",
-    "image_path": "assets/images/268.webp",
+    "image_path": "assets/images/268_alternativo.png",
     "story": "1. A doctor suggesting standard medicine. 2. The patient asking about other options. 3. Trying herbal and natural remedies. 4. An alternative approach to healing."
   },
   {
@@ -2686,7 +2686,7 @@
     "level": "Alta Disponibilità",
     "meaning": "교대의, 번갈아 하는",
     "pronunciation": "",
-    "image_path": "assets/images/269.webp",
+    "image_path": "assets/images/269_alterno.png",
     "story": "1. Workers doing rotating shifts. 2. One team works mornings. 3. The other team works nights. 4. Alternating schedules throughout the week."
   },
   {
@@ -2696,7 +2696,7 @@
     "level": "Fondamentale",
     "meaning": "높이, 키",
     "pronunciation": "",
-    "image_path": "assets/images/270.webp",
+    "image_path": "assets/images/270_altezza.png",
     "story": "1. A child standing against a wall. 2. A parent marking their height with a pencil. 3. Measuring with a tape. 4. 'You've grown 5 centimeters!'"
   },
   {
@@ -2706,7 +2706,7 @@
     "level": "Fondamentale",
     "meaning": "높은",
     "pronunciation": "",
-    "image_path": "assets/images/271.webp",
+    "image_path": "assets/images/271_alto.png",
     "story": "1. Looking up at a skyscraper downtown. 2. A tall giraffe at the zoo. 3. A high mountain with snow. 4. Everything reaching toward the sky."
   },
   {
@@ -2716,7 +2716,7 @@
     "level": "Alta Disponibilità",
     "meaning": "남티롤의",
     "pronunciation": "",
-    "image_path": "assets/images/272.webp",
+    "image_path": "assets/images/272_altoatesino.png",
     "story": "1. A map of northern Italy. 2. The South Tyrol region highlighted. 3. Mountains with Austrian-style villages. 4. German and Italian signs side by side."
   },
   {
@@ -2726,7 +2726,7 @@
     "level": "Alta Disponibilità",
     "meaning": "고원",
     "pronunciation": "",
-    "image_path": "assets/images/273.webp",
+    "image_path": "assets/images/273_altopiano.png",
     "story": "1. Climbing a steep mountain trail. 2. Reaching a flat area at the top. 3. A wide, grassy plateau stretching out. 4. Spectacular views from the highland."
   },
   {
@@ -2736,7 +2736,7 @@
     "level": "Fondamentale",
     "meaning": "마찬가지로, 같은 만큼",
     "pronunciation": "",
-    "image_path": "assets/images/274.webp",
+    "image_path": "assets/images/274_altrettanto.png",
     "story": "1. Two friends both scoring 90 on a test. 2. One says 'Good job!' to the other. 3. The other replies 'Likewise, you too!'. 4. Both equally proud of the score."
   },
   {
@@ -2746,7 +2746,7 @@
     "level": "Fondamentale",
     "meaning": "그렇지 않으면",
     "pronunciation": "",
-    "image_path": "assets/images/275.webp",
+    "image_path": "assets/images/275_altrimenti.png",
     "story": "1. Setting an alarm for 7 AM. 2. 'Wake up, otherwise you'll be late.' 3. Imagining missing the bus. 4. Jumping out of bed immediately."
   },
   {
@@ -2756,7 +2756,7 @@
     "level": "Fondamentale",
     "meaning": "다른, 그 밖의",
     "pronunciation": "",
-    "image_path": "assets/images/276.webp",
+    "image_path": "assets/images/276_altro.png",
     "story": "1. Finishing one book on the shelf. 2. Reaching for another one. 3. Then yet another after that. 4. So many other books to read."
   },
   {
@@ -2766,7 +2766,7 @@
     "level": "Alto Uso",
     "meaning": "다른 곳에",
     "pronunciation": "",
-    "image_path": "assets/images/277.webp",
+    "image_path": "assets/images/277_altrove.png",
     "story": "1. Looking for keys in the kitchen. 2. Not finding them anywhere. 3. Thinking 'They must be elsewhere.' 4. Finding them in the coat pocket."
   },
   {
@@ -2776,7 +2776,7 @@
     "level": "Alto Uso",
     "meaning": "남의, 타인의",
     "pronunciation": "",
-    "image_path": "assets/images/278.webp",
+    "image_path": "assets/images/278_altrui.png",
     "story": "1. Seeing a shiny bicycle unlocked. 2. Thinking about touching it. 3. Remembering 'It belongs to someone else.' 4. Walking away respectfully."
   },
   {
@@ -2786,7 +2786,7 @@
     "level": "Alto Uso",
     "meaning": "학생, 생도",
     "pronunciation": "",
-    "image_path": "assets/images/279.webp",
+    "image_path": "assets/images/279_alunno.png",
     "story": "1. A school bell ringing in the morning. 2. Students walking into the classroom. 3. Opening textbooks on the desks. 4. A school day of learning begins."
   },
   {
@@ -2796,7 +2796,7 @@
     "level": "Alta Disponibilità",
     "meaning": "벌집",
     "pronunciation": "",
-    "image_path": "assets/images/280.webp",
+    "image_path": "assets/images/280_alveare.png",
     "story": "1. A wooden box in a garden. 2. Bees buzzing in and out. 3. Hexagonal honeycomb inside. 4. Golden honey dripping from the hive."
   },
   {
@@ -2806,7 +2806,7 @@
     "level": "Fondamentale",
     "meaning": "올리다, 들어올리다",
     "pronunciation": "",
-    "image_path": "assets/images/281.webp",
+    "image_path": "assets/images/281_alzare.png",
     "story": "1. A flag at the bottom of a pole. 2. Pulling the rope hand over hand. 3. The flag rising slowly. 4. Fluttering proudly at the top."
   },
   {
@@ -2816,7 +2816,7 @@
     "level": "Fondamentale",
     "meaning": "연인, 애호가",
     "pronunciation": "",
-    "image_path": "assets/images/282.webp",
+    "image_path": "assets/images/282_amante.png",
     "story": "1. Two people holding hands in a park. 2. A music lover at a concert. 3. A book lover in a library. 4. Passionate about what they love."
   },
   {
@@ -2826,7 +2826,7 @@
     "level": "Fondamentale",
     "meaning": "사랑하다",
     "pronunciation": "",
-    "image_path": "assets/images/283.webp",
+    "image_path": "assets/images/283_amare.png",
     "story": "1. A couple watching a sunset together. 2. A parent reading a bedtime story. 3. A heart drawn in the sand. 4. Love expressed in many ways."
   },
   {
@@ -2836,7 +2836,7 @@
     "level": "Alto Uso",
     "meaning": "쓴, 씁쓸한",
     "pronunciation": "",
-    "image_path": "assets/images/284.webp",
+    "image_path": "assets/images/284_amaro.png",
     "story": "1. Biting into dark chocolate. 2. The bitter taste surprising the mouth. 3. Making a sour face. 4. Needing something sweet to balance it."
   },
   {
@@ -2846,7 +2846,7 @@
     "level": "Alto Uso",
     "meaning": "사랑받는",
     "pronunciation": "",
-    "image_path": "assets/images/285.webp",
+    "image_path": "assets/images/285_amato.png",
     "story": "1. A person receiving many birthday cards. 2. Surrounded by friends and family. 3. Gifts piling up on the table. 4. Feeling truly loved and cherished."
   },
   {
@@ -2856,7 +2856,7 @@
     "level": "Alta Disponibilità",
     "meaning": "대사관",
     "pronunciation": "",
-    "image_path": "assets/images/286.webp",
+    "image_path": "assets/images/286_ambasciata.png",
     "story": "1. A large building with a country's flag. 2. Security guards at the entrance. 3. People applying for visas inside. 4. The official embassy of a nation."
   },
   {
@@ -2866,7 +2866,7 @@
     "level": "Fondamentale",
     "meaning": "환경의",
     "pronunciation": "",
-    "image_path": "assets/images/287.webp",
+    "image_path": "assets/images/287_ambientale.png",
     "story": "1. A factory emitting smoke. 2. Protesters with green signs. 3. 'Protect the environment!' banners. 4. New environmental laws being passed."
   },
   {
@@ -2876,7 +2876,7 @@
     "level": "Alto Uso",
     "meaning": "배경을 설정하다",
     "pronunciation": "",
-    "image_path": "assets/images/288.webp",
+    "image_path": "assets/images/288_ambientare.png",
     "story": "1. A novelist writing a story. 2. Choosing a setting: 1920s Paris. 3. Describing cobblestone streets and cafés. 4. The story perfectly set in its time."
   },
   {
@@ -2886,7 +2886,7 @@
     "level": "Fondamentale",
     "meaning": "환경, 분위기",
     "pronunciation": "",
-    "image_path": "assets/images/289.webp",
+    "image_path": "assets/images/289_ambiente.png",
     "story": "1. Walking into a cozy restaurant. 2. Soft music and dim lighting. 3. Plants and warm wooden furniture. 4. A relaxing and pleasant environment."
   },
   {
@@ -2896,7 +2896,7 @@
     "level": "Fondamentale",
     "meaning": "범위, 영역",
     "pronunciation": "",
-    "image_path": "assets/images/290.webp",
+    "image_path": "assets/images/290_ambito.png",
     "story": "1. A scientist studying marine biology. 2. An artist working in digital design. 3. A lawyer specializing in contracts. 4. Each expert in their own field."
   },
   {
@@ -2906,7 +2906,7 @@
     "level": "Alto Uso",
     "meaning": "야망, 포부",
     "pronunciation": "",
-    "image_path": "assets/images/291.webp",
+    "image_path": "assets/images/291_ambizione.png",
     "story": "1. A student dreaming of becoming a doctor. 2. Studying hard every night. 3. Getting accepted to medical school. 4. Ambition driving success forward."
   },
   {
@@ -2916,7 +2916,7 @@
     "level": "Alto Uso",
     "meaning": "구급차",
     "pronunciation": "",
-    "image_path": "assets/images/292.webp",
+    "image_path": "assets/images/292_ambulanza.png",
     "story": "1. Someone calling 911 urgently. 2. Sirens wailing in the distance. 3. A white ambulance racing through traffic. 4. Paramedics rushing to help."
   },
   {
@@ -2926,7 +2926,7 @@
     "level": "Fondamentale",
     "meaning": "미국의, 미국인",
     "pronunciation": "",
-    "image_path": "assets/images/293.webp",
+    "image_path": "assets/images/293_americano.png",
     "story": "1. The Statue of Liberty standing tall. 2. A baseball game on a sunny day. 3. A yellow taxi in New York. 4. The American dream in action."
   },
   {
@@ -2936,7 +2936,7 @@
     "level": "Fondamentale",
     "meaning": "우정",
     "pronunciation": "",
-    "image_path": "assets/images/294.webp",
+    "image_path": "assets/images/294_amicizia.png",
     "story": "1. Two kids meeting on the first day of school. 2. Sharing lunch and playing together. 3. Growing up as best friends. 4. A lifelong bond of friendship."
   },
   {
@@ -2946,7 +2946,7 @@
     "level": "Fondamentale",
     "meaning": "친구",
     "pronunciation": "",
-    "image_path": "assets/images/295.webp",
+    "image_path": "assets/images/295_amico.png",
     "story": "1. Calling a friend after a bad day. 2. Meeting for coffee and talking. 3. Laughing until the sadness fades. 4. A true friend always there for you."
   },
   {
@@ -2956,7 +2956,7 @@
     "level": "Alta Disponibilità",
     "meaning": "찌그러뜨리다",
     "pronunciation": "",
-    "image_path": "assets/images/296.webp",
+    "image_path": "assets/images/296_ammaccare.png",
     "story": "1. Dropping a phone on the ground. 2. Picking it up and seeing a dent. 3. A car bumper with a small ding. 4. Surfaces bruised by impact."
   },
   {
@@ -2966,7 +2966,7 @@
     "level": "Alto Uso",
     "meaning": "병에 걸리다",
     "pronunciation": "",
-    "image_path": "assets/images/297.webp",
+    "image_path": "assets/images/297_ammalarsi.png",
     "story": "1. Getting caught in the rain without an umbrella. 2. Feeling a sore throat the next day. 3. Temperature rising to a fever. 4. Staying in bed, having fallen ill."
   },
   {
@@ -2976,7 +2976,7 @@
     "level": "Alta Disponibilità",
     "meaning": "아픈, 병든",
     "pronunciation": "",
-    "image_path": "assets/images/298.webp",
+    "image_path": "assets/images/298_ammalato.png",
     "story": "1. A person coughing in bed. 2. A thermometer showing high temperature. 3. Medicine and tissues on the nightstand. 4. Waiting to recover from sickness."
   },
   {
@@ -2986,7 +2986,7 @@
     "level": "Alta Disponibilità",
     "meaning": "수갑을 채우다",
     "pronunciation": "",
-    "image_path": "assets/images/299.webp",
+    "image_path": "assets/images/299_ammanettare.png",
     "story": "1. A police officer chasing a suspect. 2. Catching them at a dead end. 3. Clicking handcuffs onto their wrists. 4. Leading them to the patrol car."
   },
   {
@@ -2996,7 +2996,7 @@
     "level": "Alta Disponibilità",
     "meaning": "쌓다, 모으다",
     "pronunciation": "",
-    "image_path": "assets/images/300.webp",
+    "image_path": "assets/images/300_ammassare.png",
     "story": "1. Collecting coins in a piggy bank. 2. Adding more every week. 3. The bank getting heavier and heavier. 4. Breaking it open to find a pile of savings."
   },
   {
@@ -3006,7 +3006,7 @@
     "level": "Alta Disponibilità",
     "meaning": "더미, 무더기",
     "pronunciation": "",
-    "image_path": "assets/images/301.webp",
+    "image_path": "assets/images/301_ammasso.png",
     "story": "1. A garage full of old boxes. 2. Clothes piled on a chair. 3. Books stacked in a messy heap. 4. A massive pile of stuff everywhere."
   },
   {
@@ -3016,7 +3016,7 @@
     "level": "Fondamentale",
     "meaning": "죽이다",
     "pronunciation": "",
-    "image_path": "assets/images/302.webp",
+    "image_path": "assets/images/302_ammazzare.png",
     "story": "1. A detective arriving at a crime scene. 2. Yellow tape around the area. 3. Clues scattered on the ground. 4. Solving a mystery about what happened."
   },
   {
@@ -3026,7 +3026,7 @@
     "level": "Fondamentale",
     "meaning": "인정하다, 허용하다",
     "pronunciation": "",
-    "image_path": "assets/images/303.webp",
+    "image_path": "assets/images/303_ammettere.png",
     "story": "1. A student caught cheating on a test. 2. The teacher asking what happened. 3. The student admitting the truth. 4. Accepting the consequences honestly."
   },
   {
@@ -3036,7 +3036,7 @@
     "level": "Alto Uso",
     "meaning": "행정의",
     "pronunciation": "",
-    "image_path": "assets/images/304.webp",
+    "image_path": "assets/images/304_amministrativo.png",
     "story": "1. An office building with many departments. 2. Workers filing paperwork and forms. 3. A stamp of approval on a document. 4. Administrative work keeping things running."
   },
   {
@@ -3046,7 +3046,7 @@
     "level": "Alto Uso",
     "meaning": "관리자",
     "pronunciation": "",
-    "image_path": "assets/images/305.webp",
+    "image_path": "assets/images/305_amministratore.png",
     "story": "1. A person sitting behind a big desk. 2. Managing budgets and schedules. 3. Making important decisions for a company. 4. The administrator keeping order."
   },
   {
@@ -3056,7 +3056,7 @@
     "level": "Fondamentale",
     "meaning": "행정, 관리",
     "pronunciation": "",
-    "image_path": "assets/images/306.webp",
+    "image_path": "assets/images/306_amministrazione.png",
     "story": "1. A government building with a flag. 2. Officials processing applications. 3. Public services being organized. 4. Administration serving the people."
   },
   {
@@ -3066,7 +3066,7 @@
     "level": "Alto Uso",
     "meaning": "감탄하다",
     "pronunciation": "",
-    "image_path": "assets/images/307.webp",
+    "image_path": "assets/images/307_ammirare.png",
     "story": "1. Standing before a famous painting. 2. Eyes wide with wonder. 3. Walking around a beautiful garden. 4. Admiring the beauty of art and nature."
   },
   {
@@ -3076,7 +3076,7 @@
     "level": "Alto Uso",
     "meaning": "입학, 입장",
     "pronunciation": "",
-    "image_path": "assets/images/308.webp",
+    "image_path": "assets/images/308_ammissione.png",
     "story": "1. Applying to a prestigious university. 2. Checking the mailbox nervously. 3. Opening the letter: 'You are admitted!' 4. Celebrating the admission with family."
   },
   {
@@ -3086,7 +3086,7 @@
     "level": "Alta Disponibilità",
     "meaning": "가구를 비치하다",
     "pronunciation": "",
-    "image_path": "assets/images/309.webp",
+    "image_path": "assets/images/309_ammobiliare.png",
     "story": "1. An empty apartment with bare walls. 2. Choosing furniture at a store. 3. Assembling a sofa and bookshelf. 4. A fully furnished, cozy home."
   },
   {
@@ -3096,7 +3096,7 @@
     "level": "Alta Disponibilità",
     "meaning": "암모니아",
     "pronunciation": "",
-    "image_path": "assets/images/310.webp",
+    "image_path": "assets/images/310_ammoniaca.png",
     "story": "1. Opening a cleaning product bottle. 2. A strong, sharp chemical smell. 3. Wearing gloves for safety. 4. Using ammonia to clean tough stains."
   },
   {
@@ -3106,7 +3106,7 @@
     "level": "Alta Disponibilità",
     "meaning": "섬유유연제",
     "pronunciation": "",
-    "image_path": "assets/images/311.webp",
+    "image_path": "assets/images/311_ammorbidente.png",
     "story": "1. Taking clothes out of the washer. 2. They feel rough and stiff. 3. Adding fabric softener to the next load. 4. Clothes now soft and fragrant."
   },
   {
@@ -3116,7 +3116,7 @@
     "level": "Alta Disponibilità",
     "meaning": "쌓아 올리다",
     "pronunciation": "",
-    "image_path": "assets/images/312.webp",
+    "image_path": "assets/images/312_ammucchiare.png",
     "story": "1. A child playing with building blocks. 2. Stacking them higher and higher. 3. The tower wobbling dangerously. 4. It crashes into a pile on the floor."
   },
   {
@@ -3126,7 +3126,7 @@
     "level": "Alta Disponibilità",
     "meaning": "곰팡이가 피다",
     "pronunciation": "",
-    "image_path": "assets/images/313.webp",
+    "image_path": "assets/images/313_ammuffire.png",
     "story": "1. Forgetting bread in the back of the pantry. 2. Finding it weeks later. 3. Green and white mold growing on it. 4. Throwing the moldy bread away."
   },
   {
@@ -3136,7 +3136,7 @@
     "level": "Fondamentale",
     "meaning": "사랑",
     "pronunciation": "",
-    "image_path": "assets/images/314.webp",
+    "image_path": "assets/images/314_amore.png",
     "story": "1. A heart-shaped box of chocolates. 2. A couple walking hand in hand. 3. A parent hugging their child. 4. Love expressed in many forms."
   },
   {
@@ -3146,7 +3146,7 @@
     "level": "Alto Uso",
     "meaning": "사랑스러운",
     "pronunciation": "",
-    "image_path": "assets/images/315.webp",
+    "image_path": "assets/images/315_amoroso.png",
     "story": "1. A couple sharing a warm embrace. 2. Writing love letters to each other. 3. Leaving sweet notes on the fridge. 4. A loving and tender relationship."
   },
   {
@@ -3156,7 +3156,7 @@
     "level": "Alto Uso",
     "meaning": "넓게, 충분히",
     "pronunciation": "",
-    "image_path": "assets/images/316.webp",
+    "image_path": "assets/images/316_ampiamente.png",
     "story": "1. A topic discussed in great detail. 2. Covering every aspect thoroughly. 3. Widely recognized by experts. 4. Amply documented and researched."
   },
   {
@@ -3166,7 +3166,7 @@
     "level": "Fondamentale",
     "meaning": "넓은, 광활한",
     "pronunciation": "",
-    "image_path": "assets/images/317.webp",
+    "image_path": "assets/images/317_ampio.png",
     "story": "1. A spacious living room with high ceilings. 2. Wide open fields stretching far. 3. A broad boulevard with trees. 4. Plenty of room to move around."
   },
   {
@@ -3176,7 +3176,7 @@
     "level": "Alta Disponibilità",
     "meaning": "앰프, 증폭기",
     "pronunciation": "",
-    "image_path": "assets/images/318.webp",
+    "image_path": "assets/images/318_amplificatore.png",
     "story": "1. A guitarist plugging into a small amp. 2. Turning the volume knob up. 3. The sound booming through the room. 4. The amplifier making music louder."
   },
   {
@@ -3186,7 +3186,7 @@
     "level": "Alta Disponibilità",
     "meaning": "무알코올의",
     "pronunciation": "",
-    "image_path": "assets/images/319.webp",
+    "image_path": "assets/images/319_analcolico.png",
     "story": "1. At a bar looking at the menu. 2. Choosing a non-alcoholic cocktail. 3. A colorful mocktail served in a glass. 4. Enjoying the taste without alcohol."
   },
   {
@@ -3196,7 +3196,7 @@
     "level": "Alta Disponibilità",
     "meaning": "문맹자",
     "pronunciation": "",
-    "image_path": "assets/images/320.webp",
+    "image_path": "assets/images/320_analfabeta.png",
     "story": "1. A person staring at a letter they received. 2. Unable to read the words. 3. Asking a neighbor for help. 4. Deciding to join a literacy class."
   },
   {
@@ -3206,7 +3206,7 @@
     "level": "Fondamentale",
     "meaning": "분석",
     "pronunciation": "",
-    "image_path": "assets/images/321.webp",
+    "image_path": "assets/images/321_analisi.png",
     "story": "1. A scientist looking at data charts. 2. Breaking down complex numbers. 3. Writing conclusions in a report. 4. A thorough analysis of the results."
   },
   {
@@ -3216,7 +3216,7 @@
     "level": "Alto Uso",
     "meaning": "분석적인",
     "pronunciation": "",
-    "image_path": "assets/images/322.webp",
+    "image_path": "assets/images/322_analitico.png",
     "story": "1. A detective examining clues carefully. 2. Connecting dots on a board. 3. Using logic to solve the case. 4. An analytical mind at work."
   },
   {
@@ -3226,7 +3226,7 @@
     "level": "Fondamentale",
     "meaning": "분석하다",
     "pronunciation": "",
-    "image_path": "assets/images/323.webp",
+    "image_path": "assets/images/323_analizzare.png",
     "story": "1. Blood samples in test tubes. 2. Placing them under a microscope. 3. Running tests and comparisons. 4. Analyzing every detail for answers."
   },
   {
@@ -3236,7 +3236,7 @@
     "level": "Alto Uso",
     "meaning": "유사한",
     "pronunciation": "",
-    "image_path": "assets/images/324.webp",
+    "image_path": "assets/images/324_analogo.png",
     "story": "1. Comparing two different smartphones. 2. Similar screen sizes and cameras. 3. Nearly identical features. 4. An analogous experience overall."
   },
   {
@@ -3246,7 +3246,7 @@
     "level": "Alta Disponibilità",
     "meaning": "파인애플",
     "pronunciation": "",
-    "image_path": "assets/images/325.webp",
+    "image_path": "assets/images/325_ananas.png",
     "story": "1. A tropical fruit stand on the beach. 2. A spiky yellow pineapple. 3. Cutting it into juicy rings. 4. The sweet and tangy taste of ananas."
   },
   {
@@ -3256,7 +3256,7 @@
     "level": "Alta Disponibilità",
     "meaning": "무정부주의자",
     "pronunciation": "",
-    "image_path": "assets/images/326.webp",
+    "image_path": "assets/images/326_anarchico.png",
     "story": "1. A black flag with a circle-A symbol. 2. Protesters demanding no government. 3. Graffiti on city walls. 4. An anarchist movement in action."
   },
   {
@@ -3266,7 +3266,7 @@
     "level": "Alta Disponibilità",
     "meaning": "오리",
     "pronunciation": "",
-    "image_path": "assets/images/327.webp",
+    "image_path": "assets/images/327_anatra.png",
     "story": "1. A pond in a peaceful park. 2. A mother duck swimming with ducklings. 3. Quacking loudly for bread. 4. Ducks wadgling on the grass."
   },
   {
@@ -3276,7 +3276,7 @@
     "level": "Fondamentale",
     "meaning": "~도, 역시",
     "pronunciation": "",
-    "image_path": "assets/images/328.webp",
+    "image_path": "assets/images/328_anche.png",
     "story": "1. 'I like pizza.' 'Me too!' 2. Both friends ordering the same dish. 3. Even the waiter agrees. 4. Everyone also loves the dessert."
   },
   {
@@ -3286,7 +3286,7 @@
     "level": "Alta Disponibilità",
     "meaning": "안코나 출신의",
     "pronunciation": "",
-    "image_path": "assets/images/329.webp",
+    "image_path": "assets/images/329_anconetano.png",
     "story": "1. A map pointing to Ancona on Italy's coast. 2. The city's port and harbor. 3. Local people enjoying seafood. 4. Proud to be from Ancona."
   },
   {
@@ -3296,7 +3296,7 @@
     "level": "Fondamentale",
     "meaning": "아직, 다시",
     "pronunciation": "",
-    "image_path": "assets/images/330.webp",
+    "image_path": "assets/images/330_ancora.png",
     "story": "1. Asking 'Are we there yet?' in the car. 2. 'Not yet, we need more time.' 3. Waiting for the cookies to bake. 4. Still not ready, but almost!"
   },
   {
@@ -3306,7 +3306,7 @@
     "level": "Alto Uso",
     "meaning": "닻을 내리다, 고정하다",
     "pronunciation": "",
-    "image_path": "assets/images/331.webp",
+    "image_path": "assets/images/331_ancorare.png",
     "story": "1. A sailboat arriving at harbor. 2. Dropping the heavy anchor. 3. The chain rattling into the water. 4. The boat securely anchored in place."
   },
   {
@@ -3316,7 +3316,7 @@
     "level": "Alto Uso",
     "meaning": "추세, 경향",
     "pronunciation": "",
-    "image_path": "assets/images/332.webp",
+    "image_path": "assets/images/332_andamento.png",
     "story": "1. A stock market chart on a screen. 2. Prices going up and down. 3. Analysts studying the trend. 4. Tracking the performance over time."
   },
   {
@@ -3326,7 +3326,7 @@
     "level": "Fondamentale",
     "meaning": "가다",
     "pronunciation": "",
-    "image_path": "assets/images/333.webp",
+    "image_path": "assets/images/333_andare.png",
     "story": "1. Putting on shoes at the door. 2. Walking down the street. 3. Taking a bus to the city. 4. Going wherever life takes you."
   },
   {
@@ -3336,7 +3336,7 @@
     "level": "Alta Disponibilità",
     "meaning": "가는 길, 편도",
     "pronunciation": "",
-    "image_path": "assets/images/334.webp",
+    "image_path": "assets/images/334_andata.png",
     "story": "1. At the train station ticket counter. 2. 'One way or round trip?' 3. Buying a one-way ticket. 4. The outward journey begins."
   },
   {
@@ -3346,7 +3346,7 @@
     "level": "Fondamentale",
     "meaning": "반지",
     "pronunciation": "",
-    "image_path": "assets/images/335.webp",
+    "image_path": "assets/images/335_anello.png",
     "story": "1. A jeweler crafting a gold ring. 2. A diamond set in the center. 3. Getting down on one knee. 4. 'Will you marry me?' with the ring."
   },
   {
@@ -3356,7 +3356,7 @@
     "level": "Fondamentale",
     "meaning": "천사",
     "pronunciation": "",
-    "image_path": "assets/images/336.webp",
+    "image_path": "assets/images/336_angelo.png",
     "story": "1. A painting of a figure with wings. 2. A golden halo above the head. 3. Watching over people from above. 4. A guardian angel protecting everyone."
   },
   {
@@ -3366,7 +3366,7 @@
     "level": "Alto Uso",
     "meaning": "모서리의, 각의",
     "pronunciation": "",
-    "image_path": "assets/images/337.webp",
+    "image_path": "assets/images/337_angolare.png",
     "story": "1. A geometry class learning about angles. 2. Measuring a 90-degree corner. 3. An angular shape on the board. 4. Sharp corners everywhere."
   },
   {
@@ -3376,7 +3376,7 @@
     "level": "Fondamentale",
     "meaning": "모서리, 구석",
     "pronunciation": "",
-    "image_path": "assets/images/338.webp",
+    "image_path": "assets/images/338_angolo.png",
     "story": "1. Two streets meeting at an intersection. 2. A cafe on the corner. 3. Turning left at the angle. 4. A cozy corner table inside."
   },
   {
@@ -3386,7 +3386,7 @@
     "level": "Alto Uso",
     "meaning": "고뇌, 번민",
     "pronunciation": "",
-    "image_path": "assets/images/339.webp",
+    "image_path": "assets/images/339_angoscia.png",
     "story": "1. A person sitting alone in the dark. 2. Hands covering their face. 3. Feeling a deep sense of dread. 4. Overwhelmed by anguish and worry."
   },
   {
@@ -3396,7 +3396,7 @@
     "level": "Fondamentale",
     "meaning": "영혼, 마음",
     "pronunciation": "",
-    "image_path": "assets/images/340.webp",
+    "image_path": "assets/images/340_anima.png",
     "story": "1. A person meditating peacefully. 2. A glowing light inside the chest. 3. The spirit feeling free. 4. Connecting with the innermost soul."
   },
   {
@@ -3406,7 +3406,7 @@
     "level": "Fondamentale",
     "meaning": "동물 (명사)",
     "pronunciation": "",
-    "image_path": "assets/images/341.webp",
+    "image_path": "assets/images/341_animale.png",
     "story": "1. A zoo with many different creatures. 2. Lions, elephants, and monkeys. 3. A dog playing in the park. 4. Animals of all shapes and sizes."
   },
   {
@@ -3416,7 +3416,7 @@
     "level": "Alto Uso",
     "meaning": "동물의 (형용사)",
     "pronunciation": "",
-    "image_path": "assets/images/342.webp",
+    "image_path": "assets/images/342_animale_agg.png",
     "story": "1. Studying animal behavior in class. 2. Watching a documentary on instincts. 3. Animal instinct driving survival. 4. The animal kingdom's fascinating rules."
   },
   {
@@ -3426,7 +3426,7 @@
     "level": "Fondamentale",
     "meaning": "활기를 불어넣다",
     "pronunciation": "",
-    "image_path": "assets/images/343.webp",
+    "image_path": "assets/images/343_animare.png",
     "story": "1. A quiet party with nobody dancing. 2. The DJ changing to upbeat music. 3. People starting to dance and laugh. 4. The room now animated and alive."
   },
   {
@@ -3436,7 +3436,7 @@
     "level": "Alto Uso",
     "meaning": "활기 있는",
     "pronunciation": "",
-    "image_path": "assets/images/344.webp",
+    "image_path": "assets/images/344_animato.png",
     "story": "1. A lively marketplace full of colors. 2. People chatting and bargaining. 3. Musicians playing on the street. 4. An animated and bustling scene."
   },
   {
@@ -3446,7 +3446,7 @@
     "level": "Alto Uso",
     "meaning": "정신, 용기",
     "pronunciation": "",
-    "image_path": "assets/images/345.webp",
+    "image_path": "assets/images/345_animo.png",
     "story": "1. A soldier preparing for a challenge. 2. Taking a deep breath. 3. Summoning courage from within. 4. 'Coraggio! Have spirit!' someone shouts."
   },
   {
@@ -3456,7 +3456,7 @@
     "level": "Alta Disponibilità",
     "meaning": "물을 타다, 희석하다",
     "pronunciation": "",
-    "image_path": "assets/images/346.webp",
+    "image_path": "assets/images/346_annacquare.png",
     "story": "1. A glass of strong juice. 2. Adding water to dilute it. 3. Stirring the weakened mixture. 4. The flavor now watered down."
   },
   {
@@ -3466,7 +3466,7 @@
     "level": "Alta Disponibilità",
     "meaning": "물을 주다",
     "pronunciation": "",
-    "image_path": "assets/images/347.webp",
+    "image_path": "assets/images/347_annaffiare.png",
     "story": "1. A garden of flowers on a hot day. 2. Filling a watering can. 3. Sprinkling water on each plant. 4. The flowers perking up happily."
   },
   {
@@ -3476,7 +3476,7 @@
     "level": "Alta Disponibilità",
     "meaning": "안개가 끼게 하다",
     "pronunciation": "",
-    "image_path": "assets/images/348.webp",
+    "image_path": "assets/images/348_annebbiare.png",
     "story": "1. A cold morning with fog rolling in. 2. Glasses fogging up indoors. 3. Car windshield covered in mist. 4. Everything clouded and hard to see."
   },
   {
@@ -3486,7 +3486,7 @@
     "level": "Alto Uso",
     "meaning": "기념일",
     "pronunciation": "",
-    "image_path": "assets/images/349.webp",
+    "image_path": "assets/images/349_anniversario.png",
     "story": "1. A couple looking at old wedding photos. 2. A calendar circled on a special date. 3. Celebrating with dinner and cake. 4. Happy anniversary together."
   },
   {
@@ -3496,7 +3496,7 @@
     "level": "Fondamentale",
     "meaning": "년, 해",
     "pronunciation": "",
-    "image_path": "assets/images/350.webp",
+    "image_path": "assets/images/350_anno.png",
     "story": "1. A calendar showing January 1st. 2. Twelve months passing one by one. 3. Seasons changing through the year. 4. December 31st – another year ends."
   },
   {
@@ -3506,7 +3506,7 @@
     "level": "Alta Disponibilità",
     "meaning": "매듭짓다",
     "pronunciation": "",
-    "image_path": "assets/images/351.webp",
+    "image_path": "assets/images/351_annodare.png",
     "story": "1. A sailor holding a thick rope. 2. Looping it around a post. 3. Pulling it tight into a knot. 4. The rope securely tied."
   },
   {
@@ -3516,7 +3516,7 @@
     "level": "Alto Uso",
     "meaning": "지루하게 하다",
     "pronunciation": "",
-    "image_path": "assets/images/352.webp",
+    "image_path": "assets/images/352_annoiare.png",
     "story": "1. Sitting in a long, boring lecture. 2. Eyes getting heavy. 3. Doodling on the notebook. 4. Yawning from pure boredom."
   },
   {
@@ -3526,7 +3526,7 @@
     "level": "Alto Uso",
     "meaning": "적어두다, 메모하다",
     "pronunciation": "",
-    "image_path": "assets/images/353.webp",
+    "image_path": "assets/images/353_annotare.png",
     "story": "1. A professor saying something important. 2. Grabbing a pen quickly. 3. Writing it down in a notebook. 4. Notes ready for later study."
   },
   {
@@ -3536,7 +3536,7 @@
     "level": "Alto Uso",
     "meaning": "연례의, 매년의",
     "pronunciation": "",
-    "image_path": "assets/images/354.webp",
+    "image_path": "assets/images/354_annuale.png",
     "story": "1. An invitation to the annual company party. 2. It happens every year in December. 3. Employees gathering to celebrate. 4. A yearly tradition everyone enjoys."
   },
   {
@@ -4004,36 +4004,40 @@
     "word": "appassionato",
     "gender": "p.pass., agg., s.m.",
     "level": "Alto Uso",
-    "meaning": "",
+    "meaning": "열정적인, 열광적인",
     "pronunciation": "",
-    "image_path": "assets/images/401.webp"
+    "image_path": "assets/images/401.webp",
+    "story": "1. Listening to jazz music with closed eyes. 2. Collecting rare vinyl records. 3. Attending every concert of a favorite band. 4. A passionate fan devoted to music."
   },
   {
     "id": 402,
     "word": "appello",
     "gender": "s.m.",
     "level": "Alto Uso",
-    "meaning": "",
+    "meaning": "호소, 호명, 항소",
     "pronunciation": "",
-    "image_path": "assets/images/402.webp"
+    "image_path": "assets/images/402.webp",
+    "story": "1. A courtroom with a judge at the bench. 2. A lawyer making a final plea. 3. Calling out names from a list. 4. An appeal for justice heard by all."
   },
   {
     "id": 403,
     "word": "appena",
     "gender": "avv., cong.",
     "level": "Fondamentale",
-    "meaning": "",
+    "meaning": "겨우, ~하자마자",
     "pronunciation": "",
-    "image_path": "assets/images/403.webp"
+    "image_path": "assets/images/403.webp",
+    "story": "1. The alarm clock ringing at dawn. 2. Eyes barely open, still half asleep. 3. Just barely catching the train. 4. Arriving just in time, barely making it."
   },
   {
     "id": 404,
     "word": "appendere",
     "gender": "v.tr.",
     "level": "Alto Uso",
-    "meaning": "",
+    "meaning": "걸다, 매달다",
     "pronunciation": "",
-    "image_path": "assets/images/404.webp"
+    "image_path": "assets/images/404.webp",
+    "story": "1. A coat hanging on a hook by the door. 2. A picture frame hung on the wall. 3. Laundry hanging on a clothesline. 4. Hanging things up neatly in the closet."
   },
   {
     "id": 405,
