@@ -8,13 +8,22 @@ class AssetImageService {
   static Future<Set<String>> _loadAssetPaths() async {
     if (_normalizedAssetPaths != null) return _normalizedAssetPaths!;
 
-    final manifestJson = await rootBundle.loadString('AssetManifest.json');
-    final Map<String, dynamic> manifestMap =
-        json.decode(manifestJson) as Map<String, dynamic>;
+    // Newer Flutter versions may not include AssetManifest.json on web.
+    // Use AssetManifest API first, then fallback to legacy json manifest.
+    Iterable<String> assetKeys;
+    try {
+      final manifest = await AssetManifest.loadFromAssetBundle(rootBundle);
+      assetKeys = manifest.listAssets();
+    } catch (_) {
+      final manifestJson = await rootBundle.loadString('AssetManifest.json');
+      final Map<String, dynamic> manifestMap =
+          json.decode(manifestJson) as Map<String, dynamic>;
+      assetKeys = manifestMap.keys;
+    }
 
     // Flutter web can expose keys like `assets/assets/...`.
     // Normalize to `assets/...` so app paths match consistently.
-    _normalizedAssetPaths = manifestMap.keys.map(_normalizeAssetKey).toSet();
+    _normalizedAssetPaths = assetKeys.map(_normalizeAssetKey).toSet();
     return _normalizedAssetPaths!;
   }
 
