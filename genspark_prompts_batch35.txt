@@ -1,0 +1,500 @@
+Image ID: 1855
+Word: danno
+Story: 1. Discovering 'danno' for the first time. 2. Seeing 'danno' in its natural context. 3. A person interacting with 'danno'. 4. 'danno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'danno'.
+Panel 1: Discovering 'danno' for the first time
+Panel 2: Seeing 'danno' in its natural context
+Panel 3: A person interacting with 'danno'
+Panel 4: 'danno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "danno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1856
+Word: dannoso
+Story: 1. Seeing something that is clearly 'dannoso'. 2. Comparing two things, one is 'dannoso' and one is not. 3. A person pointing at something 'dannoso' and explaining. 4. A memorable example of something very 'dannoso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dannoso'.
+Panel 1: Seeing something that is clearly 'dannoso'
+Panel 2: Comparing two things, one is 'dannoso' and one is not
+Panel 3: A person pointing at something 'dannoso' and explaining
+Panel 4: A memorable example of something very 'dannoso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dannoso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1857
+Word: danza
+Story: 1. Discovering 'danza' for the first time. 2. Seeing 'danza' in its natural context. 3. A person interacting with 'danza'. 4. 'danza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'danza'.
+Panel 1: Discovering 'danza' for the first time
+Panel 2: Seeing 'danza' in its natural context
+Panel 3: A person interacting with 'danza'
+Panel 4: 'danza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "danza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1858
+Word: dappertutto
+Story: 1. A scene where something happens 'dappertutto'. 2. Showing the manner or degree of 'dappertutto'. 3. Contrasting doing something 'dappertutto' vs not. 4. A clear example of 'dappertutto' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dappertutto'.
+Panel 1: A scene where something happens 'dappertutto'
+Panel 2: Showing the manner or degree of 'dappertutto'
+Panel 3: Contrasting doing something 'dappertutto' vs not
+Panel 4: A clear example of 'dappertutto' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dappertutto (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1859
+Word: dare
+Story: 1. A person thinking about the action of 'dare'. 2. Starting to perform the action 'dare'. 3. Actively doing 'dare' with full effort. 4. Successfully completing the action 'dare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dare'.
+Panel 1: A person thinking about the action of 'dare'
+Panel 2: Starting to perform the action 'dare'
+Panel 3: Actively doing 'dare' with full effort
+Panel 4: Successfully completing the action 'dare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dare (v.tr. e intr., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1860
+Word: data
+Story: 1. Discovering 'data' for the first time. 2. Seeing 'data' in its natural context. 3. A person interacting with 'data'. 4. 'data' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'data'.
+Panel 1: Discovering 'data' for the first time
+Panel 2: Seeing 'data' in its natural context
+Panel 3: A person interacting with 'data'
+Panel 4: 'data' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "data (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1861
+Word: dato
+Story: 1. Encountering someone or something described as 'dato'. 2. Recognizing the quality of 'dato' in a scene. 3. A vivid example showing 'dato' clearly. 4. Understanding the full meaning of 'dato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dato'.
+Panel 1: Encountering someone or something described as 'dato'
+Panel 2: Recognizing the quality of 'dato' in a scene
+Panel 3: A vivid example showing 'dato' clearly
+Panel 4: Understanding the full meaning of 'dato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1862
+Word: dattero
+Story: 1. Discovering 'dattero' for the first time. 2. Seeing 'dattero' in its natural context. 3. A person interacting with 'dattero'. 4. 'dattero' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dattero'.
+Panel 1: Discovering 'dattero' for the first time
+Panel 2: Seeing 'dattero' in its natural context
+Panel 3: A person interacting with 'dattero'
+Panel 4: 'dattero' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dattero (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1863
+Word: davanti
+Story: 1. A scene where something happens 'davanti'. 2. Showing the manner or degree of 'davanti'. 3. Contrasting doing something 'davanti' vs not. 4. A clear example of 'davanti' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'davanti'.
+Panel 1: A scene where something happens 'davanti'
+Panel 2: Showing the manner or degree of 'davanti'
+Panel 3: Contrasting doing something 'davanti' vs not
+Panel 4: A clear example of 'davanti' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "davanti (avv., agg.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1864
+Word: davanzale
+Story: 1. Discovering 'davanzale' for the first time. 2. Seeing 'davanzale' in its natural context. 3. A person interacting with 'davanzale'. 4. 'davanzale' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'davanzale'.
+Panel 1: Discovering 'davanzale' for the first time
+Panel 2: Seeing 'davanzale' in its natural context
+Panel 3: A person interacting with 'davanzale'
+Panel 4: 'davanzale' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "davanzale (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1865
+Word: davvero
+Story: 1. A scene where something happens 'davvero'. 2. Showing the manner or degree of 'davvero'. 3. Contrasting doing something 'davvero' vs not. 4. A clear example of 'davvero' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'davvero'.
+Panel 1: A scene where something happens 'davvero'
+Panel 2: Showing the manner or degree of 'davvero'
+Panel 3: Contrasting doing something 'davvero' vs not
+Panel 4: A clear example of 'davvero' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "davvero (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1866
+Word: dea
+Story: 1. Discovering 'dea' for the first time. 2. Seeing 'dea' in its natural context. 3. A person interacting with 'dea'. 4. 'dea' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dea'.
+Panel 1: Discovering 'dea' for the first time
+Panel 2: Seeing 'dea' in its natural context
+Panel 3: A person interacting with 'dea'
+Panel 4: 'dea' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dea (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1867
+Word: debito
+Story: 1. Discovering 'debito' for the first time. 2. Seeing 'debito' in its natural context. 3. A person interacting with 'debito'. 4. 'debito' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'debito'.
+Panel 1: Discovering 'debito' for the first time
+Panel 2: Seeing 'debito' in its natural context
+Panel 3: A person interacting with 'debito'
+Panel 4: 'debito' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "debito (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1868
+Word: debole
+Story: 1. Encountering someone or something described as 'debole'. 2. Recognizing the quality of 'debole' in a scene. 3. A vivid example showing 'debole' clearly. 4. Understanding the full meaning of 'debole'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'debole'.
+Panel 1: Encountering someone or something described as 'debole'
+Panel 2: Recognizing the quality of 'debole' in a scene
+Panel 3: A vivid example showing 'debole' clearly
+Panel 4: Understanding the full meaning of 'debole'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "debole (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1869
+Word: debolezza
+Story: 1. Discovering 'debolezza' for the first time. 2. Seeing 'debolezza' in its natural context. 3. A person interacting with 'debolezza'. 4. 'debolezza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'debolezza'.
+Panel 1: Discovering 'debolezza' for the first time
+Panel 2: Seeing 'debolezza' in its natural context
+Panel 3: A person interacting with 'debolezza'
+Panel 4: 'debolezza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "debolezza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1870
+Word: decennio
+Story: 1. Discovering 'decennio' for the first time. 2. Seeing 'decennio' in its natural context. 3. A person interacting with 'decennio'. 4. 'decennio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decennio'.
+Panel 1: Discovering 'decennio' for the first time
+Panel 2: Seeing 'decennio' in its natural context
+Panel 3: A person interacting with 'decennio'
+Panel 4: 'decennio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decennio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1871
+Word: decidere
+Story: 1. A person thinking about the action of 'decidere'. 2. Starting to perform the action 'decidere'. 3. Actively doing 'decidere' with full effort. 4. Successfully completing the action 'decidere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decidere'.
+Panel 1: A person thinking about the action of 'decidere'
+Panel 2: Starting to perform the action 'decidere'
+Panel 3: Actively doing 'decidere' with full effort
+Panel 4: Successfully completing the action 'decidere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decidere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1872
+Word: decina
+Story: 1. Discovering 'decina' for the first time. 2. Seeing 'decina' in its natural context. 3. A person interacting with 'decina'. 4. 'decina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decina'.
+Panel 1: Discovering 'decina' for the first time
+Panel 2: Seeing 'decina' in its natural context
+Panel 3: A person interacting with 'decina'
+Panel 4: 'decina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1873
+Word: decisamente
+Story: 1. A scene where something happens 'decisamente'. 2. Showing the manner or degree of 'decisamente'. 3. Contrasting doing something 'decisamente' vs not. 4. A clear example of 'decisamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decisamente'.
+Panel 1: A scene where something happens 'decisamente'
+Panel 2: Showing the manner or degree of 'decisamente'
+Panel 3: Contrasting doing something 'decisamente' vs not
+Panel 4: A clear example of 'decisamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decisamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1874
+Word: decisione
+Story: 1. Discovering 'decisione' for the first time. 2. Seeing 'decisione' in its natural context. 3. A person interacting with 'decisione'. 4. 'decisione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decisione'.
+Panel 1: Discovering 'decisione' for the first time
+Panel 2: Seeing 'decisione' in its natural context
+Panel 3: A person interacting with 'decisione'
+Panel 4: 'decisione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decisione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1875
+Word: decisivo
+Story: 1. Seeing something that is clearly 'decisivo'. 2. Comparing two things, one is 'decisivo' and one is not. 3. A person pointing at something 'decisivo' and explaining. 4. A memorable example of something very 'decisivo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decisivo'.
+Panel 1: Seeing something that is clearly 'decisivo'
+Panel 2: Comparing two things, one is 'decisivo' and one is not
+Panel 3: A person pointing at something 'decisivo' and explaining
+Panel 4: A memorable example of something very 'decisivo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decisivo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1876
+Word: deciso
+Story: 1. Seeing something that is clearly 'deciso'. 2. Comparing two things, one is 'deciso' and one is not. 3. A person pointing at something 'deciso' and explaining. 4. A memorable example of something very 'deciso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'deciso'.
+Panel 1: Seeing something that is clearly 'deciso'
+Panel 2: Comparing two things, one is 'deciso' and one is not
+Panel 3: A person pointing at something 'deciso' and explaining
+Panel 4: A memorable example of something very 'deciso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "deciso (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1877
+Word: decorare
+Story: 1. A person thinking about the action of 'decorare'. 2. Starting to perform the action 'decorare'. 3. Actively doing 'decorare' with full effort. 4. Successfully completing the action 'decorare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decorare'.
+Panel 1: A person thinking about the action of 'decorare'
+Panel 2: Starting to perform the action 'decorare'
+Panel 3: Actively doing 'decorare' with full effort
+Panel 4: Successfully completing the action 'decorare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decorare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1878
+Word: decorato
+Story: 1. Encountering someone or something described as 'decorato'. 2. Recognizing the quality of 'decorato' in a scene. 3. A vivid example showing 'decorato' clearly. 4. Understanding the full meaning of 'decorato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decorato'.
+Panel 1: Encountering someone or something described as 'decorato'
+Panel 2: Recognizing the quality of 'decorato' in a scene
+Panel 3: A vivid example showing 'decorato' clearly
+Panel 4: Understanding the full meaning of 'decorato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decorato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1879
+Word: decorazione
+Story: 1. Discovering 'decorazione' for the first time. 2. Seeing 'decorazione' in its natural context. 3. A person interacting with 'decorazione'. 4. 'decorazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decorazione'.
+Panel 1: Discovering 'decorazione' for the first time
+Panel 2: Seeing 'decorazione' in its natural context
+Panel 3: A person interacting with 'decorazione'
+Panel 4: 'decorazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decorazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1880
+Word: decoroso
+Story: 1. Seeing something that is clearly 'decoroso'. 2. Comparing two things, one is 'decoroso' and one is not. 3. A person pointing at something 'decoroso' and explaining. 4. A memorable example of something very 'decoroso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decoroso'.
+Panel 1: Seeing something that is clearly 'decoroso'
+Panel 2: Comparing two things, one is 'decoroso' and one is not
+Panel 3: A person pointing at something 'decoroso' and explaining
+Panel 4: A memorable example of something very 'decoroso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decoroso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1881
+Word: decreto
+Story: 1. Discovering 'decreto' for the first time. 2. Seeing 'decreto' in its natural context. 3. A person interacting with 'decreto'. 4. 'decreto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decreto'.
+Panel 1: Discovering 'decreto' for the first time
+Panel 2: Seeing 'decreto' in its natural context
+Panel 3: A person interacting with 'decreto'
+Panel 4: 'decreto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decreto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1882
+Word: dedica
+Story: 1. Discovering 'dedica' for the first time. 2. Seeing 'dedica' in its natural context. 3. A person interacting with 'dedica'. 4. 'dedica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dedica'.
+Panel 1: Discovering 'dedica' for the first time
+Panel 2: Seeing 'dedica' in its natural context
+Panel 3: A person interacting with 'dedica'
+Panel 4: 'dedica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dedica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1883
+Word: dedicare
+Story: 1. A person thinking about the action of 'dedicare'. 2. Starting to perform the action 'dedicare'. 3. Actively doing 'dedicare' with full effort. 4. Successfully completing the action 'dedicare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dedicare'.
+Panel 1: A person thinking about the action of 'dedicare'
+Panel 2: Starting to perform the action 'dedicare'
+Panel 3: Actively doing 'dedicare' with full effort
+Panel 4: Successfully completing the action 'dedicare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dedicare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1884
+Word: dedurre
+Story: 1. A person thinking about the action of 'dedurre'. 2. Starting to perform the action 'dedurre'. 3. Actively doing 'dedurre' with full effort. 4. Successfully completing the action 'dedurre' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dedurre'.
+Panel 1: A person thinking about the action of 'dedurre'
+Panel 2: Starting to perform the action 'dedurre'
+Panel 3: Actively doing 'dedurre' with full effort
+Panel 4: Successfully completing the action 'dedurre' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dedurre (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1885
+Word: deficiente
+Story: 1. Encountering someone or something described as 'deficiente'. 2. Recognizing the quality of 'deficiente' in a scene. 3. A vivid example showing 'deficiente' clearly. 4. Understanding the full meaning of 'deficiente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'deficiente'.
+Panel 1: Encountering someone or something described as 'deficiente'
+Panel 2: Recognizing the quality of 'deficiente' in a scene
+Panel 3: A vivid example showing 'deficiente' clearly
+Panel 4: Understanding the full meaning of 'deficiente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "deficiente (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1886
+Word: definire
+Story: 1. A person thinking about the action of 'definire'. 2. Starting to perform the action 'definire'. 3. Actively doing 'definire' with full effort. 4. Successfully completing the action 'definire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'definire'.
+Panel 1: A person thinking about the action of 'definire'
+Panel 2: Starting to perform the action 'definire'
+Panel 3: Actively doing 'definire' with full effort
+Panel 4: Successfully completing the action 'definire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "definire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1887
+Word: definitivamente
+Story: 1. A scene where something happens 'definitivamente'. 2. Showing the manner or degree of 'definitivamente'. 3. Contrasting doing something 'definitivamente' vs not. 4. A clear example of 'definitivamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'definitivamente'.
+Panel 1: A scene where something happens 'definitivamente'
+Panel 2: Showing the manner or degree of 'definitivamente'
+Panel 3: Contrasting doing something 'definitivamente' vs not
+Panel 4: A clear example of 'definitivamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "definitivamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1888
+Word: definitivo
+Story: 1. Encountering someone or something described as 'definitivo'. 2. Recognizing the quality of 'definitivo' in a scene. 3. A vivid example showing 'definitivo' clearly. 4. Understanding the full meaning of 'definitivo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'definitivo'.
+Panel 1: Encountering someone or something described as 'definitivo'
+Panel 2: Recognizing the quality of 'definitivo' in a scene
+Panel 3: A vivid example showing 'definitivo' clearly
+Panel 4: Understanding the full meaning of 'definitivo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "definitivo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1889
+Word: definizione
+Story: 1. Discovering 'definizione' for the first time. 2. Seeing 'definizione' in its natural context. 3. A person interacting with 'definizione'. 4. 'definizione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'definizione'.
+Panel 1: Discovering 'definizione' for the first time
+Panel 2: Seeing 'definizione' in its natural context
+Panel 3: A person interacting with 'definizione'
+Panel 4: 'definizione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "definizione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1890
+Word: deformare
+Story: 1. A person thinking about the action of 'deformare'. 2. Starting to perform the action 'deformare'. 3. Actively doing 'deformare' with full effort. 4. Successfully completing the action 'deformare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'deformare'.
+Panel 1: A person thinking about the action of 'deformare'
+Panel 2: Starting to perform the action 'deformare'
+Panel 3: Actively doing 'deformare' with full effort
+Panel 4: Successfully completing the action 'deformare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "deformare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1891
+Word: deforme
+Story: 1. Encountering someone or something described as 'deforme'. 2. Recognizing the quality of 'deforme' in a scene. 3. A vivid example showing 'deforme' clearly. 4. Understanding the full meaning of 'deforme'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'deforme'.
+Panel 1: Encountering someone or something described as 'deforme'
+Panel 2: Recognizing the quality of 'deforme' in a scene
+Panel 3: A vivid example showing 'deforme' clearly
+Panel 4: Understanding the full meaning of 'deforme'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "deforme (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1892
+Word: defunto
+Story: 1. Encountering someone or something described as 'defunto'. 2. Recognizing the quality of 'defunto' in a scene. 3. A vivid example showing 'defunto' clearly. 4. Understanding the full meaning of 'defunto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'defunto'.
+Panel 1: Encountering someone or something described as 'defunto'
+Panel 2: Recognizing the quality of 'defunto' in a scene
+Panel 3: A vivid example showing 'defunto' clearly
+Panel 4: Understanding the full meaning of 'defunto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "defunto (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1893
+Word: degno
+Story: 1. Seeing something that is clearly 'degno'. 2. Comparing two things, one is 'degno' and one is not. 3. A person pointing at something 'degno' and explaining. 4. A memorable example of something very 'degno'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'degno'.
+Panel 1: Seeing something that is clearly 'degno'
+Panel 2: Comparing two things, one is 'degno' and one is not
+Panel 3: A person pointing at something 'degno' and explaining
+Panel 4: A memorable example of something very 'degno'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "degno (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1894
+Word: degradare
+Story: 1. A person thinking about the action of 'degradare'. 2. Starting to perform the action 'degradare'. 3. Actively doing 'degradare' with full effort. 4. Successfully completing the action 'degradare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'degradare'.
+Panel 1: A person thinking about the action of 'degradare'
+Panel 2: Starting to perform the action 'degradare'
+Panel 3: Actively doing 'degradare' with full effort
+Panel 4: Successfully completing the action 'degradare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "degradare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1895
+Word: delegare
+Story: 1. A person thinking about the action of 'delegare'. 2. Starting to perform the action 'delegare'. 3. Actively doing 'delegare' with full effort. 4. Successfully completing the action 'delegare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delegare'.
+Panel 1: A person thinking about the action of 'delegare'
+Panel 2: Starting to perform the action 'delegare'
+Panel 3: Actively doing 'delegare' with full effort
+Panel 4: Successfully completing the action 'delegare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delegare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1896
+Word: delegato
+Story: 1. Encountering someone or something described as 'delegato'. 2. Recognizing the quality of 'delegato' in a scene. 3. A vivid example showing 'delegato' clearly. 4. Understanding the full meaning of 'delegato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delegato'.
+Panel 1: Encountering someone or something described as 'delegato'
+Panel 2: Recognizing the quality of 'delegato' in a scene
+Panel 3: A vivid example showing 'delegato' clearly
+Panel 4: Understanding the full meaning of 'delegato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delegato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1897
+Word: delegazione
+Story: 1. Discovering 'delegazione' for the first time. 2. Seeing 'delegazione' in its natural context. 3. A person interacting with 'delegazione'. 4. 'delegazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delegazione'.
+Panel 1: Discovering 'delegazione' for the first time
+Panel 2: Seeing 'delegazione' in its natural context
+Panel 3: A person interacting with 'delegazione'
+Panel 4: 'delegazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delegazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1898
+Word: delfino
+Story: 1. Discovering 'delfino' for the first time. 2. Seeing 'delfino' in its natural context. 3. A person interacting with 'delfino'. 4. 'delfino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delfino'.
+Panel 1: Discovering 'delfino' for the first time
+Panel 2: Seeing 'delfino' in its natural context
+Panel 3: A person interacting with 'delfino'
+Panel 4: 'delfino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delfino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1899
+Word: delicatezza
+Story: 1. Discovering 'delicatezza' for the first time. 2. Seeing 'delicatezza' in its natural context. 3. A person interacting with 'delicatezza'. 4. 'delicatezza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delicatezza'.
+Panel 1: Discovering 'delicatezza' for the first time
+Panel 2: Seeing 'delicatezza' in its natural context
+Panel 3: A person interacting with 'delicatezza'
+Panel 4: 'delicatezza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delicatezza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1900
+Word: delicato
+Story: 1. Encountering someone or something described as 'delicato'. 2. Recognizing the quality of 'delicato' in a scene. 3. A vivid example showing 'delicato' clearly. 4. Understanding the full meaning of 'delicato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delicato'.
+Panel 1: Encountering someone or something described as 'delicato'
+Panel 2: Recognizing the quality of 'delicato' in a scene
+Panel 3: A vivid example showing 'delicato' clearly
+Panel 4: Understanding the full meaning of 'delicato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delicato (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1901
+Word: delinquente
+Story: 1. Encountering someone or something described as 'delinquente'. 2. Recognizing the quality of 'delinquente' in a scene. 3. A vivid example showing 'delinquente' clearly. 4. Understanding the full meaning of 'delinquente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delinquente'.
+Panel 1: Encountering someone or something described as 'delinquente'
+Panel 2: Recognizing the quality of 'delinquente' in a scene
+Panel 3: A vivid example showing 'delinquente' clearly
+Panel 4: Understanding the full meaning of 'delinquente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delinquente (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1902
+Word: delirare
+Story: 1. A person thinking about the action of 'delirare'. 2. Starting to perform the action 'delirare'. 3. Actively doing 'delirare' with full effort. 4. Successfully completing the action 'delirare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delirare'.
+Panel 1: A person thinking about the action of 'delirare'
+Panel 2: Starting to perform the action 'delirare'
+Panel 3: Actively doing 'delirare' with full effort
+Panel 4: Successfully completing the action 'delirare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delirare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1903
+Word: delirio
+Story: 1. Discovering 'delirio' for the first time. 2. Seeing 'delirio' in its natural context. 3. A person interacting with 'delirio'. 4. 'delirio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delirio'.
+Panel 1: Discovering 'delirio' for the first time
+Panel 2: Seeing 'delirio' in its natural context
+Panel 3: A person interacting with 'delirio'
+Panel 4: 'delirio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delirio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1904
+Word: delitto
+Story: 1. Discovering 'delitto' for the first time. 2. Seeing 'delitto' in its natural context. 3. A person interacting with 'delitto'. 4. 'delitto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delitto'.
+Panel 1: Discovering 'delitto' for the first time
+Panel 2: Seeing 'delitto' in its natural context
+Panel 3: A person interacting with 'delitto'
+Panel 4: 'delitto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delitto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

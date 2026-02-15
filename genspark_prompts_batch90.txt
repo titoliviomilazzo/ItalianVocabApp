@@ -1,0 +1,500 @@
+Image ID: 4605
+Word: pesare
+Story: 1. A person thinking about the action of 'pesare'. 2. Starting to perform the action 'pesare'. 3. Actively doing 'pesare' with full effort. 4. Successfully completing the action 'pesare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pesare'.
+Panel 1: A person thinking about the action of 'pesare'
+Panel 2: Starting to perform the action 'pesare'
+Panel 3: Actively doing 'pesare' with full effort
+Panel 4: Successfully completing the action 'pesare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pesare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4606
+Word: pesca
+Story: 1. Discovering 'pesca' for the first time. 2. Seeing 'pesca' in its natural context. 3. A person interacting with 'pesca'. 4. 'pesca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pesca'.
+Panel 1: Discovering 'pesca' for the first time
+Panel 2: Seeing 'pesca' in its natural context
+Panel 3: A person interacting with 'pesca'
+Panel 4: 'pesca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pesca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4607
+Word: pesca
+Story: 1. Encountering someone or something described as 'pesca'. 2. Recognizing the quality of 'pesca' in a scene. 3. A vivid example showing 'pesca' clearly. 4. Understanding the full meaning of 'pesca'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pesca'.
+Panel 1: Encountering someone or something described as 'pesca'
+Panel 2: Recognizing the quality of 'pesca' in a scene
+Panel 3: A vivid example showing 'pesca' clearly
+Panel 4: Understanding the full meaning of 'pesca'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pesca (s.f., s.m.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4608
+Word: pescare
+Story: 1. A person thinking about the action of 'pescare'. 2. Starting to perform the action 'pescare'. 3. Actively doing 'pescare' with full effort. 4. Successfully completing the action 'pescare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pescare'.
+Panel 1: A person thinking about the action of 'pescare'
+Panel 2: Starting to perform the action 'pescare'
+Panel 3: Actively doing 'pescare' with full effort
+Panel 4: Successfully completing the action 'pescare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pescare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4609
+Word: pescatore
+Story: 1. Encountering someone or something described as 'pescatore'. 2. Recognizing the quality of 'pescatore' in a scene. 3. A vivid example showing 'pescatore' clearly. 4. Understanding the full meaning of 'pescatore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pescatore'.
+Panel 1: Encountering someone or something described as 'pescatore'
+Panel 2: Recognizing the quality of 'pescatore' in a scene
+Panel 3: A vivid example showing 'pescatore' clearly
+Panel 4: Understanding the full meaning of 'pescatore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pescatore (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4610
+Word: pesce
+Story: 1. Discovering 'pesce' for the first time. 2. Seeing 'pesce' in its natural context. 3. A person interacting with 'pesce'. 4. 'pesce' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pesce'.
+Panel 1: Discovering 'pesce' for the first time
+Panel 2: Seeing 'pesce' in its natural context
+Panel 3: A person interacting with 'pesce'
+Panel 4: 'pesce' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pesce (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4611
+Word: peschereccio
+Story: 1. Encountering someone or something described as 'peschereccio'. 2. Recognizing the quality of 'peschereccio' in a scene. 3. A vivid example showing 'peschereccio' clearly. 4. Understanding the full meaning of 'peschereccio'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'peschereccio'.
+Panel 1: Encountering someone or something described as 'peschereccio'
+Panel 2: Recognizing the quality of 'peschereccio' in a scene
+Panel 3: A vivid example showing 'peschereccio' clearly
+Panel 4: Understanding the full meaning of 'peschereccio'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "peschereccio (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4612
+Word: pescheria
+Story: 1. Discovering 'pescheria' for the first time. 2. Seeing 'pescheria' in its natural context. 3. A person interacting with 'pescheria'. 4. 'pescheria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pescheria'.
+Panel 1: Discovering 'pescheria' for the first time
+Panel 2: Seeing 'pescheria' in its natural context
+Panel 3: A person interacting with 'pescheria'
+Panel 4: 'pescheria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pescheria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4613
+Word: pesco
+Story: 1. Discovering 'pesco' for the first time. 2. Seeing 'pesco' in its natural context. 3. A person interacting with 'pesco'. 4. 'pesco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pesco'.
+Panel 1: Discovering 'pesco' for the first time
+Panel 2: Seeing 'pesco' in its natural context
+Panel 3: A person interacting with 'pesco'
+Panel 4: 'pesco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pesco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4614
+Word: peso
+Story: 1. Discovering 'peso' for the first time. 2. Seeing 'peso' in its natural context. 3. A person interacting with 'peso'. 4. 'peso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'peso'.
+Panel 1: Discovering 'peso' for the first time
+Panel 2: Seeing 'peso' in its natural context
+Panel 3: A person interacting with 'peso'
+Panel 4: 'peso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "peso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4615
+Word: pessimo
+Story: 1. Seeing something that is clearly 'pessimo'. 2. Comparing two things, one is 'pessimo' and one is not. 3. A person pointing at something 'pessimo' and explaining. 4. A memorable example of something very 'pessimo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pessimo'.
+Panel 1: Seeing something that is clearly 'pessimo'
+Panel 2: Comparing two things, one is 'pessimo' and one is not
+Panel 3: A person pointing at something 'pessimo' and explaining
+Panel 4: A memorable example of something very 'pessimo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pessimo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4616
+Word: pestare
+Story: 1. A person thinking about the action of 'pestare'. 2. Starting to perform the action 'pestare'. 3. Actively doing 'pestare' with full effort. 4. Successfully completing the action 'pestare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pestare'.
+Panel 1: A person thinking about the action of 'pestare'
+Panel 2: Starting to perform the action 'pestare'
+Panel 3: Actively doing 'pestare' with full effort
+Panel 4: Successfully completing the action 'pestare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pestare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4617
+Word: peste
+Story: 1. Discovering 'peste' for the first time. 2. Seeing 'peste' in its natural context. 3. A person interacting with 'peste'. 4. 'peste' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'peste'.
+Panel 1: Discovering 'peste' for the first time
+Panel 2: Seeing 'peste' in its natural context
+Panel 3: A person interacting with 'peste'
+Panel 4: 'peste' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "peste (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4618
+Word: pesto
+Story: 1. Encountering someone or something described as 'pesto'. 2. Recognizing the quality of 'pesto' in a scene. 3. A vivid example showing 'pesto' clearly. 4. Understanding the full meaning of 'pesto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pesto'.
+Panel 1: Encountering someone or something described as 'pesto'
+Panel 2: Recognizing the quality of 'pesto' in a scene
+Panel 3: A vivid example showing 'pesto' clearly
+Panel 4: Understanding the full meaning of 'pesto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pesto (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4619
+Word: petalo
+Story: 1. Discovering 'petalo' for the first time. 2. Seeing 'petalo' in its natural context. 3. A person interacting with 'petalo'. 4. 'petalo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'petalo'.
+Panel 1: Discovering 'petalo' for the first time
+Panel 2: Seeing 'petalo' in its natural context
+Panel 3: A person interacting with 'petalo'
+Panel 4: 'petalo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "petalo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4620
+Word: petardo
+Story: 1. Discovering 'petardo' for the first time. 2. Seeing 'petardo' in its natural context. 3. A person interacting with 'petardo'. 4. 'petardo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'petardo'.
+Panel 1: Discovering 'petardo' for the first time
+Panel 2: Seeing 'petardo' in its natural context
+Panel 3: A person interacting with 'petardo'
+Panel 4: 'petardo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "petardo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4621
+Word: petroliera
+Story: 1. Discovering 'petroliera' for the first time. 2. Seeing 'petroliera' in its natural context. 3. A person interacting with 'petroliera'. 4. 'petroliera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'petroliera'.
+Panel 1: Discovering 'petroliera' for the first time
+Panel 2: Seeing 'petroliera' in its natural context
+Panel 3: A person interacting with 'petroliera'
+Panel 4: 'petroliera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "petroliera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4622
+Word: petrolio
+Story: 1. Discovering 'petrolio' for the first time. 2. Seeing 'petrolio' in its natural context. 3. A person interacting with 'petrolio'. 4. 'petrolio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'petrolio'.
+Panel 1: Discovering 'petrolio' for the first time
+Panel 2: Seeing 'petrolio' in its natural context
+Panel 3: A person interacting with 'petrolio'
+Panel 4: 'petrolio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "petrolio (s.m., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4623
+Word: pettegolezzo
+Story: 1. Discovering 'pettegolezzo' for the first time. 2. Seeing 'pettegolezzo' in its natural context. 3. A person interacting with 'pettegolezzo'. 4. 'pettegolezzo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pettegolezzo'.
+Panel 1: Discovering 'pettegolezzo' for the first time
+Panel 2: Seeing 'pettegolezzo' in its natural context
+Panel 3: A person interacting with 'pettegolezzo'
+Panel 4: 'pettegolezzo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pettegolezzo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4624
+Word: pettegolo
+Story: 1. Encountering someone or something described as 'pettegolo'. 2. Recognizing the quality of 'pettegolo' in a scene. 3. A vivid example showing 'pettegolo' clearly. 4. Understanding the full meaning of 'pettegolo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pettegolo'.
+Panel 1: Encountering someone or something described as 'pettegolo'
+Panel 2: Recognizing the quality of 'pettegolo' in a scene
+Panel 3: A vivid example showing 'pettegolo' clearly
+Panel 4: Understanding the full meaning of 'pettegolo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pettegolo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4625
+Word: pettinare
+Story: 1. A person thinking about the action of 'pettinare'. 2. Starting to perform the action 'pettinare'. 3. Actively doing 'pettinare' with full effort. 4. Successfully completing the action 'pettinare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pettinare'.
+Panel 1: A person thinking about the action of 'pettinare'
+Panel 2: Starting to perform the action 'pettinare'
+Panel 3: Actively doing 'pettinare' with full effort
+Panel 4: Successfully completing the action 'pettinare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pettinare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4626
+Word: pettinatura
+Story: 1. Discovering 'pettinatura' for the first time. 2. Seeing 'pettinatura' in its natural context. 3. A person interacting with 'pettinatura'. 4. 'pettinatura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pettinatura'.
+Panel 1: Discovering 'pettinatura' for the first time
+Panel 2: Seeing 'pettinatura' in its natural context
+Panel 3: A person interacting with 'pettinatura'
+Panel 4: 'pettinatura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pettinatura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4627
+Word: pettine
+Story: 1. Discovering 'pettine' for the first time. 2. Seeing 'pettine' in its natural context. 3. A person interacting with 'pettine'. 4. 'pettine' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pettine'.
+Panel 1: Discovering 'pettine' for the first time
+Panel 2: Seeing 'pettine' in its natural context
+Panel 3: A person interacting with 'pettine'
+Panel 4: 'pettine' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pettine (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4628
+Word: pettirosso
+Story: 1. Discovering 'pettirosso' for the first time. 2. Seeing 'pettirosso' in its natural context. 3. A person interacting with 'pettirosso'. 4. 'pettirosso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pettirosso'.
+Panel 1: Discovering 'pettirosso' for the first time
+Panel 2: Seeing 'pettirosso' in its natural context
+Panel 3: A person interacting with 'pettirosso'
+Panel 4: 'pettirosso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pettirosso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4629
+Word: petto
+Story: 1. Discovering 'petto' for the first time. 2. Seeing 'petto' in its natural context. 3. A person interacting with 'petto'. 4. 'petto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'petto'.
+Panel 1: Discovering 'petto' for the first time
+Panel 2: Seeing 'petto' in its natural context
+Panel 3: A person interacting with 'petto'
+Panel 4: 'petto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "petto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4630
+Word: pezza
+Story: 1. Discovering 'pezza' for the first time. 2. Seeing 'pezza' in its natural context. 3. A person interacting with 'pezza'. 4. 'pezza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pezza'.
+Panel 1: Discovering 'pezza' for the first time
+Panel 2: Seeing 'pezza' in its natural context
+Panel 3: A person interacting with 'pezza'
+Panel 4: 'pezza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pezza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4631
+Word: pezzetto
+Story: 1. Discovering 'pezzetto' for the first time. 2. Seeing 'pezzetto' in its natural context. 3. A person interacting with 'pezzetto'. 4. 'pezzetto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pezzetto'.
+Panel 1: Discovering 'pezzetto' for the first time
+Panel 2: Seeing 'pezzetto' in its natural context
+Panel 3: A person interacting with 'pezzetto'
+Panel 4: 'pezzetto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pezzetto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4632
+Word: pezzo
+Story: 1. Discovering 'pezzo' for the first time. 2. Seeing 'pezzo' in its natural context. 3. A person interacting with 'pezzo'. 4. 'pezzo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pezzo'.
+Panel 1: Discovering 'pezzo' for the first time
+Panel 2: Seeing 'pezzo' in its natural context
+Panel 3: A person interacting with 'pezzo'
+Panel 4: 'pezzo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pezzo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4633
+Word: pezzuola
+Story: 1. Discovering 'pezzuola' for the first time. 2. Seeing 'pezzuola' in its natural context. 3. A person interacting with 'pezzuola'. 4. 'pezzuola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pezzuola'.
+Panel 1: Discovering 'pezzuola' for the first time
+Panel 2: Seeing 'pezzuola' in its natural context
+Panel 3: A person interacting with 'pezzuola'
+Panel 4: 'pezzuola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pezzuola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4634
+Word: pi
+Story: 1. Discovering 'pi' for the first time. 2. Seeing 'pi' in its natural context. 3. A person interacting with 'pi'. 4. 'pi' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pi'.
+Panel 1: Discovering 'pi' for the first time
+Panel 2: Seeing 'pi' in its natural context
+Panel 3: A person interacting with 'pi'
+Panel 4: 'pi' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pi (s.f. e m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4635
+Word: piacere
+Story: 1. A person thinking about the action of 'piacere'. 2. Starting to perform the action 'piacere'. 3. Actively doing 'piacere' with full effort. 4. Successfully completing the action 'piacere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piacere'.
+Panel 1: A person thinking about the action of 'piacere'
+Panel 2: Starting to perform the action 'piacere'
+Panel 3: Actively doing 'piacere' with full effort
+Panel 4: Successfully completing the action 'piacere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piacere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4636
+Word: piacere
+Story: 1. Discovering 'piacere' for the first time. 2. Seeing 'piacere' in its natural context. 3. A person interacting with 'piacere'. 4. 'piacere' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piacere'.
+Panel 1: Discovering 'piacere' for the first time
+Panel 2: Seeing 'piacere' in its natural context
+Panel 3: A person interacting with 'piacere'
+Panel 4: 'piacere' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piacere (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4637
+Word: piacevole
+Story: 1. Seeing something that is clearly 'piacevole'. 2. Comparing two things, one is 'piacevole' and one is not. 3. A person pointing at something 'piacevole' and explaining. 4. A memorable example of something very 'piacevole'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piacevole'.
+Panel 1: Seeing something that is clearly 'piacevole'
+Panel 2: Comparing two things, one is 'piacevole' and one is not
+Panel 3: A person pointing at something 'piacevole' and explaining
+Panel 4: A memorable example of something very 'piacevole'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piacevole (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4638
+Word: piadina
+Story: 1. Discovering 'piadina' for the first time. 2. Seeing 'piadina' in its natural context. 3. A person interacting with 'piadina'. 4. 'piadina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piadina'.
+Panel 1: Discovering 'piadina' for the first time
+Panel 2: Seeing 'piadina' in its natural context
+Panel 3: A person interacting with 'piadina'
+Panel 4: 'piadina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piadina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4639
+Word: piaga
+Story: 1. Discovering 'piaga' for the first time. 2. Seeing 'piaga' in its natural context. 3. A person interacting with 'piaga'. 4. 'piaga' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piaga'.
+Panel 1: Discovering 'piaga' for the first time
+Panel 2: Seeing 'piaga' in its natural context
+Panel 3: A person interacting with 'piaga'
+Panel 4: 'piaga' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piaga (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4640
+Word: pialla
+Story: 1. Discovering 'pialla' for the first time. 2. Seeing 'pialla' in its natural context. 3. A person interacting with 'pialla'. 4. 'pialla' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pialla'.
+Panel 1: Discovering 'pialla' for the first time
+Panel 2: Seeing 'pialla' in its natural context
+Panel 3: A person interacting with 'pialla'
+Panel 4: 'pialla' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pialla (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4641
+Word: piallare
+Story: 1. A person thinking about the action of 'piallare'. 2. Starting to perform the action 'piallare'. 3. Actively doing 'piallare' with full effort. 4. Successfully completing the action 'piallare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piallare'.
+Panel 1: A person thinking about the action of 'piallare'
+Panel 2: Starting to perform the action 'piallare'
+Panel 3: Actively doing 'piallare' with full effort
+Panel 4: Successfully completing the action 'piallare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piallare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4642
+Word: pianeggiante
+Story: 1. Seeing something that is clearly 'pianeggiante'. 2. Comparing two things, one is 'pianeggiante' and one is not. 3. A person pointing at something 'pianeggiante' and explaining. 4. A memorable example of something very 'pianeggiante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pianeggiante'.
+Panel 1: Seeing something that is clearly 'pianeggiante'
+Panel 2: Comparing two things, one is 'pianeggiante' and one is not
+Panel 3: A person pointing at something 'pianeggiante' and explaining
+Panel 4: A memorable example of something very 'pianeggiante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pianeggiante (p.pres., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4643
+Word: pianerottolo
+Story: 1. Discovering 'pianerottolo' for the first time. 2. Seeing 'pianerottolo' in its natural context. 3. A person interacting with 'pianerottolo'. 4. 'pianerottolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pianerottolo'.
+Panel 1: Discovering 'pianerottolo' for the first time
+Panel 2: Seeing 'pianerottolo' in its natural context
+Panel 3: A person interacting with 'pianerottolo'
+Panel 4: 'pianerottolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pianerottolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4644
+Word: pianeta
+Story: 1. Discovering 'pianeta' for the first time. 2. Seeing 'pianeta' in its natural context. 3. A person interacting with 'pianeta'. 4. 'pianeta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pianeta'.
+Panel 1: Discovering 'pianeta' for the first time
+Panel 2: Seeing 'pianeta' in its natural context
+Panel 3: A person interacting with 'pianeta'
+Panel 4: 'pianeta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pianeta (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4645
+Word: piangere
+Story: 1. A person thinking about the action of 'piangere'. 2. Starting to perform the action 'piangere'. 3. Actively doing 'piangere' with full effort. 4. Successfully completing the action 'piangere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piangere'.
+Panel 1: A person thinking about the action of 'piangere'
+Panel 2: Starting to perform the action 'piangere'
+Panel 3: Actively doing 'piangere' with full effort
+Panel 4: Successfully completing the action 'piangere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piangere (v.intr. e tr., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4646
+Word: piano
+Story: 1. Discovering 'piano' for the first time. 2. Seeing 'piano' in its natural context. 3. A person interacting with 'piano'. 4. 'piano' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piano'.
+Panel 1: Discovering 'piano' for the first time
+Panel 2: Seeing 'piano' in its natural context
+Panel 3: A person interacting with 'piano'
+Panel 4: 'piano' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piano (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4647
+Word: piano
+Story: 1. Discovering 'piano' for the first time. 2. Seeing 'piano' in its natural context. 3. A person interacting with 'piano'. 4. 'piano' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piano'.
+Panel 1: Discovering 'piano' for the first time
+Panel 2: Seeing 'piano' in its natural context
+Panel 3: A person interacting with 'piano'
+Panel 4: 'piano' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piano (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4648
+Word: piano
+Story: 1. A scene where something happens 'piano'. 2. Showing the manner or degree of 'piano'. 3. Contrasting doing something 'piano' vs not. 4. A clear example of 'piano' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piano'.
+Panel 1: A scene where something happens 'piano'
+Panel 2: Showing the manner or degree of 'piano'
+Panel 3: Contrasting doing something 'piano' vs not
+Panel 4: A clear example of 'piano' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piano (agg., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4649
+Word: pianoforte
+Story: 1. Discovering 'pianoforte' for the first time. 2. Seeing 'pianoforte' in its natural context. 3. A person interacting with 'pianoforte'. 4. 'pianoforte' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pianoforte'.
+Panel 1: Discovering 'pianoforte' for the first time
+Panel 2: Seeing 'pianoforte' in its natural context
+Panel 3: A person interacting with 'pianoforte'
+Panel 4: 'pianoforte' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pianoforte (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4650
+Word: pianoterra
+Story: 1. Discovering 'pianoterra' for the first time. 2. Seeing 'pianoterra' in its natural context. 3. A person interacting with 'pianoterra'. 4. 'pianoterra' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pianoterra'.
+Panel 1: Discovering 'pianoterra' for the first time
+Panel 2: Seeing 'pianoterra' in its natural context
+Panel 3: A person interacting with 'pianoterra'
+Panel 4: 'pianoterra' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pianoterra (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4651
+Word: pianta
+Story: 1. Discovering 'pianta' for the first time. 2. Seeing 'pianta' in its natural context. 3. A person interacting with 'pianta'. 4. 'pianta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pianta'.
+Panel 1: Discovering 'pianta' for the first time
+Panel 2: Seeing 'pianta' in its natural context
+Panel 3: A person interacting with 'pianta'
+Panel 4: 'pianta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pianta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4652
+Word: piantare
+Story: 1. A person thinking about the action of 'piantare'. 2. Starting to perform the action 'piantare'. 3. Actively doing 'piantare' with full effort. 4. Successfully completing the action 'piantare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'piantare'.
+Panel 1: A person thinking about the action of 'piantare'
+Panel 2: Starting to perform the action 'piantare'
+Panel 3: Actively doing 'piantare' with full effort
+Panel 4: Successfully completing the action 'piantare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "piantare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4653
+Word: pianto
+Story: 1. Discovering 'pianto' for the first time. 2. Seeing 'pianto' in its natural context. 3. A person interacting with 'pianto'. 4. 'pianto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pianto'.
+Panel 1: Discovering 'pianto' for the first time
+Panel 2: Seeing 'pianto' in its natural context
+Panel 3: A person interacting with 'pianto'
+Panel 4: 'pianto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pianto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4654
+Word: pianura
+Story: 1. Discovering 'pianura' for the first time. 2. Seeing 'pianura' in its natural context. 3. A person interacting with 'pianura'. 4. 'pianura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pianura'.
+Panel 1: Discovering 'pianura' for the first time
+Panel 2: Seeing 'pianura' in its natural context
+Panel 3: A person interacting with 'pianura'
+Panel 4: 'pianura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pianura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

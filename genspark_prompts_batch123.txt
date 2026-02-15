@@ -1,0 +1,500 @@
+Image ID: 6255
+Word: spargere
+Story: 1. A person thinking about the action of 'spargere'. 2. Starting to perform the action 'spargere'. 3. Actively doing 'spargere' with full effort. 4. Successfully completing the action 'spargere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spargere'.
+Panel 1: A person thinking about the action of 'spargere'
+Panel 2: Starting to perform the action 'spargere'
+Panel 3: Actively doing 'spargere' with full effort
+Panel 4: Successfully completing the action 'spargere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spargere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6256
+Word: sparire
+Story: 1. A person thinking about the action of 'sparire'. 2. Starting to perform the action 'sparire'. 3. Actively doing 'sparire' with full effort. 4. Successfully completing the action 'sparire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sparire'.
+Panel 1: A person thinking about the action of 'sparire'
+Panel 2: Starting to perform the action 'sparire'
+Panel 3: Actively doing 'sparire' with full effort
+Panel 4: Successfully completing the action 'sparire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sparire (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6257
+Word: sparo
+Story: 1. Discovering 'sparo' for the first time. 2. Seeing 'sparo' in its natural context. 3. A person interacting with 'sparo'. 4. 'sparo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sparo'.
+Panel 1: Discovering 'sparo' for the first time
+Panel 2: Seeing 'sparo' in its natural context
+Panel 3: A person interacting with 'sparo'
+Panel 4: 'sparo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sparo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6258
+Word: sparso
+Story: 1. Seeing something that is clearly 'sparso'. 2. Comparing two things, one is 'sparso' and one is not. 3. A person pointing at something 'sparso' and explaining. 4. A memorable example of something very 'sparso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sparso'.
+Panel 1: Seeing something that is clearly 'sparso'
+Panel 2: Comparing two things, one is 'sparso' and one is not
+Panel 3: A person pointing at something 'sparso' and explaining
+Panel 4: A memorable example of something very 'sparso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sparso (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6259
+Word: spassare
+Story: 1. A person thinking about the action of 'spassare'. 2. Starting to perform the action 'spassare'. 3. Actively doing 'spassare' with full effort. 4. Successfully completing the action 'spassare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spassare'.
+Panel 1: A person thinking about the action of 'spassare'
+Panel 2: Starting to perform the action 'spassare'
+Panel 3: Actively doing 'spassare' with full effort
+Panel 4: Successfully completing the action 'spassare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spassare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6260
+Word: spasso
+Story: 1. Discovering 'spasso' for the first time. 2. Seeing 'spasso' in its natural context. 3. A person interacting with 'spasso'. 4. 'spasso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spasso'.
+Panel 1: Discovering 'spasso' for the first time
+Panel 2: Seeing 'spasso' in its natural context
+Panel 3: A person interacting with 'spasso'
+Panel 4: 'spasso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spasso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6261
+Word: spavaldo
+Story: 1. Seeing something that is clearly 'spavaldo'. 2. Comparing two things, one is 'spavaldo' and one is not. 3. A person pointing at something 'spavaldo' and explaining. 4. A memorable example of something very 'spavaldo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spavaldo'.
+Panel 1: Seeing something that is clearly 'spavaldo'
+Panel 2: Comparing two things, one is 'spavaldo' and one is not
+Panel 3: A person pointing at something 'spavaldo' and explaining
+Panel 4: A memorable example of something very 'spavaldo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spavaldo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6262
+Word: spaventare
+Story: 1. A person thinking about the action of 'spaventare'. 2. Starting to perform the action 'spaventare'. 3. Actively doing 'spaventare' with full effort. 4. Successfully completing the action 'spaventare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spaventare'.
+Panel 1: A person thinking about the action of 'spaventare'
+Panel 2: Starting to perform the action 'spaventare'
+Panel 3: Actively doing 'spaventare' with full effort
+Panel 4: Successfully completing the action 'spaventare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spaventare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6263
+Word: spaventato
+Story: 1. Seeing something that is clearly 'spaventato'. 2. Comparing two things, one is 'spaventato' and one is not. 3. A person pointing at something 'spaventato' and explaining. 4. A memorable example of something very 'spaventato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spaventato'.
+Panel 1: Seeing something that is clearly 'spaventato'
+Panel 2: Comparing two things, one is 'spaventato' and one is not
+Panel 3: A person pointing at something 'spaventato' and explaining
+Panel 4: A memorable example of something very 'spaventato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spaventato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6264
+Word: spaventoso
+Story: 1. Seeing something that is clearly 'spaventoso'. 2. Comparing two things, one is 'spaventoso' and one is not. 3. A person pointing at something 'spaventoso' and explaining. 4. A memorable example of something very 'spaventoso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spaventoso'.
+Panel 1: Seeing something that is clearly 'spaventoso'
+Panel 2: Comparing two things, one is 'spaventoso' and one is not
+Panel 3: A person pointing at something 'spaventoso' and explaining
+Panel 4: A memorable example of something very 'spaventoso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spaventoso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6265
+Word: spaziale
+Story: 1. Seeing something that is clearly 'spaziale'. 2. Comparing two things, one is 'spaziale' and one is not. 3. A person pointing at something 'spaziale' and explaining. 4. A memorable example of something very 'spaziale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spaziale'.
+Panel 1: Seeing something that is clearly 'spaziale'
+Panel 2: Comparing two things, one is 'spaziale' and one is not
+Panel 3: A person pointing at something 'spaziale' and explaining
+Panel 4: A memorable example of something very 'spaziale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spaziale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6266
+Word: spazio
+Story: 1. Discovering 'spazio' for the first time. 2. Seeing 'spazio' in its natural context. 3. A person interacting with 'spazio'. 4. 'spazio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spazio'.
+Panel 1: Discovering 'spazio' for the first time
+Panel 2: Seeing 'spazio' in its natural context
+Panel 3: A person interacting with 'spazio'
+Panel 4: 'spazio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spazio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6267
+Word: spazioso
+Story: 1. Seeing something that is clearly 'spazioso'. 2. Comparing two things, one is 'spazioso' and one is not. 3. A person pointing at something 'spazioso' and explaining. 4. A memorable example of something very 'spazioso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spazioso'.
+Panel 1: Seeing something that is clearly 'spazioso'
+Panel 2: Comparing two things, one is 'spazioso' and one is not
+Panel 3: A person pointing at something 'spazioso' and explaining
+Panel 4: A memorable example of something very 'spazioso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spazioso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6268
+Word: spazzare
+Story: 1. A person thinking about the action of 'spazzare'. 2. Starting to perform the action 'spazzare'. 3. Actively doing 'spazzare' with full effort. 4. Successfully completing the action 'spazzare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spazzare'.
+Panel 1: A person thinking about the action of 'spazzare'
+Panel 2: Starting to perform the action 'spazzare'
+Panel 3: Actively doing 'spazzare' with full effort
+Panel 4: Successfully completing the action 'spazzare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spazzare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6269
+Word: spazzatura
+Story: 1. Discovering 'spazzatura' for the first time. 2. Seeing 'spazzatura' in its natural context. 3. A person interacting with 'spazzatura'. 4. 'spazzatura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spazzatura'.
+Panel 1: Discovering 'spazzatura' for the first time
+Panel 2: Seeing 'spazzatura' in its natural context
+Panel 3: A person interacting with 'spazzatura'
+Panel 4: 'spazzatura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spazzatura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6270
+Word: spazzino
+Story: 1. Discovering 'spazzino' for the first time. 2. Seeing 'spazzino' in its natural context. 3. A person interacting with 'spazzino'. 4. 'spazzino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spazzino'.
+Panel 1: Discovering 'spazzino' for the first time
+Panel 2: Seeing 'spazzino' in its natural context
+Panel 3: A person interacting with 'spazzino'
+Panel 4: 'spazzino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spazzino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6271
+Word: spazzola
+Story: 1. Discovering 'spazzola' for the first time. 2. Seeing 'spazzola' in its natural context. 3. A person interacting with 'spazzola'. 4. 'spazzola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spazzola'.
+Panel 1: Discovering 'spazzola' for the first time
+Panel 2: Seeing 'spazzola' in its natural context
+Panel 3: A person interacting with 'spazzola'
+Panel 4: 'spazzola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spazzola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6272
+Word: spazzolare
+Story: 1. A person thinking about the action of 'spazzolare'. 2. Starting to perform the action 'spazzolare'. 3. Actively doing 'spazzolare' with full effort. 4. Successfully completing the action 'spazzolare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spazzolare'.
+Panel 1: A person thinking about the action of 'spazzolare'
+Panel 2: Starting to perform the action 'spazzolare'
+Panel 3: Actively doing 'spazzolare' with full effort
+Panel 4: Successfully completing the action 'spazzolare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spazzolare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6273
+Word: spazzolino
+Story: 1. Discovering 'spazzolino' for the first time. 2. Seeing 'spazzolino' in its natural context. 3. A person interacting with 'spazzolino'. 4. 'spazzolino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spazzolino'.
+Panel 1: Discovering 'spazzolino' for the first time
+Panel 2: Seeing 'spazzolino' in its natural context
+Panel 3: A person interacting with 'spazzolino'
+Panel 4: 'spazzolino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spazzolino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6274
+Word: spazzolone
+Story: 1. Discovering 'spazzolone' for the first time. 2. Seeing 'spazzolone' in its natural context. 3. A person interacting with 'spazzolone'. 4. 'spazzolone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spazzolone'.
+Panel 1: Discovering 'spazzolone' for the first time
+Panel 2: Seeing 'spazzolone' in its natural context
+Panel 3: A person interacting with 'spazzolone'
+Panel 4: 'spazzolone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spazzolone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6275
+Word: specchiarsi
+Story: 1. Two speech bubbles connected by the word 'specchiarsi'. 2. A sentence on a blackboard highlighting 'specchiarsi'. 3. A teacher explaining the use of 'specchiarsi'. 4. Students practicing sentences with 'specchiarsi'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'specchiarsi'.
+Panel 1: Two speech bubbles connected by the word 'specchiarsi'
+Panel 2: A sentence on a blackboard highlighting 'specchiarsi'
+Panel 3: A teacher explaining the use of 'specchiarsi'
+Panel 4: Students practicing sentences with 'specchiarsi'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "specchiarsi (v.pronom.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6276
+Word: specchio
+Story: 1. Discovering 'specchio' for the first time. 2. Seeing 'specchio' in its natural context. 3. A person interacting with 'specchio'. 4. 'specchio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'specchio'.
+Panel 1: Discovering 'specchio' for the first time
+Panel 2: Seeing 'specchio' in its natural context
+Panel 3: A person interacting with 'specchio'
+Panel 4: 'specchio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "specchio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6277
+Word: speciale
+Story: 1. Encountering someone or something described as 'speciale'. 2. Recognizing the quality of 'speciale' in a scene. 3. A vivid example showing 'speciale' clearly. 4. Understanding the full meaning of 'speciale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'speciale'.
+Panel 1: Encountering someone or something described as 'speciale'
+Panel 2: Recognizing the quality of 'speciale' in a scene
+Panel 3: A vivid example showing 'speciale' clearly
+Panel 4: Understanding the full meaning of 'speciale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "speciale (agg., s.m., s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6278
+Word: specialista
+Story: 1. Discovering 'specialista' for the first time. 2. Seeing 'specialista' in its natural context. 3. A person interacting with 'specialista'. 4. 'specialista' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'specialista'.
+Panel 1: Discovering 'specialista' for the first time
+Panel 2: Seeing 'specialista' in its natural context
+Panel 3: A person interacting with 'specialista'
+Panel 4: 'specialista' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "specialista (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6279
+Word: specializzato
+Story: 1. Encountering someone or something described as 'specializzato'. 2. Recognizing the quality of 'specializzato' in a scene. 3. A vivid example showing 'specializzato' clearly. 4. Understanding the full meaning of 'specializzato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'specializzato'.
+Panel 1: Encountering someone or something described as 'specializzato'
+Panel 2: Recognizing the quality of 'specializzato' in a scene
+Panel 3: A vivid example showing 'specializzato' clearly
+Panel 4: Understanding the full meaning of 'specializzato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "specializzato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6280
+Word: specialmente
+Story: 1. A scene where something happens 'specialmente'. 2. Showing the manner or degree of 'specialmente'. 3. Contrasting doing something 'specialmente' vs not. 4. A clear example of 'specialmente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'specialmente'.
+Panel 1: A scene where something happens 'specialmente'
+Panel 2: Showing the manner or degree of 'specialmente'
+Panel 3: Contrasting doing something 'specialmente' vs not
+Panel 4: A clear example of 'specialmente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "specialmente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6281
+Word: specie
+Story: 1. A scene where something happens 'specie'. 2. Showing the manner or degree of 'specie'. 3. Contrasting doing something 'specie' vs not. 4. A clear example of 'specie' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'specie'.
+Panel 1: A scene where something happens 'specie'
+Panel 2: Showing the manner or degree of 'specie'
+Panel 3: Contrasting doing something 'specie' vs not
+Panel 4: A clear example of 'specie' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "specie (s.f., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6282
+Word: specificare
+Story: 1. A person thinking about the action of 'specificare'. 2. Starting to perform the action 'specificare'. 3. Actively doing 'specificare' with full effort. 4. Successfully completing the action 'specificare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'specificare'.
+Panel 1: A person thinking about the action of 'specificare'
+Panel 2: Starting to perform the action 'specificare'
+Panel 3: Actively doing 'specificare' with full effort
+Panel 4: Successfully completing the action 'specificare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "specificare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6283
+Word: specifico
+Story: 1. Encountering someone or something described as 'specifico'. 2. Recognizing the quality of 'specifico' in a scene. 3. A vivid example showing 'specifico' clearly. 4. Understanding the full meaning of 'specifico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'specifico'.
+Panel 1: Encountering someone or something described as 'specifico'
+Panel 2: Recognizing the quality of 'specifico' in a scene
+Panel 3: A vivid example showing 'specifico' clearly
+Panel 4: Understanding the full meaning of 'specifico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "specifico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6284
+Word: speck
+Story: 1. Discovering 'speck' for the first time. 2. Seeing 'speck' in its natural context. 3. A person interacting with 'speck'. 4. 'speck' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'speck'.
+Panel 1: Discovering 'speck' for the first time
+Panel 2: Seeing 'speck' in its natural context
+Panel 3: A person interacting with 'speck'
+Panel 4: 'speck' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "speck (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6285
+Word: spedire
+Story: 1. A person thinking about the action of 'spedire'. 2. Starting to perform the action 'spedire'. 3. Actively doing 'spedire' with full effort. 4. Successfully completing the action 'spedire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spedire'.
+Panel 1: A person thinking about the action of 'spedire'
+Panel 2: Starting to perform the action 'spedire'
+Panel 3: Actively doing 'spedire' with full effort
+Panel 4: Successfully completing the action 'spedire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spedire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6286
+Word: spedizione
+Story: 1. Discovering 'spedizione' for the first time. 2. Seeing 'spedizione' in its natural context. 3. A person interacting with 'spedizione'. 4. 'spedizione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spedizione'.
+Panel 1: Discovering 'spedizione' for the first time
+Panel 2: Seeing 'spedizione' in its natural context
+Panel 3: A person interacting with 'spedizione'
+Panel 4: 'spedizione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spedizione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6287
+Word: spegnere
+Story: 1. A person thinking about the action of 'spegnere'. 2. Starting to perform the action 'spegnere'. 3. Actively doing 'spegnere' with full effort. 4. Successfully completing the action 'spegnere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spegnere'.
+Panel 1: A person thinking about the action of 'spegnere'
+Panel 2: Starting to perform the action 'spegnere'
+Panel 3: Actively doing 'spegnere' with full effort
+Panel 4: Successfully completing the action 'spegnere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spegnere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6288
+Word: spellare
+Story: 1. A person thinking about the action of 'spellare'. 2. Starting to perform the action 'spellare'. 3. Actively doing 'spellare' with full effort. 4. Successfully completing the action 'spellare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spellare'.
+Panel 1: A person thinking about the action of 'spellare'
+Panel 2: Starting to perform the action 'spellare'
+Panel 3: Actively doing 'spellare' with full effort
+Panel 4: Successfully completing the action 'spellare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spellare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6289
+Word: spendere
+Story: 1. A person thinking about the action of 'spendere'. 2. Starting to perform the action 'spendere'. 3. Actively doing 'spendere' with full effort. 4. Successfully completing the action 'spendere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spendere'.
+Panel 1: A person thinking about the action of 'spendere'
+Panel 2: Starting to perform the action 'spendere'
+Panel 3: Actively doing 'spendere' with full effort
+Panel 4: Successfully completing the action 'spendere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spendere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6290
+Word: spennare
+Story: 1. A person thinking about the action of 'spennare'. 2. Starting to perform the action 'spennare'. 3. Actively doing 'spennare' with full effort. 4. Successfully completing the action 'spennare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spennare'.
+Panel 1: A person thinking about the action of 'spennare'
+Panel 2: Starting to perform the action 'spennare'
+Panel 3: Actively doing 'spennare' with full effort
+Panel 4: Successfully completing the action 'spennare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spennare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6291
+Word: spensierato
+Story: 1. Seeing something that is clearly 'spensierato'. 2. Comparing two things, one is 'spensierato' and one is not. 3. A person pointing at something 'spensierato' and explaining. 4. A memorable example of something very 'spensierato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spensierato'.
+Panel 1: Seeing something that is clearly 'spensierato'
+Panel 2: Comparing two things, one is 'spensierato' and one is not
+Panel 3: A person pointing at something 'spensierato' and explaining
+Panel 4: A memorable example of something very 'spensierato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spensierato (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6292
+Word: spento
+Story: 1. Seeing something that is clearly 'spento'. 2. Comparing two things, one is 'spento' and one is not. 3. A person pointing at something 'spento' and explaining. 4. A memorable example of something very 'spento'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spento'.
+Panel 1: Seeing something that is clearly 'spento'
+Panel 2: Comparing two things, one is 'spento' and one is not
+Panel 3: A person pointing at something 'spento' and explaining
+Panel 4: A memorable example of something very 'spento'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spento (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6293
+Word: speranza
+Story: 1. Discovering 'speranza' for the first time. 2. Seeing 'speranza' in its natural context. 3. A person interacting with 'speranza'. 4. 'speranza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'speranza'.
+Panel 1: Discovering 'speranza' for the first time
+Panel 2: Seeing 'speranza' in its natural context
+Panel 3: A person interacting with 'speranza'
+Panel 4: 'speranza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "speranza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6294
+Word: sperare
+Story: 1. A person thinking about the action of 'sperare'. 2. Starting to perform the action 'sperare'. 3. Actively doing 'sperare' with full effort. 4. Successfully completing the action 'sperare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sperare'.
+Panel 1: A person thinking about the action of 'sperare'
+Panel 2: Starting to perform the action 'sperare'
+Panel 3: Actively doing 'sperare' with full effort
+Panel 4: Successfully completing the action 'sperare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sperare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6295
+Word: sperimenale
+Story: 1. Seeing something that is clearly 'sperimenale'. 2. Comparing two things, one is 'sperimenale' and one is not. 3. A person pointing at something 'sperimenale' and explaining. 4. A memorable example of something very 'sperimenale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sperimenale'.
+Panel 1: Seeing something that is clearly 'sperimenale'
+Panel 2: Comparing two things, one is 'sperimenale' and one is not
+Panel 3: A person pointing at something 'sperimenale' and explaining
+Panel 4: A memorable example of something very 'sperimenale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sperimenale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6296
+Word: sperimentare
+Story: 1. A person thinking about the action of 'sperimentare'. 2. Starting to perform the action 'sperimentare'. 3. Actively doing 'sperimentare' with full effort. 4. Successfully completing the action 'sperimentare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sperimentare'.
+Panel 1: A person thinking about the action of 'sperimentare'
+Panel 2: Starting to perform the action 'sperimentare'
+Panel 3: Actively doing 'sperimentare' with full effort
+Panel 4: Successfully completing the action 'sperimentare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sperimentare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6297
+Word: sperimentazione
+Story: 1. Discovering 'sperimentazione' for the first time. 2. Seeing 'sperimentazione' in its natural context. 3. A person interacting with 'sperimentazione'. 4. 'sperimentazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sperimentazione'.
+Panel 1: Discovering 'sperimentazione' for the first time
+Panel 2: Seeing 'sperimentazione' in its natural context
+Panel 3: A person interacting with 'sperimentazione'
+Panel 4: 'sperimentazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sperimentazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6298
+Word: sperone
+Story: 1. Discovering 'sperone' for the first time. 2. Seeing 'sperone' in its natural context. 3. A person interacting with 'sperone'. 4. 'sperone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sperone'.
+Panel 1: Discovering 'sperone' for the first time
+Panel 2: Seeing 'sperone' in its natural context
+Panel 3: A person interacting with 'sperone'
+Panel 4: 'sperone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sperone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6299
+Word: spesa
+Story: 1. Discovering 'spesa' for the first time. 2. Seeing 'spesa' in its natural context. 3. A person interacting with 'spesa'. 4. 'spesa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spesa'.
+Panel 1: Discovering 'spesa' for the first time
+Panel 2: Seeing 'spesa' in its natural context
+Panel 3: A person interacting with 'spesa'
+Panel 4: 'spesa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spesa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6300
+Word: spesso
+Story: 1. Seeing something that is clearly 'spesso'. 2. Comparing two things, one is 'spesso' and one is not. 3. A person pointing at something 'spesso' and explaining. 4. A memorable example of something very 'spesso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spesso'.
+Panel 1: Seeing something that is clearly 'spesso'
+Panel 2: Comparing two things, one is 'spesso' and one is not
+Panel 3: A person pointing at something 'spesso' and explaining
+Panel 4: A memorable example of something very 'spesso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spesso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6301
+Word: spesso
+Story: 1. A scene where something happens 'spesso'. 2. Showing the manner or degree of 'spesso'. 3. Contrasting doing something 'spesso' vs not. 4. A clear example of 'spesso' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spesso'.
+Panel 1: A scene where something happens 'spesso'
+Panel 2: Showing the manner or degree of 'spesso'
+Panel 3: Contrasting doing something 'spesso' vs not
+Panel 4: A clear example of 'spesso' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spesso (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6302
+Word: spessore
+Story: 1. Discovering 'spessore' for the first time. 2. Seeing 'spessore' in its natural context. 3. A person interacting with 'spessore'. 4. 'spessore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spessore'.
+Panel 1: Discovering 'spessore' for the first time
+Panel 2: Seeing 'spessore' in its natural context
+Panel 3: A person interacting with 'spessore'
+Panel 4: 'spessore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spessore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6303
+Word: spettacolare
+Story: 1. Seeing something that is clearly 'spettacolare'. 2. Comparing two things, one is 'spettacolare' and one is not. 3. A person pointing at something 'spettacolare' and explaining. 4. A memorable example of something very 'spettacolare'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spettacolare'.
+Panel 1: Seeing something that is clearly 'spettacolare'
+Panel 2: Comparing two things, one is 'spettacolare' and one is not
+Panel 3: A person pointing at something 'spettacolare' and explaining
+Panel 4: A memorable example of something very 'spettacolare'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spettacolare (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6304
+Word: spettacolo
+Story: 1. Discovering 'spettacolo' for the first time. 2. Seeing 'spettacolo' in its natural context. 3. A person interacting with 'spettacolo'. 4. 'spettacolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'spettacolo'.
+Panel 1: Discovering 'spettacolo' for the first time
+Panel 2: Seeing 'spettacolo' in its natural context
+Panel 3: A person interacting with 'spettacolo'
+Panel 4: 'spettacolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "spettacolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

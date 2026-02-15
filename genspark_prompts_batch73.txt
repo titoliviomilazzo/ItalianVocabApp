@@ -1,0 +1,500 @@
+Image ID: 3755
+Word: mazzo
+Story: 1. Discovering 'mazzo' for the first time. 2. Seeing 'mazzo' in its natural context. 3. A person interacting with 'mazzo'. 4. 'mazzo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mazzo'.
+Panel 1: Discovering 'mazzo' for the first time
+Panel 2: Seeing 'mazzo' in its natural context
+Panel 3: A person interacting with 'mazzo'
+Panel 4: 'mazzo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mazzo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3756
+Word: me
+Story: 1. Two speech bubbles connected by the word 'me'. 2. A sentence on a blackboard highlighting 'me'. 3. A teacher explaining the use of 'me'. 4. Students practicing sentences with 'me'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'me'.
+Panel 1: Two speech bubbles connected by the word 'me'
+Panel 2: A sentence on a blackboard highlighting 'me'
+Panel 3: A teacher explaining the use of 'me'
+Panel 4: Students practicing sentences with 'me'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "me (pron.pers. di prima pers.sing., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3757
+Word: meccanico
+Story: 1. Encountering someone or something described as 'meccanico'. 2. Recognizing the quality of 'meccanico' in a scene. 3. A vivid example showing 'meccanico' clearly. 4. Understanding the full meaning of 'meccanico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meccanico'.
+Panel 1: Encountering someone or something described as 'meccanico'
+Panel 2: Recognizing the quality of 'meccanico' in a scene
+Panel 3: A vivid example showing 'meccanico' clearly
+Panel 4: Understanding the full meaning of 'meccanico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meccanico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3758
+Word: meccanismo
+Story: 1. Discovering 'meccanismo' for the first time. 2. Seeing 'meccanismo' in its natural context. 3. A person interacting with 'meccanismo'. 4. 'meccanismo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meccanismo'.
+Panel 1: Discovering 'meccanismo' for the first time
+Panel 2: Seeing 'meccanismo' in its natural context
+Panel 3: A person interacting with 'meccanismo'
+Panel 4: 'meccanismo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meccanismo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3759
+Word: medaglia
+Story: 1. Discovering 'medaglia' for the first time. 2. Seeing 'medaglia' in its natural context. 3. A person interacting with 'medaglia'. 4. 'medaglia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'medaglia'.
+Panel 1: Discovering 'medaglia' for the first time
+Panel 2: Seeing 'medaglia' in its natural context
+Panel 3: A person interacting with 'medaglia'
+Panel 4: 'medaglia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "medaglia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3760
+Word: medesimo
+Story: 1. Seeing something that is clearly 'medesimo'. 2. Comparing two things, one is 'medesimo' and one is not. 3. A person pointing at something 'medesimo' and explaining. 4. A memorable example of something very 'medesimo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'medesimo'.
+Panel 1: Seeing something that is clearly 'medesimo'
+Panel 2: Comparing two things, one is 'medesimo' and one is not
+Panel 3: A person pointing at something 'medesimo' and explaining
+Panel 4: A memorable example of something very 'medesimo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "medesimo (agg.dimostr., pron.dimostr.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3761
+Word: media
+Story: 1. Discovering 'media' for the first time. 2. Seeing 'media' in its natural context. 3. A person interacting with 'media'. 4. 'media' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'media'.
+Panel 1: Discovering 'media' for the first time
+Panel 2: Seeing 'media' in its natural context
+Panel 3: A person interacting with 'media'
+Panel 4: 'media' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "media (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3762
+Word: media
+Story: 1. Discovering 'media' for the first time. 2. Seeing 'media' in its natural context. 3. A person interacting with 'media'. 4. 'media' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'media'.
+Panel 1: Discovering 'media' for the first time
+Panel 2: Seeing 'media' in its natural context
+Panel 3: A person interacting with 'media'
+Panel 4: 'media' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "media (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3763
+Word: mediante
+Story: 1. Two speech bubbles connected by the word 'mediante'. 2. A sentence on a blackboard highlighting 'mediante'. 3. A teacher explaining the use of 'mediante'. 4. Students practicing sentences with 'mediante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mediante'.
+Panel 1: Two speech bubbles connected by the word 'mediante'
+Panel 2: A sentence on a blackboard highlighting 'mediante'
+Panel 3: A teacher explaining the use of 'mediante'
+Panel 4: Students practicing sentences with 'mediante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mediante (prep.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3764
+Word: medicare
+Story: 1. A person thinking about the action of 'medicare'. 2. Starting to perform the action 'medicare'. 3. Actively doing 'medicare' with full effort. 4. Successfully completing the action 'medicare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'medicare'.
+Panel 1: A person thinking about the action of 'medicare'
+Panel 2: Starting to perform the action 'medicare'
+Panel 3: Actively doing 'medicare' with full effort
+Panel 4: Successfully completing the action 'medicare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "medicare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3765
+Word: medicina
+Story: 1. Discovering 'medicina' for the first time. 2. Seeing 'medicina' in its natural context. 3. A person interacting with 'medicina'. 4. 'medicina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'medicina'.
+Panel 1: Discovering 'medicina' for the first time
+Panel 2: Seeing 'medicina' in its natural context
+Panel 3: A person interacting with 'medicina'
+Panel 4: 'medicina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "medicina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3766
+Word: medico
+Story: 1. Discovering 'medico' for the first time. 2. Seeing 'medico' in its natural context. 3. A person interacting with 'medico'. 4. 'medico' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'medico'.
+Panel 1: Discovering 'medico' for the first time
+Panel 2: Seeing 'medico' in its natural context
+Panel 3: A person interacting with 'medico'
+Panel 4: 'medico' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "medico (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3767
+Word: medico
+Story: 1. Seeing something that is clearly 'medico'. 2. Comparing two things, one is 'medico' and one is not. 3. A person pointing at something 'medico' and explaining. 4. A memorable example of something very 'medico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'medico'.
+Panel 1: Seeing something that is clearly 'medico'
+Panel 2: Comparing two things, one is 'medico' and one is not
+Panel 3: A person pointing at something 'medico' and explaining
+Panel 4: A memorable example of something very 'medico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "medico (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3768
+Word: medievale
+Story: 1. Seeing something that is clearly 'medievale'. 2. Comparing two things, one is 'medievale' and one is not. 3. A person pointing at something 'medievale' and explaining. 4. A memorable example of something very 'medievale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'medievale'.
+Panel 1: Seeing something that is clearly 'medievale'
+Panel 2: Comparing two things, one is 'medievale' and one is not
+Panel 3: A person pointing at something 'medievale' and explaining
+Panel 4: A memorable example of something very 'medievale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "medievale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3769
+Word: medio
+Story: 1. Encountering someone or something described as 'medio'. 2. Recognizing the quality of 'medio' in a scene. 3. A vivid example showing 'medio' clearly. 4. Understanding the full meaning of 'medio'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'medio'.
+Panel 1: Encountering someone or something described as 'medio'
+Panel 2: Recognizing the quality of 'medio' in a scene
+Panel 3: A vivid example showing 'medio' clearly
+Panel 4: Understanding the full meaning of 'medio'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "medio (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3770
+Word: medioevo
+Story: 1. Discovering 'medioevo' for the first time. 2. Seeing 'medioevo' in its natural context. 3. A person interacting with 'medioevo'. 4. 'medioevo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'medioevo'.
+Panel 1: Discovering 'medioevo' for the first time
+Panel 2: Seeing 'medioevo' in its natural context
+Panel 3: A person interacting with 'medioevo'
+Panel 4: 'medioevo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "medioevo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3771
+Word: meditare
+Story: 1. A person thinking about the action of 'meditare'. 2. Starting to perform the action 'meditare'. 3. Actively doing 'meditare' with full effort. 4. Successfully completing the action 'meditare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meditare'.
+Panel 1: A person thinking about the action of 'meditare'
+Panel 2: Starting to perform the action 'meditare'
+Panel 3: Actively doing 'meditare' with full effort
+Panel 4: Successfully completing the action 'meditare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meditare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3772
+Word: mediterraneo
+Story: 1. Encountering someone or something described as 'mediterraneo'. 2. Recognizing the quality of 'mediterraneo' in a scene. 3. A vivid example showing 'mediterraneo' clearly. 4. Understanding the full meaning of 'mediterraneo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mediterraneo'.
+Panel 1: Encountering someone or something described as 'mediterraneo'
+Panel 2: Recognizing the quality of 'mediterraneo' in a scene
+Panel 3: A vivid example showing 'mediterraneo' clearly
+Panel 4: Understanding the full meaning of 'mediterraneo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mediterraneo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3773
+Word: meglio
+Story: 1. A scene where something happens 'meglio'. 2. Showing the manner or degree of 'meglio'. 3. Contrasting doing something 'meglio' vs not. 4. A clear example of 'meglio' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meglio'.
+Panel 1: A scene where something happens 'meglio'
+Panel 2: Showing the manner or degree of 'meglio'
+Panel 3: Contrasting doing something 'meglio' vs not
+Panel 4: A clear example of 'meglio' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meglio (avv., agg.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3774
+Word: mela
+Story: 1. Discovering 'mela' for the first time. 2. Seeing 'mela' in its natural context. 3. A person interacting with 'mela'. 4. 'mela' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mela'.
+Panel 1: Discovering 'mela' for the first time
+Panel 2: Seeing 'mela' in its natural context
+Panel 3: A person interacting with 'mela'
+Panel 4: 'mela' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mela (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3775
+Word: melagrana
+Story: 1. Discovering 'melagrana' for the first time. 2. Seeing 'melagrana' in its natural context. 3. A person interacting with 'melagrana'. 4. 'melagrana' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'melagrana'.
+Panel 1: Discovering 'melagrana' for the first time
+Panel 2: Seeing 'melagrana' in its natural context
+Panel 3: A person interacting with 'melagrana'
+Panel 4: 'melagrana' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "melagrana (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3776
+Word: melanzana
+Story: 1. Discovering 'melanzana' for the first time. 2. Seeing 'melanzana' in its natural context. 3. A person interacting with 'melanzana'. 4. 'melanzana' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'melanzana'.
+Panel 1: Discovering 'melanzana' for the first time
+Panel 2: Seeing 'melanzana' in its natural context
+Panel 3: A person interacting with 'melanzana'
+Panel 4: 'melanzana' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "melanzana (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3777
+Word: melo
+Story: 1. Discovering 'melo' for the first time. 2. Seeing 'melo' in its natural context. 3. A person interacting with 'melo'. 4. 'melo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'melo'.
+Panel 1: Discovering 'melo' for the first time
+Panel 2: Seeing 'melo' in its natural context
+Panel 3: A person interacting with 'melo'
+Panel 4: 'melo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "melo (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3778
+Word: melograno
+Story: 1. Discovering 'melograno' for the first time. 2. Seeing 'melograno' in its natural context. 3. A person interacting with 'melograno'. 4. 'melograno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'melograno'.
+Panel 1: Discovering 'melograno' for the first time
+Panel 2: Seeing 'melograno' in its natural context
+Panel 3: A person interacting with 'melograno'
+Panel 4: 'melograno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "melograno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3779
+Word: melone
+Story: 1. Discovering 'melone' for the first time. 2. Seeing 'melone' in its natural context. 3. A person interacting with 'melone'. 4. 'melone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'melone'.
+Panel 1: Discovering 'melone' for the first time
+Panel 2: Seeing 'melone' in its natural context
+Panel 3: A person interacting with 'melone'
+Panel 4: 'melone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "melone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3780
+Word: membrana
+Story: 1. Discovering 'membrana' for the first time. 2. Seeing 'membrana' in its natural context. 3. A person interacting with 'membrana'. 4. 'membrana' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'membrana'.
+Panel 1: Discovering 'membrana' for the first time
+Panel 2: Seeing 'membrana' in its natural context
+Panel 3: A person interacting with 'membrana'
+Panel 4: 'membrana' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "membrana (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3781
+Word: membro
+Story: 1. Discovering 'membro' for the first time. 2. Seeing 'membro' in its natural context. 3. A person interacting with 'membro'. 4. 'membro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'membro'.
+Panel 1: Discovering 'membro' for the first time
+Panel 2: Seeing 'membro' in its natural context
+Panel 3: A person interacting with 'membro'
+Panel 4: 'membro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "membro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3782
+Word: memoria
+Story: 1. Discovering 'memoria' for the first time. 2. Seeing 'memoria' in its natural context. 3. A person interacting with 'memoria'. 4. 'memoria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'memoria'.
+Panel 1: Discovering 'memoria' for the first time
+Panel 2: Seeing 'memoria' in its natural context
+Panel 3: A person interacting with 'memoria'
+Panel 4: 'memoria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "memoria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3783
+Word: menare
+Story: 1. A person thinking about the action of 'menare'. 2. Starting to perform the action 'menare'. 3. Actively doing 'menare' with full effort. 4. Successfully completing the action 'menare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'menare'.
+Panel 1: A person thinking about the action of 'menare'
+Panel 2: Starting to perform the action 'menare'
+Panel 3: Actively doing 'menare' with full effort
+Panel 4: Successfully completing the action 'menare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "menare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3784
+Word: mendicante
+Story: 1. Encountering someone or something described as 'mendicante'. 2. Recognizing the quality of 'mendicante' in a scene. 3. A vivid example showing 'mendicante' clearly. 4. Understanding the full meaning of 'mendicante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mendicante'.
+Panel 1: Encountering someone or something described as 'mendicante'
+Panel 2: Recognizing the quality of 'mendicante' in a scene
+Panel 3: A vivid example showing 'mendicante' clearly
+Panel 4: Understanding the full meaning of 'mendicante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mendicante (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3785
+Word: meno
+Story: 1. A scene where something happens 'meno'. 2. Showing the manner or degree of 'meno'. 3. Contrasting doing something 'meno' vs not. 4. A clear example of 'meno' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meno'.
+Panel 1: A scene where something happens 'meno'
+Panel 2: Showing the manner or degree of 'meno'
+Panel 3: Contrasting doing something 'meno' vs not
+Panel 4: A clear example of 'meno' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meno (avv., agg.compar.inv., prep., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3786
+Word: mensa
+Story: 1. Discovering 'mensa' for the first time. 2. Seeing 'mensa' in its natural context. 3. A person interacting with 'mensa'. 4. 'mensa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mensa'.
+Panel 1: Discovering 'mensa' for the first time
+Panel 2: Seeing 'mensa' in its natural context
+Panel 3: A person interacting with 'mensa'
+Panel 4: 'mensa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mensa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3787
+Word: mensile
+Story: 1. Encountering someone or something described as 'mensile'. 2. Recognizing the quality of 'mensile' in a scene. 3. A vivid example showing 'mensile' clearly. 4. Understanding the full meaning of 'mensile'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mensile'.
+Panel 1: Encountering someone or something described as 'mensile'
+Panel 2: Recognizing the quality of 'mensile' in a scene
+Panel 3: A vivid example showing 'mensile' clearly
+Panel 4: Understanding the full meaning of 'mensile'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mensile (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3788
+Word: mensola
+Story: 1. Discovering 'mensola' for the first time. 2. Seeing 'mensola' in its natural context. 3. A person interacting with 'mensola'. 4. 'mensola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mensola'.
+Panel 1: Discovering 'mensola' for the first time
+Panel 2: Seeing 'mensola' in its natural context
+Panel 3: A person interacting with 'mensola'
+Panel 4: 'mensola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mensola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3789
+Word: menta
+Story: 1. Discovering 'menta' for the first time. 2. Seeing 'menta' in its natural context. 3. A person interacting with 'menta'. 4. 'menta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'menta'.
+Panel 1: Discovering 'menta' for the first time
+Panel 2: Seeing 'menta' in its natural context
+Panel 3: A person interacting with 'menta'
+Panel 4: 'menta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "menta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3790
+Word: mentale
+Story: 1. Seeing something that is clearly 'mentale'. 2. Comparing two things, one is 'mentale' and one is not. 3. A person pointing at something 'mentale' and explaining. 4. A memorable example of something very 'mentale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mentale'.
+Panel 1: Seeing something that is clearly 'mentale'
+Panel 2: Comparing two things, one is 'mentale' and one is not
+Panel 3: A person pointing at something 'mentale' and explaining
+Panel 4: A memorable example of something very 'mentale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mentale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3791
+Word: mentalità
+Story: 1. Discovering 'mentalità' for the first time. 2. Seeing 'mentalità' in its natural context. 3. A person interacting with 'mentalità'. 4. 'mentalità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mentalità'.
+Panel 1: Discovering 'mentalità' for the first time
+Panel 2: Seeing 'mentalità' in its natural context
+Panel 3: A person interacting with 'mentalità'
+Panel 4: 'mentalità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mentalità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3792
+Word: mente
+Story: 1. Discovering 'mente' for the first time. 2. Seeing 'mente' in its natural context. 3. A person interacting with 'mente'. 4. 'mente' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mente'.
+Panel 1: Discovering 'mente' for the first time
+Panel 2: Seeing 'mente' in its natural context
+Panel 3: A person interacting with 'mente'
+Panel 4: 'mente' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mente (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3793
+Word: mentire
+Story: 1. A person thinking about the action of 'mentire'. 2. Starting to perform the action 'mentire'. 3. Actively doing 'mentire' with full effort. 4. Successfully completing the action 'mentire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mentire'.
+Panel 1: A person thinking about the action of 'mentire'
+Panel 2: Starting to perform the action 'mentire'
+Panel 3: Actively doing 'mentire' with full effort
+Panel 4: Successfully completing the action 'mentire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mentire (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3794
+Word: mento
+Story: 1. Discovering 'mento' for the first time. 2. Seeing 'mento' in its natural context. 3. A person interacting with 'mento'. 4. 'mento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mento'.
+Panel 1: Discovering 'mento' for the first time
+Panel 2: Seeing 'mento' in its natural context
+Panel 3: A person interacting with 'mento'
+Panel 4: 'mento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3795
+Word: mentre
+Story: 1. Two speech bubbles connected by the word 'mentre'. 2. A sentence on a blackboard highlighting 'mentre'. 3. A teacher explaining the use of 'mentre'. 4. Students practicing sentences with 'mentre'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mentre'.
+Panel 1: Two speech bubbles connected by the word 'mentre'
+Panel 2: A sentence on a blackboard highlighting 'mentre'
+Panel 3: A teacher explaining the use of 'mentre'
+Panel 4: Students practicing sentences with 'mentre'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mentre (cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3796
+Word: menu
+Story: 1. Discovering 'menu' for the first time. 2. Seeing 'menu' in its natural context. 3. A person interacting with 'menu'. 4. 'menu' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'menu'.
+Panel 1: Discovering 'menu' for the first time
+Panel 2: Seeing 'menu' in its natural context
+Panel 3: A person interacting with 'menu'
+Panel 4: 'menu' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "menu (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3797
+Word: menzogna
+Story: 1. Discovering 'menzogna' for the first time. 2. Seeing 'menzogna' in its natural context. 3. A person interacting with 'menzogna'. 4. 'menzogna' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'menzogna'.
+Panel 1: Discovering 'menzogna' for the first time
+Panel 2: Seeing 'menzogna' in its natural context
+Panel 3: A person interacting with 'menzogna'
+Panel 4: 'menzogna' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "menzogna (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3798
+Word: meraviglia
+Story: 1. Discovering 'meraviglia' for the first time. 2. Seeing 'meraviglia' in its natural context. 3. A person interacting with 'meraviglia'. 4. 'meraviglia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meraviglia'.
+Panel 1: Discovering 'meraviglia' for the first time
+Panel 2: Seeing 'meraviglia' in its natural context
+Panel 3: A person interacting with 'meraviglia'
+Panel 4: 'meraviglia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meraviglia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3799
+Word: meravigliare
+Story: 1. A person thinking about the action of 'meravigliare'. 2. Starting to perform the action 'meravigliare'. 3. Actively doing 'meravigliare' with full effort. 4. Successfully completing the action 'meravigliare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meravigliare'.
+Panel 1: A person thinking about the action of 'meravigliare'
+Panel 2: Starting to perform the action 'meravigliare'
+Panel 3: Actively doing 'meravigliare' with full effort
+Panel 4: Successfully completing the action 'meravigliare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meravigliare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3800
+Word: meraviglioso
+Story: 1. Encountering someone or something described as 'meraviglioso'. 2. Recognizing the quality of 'meraviglioso' in a scene. 3. A vivid example showing 'meraviglioso' clearly. 4. Understanding the full meaning of 'meraviglioso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meraviglioso'.
+Panel 1: Encountering someone or something described as 'meraviglioso'
+Panel 2: Recognizing the quality of 'meraviglioso' in a scene
+Panel 3: A vivid example showing 'meraviglioso' clearly
+Panel 4: Understanding the full meaning of 'meraviglioso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meraviglioso (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3801
+Word: mercante
+Story: 1. Discovering 'mercante' for the first time. 2. Seeing 'mercante' in its natural context. 3. A person interacting with 'mercante'. 4. 'mercante' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mercante'.
+Panel 1: Discovering 'mercante' for the first time
+Panel 2: Seeing 'mercante' in its natural context
+Panel 3: A person interacting with 'mercante'
+Panel 4: 'mercante' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mercante (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3802
+Word: mercato
+Story: 1. Discovering 'mercato' for the first time. 2. Seeing 'mercato' in its natural context. 3. A person interacting with 'mercato'. 4. 'mercato' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mercato'.
+Panel 1: Discovering 'mercato' for the first time
+Panel 2: Seeing 'mercato' in its natural context
+Panel 3: A person interacting with 'mercato'
+Panel 4: 'mercato' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mercato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3803
+Word: merce
+Story: 1. Discovering 'merce' for the first time. 2. Seeing 'merce' in its natural context. 3. A person interacting with 'merce'. 4. 'merce' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'merce'.
+Panel 1: Discovering 'merce' for the first time
+Panel 2: Seeing 'merce' in its natural context
+Panel 3: A person interacting with 'merce'
+Panel 4: 'merce' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "merce (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3804
+Word: merceria
+Story: 1. Discovering 'merceria' for the first time. 2. Seeing 'merceria' in its natural context. 3. A person interacting with 'merceria'. 4. 'merceria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'merceria'.
+Panel 1: Discovering 'merceria' for the first time
+Panel 2: Seeing 'merceria' in its natural context
+Panel 3: A person interacting with 'merceria'
+Panel 4: 'merceria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "merceria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

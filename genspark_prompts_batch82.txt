@@ -1,0 +1,500 @@
+Image ID: 4205
+Word: onestamente
+Story: 1. A scene where something happens 'onestamente'. 2. Showing the manner or degree of 'onestamente'. 3. Contrasting doing something 'onestamente' vs not. 4. A clear example of 'onestamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'onestamente'.
+Panel 1: A scene where something happens 'onestamente'
+Panel 2: Showing the manner or degree of 'onestamente'
+Panel 3: Contrasting doing something 'onestamente' vs not
+Panel 4: A clear example of 'onestamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "onestamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4206
+Word: onesto
+Story: 1. A scene where something happens 'onesto'. 2. Showing the manner or degree of 'onesto'. 3. Contrasting doing something 'onesto' vs not. 4. A clear example of 'onesto' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'onesto'.
+Panel 1: A scene where something happens 'onesto'
+Panel 2: Showing the manner or degree of 'onesto'
+Panel 3: Contrasting doing something 'onesto' vs not
+Panel 4: A clear example of 'onesto' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "onesto (agg., s.m., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4207
+Word: online
+Story: 1. Encountering someone or something described as 'online'. 2. Recognizing the quality of 'online' in a scene. 3. A vivid example showing 'online' clearly. 4. Understanding the full meaning of 'online'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'online'.
+Panel 1: Encountering someone or something described as 'online'
+Panel 2: Recognizing the quality of 'online' in a scene
+Panel 3: A vivid example showing 'online' clearly
+Panel 4: Understanding the full meaning of 'online'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "online (agg.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4208
+Word: onorare
+Story: 1. A person thinking about the action of 'onorare'. 2. Starting to perform the action 'onorare'. 3. Actively doing 'onorare' with full effort. 4. Successfully completing the action 'onorare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'onorare'.
+Panel 1: A person thinking about the action of 'onorare'
+Panel 2: Starting to perform the action 'onorare'
+Panel 3: Actively doing 'onorare' with full effort
+Panel 4: Successfully completing the action 'onorare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "onorare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4209
+Word: onore
+Story: 1. Discovering 'onore' for the first time. 2. Seeing 'onore' in its natural context. 3. A person interacting with 'onore'. 4. 'onore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'onore'.
+Panel 1: Discovering 'onore' for the first time
+Panel 2: Seeing 'onore' in its natural context
+Panel 3: A person interacting with 'onore'
+Panel 4: 'onore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "onore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4210
+Word: opera
+Story: 1. Discovering 'opera' for the first time. 2. Seeing 'opera' in its natural context. 3. A person interacting with 'opera'. 4. 'opera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'opera'.
+Panel 1: Discovering 'opera' for the first time
+Panel 2: Seeing 'opera' in its natural context
+Panel 3: A person interacting with 'opera'
+Panel 4: 'opera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "opera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4211
+Word: operaio
+Story: 1. Encountering someone or something described as 'operaio'. 2. Recognizing the quality of 'operaio' in a scene. 3. A vivid example showing 'operaio' clearly. 4. Understanding the full meaning of 'operaio'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'operaio'.
+Panel 1: Encountering someone or something described as 'operaio'
+Panel 2: Recognizing the quality of 'operaio' in a scene
+Panel 3: A vivid example showing 'operaio' clearly
+Panel 4: Understanding the full meaning of 'operaio'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "operaio (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4212
+Word: operare
+Story: 1. A person thinking about the action of 'operare'. 2. Starting to perform the action 'operare'. 3. Actively doing 'operare' with full effort. 4. Successfully completing the action 'operare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'operare'.
+Panel 1: A person thinking about the action of 'operare'
+Panel 2: Starting to perform the action 'operare'
+Panel 3: Actively doing 'operare' with full effort
+Panel 4: Successfully completing the action 'operare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "operare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4213
+Word: operativo
+Story: 1. Encountering someone or something described as 'operativo'. 2. Recognizing the quality of 'operativo' in a scene. 3. A vivid example showing 'operativo' clearly. 4. Understanding the full meaning of 'operativo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'operativo'.
+Panel 1: Encountering someone or something described as 'operativo'
+Panel 2: Recognizing the quality of 'operativo' in a scene
+Panel 3: A vivid example showing 'operativo' clearly
+Panel 4: Understanding the full meaning of 'operativo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "operativo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4214
+Word: operatore
+Story: 1. Encountering someone or something described as 'operatore'. 2. Recognizing the quality of 'operatore' in a scene. 3. A vivid example showing 'operatore' clearly. 4. Understanding the full meaning of 'operatore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'operatore'.
+Panel 1: Encountering someone or something described as 'operatore'
+Panel 2: Recognizing the quality of 'operatore' in a scene
+Panel 3: A vivid example showing 'operatore' clearly
+Panel 4: Understanding the full meaning of 'operatore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "operatore (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4215
+Word: operazione
+Story: 1. Discovering 'operazione' for the first time. 2. Seeing 'operazione' in its natural context. 3. A person interacting with 'operazione'. 4. 'operazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'operazione'.
+Panel 1: Discovering 'operazione' for the first time
+Panel 2: Seeing 'operazione' in its natural context
+Panel 3: A person interacting with 'operazione'
+Panel 4: 'operazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "operazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4216
+Word: opinione
+Story: 1. Discovering 'opinione' for the first time. 2. Seeing 'opinione' in its natural context. 3. A person interacting with 'opinione'. 4. 'opinione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'opinione'.
+Panel 1: Discovering 'opinione' for the first time
+Panel 2: Seeing 'opinione' in its natural context
+Panel 3: A person interacting with 'opinione'
+Panel 4: 'opinione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "opinione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4217
+Word: opporre
+Story: 1. A person thinking about the action of 'opporre'. 2. Starting to perform the action 'opporre'. 3. Actively doing 'opporre' with full effort. 4. Successfully completing the action 'opporre' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'opporre'.
+Panel 1: A person thinking about the action of 'opporre'
+Panel 2: Starting to perform the action 'opporre'
+Panel 3: Actively doing 'opporre' with full effort
+Panel 4: Successfully completing the action 'opporre' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "opporre (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4218
+Word: opportunità
+Story: 1. Discovering 'opportunità' for the first time. 2. Seeing 'opportunità' in its natural context. 3. A person interacting with 'opportunità'. 4. 'opportunità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'opportunità'.
+Panel 1: Discovering 'opportunità' for the first time
+Panel 2: Seeing 'opportunità' in its natural context
+Panel 3: A person interacting with 'opportunità'
+Panel 4: 'opportunità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "opportunità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4219
+Word: opportuno
+Story: 1. Seeing something that is clearly 'opportuno'. 2. Comparing two things, one is 'opportuno' and one is not. 3. A person pointing at something 'opportuno' and explaining. 4. A memorable example of something very 'opportuno'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'opportuno'.
+Panel 1: Seeing something that is clearly 'opportuno'
+Panel 2: Comparing two things, one is 'opportuno' and one is not
+Panel 3: A person pointing at something 'opportuno' and explaining
+Panel 4: A memorable example of something very 'opportuno'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "opportuno (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4220
+Word: opposizione
+Story: 1. Discovering 'opposizione' for the first time. 2. Seeing 'opposizione' in its natural context. 3. A person interacting with 'opposizione'. 4. 'opposizione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'opposizione'.
+Panel 1: Discovering 'opposizione' for the first time
+Panel 2: Seeing 'opposizione' in its natural context
+Panel 3: A person interacting with 'opposizione'
+Panel 4: 'opposizione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "opposizione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4221
+Word: opposto
+Story: 1. Encountering someone or something described as 'opposto'. 2. Recognizing the quality of 'opposto' in a scene. 3. A vivid example showing 'opposto' clearly. 4. Understanding the full meaning of 'opposto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'opposto'.
+Panel 1: Encountering someone or something described as 'opposto'
+Panel 2: Recognizing the quality of 'opposto' in a scene
+Panel 3: A vivid example showing 'opposto' clearly
+Panel 4: Understanding the full meaning of 'opposto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "opposto (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4222
+Word: oppressivo
+Story: 1. Seeing something that is clearly 'oppressivo'. 2. Comparing two things, one is 'oppressivo' and one is not. 3. A person pointing at something 'oppressivo' and explaining. 4. A memorable example of something very 'oppressivo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'oppressivo'.
+Panel 1: Seeing something that is clearly 'oppressivo'
+Panel 2: Comparing two things, one is 'oppressivo' and one is not
+Panel 3: A person pointing at something 'oppressivo' and explaining
+Panel 4: A memorable example of something very 'oppressivo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "oppressivo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4223
+Word: oppresso
+Story: 1. Encountering someone or something described as 'oppresso'. 2. Recognizing the quality of 'oppresso' in a scene. 3. A vivid example showing 'oppresso' clearly. 4. Understanding the full meaning of 'oppresso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'oppresso'.
+Panel 1: Encountering someone or something described as 'oppresso'
+Panel 2: Recognizing the quality of 'oppresso' in a scene
+Panel 3: A vivid example showing 'oppresso' clearly
+Panel 4: Understanding the full meaning of 'oppresso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "oppresso (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4224
+Word: oppressore
+Story: 1. Encountering someone or something described as 'oppressore'. 2. Recognizing the quality of 'oppressore' in a scene. 3. A vivid example showing 'oppressore' clearly. 4. Understanding the full meaning of 'oppressore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'oppressore'.
+Panel 1: Encountering someone or something described as 'oppressore'
+Panel 2: Recognizing the quality of 'oppressore' in a scene
+Panel 3: A vivid example showing 'oppressore' clearly
+Panel 4: Understanding the full meaning of 'oppressore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "oppressore (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4225
+Word: oppure
+Story: 1. Two speech bubbles connected by the word 'oppure'. 2. A sentence on a blackboard highlighting 'oppure'. 3. A teacher explaining the use of 'oppure'. 4. Students practicing sentences with 'oppure'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'oppure'.
+Panel 1: Two speech bubbles connected by the word 'oppure'
+Panel 2: A sentence on a blackboard highlighting 'oppure'
+Panel 3: A teacher explaining the use of 'oppure'
+Panel 4: Students practicing sentences with 'oppure'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "oppure (cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4226
+Word: opzione
+Story: 1. Discovering 'opzione' for the first time. 2. Seeing 'opzione' in its natural context. 3. A person interacting with 'opzione'. 4. 'opzione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'opzione'.
+Panel 1: Discovering 'opzione' for the first time
+Panel 2: Seeing 'opzione' in its natural context
+Panel 3: A person interacting with 'opzione'
+Panel 4: 'opzione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "opzione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4227
+Word: ora
+Story: 1. Discovering 'ora' for the first time. 2. Seeing 'ora' in its natural context. 3. A person interacting with 'ora'. 4. 'ora' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ora'.
+Panel 1: Discovering 'ora' for the first time
+Panel 2: Seeing 'ora' in its natural context
+Panel 3: A person interacting with 'ora'
+Panel 4: 'ora' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ora (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4228
+Word: ora
+Story: 1. A scene where something happens 'ora'. 2. Showing the manner or degree of 'ora'. 3. Contrasting doing something 'ora' vs not. 4. A clear example of 'ora' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ora'.
+Panel 1: A scene where something happens 'ora'
+Panel 2: Showing the manner or degree of 'ora'
+Panel 3: Contrasting doing something 'ora' vs not
+Panel 4: A clear example of 'ora' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ora (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4229
+Word: orale
+Story: 1. Seeing something that is clearly 'orale'. 2. Comparing two things, one is 'orale' and one is not. 3. A person pointing at something 'orale' and explaining. 4. A memorable example of something very 'orale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orale'.
+Panel 1: Seeing something that is clearly 'orale'
+Panel 2: Comparing two things, one is 'orale' and one is not
+Panel 3: A person pointing at something 'orale' and explaining
+Panel 4: A memorable example of something very 'orale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4230
+Word: oramai
+Story: 1. A scene where something happens 'oramai'. 2. Showing the manner or degree of 'oramai'. 3. Contrasting doing something 'oramai' vs not. 4. A clear example of 'oramai' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'oramai'.
+Panel 1: A scene where something happens 'oramai'
+Panel 2: Showing the manner or degree of 'oramai'
+Panel 3: Contrasting doing something 'oramai' vs not
+Panel 4: A clear example of 'oramai' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "oramai (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4231
+Word: orario
+Story: 1. Encountering someone or something described as 'orario'. 2. Recognizing the quality of 'orario' in a scene. 3. A vivid example showing 'orario' clearly. 4. Understanding the full meaning of 'orario'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orario'.
+Panel 1: Encountering someone or something described as 'orario'
+Panel 2: Recognizing the quality of 'orario' in a scene
+Panel 3: A vivid example showing 'orario' clearly
+Panel 4: Understanding the full meaning of 'orario'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orario (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4232
+Word: orbita
+Story: 1. Discovering 'orbita' for the first time. 2. Seeing 'orbita' in its natural context. 3. A person interacting with 'orbita'. 4. 'orbita' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orbita'.
+Panel 1: Discovering 'orbita' for the first time
+Panel 2: Seeing 'orbita' in its natural context
+Panel 3: A person interacting with 'orbita'
+Panel 4: 'orbita' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orbita (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4233
+Word: orchestra
+Story: 1. Discovering 'orchestra' for the first time. 2. Seeing 'orchestra' in its natural context. 3. A person interacting with 'orchestra'. 4. 'orchestra' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orchestra'.
+Panel 1: Discovering 'orchestra' for the first time
+Panel 2: Seeing 'orchestra' in its natural context
+Panel 3: A person interacting with 'orchestra'
+Panel 4: 'orchestra' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orchestra (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4234
+Word: orco
+Story: 1. Discovering 'orco' for the first time. 2. Seeing 'orco' in its natural context. 3. A person interacting with 'orco'. 4. 'orco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orco'.
+Panel 1: Discovering 'orco' for the first time
+Panel 2: Seeing 'orco' in its natural context
+Panel 3: A person interacting with 'orco'
+Panel 4: 'orco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4235
+Word: ordinamento
+Story: 1. Discovering 'ordinamento' for the first time. 2. Seeing 'ordinamento' in its natural context. 3. A person interacting with 'ordinamento'. 4. 'ordinamento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ordinamento'.
+Panel 1: Discovering 'ordinamento' for the first time
+Panel 2: Seeing 'ordinamento' in its natural context
+Panel 3: A person interacting with 'ordinamento'
+Panel 4: 'ordinamento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ordinamento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4236
+Word: ordinanza
+Story: 1. Discovering 'ordinanza' for the first time. 2. Seeing 'ordinanza' in its natural context. 3. A person interacting with 'ordinanza'. 4. 'ordinanza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ordinanza'.
+Panel 1: Discovering 'ordinanza' for the first time
+Panel 2: Seeing 'ordinanza' in its natural context
+Panel 3: A person interacting with 'ordinanza'
+Panel 4: 'ordinanza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ordinanza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4237
+Word: ordinare
+Story: 1. A person thinking about the action of 'ordinare'. 2. Starting to perform the action 'ordinare'. 3. Actively doing 'ordinare' with full effort. 4. Successfully completing the action 'ordinare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ordinare'.
+Panel 1: A person thinking about the action of 'ordinare'
+Panel 2: Starting to perform the action 'ordinare'
+Panel 3: Actively doing 'ordinare' with full effort
+Panel 4: Successfully completing the action 'ordinare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ordinare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4238
+Word: ordinario
+Story: 1. Encountering someone or something described as 'ordinario'. 2. Recognizing the quality of 'ordinario' in a scene. 3. A vivid example showing 'ordinario' clearly. 4. Understanding the full meaning of 'ordinario'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ordinario'.
+Panel 1: Encountering someone or something described as 'ordinario'
+Panel 2: Recognizing the quality of 'ordinario' in a scene
+Panel 3: A vivid example showing 'ordinario' clearly
+Panel 4: Understanding the full meaning of 'ordinario'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ordinario (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4239
+Word: ordine
+Story: 1. Discovering 'ordine' for the first time. 2. Seeing 'ordine' in its natural context. 3. A person interacting with 'ordine'. 4. 'ordine' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ordine'.
+Panel 1: Discovering 'ordine' for the first time
+Panel 2: Seeing 'ordine' in its natural context
+Panel 3: A person interacting with 'ordine'
+Panel 4: 'ordine' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ordine (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4240
+Word: orecchino
+Story: 1. Discovering 'orecchino' for the first time. 2. Seeing 'orecchino' in its natural context. 3. A person interacting with 'orecchino'. 4. 'orecchino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orecchino'.
+Panel 1: Discovering 'orecchino' for the first time
+Panel 2: Seeing 'orecchino' in its natural context
+Panel 3: A person interacting with 'orecchino'
+Panel 4: 'orecchino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orecchino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4241
+Word: orecchio
+Story: 1. Discovering 'orecchio' for the first time. 2. Seeing 'orecchio' in its natural context. 3. A person interacting with 'orecchio'. 4. 'orecchio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orecchio'.
+Panel 1: Discovering 'orecchio' for the first time
+Panel 2: Seeing 'orecchio' in its natural context
+Panel 3: A person interacting with 'orecchio'
+Panel 4: 'orecchio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orecchio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4242
+Word: orefice
+Story: 1. Discovering 'orefice' for the first time. 2. Seeing 'orefice' in its natural context. 3. A person interacting with 'orefice'. 4. 'orefice' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orefice'.
+Panel 1: Discovering 'orefice' for the first time
+Panel 2: Seeing 'orefice' in its natural context
+Panel 3: A person interacting with 'orefice'
+Panel 4: 'orefice' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orefice (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4243
+Word: organico
+Story: 1. Encountering someone or something described as 'organico'. 2. Recognizing the quality of 'organico' in a scene. 3. A vivid example showing 'organico' clearly. 4. Understanding the full meaning of 'organico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'organico'.
+Panel 1: Encountering someone or something described as 'organico'
+Panel 2: Recognizing the quality of 'organico' in a scene
+Panel 3: A vivid example showing 'organico' clearly
+Panel 4: Understanding the full meaning of 'organico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "organico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4244
+Word: organismo
+Story: 1. Discovering 'organismo' for the first time. 2. Seeing 'organismo' in its natural context. 3. A person interacting with 'organismo'. 4. 'organismo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'organismo'.
+Panel 1: Discovering 'organismo' for the first time
+Panel 2: Seeing 'organismo' in its natural context
+Panel 3: A person interacting with 'organismo'
+Panel 4: 'organismo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "organismo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4245
+Word: organizzare
+Story: 1. A person thinking about the action of 'organizzare'. 2. Starting to perform the action 'organizzare'. 3. Actively doing 'organizzare' with full effort. 4. Successfully completing the action 'organizzare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'organizzare'.
+Panel 1: A person thinking about the action of 'organizzare'
+Panel 2: Starting to perform the action 'organizzare'
+Panel 3: Actively doing 'organizzare' with full effort
+Panel 4: Successfully completing the action 'organizzare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "organizzare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4246
+Word: organizzato
+Story: 1. Encountering someone or something described as 'organizzato'. 2. Recognizing the quality of 'organizzato' in a scene. 3. A vivid example showing 'organizzato' clearly. 4. Understanding the full meaning of 'organizzato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'organizzato'.
+Panel 1: Encountering someone or something described as 'organizzato'
+Panel 2: Recognizing the quality of 'organizzato' in a scene
+Panel 3: A vivid example showing 'organizzato' clearly
+Panel 4: Understanding the full meaning of 'organizzato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "organizzato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4247
+Word: organizzazione
+Story: 1. Discovering 'organizzazione' for the first time. 2. Seeing 'organizzazione' in its natural context. 3. A person interacting with 'organizzazione'. 4. 'organizzazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'organizzazione'.
+Panel 1: Discovering 'organizzazione' for the first time
+Panel 2: Seeing 'organizzazione' in its natural context
+Panel 3: A person interacting with 'organizzazione'
+Panel 4: 'organizzazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "organizzazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4248
+Word: organo
+Story: 1. Discovering 'organo' for the first time. 2. Seeing 'organo' in its natural context. 3. A person interacting with 'organo'. 4. 'organo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'organo'.
+Panel 1: Discovering 'organo' for the first time
+Panel 2: Seeing 'organo' in its natural context
+Panel 3: A person interacting with 'organo'
+Panel 4: 'organo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "organo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4249
+Word: orgasmo
+Story: 1. Discovering 'orgasmo' for the first time. 2. Seeing 'orgasmo' in its natural context. 3. A person interacting with 'orgasmo'. 4. 'orgasmo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orgasmo'.
+Panel 1: Discovering 'orgasmo' for the first time
+Panel 2: Seeing 'orgasmo' in its natural context
+Panel 3: A person interacting with 'orgasmo'
+Panel 4: 'orgasmo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orgasmo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4250
+Word: orgoglio
+Story: 1. Discovering 'orgoglio' for the first time. 2. Seeing 'orgoglio' in its natural context. 3. A person interacting with 'orgoglio'. 4. 'orgoglio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orgoglio'.
+Panel 1: Discovering 'orgoglio' for the first time
+Panel 2: Seeing 'orgoglio' in its natural context
+Panel 3: A person interacting with 'orgoglio'
+Panel 4: 'orgoglio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orgoglio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4251
+Word: orgoglioso
+Story: 1. Seeing something that is clearly 'orgoglioso'. 2. Comparing two things, one is 'orgoglioso' and one is not. 3. A person pointing at something 'orgoglioso' and explaining. 4. A memorable example of something very 'orgoglioso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orgoglioso'.
+Panel 1: Seeing something that is clearly 'orgoglioso'
+Panel 2: Comparing two things, one is 'orgoglioso' and one is not
+Panel 3: A person pointing at something 'orgoglioso' and explaining
+Panel 4: A memorable example of something very 'orgoglioso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orgoglioso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4252
+Word: orientale
+Story: 1. Encountering someone or something described as 'orientale'. 2. Recognizing the quality of 'orientale' in a scene. 3. A vivid example showing 'orientale' clearly. 4. Understanding the full meaning of 'orientale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orientale'.
+Panel 1: Encountering someone or something described as 'orientale'
+Panel 2: Recognizing the quality of 'orientale' in a scene
+Panel 3: A vivid example showing 'orientale' clearly
+Panel 4: Understanding the full meaning of 'orientale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orientale (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4253
+Word: orientamento
+Story: 1. Discovering 'orientamento' for the first time. 2. Seeing 'orientamento' in its natural context. 3. A person interacting with 'orientamento'. 4. 'orientamento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orientamento'.
+Panel 1: Discovering 'orientamento' for the first time
+Panel 2: Seeing 'orientamento' in its natural context
+Panel 3: A person interacting with 'orientamento'
+Panel 4: 'orientamento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orientamento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4254
+Word: orientare
+Story: 1. A person thinking about the action of 'orientare'. 2. Starting to perform the action 'orientare'. 3. Actively doing 'orientare' with full effort. 4. Successfully completing the action 'orientare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'orientare'.
+Panel 1: A person thinking about the action of 'orientare'
+Panel 2: Starting to perform the action 'orientare'
+Panel 3: Actively doing 'orientare' with full effort
+Panel 4: Successfully completing the action 'orientare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "orientare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

@@ -1,0 +1,500 @@
+Image ID: 6805
+Word: tovaglietta
+Story: 1. Discovering 'tovaglietta' for the first time. 2. Seeing 'tovaglietta' in its natural context. 3. A person interacting with 'tovaglietta'. 4. 'tovaglietta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tovaglietta'.
+Panel 1: Discovering 'tovaglietta' for the first time
+Panel 2: Seeing 'tovaglietta' in its natural context
+Panel 3: A person interacting with 'tovaglietta'
+Panel 4: 'tovaglietta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tovaglietta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6806
+Word: tovagliolo
+Story: 1. Discovering 'tovagliolo' for the first time. 2. Seeing 'tovagliolo' in its natural context. 3. A person interacting with 'tovagliolo'. 4. 'tovagliolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tovagliolo'.
+Panel 1: Discovering 'tovagliolo' for the first time
+Panel 2: Seeing 'tovagliolo' in its natural context
+Panel 3: A person interacting with 'tovagliolo'
+Panel 4: 'tovagliolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tovagliolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6807
+Word: tra
+Story: 1. Two speech bubbles connected by the word 'tra'. 2. A sentence on a blackboard highlighting 'tra'. 3. A teacher explaining the use of 'tra'. 4. Students practicing sentences with 'tra'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tra'.
+Panel 1: Two speech bubbles connected by the word 'tra'
+Panel 2: A sentence on a blackboard highlighting 'tra'
+Panel 3: A teacher explaining the use of 'tra'
+Panel 4: Students practicing sentences with 'tra'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tra (prep.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6808
+Word: traballare
+Story: 1. A person thinking about the action of 'traballare'. 2. Starting to perform the action 'traballare'. 3. Actively doing 'traballare' with full effort. 4. Successfully completing the action 'traballare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'traballare'.
+Panel 1: A person thinking about the action of 'traballare'
+Panel 2: Starting to perform the action 'traballare'
+Panel 3: Actively doing 'traballare' with full effort
+Panel 4: Successfully completing the action 'traballare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "traballare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6809
+Word: traboccare
+Story: 1. A person thinking about the action of 'traboccare'. 2. Starting to perform the action 'traboccare'. 3. Actively doing 'traboccare' with full effort. 4. Successfully completing the action 'traboccare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'traboccare'.
+Panel 1: A person thinking about the action of 'traboccare'
+Panel 2: Starting to perform the action 'traboccare'
+Panel 3: Actively doing 'traboccare' with full effort
+Panel 4: Successfully completing the action 'traboccare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "traboccare (v.intr., v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6810
+Word: trabocchetto
+Story: 1. Discovering 'trabocchetto' for the first time. 2. Seeing 'trabocchetto' in its natural context. 3. A person interacting with 'trabocchetto'. 4. 'trabocchetto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trabocchetto'.
+Panel 1: Discovering 'trabocchetto' for the first time
+Panel 2: Seeing 'trabocchetto' in its natural context
+Panel 3: A person interacting with 'trabocchetto'
+Panel 4: 'trabocchetto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trabocchetto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6811
+Word: traccia
+Story: 1. Discovering 'traccia' for the first time. 2. Seeing 'traccia' in its natural context. 3. A person interacting with 'traccia'. 4. 'traccia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'traccia'.
+Panel 1: Discovering 'traccia' for the first time
+Panel 2: Seeing 'traccia' in its natural context
+Panel 3: A person interacting with 'traccia'
+Panel 4: 'traccia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "traccia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6812
+Word: tracciare
+Story: 1. A person thinking about the action of 'tracciare'. 2. Starting to perform the action 'tracciare'. 3. Actively doing 'tracciare' with full effort. 4. Successfully completing the action 'tracciare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tracciare'.
+Panel 1: A person thinking about the action of 'tracciare'
+Panel 2: Starting to perform the action 'tracciare'
+Panel 3: Actively doing 'tracciare' with full effort
+Panel 4: Successfully completing the action 'tracciare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tracciare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6813
+Word: tradimento
+Story: 1. Discovering 'tradimento' for the first time. 2. Seeing 'tradimento' in its natural context. 3. A person interacting with 'tradimento'. 4. 'tradimento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tradimento'.
+Panel 1: Discovering 'tradimento' for the first time
+Panel 2: Seeing 'tradimento' in its natural context
+Panel 3: A person interacting with 'tradimento'
+Panel 4: 'tradimento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tradimento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6814
+Word: tradire
+Story: 1. A person thinking about the action of 'tradire'. 2. Starting to perform the action 'tradire'. 3. Actively doing 'tradire' with full effort. 4. Successfully completing the action 'tradire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tradire'.
+Panel 1: A person thinking about the action of 'tradire'
+Panel 2: Starting to perform the action 'tradire'
+Panel 3: Actively doing 'tradire' with full effort
+Panel 4: Successfully completing the action 'tradire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tradire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6815
+Word: tradizionale
+Story: 1. Seeing something that is clearly 'tradizionale'. 2. Comparing two things, one is 'tradizionale' and one is not. 3. A person pointing at something 'tradizionale' and explaining. 4. A memorable example of something very 'tradizionale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tradizionale'.
+Panel 1: Seeing something that is clearly 'tradizionale'
+Panel 2: Comparing two things, one is 'tradizionale' and one is not
+Panel 3: A person pointing at something 'tradizionale' and explaining
+Panel 4: A memorable example of something very 'tradizionale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tradizionale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6816
+Word: tradizione
+Story: 1. Discovering 'tradizione' for the first time. 2. Seeing 'tradizione' in its natural context. 3. A person interacting with 'tradizione'. 4. 'tradizione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tradizione'.
+Panel 1: Discovering 'tradizione' for the first time
+Panel 2: Seeing 'tradizione' in its natural context
+Panel 3: A person interacting with 'tradizione'
+Panel 4: 'tradizione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tradizione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6817
+Word: tradurre
+Story: 1. A person thinking about the action of 'tradurre'. 2. Starting to perform the action 'tradurre'. 3. Actively doing 'tradurre' with full effort. 4. Successfully completing the action 'tradurre' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tradurre'.
+Panel 1: A person thinking about the action of 'tradurre'
+Panel 2: Starting to perform the action 'tradurre'
+Panel 3: Actively doing 'tradurre' with full effort
+Panel 4: Successfully completing the action 'tradurre' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tradurre (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6818
+Word: traduzione
+Story: 1. Discovering 'traduzione' for the first time. 2. Seeing 'traduzione' in its natural context. 3. A person interacting with 'traduzione'. 4. 'traduzione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'traduzione'.
+Panel 1: Discovering 'traduzione' for the first time
+Panel 2: Seeing 'traduzione' in its natural context
+Panel 3: A person interacting with 'traduzione'
+Panel 4: 'traduzione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "traduzione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6819
+Word: traffico
+Story: 1. Discovering 'traffico' for the first time. 2. Seeing 'traffico' in its natural context. 3. A person interacting with 'traffico'. 4. 'traffico' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'traffico'.
+Panel 1: Discovering 'traffico' for the first time
+Panel 2: Seeing 'traffico' in its natural context
+Panel 3: A person interacting with 'traffico'
+Panel 4: 'traffico' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "traffico (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6820
+Word: trafila
+Story: 1. Discovering 'trafila' for the first time. 2. Seeing 'trafila' in its natural context. 3. A person interacting with 'trafila'. 4. 'trafila' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trafila'.
+Panel 1: Discovering 'trafila' for the first time
+Panel 2: Seeing 'trafila' in its natural context
+Panel 3: A person interacting with 'trafila'
+Panel 4: 'trafila' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trafila (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6821
+Word: traforo
+Story: 1. Discovering 'traforo' for the first time. 2. Seeing 'traforo' in its natural context. 3. A person interacting with 'traforo'. 4. 'traforo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'traforo'.
+Panel 1: Discovering 'traforo' for the first time
+Panel 2: Seeing 'traforo' in its natural context
+Panel 3: A person interacting with 'traforo'
+Panel 4: 'traforo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "traforo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6822
+Word: tragedia
+Story: 1. Discovering 'tragedia' for the first time. 2. Seeing 'tragedia' in its natural context. 3. A person interacting with 'tragedia'. 4. 'tragedia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tragedia'.
+Panel 1: Discovering 'tragedia' for the first time
+Panel 2: Seeing 'tragedia' in its natural context
+Panel 3: A person interacting with 'tragedia'
+Panel 4: 'tragedia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tragedia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6823
+Word: traghetto
+Story: 1. Discovering 'traghetto' for the first time. 2. Seeing 'traghetto' in its natural context. 3. A person interacting with 'traghetto'. 4. 'traghetto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'traghetto'.
+Panel 1: Discovering 'traghetto' for the first time
+Panel 2: Seeing 'traghetto' in its natural context
+Panel 3: A person interacting with 'traghetto'
+Panel 4: 'traghetto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "traghetto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6824
+Word: tragico
+Story: 1. Encountering someone or something described as 'tragico'. 2. Recognizing the quality of 'tragico' in a scene. 3. A vivid example showing 'tragico' clearly. 4. Understanding the full meaning of 'tragico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tragico'.
+Panel 1: Encountering someone or something described as 'tragico'
+Panel 2: Recognizing the quality of 'tragico' in a scene
+Panel 3: A vivid example showing 'tragico' clearly
+Panel 4: Understanding the full meaning of 'tragico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tragico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6825
+Word: trainare
+Story: 1. A person thinking about the action of 'trainare'. 2. Starting to perform the action 'trainare'. 3. Actively doing 'trainare' with full effort. 4. Successfully completing the action 'trainare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trainare'.
+Panel 1: A person thinking about the action of 'trainare'
+Panel 2: Starting to perform the action 'trainare'
+Panel 3: Actively doing 'trainare' with full effort
+Panel 4: Successfully completing the action 'trainare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trainare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6826
+Word: trama
+Story: 1. Discovering 'trama' for the first time. 2. Seeing 'trama' in its natural context. 3. A person interacting with 'trama'. 4. 'trama' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trama'.
+Panel 1: Discovering 'trama' for the first time
+Panel 2: Seeing 'trama' in its natural context
+Panel 3: A person interacting with 'trama'
+Panel 4: 'trama' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trama (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6827
+Word: tramezzino
+Story: 1. Discovering 'tramezzino' for the first time. 2. Seeing 'tramezzino' in its natural context. 3. A person interacting with 'tramezzino'. 4. 'tramezzino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tramezzino'.
+Panel 1: Discovering 'tramezzino' for the first time
+Panel 2: Seeing 'tramezzino' in its natural context
+Panel 3: A person interacting with 'tramezzino'
+Panel 4: 'tramezzino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tramezzino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6828
+Word: tramite
+Story: 1. Two speech bubbles connected by the word 'tramite'. 2. A sentence on a blackboard highlighting 'tramite'. 3. A teacher explaining the use of 'tramite'. 4. Students practicing sentences with 'tramite'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tramite'.
+Panel 1: Two speech bubbles connected by the word 'tramite'
+Panel 2: A sentence on a blackboard highlighting 'tramite'
+Panel 3: A teacher explaining the use of 'tramite'
+Panel 4: Students practicing sentences with 'tramite'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tramite (s.m., prep.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6829
+Word: tramontare
+Story: 1. A person thinking about the action of 'tramontare'. 2. Starting to perform the action 'tramontare'. 3. Actively doing 'tramontare' with full effort. 4. Successfully completing the action 'tramontare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tramontare'.
+Panel 1: A person thinking about the action of 'tramontare'
+Panel 2: Starting to perform the action 'tramontare'
+Panel 3: Actively doing 'tramontare' with full effort
+Panel 4: Successfully completing the action 'tramontare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tramontare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6830
+Word: tramonto
+Story: 1. Discovering 'tramonto' for the first time. 2. Seeing 'tramonto' in its natural context. 3. A person interacting with 'tramonto'. 4. 'tramonto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tramonto'.
+Panel 1: Discovering 'tramonto' for the first time
+Panel 2: Seeing 'tramonto' in its natural context
+Panel 3: A person interacting with 'tramonto'
+Panel 4: 'tramonto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tramonto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6831
+Word: trampolino
+Story: 1. Discovering 'trampolino' for the first time. 2. Seeing 'trampolino' in its natural context. 3. A person interacting with 'trampolino'. 4. 'trampolino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trampolino'.
+Panel 1: Discovering 'trampolino' for the first time
+Panel 2: Seeing 'trampolino' in its natural context
+Panel 3: A person interacting with 'trampolino'
+Panel 4: 'trampolino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trampolino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6832
+Word: trancio
+Story: 1. Discovering 'trancio' for the first time. 2. Seeing 'trancio' in its natural context. 3. A person interacting with 'trancio'. 4. 'trancio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trancio'.
+Panel 1: Discovering 'trancio' for the first time
+Panel 2: Seeing 'trancio' in its natural context
+Panel 3: A person interacting with 'trancio'
+Panel 4: 'trancio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trancio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6833
+Word: tranne
+Story: 1. Two speech bubbles connected by the word 'tranne'. 2. A sentence on a blackboard highlighting 'tranne'. 3. A teacher explaining the use of 'tranne'. 4. Students practicing sentences with 'tranne'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tranne'.
+Panel 1: Two speech bubbles connected by the word 'tranne'
+Panel 2: A sentence on a blackboard highlighting 'tranne'
+Panel 3: A teacher explaining the use of 'tranne'
+Panel 4: Students practicing sentences with 'tranne'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tranne (prep.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6834
+Word: tranquillamente
+Story: 1. A scene where something happens 'tranquillamente'. 2. Showing the manner or degree of 'tranquillamente'. 3. Contrasting doing something 'tranquillamente' vs not. 4. A clear example of 'tranquillamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tranquillamente'.
+Panel 1: A scene where something happens 'tranquillamente'
+Panel 2: Showing the manner or degree of 'tranquillamente'
+Panel 3: Contrasting doing something 'tranquillamente' vs not
+Panel 4: A clear example of 'tranquillamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tranquillamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6835
+Word: tranquillità
+Story: 1. Discovering 'tranquillità' for the first time. 2. Seeing 'tranquillità' in its natural context. 3. A person interacting with 'tranquillità'. 4. 'tranquillità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tranquillità'.
+Panel 1: Discovering 'tranquillità' for the first time
+Panel 2: Seeing 'tranquillità' in its natural context
+Panel 3: A person interacting with 'tranquillità'
+Panel 4: 'tranquillità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tranquillità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6836
+Word: tranquillizzare
+Story: 1. A person thinking about the action of 'tranquillizzare'. 2. Starting to perform the action 'tranquillizzare'. 3. Actively doing 'tranquillizzare' with full effort. 4. Successfully completing the action 'tranquillizzare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tranquillizzare'.
+Panel 1: A person thinking about the action of 'tranquillizzare'
+Panel 2: Starting to perform the action 'tranquillizzare'
+Panel 3: Actively doing 'tranquillizzare' with full effort
+Panel 4: Successfully completing the action 'tranquillizzare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tranquillizzare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6837
+Word: tranquillo
+Story: 1. A scene where something happens 'tranquillo'. 2. Showing the manner or degree of 'tranquillo'. 3. Contrasting doing something 'tranquillo' vs not. 4. A clear example of 'tranquillo' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tranquillo'.
+Panel 1: A scene where something happens 'tranquillo'
+Panel 2: Showing the manner or degree of 'tranquillo'
+Panel 3: Contrasting doing something 'tranquillo' vs not
+Panel 4: A clear example of 'tranquillo' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tranquillo (agg., avv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6838
+Word: transito
+Story: 1. Discovering 'transito' for the first time. 2. Seeing 'transito' in its natural context. 3. A person interacting with 'transito'. 4. 'transito' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'transito'.
+Panel 1: Discovering 'transito' for the first time
+Panel 2: Seeing 'transito' in its natural context
+Panel 3: A person interacting with 'transito'
+Panel 4: 'transito' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "transito (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6839
+Word: trapano
+Story: 1. Discovering 'trapano' for the first time. 2. Seeing 'trapano' in its natural context. 3. A person interacting with 'trapano'. 4. 'trapano' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trapano'.
+Panel 1: Discovering 'trapano' for the first time
+Panel 2: Seeing 'trapano' in its natural context
+Panel 3: A person interacting with 'trapano'
+Panel 4: 'trapano' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trapano (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6840
+Word: trapezio
+Story: 1. Encountering someone or something described as 'trapezio'. 2. Recognizing the quality of 'trapezio' in a scene. 3. A vivid example showing 'trapezio' clearly. 4. Understanding the full meaning of 'trapezio'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trapezio'.
+Panel 1: Encountering someone or something described as 'trapezio'
+Panel 2: Recognizing the quality of 'trapezio' in a scene
+Panel 3: A vivid example showing 'trapezio' clearly
+Panel 4: Understanding the full meaning of 'trapezio'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trapezio (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6841
+Word: trapianto
+Story: 1. Discovering 'trapianto' for the first time. 2. Seeing 'trapianto' in its natural context. 3. A person interacting with 'trapianto'. 4. 'trapianto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trapianto'.
+Panel 1: Discovering 'trapianto' for the first time
+Panel 2: Seeing 'trapianto' in its natural context
+Panel 3: A person interacting with 'trapianto'
+Panel 4: 'trapianto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trapianto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6842
+Word: trappola
+Story: 1. Discovering 'trappola' for the first time. 2. Seeing 'trappola' in its natural context. 3. A person interacting with 'trappola'. 4. 'trappola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trappola'.
+Panel 1: Discovering 'trappola' for the first time
+Panel 2: Seeing 'trappola' in its natural context
+Panel 3: A person interacting with 'trappola'
+Panel 4: 'trappola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trappola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6843
+Word: trapunta
+Story: 1. Discovering 'trapunta' for the first time. 2. Seeing 'trapunta' in its natural context. 3. A person interacting with 'trapunta'. 4. 'trapunta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trapunta'.
+Panel 1: Discovering 'trapunta' for the first time
+Panel 2: Seeing 'trapunta' in its natural context
+Panel 3: A person interacting with 'trapunta'
+Panel 4: 'trapunta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trapunta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6844
+Word: trarre
+Story: 1. A person thinking about the action of 'trarre'. 2. Starting to perform the action 'trarre'. 3. Actively doing 'trarre' with full effort. 4. Successfully completing the action 'trarre' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trarre'.
+Panel 1: A person thinking about the action of 'trarre'
+Panel 2: Starting to perform the action 'trarre'
+Panel 3: Actively doing 'trarre' with full effort
+Panel 4: Successfully completing the action 'trarre' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trarre (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6845
+Word: trascinare
+Story: 1. A person thinking about the action of 'trascinare'. 2. Starting to perform the action 'trascinare'. 3. Actively doing 'trascinare' with full effort. 4. Successfully completing the action 'trascinare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trascinare'.
+Panel 1: A person thinking about the action of 'trascinare'
+Panel 2: Starting to perform the action 'trascinare'
+Panel 3: Actively doing 'trascinare' with full effort
+Panel 4: Successfully completing the action 'trascinare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trascinare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6846
+Word: trascorrere
+Story: 1. A person thinking about the action of 'trascorrere'. 2. Starting to perform the action 'trascorrere'. 3. Actively doing 'trascorrere' with full effort. 4. Successfully completing the action 'trascorrere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trascorrere'.
+Panel 1: A person thinking about the action of 'trascorrere'
+Panel 2: Starting to perform the action 'trascorrere'
+Panel 3: Actively doing 'trascorrere' with full effort
+Panel 4: Successfully completing the action 'trascorrere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trascorrere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6847
+Word: trascrizione
+Story: 1. Discovering 'trascrizione' for the first time. 2. Seeing 'trascrizione' in its natural context. 3. A person interacting with 'trascrizione'. 4. 'trascrizione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trascrizione'.
+Panel 1: Discovering 'trascrizione' for the first time
+Panel 2: Seeing 'trascrizione' in its natural context
+Panel 3: A person interacting with 'trascrizione'
+Panel 4: 'trascrizione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trascrizione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6848
+Word: trascurare
+Story: 1. A person thinking about the action of 'trascurare'. 2. Starting to perform the action 'trascurare'. 3. Actively doing 'trascurare' with full effort. 4. Successfully completing the action 'trascurare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trascurare'.
+Panel 1: A person thinking about the action of 'trascurare'
+Panel 2: Starting to perform the action 'trascurare'
+Panel 3: Actively doing 'trascurare' with full effort
+Panel 4: Successfully completing the action 'trascurare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trascurare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6849
+Word: trasferimento
+Story: 1. Discovering 'trasferimento' for the first time. 2. Seeing 'trasferimento' in its natural context. 3. A person interacting with 'trasferimento'. 4. 'trasferimento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trasferimento'.
+Panel 1: Discovering 'trasferimento' for the first time
+Panel 2: Seeing 'trasferimento' in its natural context
+Panel 3: A person interacting with 'trasferimento'
+Panel 4: 'trasferimento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trasferimento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6850
+Word: trasferire
+Story: 1. A person thinking about the action of 'trasferire'. 2. Starting to perform the action 'trasferire'. 3. Actively doing 'trasferire' with full effort. 4. Successfully completing the action 'trasferire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trasferire'.
+Panel 1: A person thinking about the action of 'trasferire'
+Panel 2: Starting to perform the action 'trasferire'
+Panel 3: Actively doing 'trasferire' with full effort
+Panel 4: Successfully completing the action 'trasferire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trasferire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6851
+Word: trasformare
+Story: 1. A person thinking about the action of 'trasformare'. 2. Starting to perform the action 'trasformare'. 3. Actively doing 'trasformare' with full effort. 4. Successfully completing the action 'trasformare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trasformare'.
+Panel 1: A person thinking about the action of 'trasformare'
+Panel 2: Starting to perform the action 'trasformare'
+Panel 3: Actively doing 'trasformare' with full effort
+Panel 4: Successfully completing the action 'trasformare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trasformare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6852
+Word: trasformazione
+Story: 1. Discovering 'trasformazione' for the first time. 2. Seeing 'trasformazione' in its natural context. 3. A person interacting with 'trasformazione'. 4. 'trasformazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trasformazione'.
+Panel 1: Discovering 'trasformazione' for the first time
+Panel 2: Seeing 'trasformazione' in its natural context
+Panel 3: A person interacting with 'trasformazione'
+Panel 4: 'trasformazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trasformazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6853
+Word: trasfusione
+Story: 1. Discovering 'trasfusione' for the first time. 2. Seeing 'trasfusione' in its natural context. 3. A person interacting with 'trasfusione'. 4. 'trasfusione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trasfusione'.
+Panel 1: Discovering 'trasfusione' for the first time
+Panel 2: Seeing 'trasfusione' in its natural context
+Panel 3: A person interacting with 'trasfusione'
+Panel 4: 'trasfusione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trasfusione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6854
+Word: traslocare
+Story: 1. A person thinking about the action of 'traslocare'. 2. Starting to perform the action 'traslocare'. 3. Actively doing 'traslocare' with full effort. 4. Successfully completing the action 'traslocare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'traslocare'.
+Panel 1: A person thinking about the action of 'traslocare'
+Panel 2: Starting to perform the action 'traslocare'
+Panel 3: Actively doing 'traslocare' with full effort
+Panel 4: Successfully completing the action 'traslocare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "traslocare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

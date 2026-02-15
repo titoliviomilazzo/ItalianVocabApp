@@ -1,0 +1,499 @@
+Image ID: 1665
+Word: controllare
+Story: 1. A person facing a situation where they need to controllare. 2. Preparing and getting ready to controllare. 3. Actively performing the action of controllare with determination. 4. The satisfying result after successfully completing controllare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'controllare'.
+Panel 1: A person facing a situation where they need to controllare.
+Panel 2: Preparing and getting ready to controllare.
+Panel 3: Actively performing the action of controllare with determination.
+Panel 4: The satisfying result after successfully completing controllare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "controllare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1677
+Word: convinto
+Story: 1. Discovering convinto in an interesting setting. 2. Observing convinto up close with curiosity. 3. A practical use of convinto in daily life. 4. Understanding why convinto matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'convinto'.
+Panel 1: Discovering convinto in an interesting setting.
+Panel 2: Observing convinto up close with curiosity.
+Panel 3: A practical use of convinto in daily life.
+Panel 4: Understanding why convinto matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "convinto (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1686
+Word: coperta
+Story: 1. A clear depiction of coperta in everyday life. 2. Someone encountering coperta for the first time. 3. A person using or interacting with coperta. 4. Coperta playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coperta'.
+Panel 1: A clear depiction of coperta in everyday life.
+Panel 2: Someone encountering coperta for the first time.
+Panel 3: A person using or interacting with coperta.
+Panel 4: Coperta playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coperta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1690
+Word: copia
+Story: 1. Discovering copia in an interesting setting. 2. Observing copia up close with curiosity. 3. A practical use of copia in daily life. 4. Understanding why copia matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'copia'.
+Panel 1: Discovering copia in an interesting setting.
+Panel 2: Observing copia up close with curiosity.
+Panel 3: A practical use of copia in daily life.
+Panel 4: Understanding why copia matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "copia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1719
+Word: correre
+Story: 1. Someone explaining the concept of correre to a friend. 2. A real-life scenario that requires correre. 3. A person in the middle of correre with focus. 4. The positive outcome of correre shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'correre'.
+Panel 1: Someone explaining the concept of correre to a friend.
+Panel 2: A real-life scenario that requires correre.
+Panel 3: A person in the middle of correre with focus.
+Panel 4: The positive outcome of correre shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "correre (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1730
+Word: corruzione
+Story: 1. An illustration showing what corruzione looks like. 2. Corruzione in its typical environment or context. 3. A person pointing at corruzione and explaining it. 4. A scene where corruzione is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'corruzione'.
+Panel 1: An illustration showing what corruzione looks like.
+Panel 2: Corruzione in its typical environment or context.
+Panel 3: A person pointing at corruzione and explaining it.
+Panel 4: A scene where corruzione is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "corruzione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7331
+Word: corsetto
+Story: 1. Discovering corsetto in an interesting setting. 2. Observing corsetto up close with curiosity. 3. A practical use of corsetto in daily life. 4. Understanding why corsetto matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'corsetto'.
+Panel 1: Discovering corsetto in an interesting setting.
+Panel 2: Observing corsetto up close with curiosity.
+Panel 3: A practical use of corsetto in daily life.
+Panel 4: Understanding why corsetto matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "corsetto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1750
+Word: costare
+Story: 1. Someone explaining the concept of costare to a friend. 2. A real-life scenario that requires costare. 3. A person in the middle of costare with focus. 4. The positive outcome of costare shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'costare'.
+Panel 1: Someone explaining the concept of costare to a friend.
+Panel 2: A real-life scenario that requires costare.
+Panel 3: A person in the middle of costare with focus.
+Panel 4: The positive outcome of costare shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "costare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7332
+Word: costare meno
+Story: 1. An illustration showing what costare meno looks like. 2. Costare Meno in its typical environment or context. 3. A person pointing at costare meno and explaining it. 4. A scene where costare meno is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'costare meno'.
+Panel 1: An illustration showing what costare meno looks like.
+Panel 2: Costare Meno in its typical environment or context.
+Panel 3: A person pointing at costare meno and explaining it.
+Panel 4: A scene where costare meno is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "costare meno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7333
+Word: costi contenuti
+Story: 1. Seeing something that is clearly costi contenuti. 2. Comparing two things: one is costi contenuti, the other is not. 3. A person describing something as costi contenuti with gestures. 4. A vivid, memorable example of something very costi contenuti.
+Prompt: A 4-panel grid comic strip telling a story for the word 'costi contenuti'.
+Panel 1: Seeing something that is clearly costi contenuti.
+Panel 2: Comparing two things: one is costi contenuti, the other is not.
+Panel 3: A person describing something as costi contenuti with gestures.
+Panel 4: A vivid, memorable example of something very costi contenuti.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "costi contenuti (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7334
+Word: costiero
+Story: 1. A clear depiction of costiero in everyday life. 2. Someone encountering costiero for the first time. 3. A person using or interacting with costiero. 4. Costiero playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'costiero'.
+Panel 1: A clear depiction of costiero in everyday life.
+Panel 2: Someone encountering costiero for the first time.
+Panel 3: A person using or interacting with costiero.
+Panel 4: Costiero playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "costiero (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1754
+Word: costituzione
+Story: 1. An illustration showing what costituzione looks like. 2. Costituzione in its typical environment or context. 3. A person pointing at costituzione and explaining it. 4. A scene where costituzione is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'costituzione'.
+Panel 1: An illustration showing what costituzione looks like.
+Panel 2: Costituzione in its typical environment or context.
+Panel 3: A person pointing at costituzione and explaining it.
+Panel 4: A scene where costituzione is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "costituzione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7335
+Word: costretto
+Story: 1. An illustration showing what costretto looks like. 2. Costretto in its typical environment or context. 3. A person pointing at costretto and explaining it. 4. A scene where costretto is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'costretto'.
+Panel 1: An illustration showing what costretto looks like.
+Panel 2: Costretto in its typical environment or context.
+Panel 3: A person pointing at costretto and explaining it.
+Panel 4: A scene where costretto is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "costretto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1758
+Word: costruire
+Story: 1. A person facing a situation where they need to costruire. 2. Preparing and getting ready to costruire. 3. Actively performing the action of costruire with determination. 4. The satisfying result after successfully completing costruire.
+Prompt: A 4-panel grid comic strip telling a story for the word 'costruire'.
+Panel 1: A person facing a situation where they need to costruire.
+Panel 2: Preparing and getting ready to costruire.
+Panel 3: Actively performing the action of costruire with determination.
+Panel 4: The satisfying result after successfully completing costruire.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "costruire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7336
+Word: costume storici
+Story: 1. A scene that perfectly represents the feeling of costume storici. 2. An object or place that embodies costume storici. 3. Someone reacting to something costume storici. 4. The concept of costume storici illustrated in a clear way.
+Prompt: A 4-panel grid comic strip telling a story for the word 'costume storici'.
+Panel 1: A scene that perfectly represents the feeling of costume storici.
+Panel 2: An object or place that embodies costume storici.
+Panel 3: Someone reacting to something costume storici.
+Panel 4: The concept of costume storici illustrated in a clear way.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "costume storici (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1770
+Word: cravatta
+Story: 1. An illustration showing what cravatta looks like. 2. Cravatta in its typical environment or context. 3. A person pointing at cravatta and explaining it. 4. A scene where cravatta is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cravatta'.
+Panel 1: An illustration showing what cravatta looks like.
+Panel 2: Cravatta in its typical environment or context.
+Panel 3: A person pointing at cravatta and explaining it.
+Panel 4: A scene where cravatta is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cravatta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1771
+Word: creare
+Story: 1. A thought bubble showing the idea of creare. 2. Taking the first step to creare. 3. Fully engaged in the act of creare. 4. A completed scene showing the effect of creare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'creare'.
+Panel 1: A thought bubble showing the idea of creare.
+Panel 2: Taking the first step to creare.
+Panel 3: Fully engaged in the act of creare.
+Panel 4: A completed scene showing the effect of creare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "creare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1772
+Word: creatività
+Story: 1. A thought bubble showing the idea of creatività. 2. Taking the first step to creatività. 3. Fully engaged in the act of creatività. 4. A completed scene showing the effect of creatività.
+Prompt: A 4-panel grid comic strip telling a story for the word 'creatività'.
+Panel 1: A thought bubble showing the idea of creatività.
+Panel 2: Taking the first step to creatività.
+Panel 3: Fully engaged in the act of creatività.
+Panel 4: A completed scene showing the effect of creatività.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "creatività (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1787
+Word: crescere
+Story: 1. A thought bubble showing the idea of crescere. 2. Taking the first step to crescere. 3. Fully engaged in the act of crescere. 4. A completed scene showing the effect of crescere.
+Prompt: A 4-panel grid comic strip telling a story for the word 'crescere'.
+Panel 1: A thought bubble showing the idea of crescere.
+Panel 2: Taking the first step to crescere.
+Panel 3: Fully engaged in the act of crescere.
+Panel 4: A completed scene showing the effect of crescere.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "crescere (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1788
+Word: crescita
+Story: 1. Discovering crescita in an interesting setting. 2. Observing crescita up close with curiosity. 3. A practical use of crescita in daily life. 4. Understanding why crescita matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'crescita'.
+Panel 1: Discovering crescita in an interesting setting.
+Panel 2: Observing crescita up close with curiosity.
+Panel 3: A practical use of crescita in daily life.
+Panel 4: Understanding why crescita matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "crescita (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7337
+Word: crisi finanziaria
+Story: 1. Discovering crisi finanziaria in an interesting setting. 2. Observing crisi finanziaria up close with curiosity. 3. A practical use of crisi finanziaria in daily life. 4. Understanding why crisi finanziaria matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'crisi finanziaria'.
+Panel 1: Discovering crisi finanziaria in an interesting setting.
+Panel 2: Observing crisi finanziaria up close with curiosity.
+Panel 3: A practical use of crisi finanziaria in daily life.
+Panel 4: Understanding why crisi finanziaria matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "crisi finanziaria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7338
+Word: crisi finanziario
+Story: 1. A clear depiction of crisi finanziario in everyday life. 2. Someone encountering crisi finanziario for the first time. 3. A person using or interacting with crisi finanziario. 4. Crisi Finanziario playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'crisi finanziario'.
+Panel 1: A clear depiction of crisi finanziario in everyday life.
+Panel 2: Someone encountering crisi finanziario for the first time.
+Panel 3: A person using or interacting with crisi finanziario.
+Panel 4: Crisi Finanziario playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "crisi finanziario (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1801
+Word: criticare
+Story: 1. Someone explaining the concept of criticare to a friend. 2. A real-life scenario that requires criticare. 3. A person in the middle of criticare with focus. 4. The positive outcome of criticare shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'criticare'.
+Panel 1: Someone explaining the concept of criticare to a friend.
+Panel 2: A real-life scenario that requires criticare.
+Panel 3: A person in the middle of criticare with focus.
+Panel 4: The positive outcome of criticare shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "criticare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7339
+Word: crosta
+Story: 1. An illustration showing what crosta looks like. 2. Crosta in its typical environment or context. 3. A person pointing at crosta and explaining it. 4. A scene where crosta is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'crosta'.
+Panel 1: An illustration showing what crosta looks like.
+Panel 2: Crosta in its typical environment or context.
+Panel 3: A person pointing at crosta and explaining it.
+Panel 4: A scene where crosta is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "crosta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1817
+Word: cucchiaio
+Story: 1. Discovering cucchiaio in an interesting setting. 2. Observing cucchiaio up close with curiosity. 3. A practical use of cucchiaio in daily life. 4. Understanding why cucchiaio matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cucchiaio'.
+Panel 1: Discovering cucchiaio in an interesting setting.
+Panel 2: Observing cucchiaio up close with curiosity.
+Panel 3: A practical use of cucchiaio in daily life.
+Panel 4: Understanding why cucchiaio matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cucchiaio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1820
+Word: cucina
+Story: 1. A clear depiction of cucina in everyday life. 2. Someone encountering cucina for the first time. 3. A person using or interacting with cucina. 4. Cucina playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cucina'.
+Panel 1: A clear depiction of cucina in everyday life.
+Panel 2: Someone encountering cucina for the first time.
+Panel 3: A person using or interacting with cucina.
+Panel 4: Cucina playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cucina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7340
+Word: culinario
+Story: 1. Discovering culinario in an interesting setting. 2. Observing culinario up close with curiosity. 3. A practical use of culinario in daily life. 4. Understanding why culinario matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'culinario'.
+Panel 1: Discovering culinario in an interesting setting.
+Panel 2: Observing culinario up close with curiosity.
+Panel 3: A practical use of culinario in daily life.
+Panel 4: Understanding why culinario matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "culinario (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1831
+Word: cultura
+Story: 1. A clear depiction of cultura in everyday life. 2. Someone encountering cultura for the first time. 3. A person using or interacting with cultura. 4. Cultura playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cultura'.
+Panel 1: A clear depiction of cultura in everyday life.
+Panel 2: Someone encountering cultura for the first time.
+Panel 3: A person using or interacting with cultura.
+Panel 4: Cultura playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cultura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1832
+Word: culturale
+Story: 1. A scene that perfectly represents the feeling of culturale. 2. An object or place that embodies culturale. 3. Someone reacting to something culturale. 4. The concept of culturale illustrated in a clear way.
+Prompt: A 4-panel grid comic strip telling a story for the word 'culturale'.
+Panel 1: A scene that perfectly represents the feeling of culturale.
+Panel 2: An object or place that embodies culturale.
+Panel 3: Someone reacting to something culturale.
+Panel 4: The concept of culturale illustrated in a clear way.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "culturale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7341
+Word: cuoca
+Story: 1. Discovering cuoca in an interesting setting. 2. Observing cuoca up close with curiosity. 3. A practical use of cuoca in daily life. 4. Understanding why cuoca matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cuoca'.
+Panel 1: Discovering cuoca in an interesting setting.
+Panel 2: Observing cuoca up close with curiosity.
+Panel 3: A practical use of cuoca in daily life.
+Panel 4: Understanding why cuoca matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cuoca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7342
+Word: cuoio
+Story: 1. Discovering cuoio in an interesting setting. 2. Observing cuoio up close with curiosity. 3. A practical use of cuoio in daily life. 4. Understanding why cuoio matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cuoio'.
+Panel 1: Discovering cuoio in an interesting setting.
+Panel 2: Observing cuoio up close with curiosity.
+Panel 3: A practical use of cuoio in daily life.
+Panel 4: Understanding why cuoio matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cuoio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1838
+Word: cura
+Story: 1. An illustration showing what cura looks like. 2. Cura in its typical environment or context. 3. A person pointing at cura and explaining it. 4. A scene where cura is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cura'.
+Panel 1: An illustration showing what cura looks like.
+Panel 2: Cura in its typical environment or context.
+Panel 3: A person pointing at cura and explaining it.
+Panel 4: A scene where cura is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1842
+Word: curioso
+Story: 1. Discovering curioso in an interesting setting. 2. Observing curioso up close with curiosity. 3. A practical use of curioso in daily life. 4. Understanding why curioso matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'curioso'.
+Panel 1: Discovering curioso in an interesting setting.
+Panel 2: Observing curioso up close with curiosity.
+Panel 3: A practical use of curioso in daily life.
+Panel 4: Understanding why curioso matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "curioso (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7343
+Word: curriculum vitae
+Story: 1. A scene that perfectly represents the feeling of curriculum vitae. 2. An object or place that embodies curriculum vitae. 3. Someone reacting to something curriculum vitae. 4. The concept of curriculum vitae illustrated in a clear way.
+Prompt: A 4-panel grid comic strip telling a story for the word 'curriculum vitae'.
+Panel 1: A scene that perfectly represents the feeling of curriculum vitae.
+Panel 2: An object or place that embodies curriculum vitae.
+Panel 3: Someone reacting to something curriculum vitae.
+Panel 4: The concept of curriculum vitae illustrated in a clear way.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "curriculum vitae (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7344
+Word: danneggiato
+Story: 1. An illustration showing what danneggiato looks like. 2. Danneggiato in its typical environment or context. 3. A person pointing at danneggiato and explaining it. 4. A scene where danneggiato is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'danneggiato'.
+Panel 1: An illustration showing what danneggiato looks like.
+Panel 2: Danneggiato in its typical environment or context.
+Panel 3: A person pointing at danneggiato and explaining it.
+Panel 4: A scene where danneggiato is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "danneggiato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7345
+Word: darsi da fare
+Story: 1. A thought bubble showing the idea of darsi da fare. 2. Taking the first step to darsi da fare. 3. Fully engaged in the act of darsi da fare. 4. A completed scene showing the effect of darsi da fare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'darsi da fare'.
+Panel 1: A thought bubble showing the idea of darsi da fare.
+Panel 2: Taking the first step to darsi da fare.
+Panel 3: Fully engaged in the act of darsi da fare.
+Panel 4: A completed scene showing the effect of darsi da fare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "darsi da fare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7346
+Word: davanti a
+Story: 1. A clear depiction of davanti a in everyday life. 2. Someone encountering davanti a for the first time. 3. A person using or interacting with davanti a. 4. Davanti A playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'davanti a'.
+Panel 1: A clear depiction of davanti a in everyday life.
+Panel 2: Someone encountering davanti a for the first time.
+Panel 3: A person using or interacting with davanti a.
+Panel 4: Davanti A playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "davanti a (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1865
+Word: davvero
+Story: 1. A thought bubble showing the idea of davvero. 2. Taking the first step to davvero. 3. Fully engaged in the act of davvero. 4. A completed scene showing the effect of davvero.
+Prompt: A 4-panel grid comic strip telling a story for the word 'davvero'.
+Panel 1: A thought bubble showing the idea of davvero.
+Panel 2: Taking the first step to davvero.
+Panel 3: Fully engaged in the act of davvero.
+Panel 4: A completed scene showing the effect of davvero.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "davvero (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1871
+Word: decidere
+Story: 1. A thought bubble showing the idea of decidere. 2. Taking the first step to decidere. 3. Fully engaged in the act of decidere. 4. A completed scene showing the effect of decidere.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decidere'.
+Panel 1: A thought bubble showing the idea of decidere.
+Panel 2: Taking the first step to decidere.
+Panel 3: Fully engaged in the act of decidere.
+Panel 4: A completed scene showing the effect of decidere.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decidere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7347
+Word: decimo
+Story: 1. Discovering decimo in an interesting setting. 2. Observing decimo up close with curiosity. 3. A practical use of decimo in daily life. 4. Understanding why decimo matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'decimo'.
+Panel 1: Discovering decimo in an interesting setting.
+Panel 2: Observing decimo up close with curiosity.
+Panel 3: A practical use of decimo in daily life.
+Panel 4: Understanding why decimo matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "decimo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1906
+Word: delizioso
+Story: 1. Seeing something that is clearly delizioso. 2. Comparing two things: one is delizioso, the other is not. 3. A person describing something as delizioso with gestures. 4. A vivid, memorable example of something very delizioso.
+Prompt: A 4-panel grid comic strip telling a story for the word 'delizioso'.
+Panel 1: Seeing something that is clearly delizioso.
+Panel 2: Comparing two things: one is delizioso, the other is not.
+Panel 3: A person describing something as delizioso with gestures.
+Panel 4: A vivid, memorable example of something very delizioso.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "delizioso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1909
+Word: deluso
+Story: 1. A clear depiction of deluso in everyday life. 2. Someone encountering deluso for the first time. 3. A person using or interacting with deluso. 4. Deluso playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'deluso'.
+Panel 1: A clear depiction of deluso in everyday life.
+Panel 2: Someone encountering deluso for the first time.
+Panel 3: A person using or interacting with deluso.
+Panel 4: Deluso playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "deluso (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1911
+Word: democrazia
+Story: 1. A clear depiction of democrazia in everyday life. 2. Someone encountering democrazia for the first time. 3. A person using or interacting with democrazia. 4. Democrazia playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'democrazia'.
+Panel 1: A clear depiction of democrazia in everyday life.
+Panel 2: Someone encountering democrazia for the first time.
+Panel 3: A person using or interacting with democrazia.
+Panel 4: Democrazia playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "democrazia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7348
+Word: deputati
+Story: 1. Seeing something that is clearly deputati. 2. Comparing two things: one is deputati, the other is not. 3. A person describing something as deputati with gestures. 4. A vivid, memorable example of something very deputati.
+Prompt: A 4-panel grid comic strip telling a story for the word 'deputati'.
+Panel 1: Seeing something that is clearly deputati.
+Panel 2: Comparing two things: one is deputati, the other is not.
+Panel 3: A person describing something as deputati with gestures.
+Panel 4: A vivid, memorable example of something very deputati.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "deputati (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7349
+Word: desertificazione
+Story: 1. A clear depiction of desertificazione in everyday life. 2. Someone encountering desertificazione for the first time. 3. A person using or interacting with desertificazione. 4. Desertificazione playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'desertificazione'.
+Panel 1: A clear depiction of desertificazione in everyday life.
+Panel 2: Someone encountering desertificazione for the first time.
+Panel 3: A person using or interacting with desertificazione.
+Panel 4: Desertificazione playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "desertificazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1940
+Word: desiderare
+Story: 1. A person facing a situation where they need to desiderare. 2. Preparing and getting ready to desiderare. 3. Actively performing the action of desiderare with determination. 4. The satisfying result after successfully completing desiderare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'desiderare'.
+Panel 1: A person facing a situation where they need to desiderare.
+Panel 2: Preparing and getting ready to desiderare.
+Panel 3: Actively performing the action of desiderare with determination.
+Panel 4: The satisfying result after successfully completing desiderare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "desiderare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1941
+Word: desiderio
+Story: 1. A clear depiction of desiderio in everyday life. 2. Someone encountering desiderio for the first time. 3. A person using or interacting with desiderio. 4. Desiderio playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'desiderio'.
+Panel 1: A clear depiction of desiderio in everyday life.
+Panel 2: Someone encountering desiderio for the first time.
+Panel 3: A person using or interacting with desiderio.
+Panel 4: Desiderio playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "desiderio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1945
+Word: destinazione
+Story: 1. An illustration showing what destinazione looks like. 2. Destinazione in its typical environment or context. 3. A person pointing at destinazione and explaining it. 4. A scene where destinazione is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'destinazione'.
+Panel 1: An illustration showing what destinazione looks like.
+Panel 2: Destinazione in its typical environment or context.
+Panel 3: A person pointing at destinazione and explaining it.
+Panel 4: A scene where destinazione is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "destinazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1950
+Word: detenere
+Story: 1. A thought bubble showing the idea of detenere. 2. Taking the first step to detenere. 3. Fully engaged in the act of detenere. 4. A completed scene showing the effect of detenere.
+Prompt: A 4-panel grid comic strip telling a story for the word 'detenere'.
+Panel 1: A thought bubble showing the idea of detenere.
+Panel 2: Taking the first step to detenere.
+Panel 3: Fully engaged in the act of detenere.
+Panel 4: A completed scene showing the effect of detenere.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "detenere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1957
+Word: dettaglio
+Story: 1. Discovering dettaglio in an interesting setting. 2. Observing dettaglio up close with curiosity. 3. A practical use of dettaglio in daily life. 4. Understanding why dettaglio matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dettaglio'.
+Panel 1: Discovering dettaglio in an interesting setting.
+Panel 2: Observing dettaglio up close with curiosity.
+Panel 3: A practical use of dettaglio in daily life.
+Panel 4: Understanding why dettaglio matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dettaglio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.

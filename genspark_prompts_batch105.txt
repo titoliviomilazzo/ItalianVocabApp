@@ -1,0 +1,500 @@
+Image ID: 5355
+Word: ricreazione
+Story: 1. Discovering 'ricreazione' for the first time. 2. Seeing 'ricreazione' in its natural context. 3. A person interacting with 'ricreazione'. 4. 'ricreazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ricreazione'.
+Panel 1: Discovering 'ricreazione' for the first time
+Panel 2: Seeing 'ricreazione' in its natural context
+Panel 3: A person interacting with 'ricreazione'
+Panel 4: 'ricreazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ricreazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5356
+Word: ridare
+Story: 1. A person thinking about the action of 'ridare'. 2. Starting to perform the action 'ridare'. 3. Actively doing 'ridare' with full effort. 4. Successfully completing the action 'ridare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ridare'.
+Panel 1: A person thinking about the action of 'ridare'
+Panel 2: Starting to perform the action 'ridare'
+Panel 3: Actively doing 'ridare' with full effort
+Panel 4: Successfully completing the action 'ridare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ridare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5357
+Word: ridere
+Story: 1. A person thinking about the action of 'ridere'. 2. Starting to perform the action 'ridere'. 3. Actively doing 'ridere' with full effort. 4. Successfully completing the action 'ridere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ridere'.
+Panel 1: A person thinking about the action of 'ridere'
+Panel 2: Starting to perform the action 'ridere'
+Panel 3: Actively doing 'ridere' with full effort
+Panel 4: Successfully completing the action 'ridere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ridere (v.intr. e tr., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5358
+Word: ridicolo
+Story: 1. Encountering someone or something described as 'ridicolo'. 2. Recognizing the quality of 'ridicolo' in a scene. 3. A vivid example showing 'ridicolo' clearly. 4. Understanding the full meaning of 'ridicolo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ridicolo'.
+Panel 1: Encountering someone or something described as 'ridicolo'
+Panel 2: Recognizing the quality of 'ridicolo' in a scene
+Panel 3: A vivid example showing 'ridicolo' clearly
+Panel 4: Understanding the full meaning of 'ridicolo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ridicolo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5359
+Word: ridotto
+Story: 1. Encountering someone or something described as 'ridotto'. 2. Recognizing the quality of 'ridotto' in a scene. 3. A vivid example showing 'ridotto' clearly. 4. Understanding the full meaning of 'ridotto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ridotto'.
+Panel 1: Encountering someone or something described as 'ridotto'
+Panel 2: Recognizing the quality of 'ridotto' in a scene
+Panel 3: A vivid example showing 'ridotto' clearly
+Panel 4: Understanding the full meaning of 'ridotto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ridotto (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5360
+Word: ridurre
+Story: 1. A person thinking about the action of 'ridurre'. 2. Starting to perform the action 'ridurre'. 3. Actively doing 'ridurre' with full effort. 4. Successfully completing the action 'ridurre' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ridurre'.
+Panel 1: A person thinking about the action of 'ridurre'
+Panel 2: Starting to perform the action 'ridurre'
+Panel 3: Actively doing 'ridurre' with full effort
+Panel 4: Successfully completing the action 'ridurre' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ridurre (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5361
+Word: riduzione
+Story: 1. Discovering 'riduzione' for the first time. 2. Seeing 'riduzione' in its natural context. 3. A person interacting with 'riduzione'. 4. 'riduzione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riduzione'.
+Panel 1: Discovering 'riduzione' for the first time
+Panel 2: Seeing 'riduzione' in its natural context
+Panel 3: A person interacting with 'riduzione'
+Panel 4: 'riduzione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riduzione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5362
+Word: riempire
+Story: 1. A person thinking about the action of 'riempire'. 2. Starting to perform the action 'riempire'. 3. Actively doing 'riempire' with full effort. 4. Successfully completing the action 'riempire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riempire'.
+Panel 1: A person thinking about the action of 'riempire'
+Panel 2: Starting to perform the action 'riempire'
+Panel 3: Actively doing 'riempire' with full effort
+Panel 4: Successfully completing the action 'riempire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riempire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5363
+Word: rientrare
+Story: 1. A person thinking about the action of 'rientrare'. 2. Starting to perform the action 'rientrare'. 3. Actively doing 'rientrare' with full effort. 4. Successfully completing the action 'rientrare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rientrare'.
+Panel 1: A person thinking about the action of 'rientrare'
+Panel 2: Starting to perform the action 'rientrare'
+Panel 3: Actively doing 'rientrare' with full effort
+Panel 4: Successfully completing the action 'rientrare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rientrare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5364
+Word: rientro
+Story: 1. Discovering 'rientro' for the first time. 2. Seeing 'rientro' in its natural context. 3. A person interacting with 'rientro'. 4. 'rientro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rientro'.
+Panel 1: Discovering 'rientro' for the first time
+Panel 2: Seeing 'rientro' in its natural context
+Panel 3: A person interacting with 'rientro'
+Panel 4: 'rientro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rientro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5365
+Word: rifare
+Story: 1. A person thinking about the action of 'rifare'. 2. Starting to perform the action 'rifare'. 3. Actively doing 'rifare' with full effort. 4. Successfully completing the action 'rifare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rifare'.
+Panel 1: A person thinking about the action of 'rifare'
+Panel 2: Starting to perform the action 'rifare'
+Panel 3: Actively doing 'rifare' with full effort
+Panel 4: Successfully completing the action 'rifare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rifare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5366
+Word: riferimento
+Story: 1. Discovering 'riferimento' for the first time. 2. Seeing 'riferimento' in its natural context. 3. A person interacting with 'riferimento'. 4. 'riferimento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riferimento'.
+Panel 1: Discovering 'riferimento' for the first time
+Panel 2: Seeing 'riferimento' in its natural context
+Panel 3: A person interacting with 'riferimento'
+Panel 4: 'riferimento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riferimento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5367
+Word: riferire
+Story: 1. A person thinking about the action of 'riferire'. 2. Starting to perform the action 'riferire'. 3. Actively doing 'riferire' with full effort. 4. Successfully completing the action 'riferire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riferire'.
+Panel 1: A person thinking about the action of 'riferire'
+Panel 2: Starting to perform the action 'riferire'
+Panel 3: Actively doing 'riferire' with full effort
+Panel 4: Successfully completing the action 'riferire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riferire (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5368
+Word: rifinire
+Story: 1. A person thinking about the action of 'rifinire'. 2. Starting to perform the action 'rifinire'. 3. Actively doing 'rifinire' with full effort. 4. Successfully completing the action 'rifinire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rifinire'.
+Panel 1: A person thinking about the action of 'rifinire'
+Panel 2: Starting to perform the action 'rifinire'
+Panel 3: Actively doing 'rifinire' with full effort
+Panel 4: Successfully completing the action 'rifinire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rifinire (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5369
+Word: rifiutare
+Story: 1. A person thinking about the action of 'rifiutare'. 2. Starting to perform the action 'rifiutare'. 3. Actively doing 'rifiutare' with full effort. 4. Successfully completing the action 'rifiutare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rifiutare'.
+Panel 1: A person thinking about the action of 'rifiutare'
+Panel 2: Starting to perform the action 'rifiutare'
+Panel 3: Actively doing 'rifiutare' with full effort
+Panel 4: Successfully completing the action 'rifiutare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rifiutare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5370
+Word: rifiuto
+Story: 1. Discovering 'rifiuto' for the first time. 2. Seeing 'rifiuto' in its natural context. 3. A person interacting with 'rifiuto'. 4. 'rifiuto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rifiuto'.
+Panel 1: Discovering 'rifiuto' for the first time
+Panel 2: Seeing 'rifiuto' in its natural context
+Panel 3: A person interacting with 'rifiuto'
+Panel 4: 'rifiuto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rifiuto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5371
+Word: riflessione
+Story: 1. Discovering 'riflessione' for the first time. 2. Seeing 'riflessione' in its natural context. 3. A person interacting with 'riflessione'. 4. 'riflessione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riflessione'.
+Panel 1: Discovering 'riflessione' for the first time
+Panel 2: Seeing 'riflessione' in its natural context
+Panel 3: A person interacting with 'riflessione'
+Panel 4: 'riflessione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riflessione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5372
+Word: riflesso
+Story: 1. Discovering 'riflesso' for the first time. 2. Seeing 'riflesso' in its natural context. 3. A person interacting with 'riflesso'. 4. 'riflesso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riflesso'.
+Panel 1: Discovering 'riflesso' for the first time
+Panel 2: Seeing 'riflesso' in its natural context
+Panel 3: A person interacting with 'riflesso'
+Panel 4: 'riflesso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riflesso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5373
+Word: riflettere
+Story: 1. A person thinking about the action of 'riflettere'. 2. Starting to perform the action 'riflettere'. 3. Actively doing 'riflettere' with full effort. 4. Successfully completing the action 'riflettere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riflettere'.
+Panel 1: A person thinking about the action of 'riflettere'
+Panel 2: Starting to perform the action 'riflettere'
+Panel 3: Actively doing 'riflettere' with full effort
+Panel 4: Successfully completing the action 'riflettere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riflettere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5374
+Word: riflettore
+Story: 1. Encountering someone or something described as 'riflettore'. 2. Recognizing the quality of 'riflettore' in a scene. 3. A vivid example showing 'riflettore' clearly. 4. Understanding the full meaning of 'riflettore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riflettore'.
+Panel 1: Encountering someone or something described as 'riflettore'
+Panel 2: Recognizing the quality of 'riflettore' in a scene
+Panel 3: A vivid example showing 'riflettore' clearly
+Panel 4: Understanding the full meaning of 'riflettore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riflettore (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5375
+Word: riforma
+Story: 1. Discovering 'riforma' for the first time. 2. Seeing 'riforma' in its natural context. 3. A person interacting with 'riforma'. 4. 'riforma' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riforma'.
+Panel 1: Discovering 'riforma' for the first time
+Panel 2: Seeing 'riforma' in its natural context
+Panel 3: A person interacting with 'riforma'
+Panel 4: 'riforma' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riforma (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5376
+Word: rifornimento
+Story: 1. Discovering 'rifornimento' for the first time. 2. Seeing 'rifornimento' in its natural context. 3. A person interacting with 'rifornimento'. 4. 'rifornimento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rifornimento'.
+Panel 1: Discovering 'rifornimento' for the first time
+Panel 2: Seeing 'rifornimento' in its natural context
+Panel 3: A person interacting with 'rifornimento'
+Panel 4: 'rifornimento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rifornimento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5377
+Word: rifugiare
+Story: 1. A person thinking about the action of 'rifugiare'. 2. Starting to perform the action 'rifugiare'. 3. Actively doing 'rifugiare' with full effort. 4. Successfully completing the action 'rifugiare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rifugiare'.
+Panel 1: A person thinking about the action of 'rifugiare'
+Panel 2: Starting to perform the action 'rifugiare'
+Panel 3: Actively doing 'rifugiare' with full effort
+Panel 4: Successfully completing the action 'rifugiare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rifugiare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5378
+Word: rifugio
+Story: 1. Discovering 'rifugio' for the first time. 2. Seeing 'rifugio' in its natural context. 3. A person interacting with 'rifugio'. 4. 'rifugio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rifugio'.
+Panel 1: Discovering 'rifugio' for the first time
+Panel 2: Seeing 'rifugio' in its natural context
+Panel 3: A person interacting with 'rifugio'
+Panel 4: 'rifugio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rifugio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5379
+Word: riga
+Story: 1. Discovering 'riga' for the first time. 2. Seeing 'riga' in its natural context. 3. A person interacting with 'riga'. 4. 'riga' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riga'.
+Panel 1: Discovering 'riga' for the first time
+Panel 2: Seeing 'riga' in its natural context
+Panel 3: A person interacting with 'riga'
+Panel 4: 'riga' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riga (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5380
+Word: rigattiere
+Story: 1. Discovering 'rigattiere' for the first time. 2. Seeing 'rigattiere' in its natural context. 3. A person interacting with 'rigattiere'. 4. 'rigattiere' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rigattiere'.
+Panel 1: Discovering 'rigattiere' for the first time
+Panel 2: Seeing 'rigattiere' in its natural context
+Panel 3: A person interacting with 'rigattiere'
+Panel 4: 'rigattiere' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rigattiere (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5381
+Word: rigido
+Story: 1. Seeing something that is clearly 'rigido'. 2. Comparing two things, one is 'rigido' and one is not. 3. A person pointing at something 'rigido' and explaining. 4. A memorable example of something very 'rigido'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rigido'.
+Panel 1: Seeing something that is clearly 'rigido'
+Panel 2: Comparing two things, one is 'rigido' and one is not
+Panel 3: A person pointing at something 'rigido' and explaining
+Panel 4: A memorable example of something very 'rigido'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rigido (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5382
+Word: rigore
+Story: 1. Discovering 'rigore' for the first time. 2. Seeing 'rigore' in its natural context. 3. A person interacting with 'rigore'. 4. 'rigore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rigore'.
+Panel 1: Discovering 'rigore' for the first time
+Panel 2: Seeing 'rigore' in its natural context
+Panel 3: A person interacting with 'rigore'
+Panel 4: 'rigore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rigore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5383
+Word: rigoroso
+Story: 1. Seeing something that is clearly 'rigoroso'. 2. Comparing two things, one is 'rigoroso' and one is not. 3. A person pointing at something 'rigoroso' and explaining. 4. A memorable example of something very 'rigoroso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rigoroso'.
+Panel 1: Seeing something that is clearly 'rigoroso'
+Panel 2: Comparing two things, one is 'rigoroso' and one is not
+Panel 3: A person pointing at something 'rigoroso' and explaining
+Panel 4: A memorable example of something very 'rigoroso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rigoroso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5384
+Word: rigovernare
+Story: 1. A person thinking about the action of 'rigovernare'. 2. Starting to perform the action 'rigovernare'. 3. Actively doing 'rigovernare' with full effort. 4. Successfully completing the action 'rigovernare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rigovernare'.
+Panel 1: A person thinking about the action of 'rigovernare'
+Panel 2: Starting to perform the action 'rigovernare'
+Panel 3: Actively doing 'rigovernare' with full effort
+Panel 4: Successfully completing the action 'rigovernare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rigovernare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5385
+Word: riguardare
+Story: 1. A person thinking about the action of 'riguardare'. 2. Starting to perform the action 'riguardare'. 3. Actively doing 'riguardare' with full effort. 4. Successfully completing the action 'riguardare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riguardare'.
+Panel 1: A person thinking about the action of 'riguardare'
+Panel 2: Starting to perform the action 'riguardare'
+Panel 3: Actively doing 'riguardare' with full effort
+Panel 4: Successfully completing the action 'riguardare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riguardare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5386
+Word: riguardo
+Story: 1. Discovering 'riguardo' for the first time. 2. Seeing 'riguardo' in its natural context. 3. A person interacting with 'riguardo'. 4. 'riguardo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riguardo'.
+Panel 1: Discovering 'riguardo' for the first time
+Panel 2: Seeing 'riguardo' in its natural context
+Panel 3: A person interacting with 'riguardo'
+Panel 4: 'riguardo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riguardo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5387
+Word: rilasciare
+Story: 1. A person thinking about the action of 'rilasciare'. 2. Starting to perform the action 'rilasciare'. 3. Actively doing 'rilasciare' with full effort. 4. Successfully completing the action 'rilasciare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rilasciare'.
+Panel 1: A person thinking about the action of 'rilasciare'
+Panel 2: Starting to perform the action 'rilasciare'
+Panel 3: Actively doing 'rilasciare' with full effort
+Panel 4: Successfully completing the action 'rilasciare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rilasciare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5388
+Word: rilassare
+Story: 1. A person thinking about the action of 'rilassare'. 2. Starting to perform the action 'rilassare'. 3. Actively doing 'rilassare' with full effort. 4. Successfully completing the action 'rilassare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rilassare'.
+Panel 1: A person thinking about the action of 'rilassare'
+Panel 2: Starting to perform the action 'rilassare'
+Panel 3: Actively doing 'rilassare' with full effort
+Panel 4: Successfully completing the action 'rilassare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rilassare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5389
+Word: rilegare
+Story: 1. A person thinking about the action of 'rilegare'. 2. Starting to perform the action 'rilegare'. 3. Actively doing 'rilegare' with full effort. 4. Successfully completing the action 'rilegare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rilegare'.
+Panel 1: A person thinking about the action of 'rilegare'
+Panel 2: Starting to perform the action 'rilegare'
+Panel 3: Actively doing 'rilegare' with full effort
+Panel 4: Successfully completing the action 'rilegare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rilegare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5390
+Word: rileggere
+Story: 1. A person thinking about the action of 'rileggere'. 2. Starting to perform the action 'rileggere'. 3. Actively doing 'rileggere' with full effort. 4. Successfully completing the action 'rileggere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rileggere'.
+Panel 1: A person thinking about the action of 'rileggere'
+Panel 2: Starting to perform the action 'rileggere'
+Panel 3: Actively doing 'rileggere' with full effort
+Panel 4: Successfully completing the action 'rileggere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rileggere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5391
+Word: rilevante
+Story: 1. Seeing something that is clearly 'rilevante'. 2. Comparing two things, one is 'rilevante' and one is not. 3. A person pointing at something 'rilevante' and explaining. 4. A memorable example of something very 'rilevante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rilevante'.
+Panel 1: Seeing something that is clearly 'rilevante'
+Panel 2: Comparing two things, one is 'rilevante' and one is not
+Panel 3: A person pointing at something 'rilevante' and explaining
+Panel 4: A memorable example of something very 'rilevante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rilevante (p.pres., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5392
+Word: rilevare
+Story: 1. A person thinking about the action of 'rilevare'. 2. Starting to perform the action 'rilevare'. 3. Actively doing 'rilevare' with full effort. 4. Successfully completing the action 'rilevare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rilevare'.
+Panel 1: A person thinking about the action of 'rilevare'
+Panel 2: Starting to perform the action 'rilevare'
+Panel 3: Actively doing 'rilevare' with full effort
+Panel 4: Successfully completing the action 'rilevare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rilevare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5393
+Word: rilievo
+Story: 1. Discovering 'rilievo' for the first time. 2. Seeing 'rilievo' in its natural context. 3. A person interacting with 'rilievo'. 4. 'rilievo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rilievo'.
+Panel 1: Discovering 'rilievo' for the first time
+Panel 2: Seeing 'rilievo' in its natural context
+Panel 3: A person interacting with 'rilievo'
+Panel 4: 'rilievo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rilievo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5394
+Word: rima
+Story: 1. Discovering 'rima' for the first time. 2. Seeing 'rima' in its natural context. 3. A person interacting with 'rima'. 4. 'rima' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rima'.
+Panel 1: Discovering 'rima' for the first time
+Panel 2: Seeing 'rima' in its natural context
+Panel 3: A person interacting with 'rima'
+Panel 4: 'rima' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rima (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5395
+Word: rimandare
+Story: 1. A person thinking about the action of 'rimandare'. 2. Starting to perform the action 'rimandare'. 3. Actively doing 'rimandare' with full effort. 4. Successfully completing the action 'rimandare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimandare'.
+Panel 1: A person thinking about the action of 'rimandare'
+Panel 2: Starting to perform the action 'rimandare'
+Panel 3: Actively doing 'rimandare' with full effort
+Panel 4: Successfully completing the action 'rimandare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimandare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5396
+Word: rimanenza
+Story: 1. Discovering 'rimanenza' for the first time. 2. Seeing 'rimanenza' in its natural context. 3. A person interacting with 'rimanenza'. 4. 'rimanenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimanenza'.
+Panel 1: Discovering 'rimanenza' for the first time
+Panel 2: Seeing 'rimanenza' in its natural context
+Panel 3: A person interacting with 'rimanenza'
+Panel 4: 'rimanenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimanenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5397
+Word: rimanere
+Story: 1. A person thinking about the action of 'rimanere'. 2. Starting to perform the action 'rimanere'. 3. Actively doing 'rimanere' with full effort. 4. Successfully completing the action 'rimanere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimanere'.
+Panel 1: A person thinking about the action of 'rimanere'
+Panel 2: Starting to perform the action 'rimanere'
+Panel 3: Actively doing 'rimanere' with full effort
+Panel 4: Successfully completing the action 'rimanere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimanere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5398
+Word: rimbombare
+Story: 1. A person thinking about the action of 'rimbombare'. 2. Starting to perform the action 'rimbombare'. 3. Actively doing 'rimbombare' with full effort. 4. Successfully completing the action 'rimbombare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimbombare'.
+Panel 1: A person thinking about the action of 'rimbombare'
+Panel 2: Starting to perform the action 'rimbombare'
+Panel 3: Actively doing 'rimbombare' with full effort
+Panel 4: Successfully completing the action 'rimbombare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimbombare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5399
+Word: rimborsare
+Story: 1. A person thinking about the action of 'rimborsare'. 2. Starting to perform the action 'rimborsare'. 3. Actively doing 'rimborsare' with full effort. 4. Successfully completing the action 'rimborsare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimborsare'.
+Panel 1: A person thinking about the action of 'rimborsare'
+Panel 2: Starting to perform the action 'rimborsare'
+Panel 3: Actively doing 'rimborsare' with full effort
+Panel 4: Successfully completing the action 'rimborsare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimborsare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5400
+Word: rimediare
+Story: 1. A person thinking about the action of 'rimediare'. 2. Starting to perform the action 'rimediare'. 3. Actively doing 'rimediare' with full effort. 4. Successfully completing the action 'rimediare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimediare'.
+Panel 1: A person thinking about the action of 'rimediare'
+Panel 2: Starting to perform the action 'rimediare'
+Panel 3: Actively doing 'rimediare' with full effort
+Panel 4: Successfully completing the action 'rimediare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimediare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5401
+Word: rimedio
+Story: 1. Discovering 'rimedio' for the first time. 2. Seeing 'rimedio' in its natural context. 3. A person interacting with 'rimedio'. 4. 'rimedio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimedio'.
+Panel 1: Discovering 'rimedio' for the first time
+Panel 2: Seeing 'rimedio' in its natural context
+Panel 3: A person interacting with 'rimedio'
+Panel 4: 'rimedio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimedio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5402
+Word: rimettere
+Story: 1. A person thinking about the action of 'rimettere'. 2. Starting to perform the action 'rimettere'. 3. Actively doing 'rimettere' with full effort. 4. Successfully completing the action 'rimettere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimettere'.
+Panel 1: A person thinking about the action of 'rimettere'
+Panel 2: Starting to perform the action 'rimettere'
+Panel 3: Actively doing 'rimettere' with full effort
+Panel 4: Successfully completing the action 'rimettere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimettere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5403
+Word: rimodernare
+Story: 1. A person thinking about the action of 'rimodernare'. 2. Starting to perform the action 'rimodernare'. 3. Actively doing 'rimodernare' with full effort. 4. Successfully completing the action 'rimodernare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimodernare'.
+Panel 1: A person thinking about the action of 'rimodernare'
+Panel 2: Starting to perform the action 'rimodernare'
+Panel 3: Actively doing 'rimodernare' with full effort
+Panel 4: Successfully completing the action 'rimodernare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimodernare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5404
+Word: rimorchio
+Story: 1. Discovering 'rimorchio' for the first time. 2. Seeing 'rimorchio' in its natural context. 3. A person interacting with 'rimorchio'. 4. 'rimorchio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimorchio'.
+Panel 1: Discovering 'rimorchio' for the first time
+Panel 2: Seeing 'rimorchio' in its natural context
+Panel 3: A person interacting with 'rimorchio'
+Panel 4: 'rimorchio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimorchio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

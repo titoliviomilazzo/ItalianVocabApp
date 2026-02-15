@@ -1,0 +1,500 @@
+Image ID: 5555
+Word: rondine
+Story: 1. Discovering 'rondine' for the first time. 2. Seeing 'rondine' in its natural context. 3. A person interacting with 'rondine'. 4. 'rondine' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rondine'.
+Panel 1: Discovering 'rondine' for the first time
+Panel 2: Seeing 'rondine' in its natural context
+Panel 3: A person interacting with 'rondine'
+Panel 4: 'rondine' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rondine (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5556
+Word: ronzare
+Story: 1. A person thinking about the action of 'ronzare'. 2. Starting to perform the action 'ronzare'. 3. Actively doing 'ronzare' with full effort. 4. Successfully completing the action 'ronzare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ronzare'.
+Panel 1: A person thinking about the action of 'ronzare'
+Panel 2: Starting to perform the action 'ronzare'
+Panel 3: Actively doing 'ronzare' with full effort
+Panel 4: Successfully completing the action 'ronzare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ronzare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5557
+Word: ronzio
+Story: 1. Discovering 'ronzio' for the first time. 2. Seeing 'ronzio' in its natural context. 3. A person interacting with 'ronzio'. 4. 'ronzio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ronzio'.
+Panel 1: Discovering 'ronzio' for the first time
+Panel 2: Seeing 'ronzio' in its natural context
+Panel 3: A person interacting with 'ronzio'
+Panel 4: 'ronzio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ronzio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5558
+Word: rosa
+Story: 1. Encountering someone or something described as 'rosa'. 2. Recognizing the quality of 'rosa' in a scene. 3. A vivid example showing 'rosa' clearly. 4. Understanding the full meaning of 'rosa'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rosa'.
+Panel 1: Encountering someone or something described as 'rosa'
+Panel 2: Recognizing the quality of 'rosa' in a scene
+Panel 3: A vivid example showing 'rosa' clearly
+Panel 4: Understanding the full meaning of 'rosa'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rosa (s.f., s.m.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5559
+Word: rosario
+Story: 1. Discovering 'rosario' for the first time. 2. Seeing 'rosario' in its natural context. 3. A person interacting with 'rosario'. 4. 'rosario' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rosario'.
+Panel 1: Discovering 'rosario' for the first time
+Panel 2: Seeing 'rosario' in its natural context
+Panel 3: A person interacting with 'rosario'
+Panel 4: 'rosario' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rosario (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5560
+Word: rosato
+Story: 1. Encountering someone or something described as 'rosato'. 2. Recognizing the quality of 'rosato' in a scene. 3. A vivid example showing 'rosato' clearly. 4. Understanding the full meaning of 'rosato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rosato'.
+Panel 1: Encountering someone or something described as 'rosato'
+Panel 2: Recognizing the quality of 'rosato' in a scene
+Panel 3: A vivid example showing 'rosato' clearly
+Panel 4: Understanding the full meaning of 'rosato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rosato (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5561
+Word: roseo
+Story: 1. Encountering someone or something described as 'roseo'. 2. Recognizing the quality of 'roseo' in a scene. 3. A vivid example showing 'roseo' clearly. 4. Understanding the full meaning of 'roseo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'roseo'.
+Panel 1: Encountering someone or something described as 'roseo'
+Panel 2: Recognizing the quality of 'roseo' in a scene
+Panel 3: A vivid example showing 'roseo' clearly
+Panel 4: Understanding the full meaning of 'roseo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "roseo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5562
+Word: rosetta
+Story: 1. Discovering 'rosetta' for the first time. 2. Seeing 'rosetta' in its natural context. 3. A person interacting with 'rosetta'. 4. 'rosetta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rosetta'.
+Panel 1: Discovering 'rosetta' for the first time
+Panel 2: Seeing 'rosetta' in its natural context
+Panel 3: A person interacting with 'rosetta'
+Panel 4: 'rosetta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rosetta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5563
+Word: rosmarino
+Story: 1. Discovering 'rosmarino' for the first time. 2. Seeing 'rosmarino' in its natural context. 3. A person interacting with 'rosmarino'. 4. 'rosmarino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rosmarino'.
+Panel 1: Discovering 'rosmarino' for the first time
+Panel 2: Seeing 'rosmarino' in its natural context
+Panel 3: A person interacting with 'rosmarino'
+Panel 4: 'rosmarino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rosmarino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5564
+Word: rosolia
+Story: 1. Discovering 'rosolia' for the first time. 2. Seeing 'rosolia' in its natural context. 3. A person interacting with 'rosolia'. 4. 'rosolia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rosolia'.
+Panel 1: Discovering 'rosolia' for the first time
+Panel 2: Seeing 'rosolia' in its natural context
+Panel 3: A person interacting with 'rosolia'
+Panel 4: 'rosolia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rosolia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5565
+Word: rosso
+Story: 1. Encountering someone or something described as 'rosso'. 2. Recognizing the quality of 'rosso' in a scene. 3. A vivid example showing 'rosso' clearly. 4. Understanding the full meaning of 'rosso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rosso'.
+Panel 1: Encountering someone or something described as 'rosso'
+Panel 2: Recognizing the quality of 'rosso' in a scene
+Panel 3: A vivid example showing 'rosso' clearly
+Panel 4: Understanding the full meaning of 'rosso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rosso (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5566
+Word: rossore
+Story: 1. Discovering 'rossore' for the first time. 2. Seeing 'rossore' in its natural context. 3. A person interacting with 'rossore'. 4. 'rossore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rossore'.
+Panel 1: Discovering 'rossore' for the first time
+Panel 2: Seeing 'rossore' in its natural context
+Panel 3: A person interacting with 'rossore'
+Panel 4: 'rossore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rossore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5567
+Word: rosticceria
+Story: 1. Discovering 'rosticceria' for the first time. 2. Seeing 'rosticceria' in its natural context. 3. A person interacting with 'rosticceria'. 4. 'rosticceria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rosticceria'.
+Panel 1: Discovering 'rosticceria' for the first time
+Panel 2: Seeing 'rosticceria' in its natural context
+Panel 3: A person interacting with 'rosticceria'
+Panel 4: 'rosticceria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rosticceria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5568
+Word: rotaia
+Story: 1. Discovering 'rotaia' for the first time. 2. Seeing 'rotaia' in its natural context. 3. A person interacting with 'rotaia'. 4. 'rotaia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rotaia'.
+Panel 1: Discovering 'rotaia' for the first time
+Panel 2: Seeing 'rotaia' in its natural context
+Panel 3: A person interacting with 'rotaia'
+Panel 4: 'rotaia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rotaia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5569
+Word: rotella
+Story: 1. Discovering 'rotella' for the first time. 2. Seeing 'rotella' in its natural context. 3. A person interacting with 'rotella'. 4. 'rotella' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rotella'.
+Panel 1: Discovering 'rotella' for the first time
+Panel 2: Seeing 'rotella' in its natural context
+Panel 3: A person interacting with 'rotella'
+Panel 4: 'rotella' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rotella (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5570
+Word: rotolare
+Story: 1. A person thinking about the action of 'rotolare'. 2. Starting to perform the action 'rotolare'. 3. Actively doing 'rotolare' with full effort. 4. Successfully completing the action 'rotolare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rotolare'.
+Panel 1: A person thinking about the action of 'rotolare'
+Panel 2: Starting to perform the action 'rotolare'
+Panel 3: Actively doing 'rotolare' with full effort
+Panel 4: Successfully completing the action 'rotolare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rotolare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5571
+Word: rotondo
+Story: 1. Encountering someone or something described as 'rotondo'. 2. Recognizing the quality of 'rotondo' in a scene. 3. A vivid example showing 'rotondo' clearly. 4. Understanding the full meaning of 'rotondo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rotondo'.
+Panel 1: Encountering someone or something described as 'rotondo'
+Panel 2: Recognizing the quality of 'rotondo' in a scene
+Panel 3: A vivid example showing 'rotondo' clearly
+Panel 4: Understanding the full meaning of 'rotondo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rotondo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5572
+Word: rotta
+Story: 1. Discovering 'rotta' for the first time. 2. Seeing 'rotta' in its natural context. 3. A person interacting with 'rotta'. 4. 'rotta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rotta'.
+Panel 1: Discovering 'rotta' for the first time
+Panel 2: Seeing 'rotta' in its natural context
+Panel 3: A person interacting with 'rotta'
+Panel 4: 'rotta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rotta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5573
+Word: rotto
+Story: 1. Encountering someone or something described as 'rotto'. 2. Recognizing the quality of 'rotto' in a scene. 3. A vivid example showing 'rotto' clearly. 4. Understanding the full meaning of 'rotto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rotto'.
+Panel 1: Encountering someone or something described as 'rotto'
+Panel 2: Recognizing the quality of 'rotto' in a scene
+Panel 3: A vivid example showing 'rotto' clearly
+Panel 4: Understanding the full meaning of 'rotto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rotto (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5574
+Word: rottura
+Story: 1. Discovering 'rottura' for the first time. 2. Seeing 'rottura' in its natural context. 3. A person interacting with 'rottura'. 4. 'rottura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rottura'.
+Panel 1: Discovering 'rottura' for the first time
+Panel 2: Seeing 'rottura' in its natural context
+Panel 3: A person interacting with 'rottura'
+Panel 4: 'rottura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rottura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5575
+Word: roulotte
+Story: 1. Discovering 'roulotte' for the first time. 2. Seeing 'roulotte' in its natural context. 3. A person interacting with 'roulotte'. 4. 'roulotte' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'roulotte'.
+Panel 1: Discovering 'roulotte' for the first time
+Panel 2: Seeing 'roulotte' in its natural context
+Panel 3: A person interacting with 'roulotte'
+Panel 4: 'roulotte' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "roulotte (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5576
+Word: rovesciare
+Story: 1. A person thinking about the action of 'rovesciare'. 2. Starting to perform the action 'rovesciare'. 3. Actively doing 'rovesciare' with full effort. 4. Successfully completing the action 'rovesciare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rovesciare'.
+Panel 1: A person thinking about the action of 'rovesciare'
+Panel 2: Starting to perform the action 'rovesciare'
+Panel 3: Actively doing 'rovesciare' with full effort
+Panel 4: Successfully completing the action 'rovesciare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rovesciare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5577
+Word: rovescio
+Story: 1. Encountering someone or something described as 'rovescio'. 2. Recognizing the quality of 'rovescio' in a scene. 3. A vivid example showing 'rovescio' clearly. 4. Understanding the full meaning of 'rovescio'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rovescio'.
+Panel 1: Encountering someone or something described as 'rovescio'
+Panel 2: Recognizing the quality of 'rovescio' in a scene
+Panel 3: A vivid example showing 'rovescio' clearly
+Panel 4: Understanding the full meaning of 'rovescio'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rovescio (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5578
+Word: rovina
+Story: 1. Discovering 'rovina' for the first time. 2. Seeing 'rovina' in its natural context. 3. A person interacting with 'rovina'. 4. 'rovina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rovina'.
+Panel 1: Discovering 'rovina' for the first time
+Panel 2: Seeing 'rovina' in its natural context
+Panel 3: A person interacting with 'rovina'
+Panel 4: 'rovina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rovina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5579
+Word: rovinare
+Story: 1. A person thinking about the action of 'rovinare'. 2. Starting to perform the action 'rovinare'. 3. Actively doing 'rovinare' with full effort. 4. Successfully completing the action 'rovinare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rovinare'.
+Panel 1: A person thinking about the action of 'rovinare'
+Panel 2: Starting to perform the action 'rovinare'
+Panel 3: Actively doing 'rovinare' with full effort
+Panel 4: Successfully completing the action 'rovinare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rovinare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5580
+Word: rovo
+Story: 1. Discovering 'rovo' for the first time. 2. Seeing 'rovo' in its natural context. 3. A person interacting with 'rovo'. 4. 'rovo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rovo'.
+Panel 1: Discovering 'rovo' for the first time
+Panel 2: Seeing 'rovo' in its natural context
+Panel 3: A person interacting with 'rovo'
+Panel 4: 'rovo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rovo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5581
+Word: rozzo
+Story: 1. Seeing something that is clearly 'rozzo'. 2. Comparing two things, one is 'rozzo' and one is not. 3. A person pointing at something 'rozzo' and explaining. 4. A memorable example of something very 'rozzo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rozzo'.
+Panel 1: Seeing something that is clearly 'rozzo'
+Panel 2: Comparing two things, one is 'rozzo' and one is not
+Panel 3: A person pointing at something 'rozzo' and explaining
+Panel 4: A memorable example of something very 'rozzo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rozzo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5582
+Word: rubare
+Story: 1. A person thinking about the action of 'rubare'. 2. Starting to perform the action 'rubare'. 3. Actively doing 'rubare' with full effort. 4. Successfully completing the action 'rubare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rubare'.
+Panel 1: A person thinking about the action of 'rubare'
+Panel 2: Starting to perform the action 'rubare'
+Panel 3: Actively doing 'rubare' with full effort
+Panel 4: Successfully completing the action 'rubare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rubare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5583
+Word: rubinetto
+Story: 1. Discovering 'rubinetto' for the first time. 2. Seeing 'rubinetto' in its natural context. 3. A person interacting with 'rubinetto'. 4. 'rubinetto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rubinetto'.
+Panel 1: Discovering 'rubinetto' for the first time
+Panel 2: Seeing 'rubinetto' in its natural context
+Panel 3: A person interacting with 'rubinetto'
+Panel 4: 'rubinetto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rubinetto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5584
+Word: rubrica
+Story: 1. Discovering 'rubrica' for the first time. 2. Seeing 'rubrica' in its natural context. 3. A person interacting with 'rubrica'. 4. 'rubrica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rubrica'.
+Panel 1: Discovering 'rubrica' for the first time
+Panel 2: Seeing 'rubrica' in its natural context
+Panel 3: A person interacting with 'rubrica'
+Panel 4: 'rubrica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rubrica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5585
+Word: rude
+Story: 1. Seeing something that is clearly 'rude'. 2. Comparing two things, one is 'rude' and one is not. 3. A person pointing at something 'rude' and explaining. 4. A memorable example of something very 'rude'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rude'.
+Panel 1: Seeing something that is clearly 'rude'
+Panel 2: Comparing two things, one is 'rude' and one is not
+Panel 3: A person pointing at something 'rude' and explaining
+Panel 4: A memorable example of something very 'rude'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rude (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5586
+Word: ruga
+Story: 1. Discovering 'ruga' for the first time. 2. Seeing 'ruga' in its natural context. 3. A person interacting with 'ruga'. 4. 'ruga' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruga'.
+Panel 1: Discovering 'ruga' for the first time
+Panel 2: Seeing 'ruga' in its natural context
+Panel 3: A person interacting with 'ruga'
+Panel 4: 'ruga' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruga (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5587
+Word: ruggine
+Story: 1. Encountering someone or something described as 'ruggine'. 2. Recognizing the quality of 'ruggine' in a scene. 3. A vivid example showing 'ruggine' clearly. 4. Understanding the full meaning of 'ruggine'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruggine'.
+Panel 1: Encountering someone or something described as 'ruggine'
+Panel 2: Recognizing the quality of 'ruggine' in a scene
+Panel 3: A vivid example showing 'ruggine' clearly
+Panel 4: Understanding the full meaning of 'ruggine'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruggine (s.f., s.m.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5588
+Word: ruggire
+Story: 1. A person thinking about the action of 'ruggire'. 2. Starting to perform the action 'ruggire'. 3. Actively doing 'ruggire' with full effort. 4. Successfully completing the action 'ruggire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruggire'.
+Panel 1: A person thinking about the action of 'ruggire'
+Panel 2: Starting to perform the action 'ruggire'
+Panel 3: Actively doing 'ruggire' with full effort
+Panel 4: Successfully completing the action 'ruggire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruggire (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5589
+Word: ruggito
+Story: 1. Encountering someone or something described as 'ruggito'. 2. Recognizing the quality of 'ruggito' in a scene. 3. A vivid example showing 'ruggito' clearly. 4. Understanding the full meaning of 'ruggito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruggito'.
+Panel 1: Encountering someone or something described as 'ruggito'
+Panel 2: Recognizing the quality of 'ruggito' in a scene
+Panel 3: A vivid example showing 'ruggito' clearly
+Panel 4: Understanding the full meaning of 'ruggito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruggito (p.pass., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5590
+Word: rullo
+Story: 1. Discovering 'rullo' for the first time. 2. Seeing 'rullo' in its natural context. 3. A person interacting with 'rullo'. 4. 'rullo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rullo'.
+Panel 1: Discovering 'rullo' for the first time
+Panel 2: Seeing 'rullo' in its natural context
+Panel 3: A person interacting with 'rullo'
+Panel 4: 'rullo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rullo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5591
+Word: rumeno
+Story: 1. Encountering someone or something described as 'rumeno'. 2. Recognizing the quality of 'rumeno' in a scene. 3. A vivid example showing 'rumeno' clearly. 4. Understanding the full meaning of 'rumeno'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rumeno'.
+Panel 1: Encountering someone or something described as 'rumeno'
+Panel 2: Recognizing the quality of 'rumeno' in a scene
+Panel 3: A vivid example showing 'rumeno' clearly
+Panel 4: Understanding the full meaning of 'rumeno'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rumeno (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5592
+Word: ruminante
+Story: 1. Encountering someone or something described as 'ruminante'. 2. Recognizing the quality of 'ruminante' in a scene. 3. A vivid example showing 'ruminante' clearly. 4. Understanding the full meaning of 'ruminante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruminante'.
+Panel 1: Encountering someone or something described as 'ruminante'
+Panel 2: Recognizing the quality of 'ruminante' in a scene
+Panel 3: A vivid example showing 'ruminante' clearly
+Panel 4: Understanding the full meaning of 'ruminante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruminante (p.pres., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5593
+Word: rumore
+Story: 1. Discovering 'rumore' for the first time. 2. Seeing 'rumore' in its natural context. 3. A person interacting with 'rumore'. 4. 'rumore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rumore'.
+Panel 1: Discovering 'rumore' for the first time
+Panel 2: Seeing 'rumore' in its natural context
+Panel 3: A person interacting with 'rumore'
+Panel 4: 'rumore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rumore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5594
+Word: ruolo
+Story: 1. Discovering 'ruolo' for the first time. 2. Seeing 'ruolo' in its natural context. 3. A person interacting with 'ruolo'. 4. 'ruolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruolo'.
+Panel 1: Discovering 'ruolo' for the first time
+Panel 2: Seeing 'ruolo' in its natural context
+Panel 3: A person interacting with 'ruolo'
+Panel 4: 'ruolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5595
+Word: ruota
+Story: 1. Discovering 'ruota' for the first time. 2. Seeing 'ruota' in its natural context. 3. A person interacting with 'ruota'. 4. 'ruota' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruota'.
+Panel 1: Discovering 'ruota' for the first time
+Panel 2: Seeing 'ruota' in its natural context
+Panel 3: A person interacting with 'ruota'
+Panel 4: 'ruota' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruota (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5596
+Word: ruotare
+Story: 1. A person thinking about the action of 'ruotare'. 2. Starting to perform the action 'ruotare'. 3. Actively doing 'ruotare' with full effort. 4. Successfully completing the action 'ruotare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruotare'.
+Panel 1: A person thinking about the action of 'ruotare'
+Panel 2: Starting to perform the action 'ruotare'
+Panel 3: Actively doing 'ruotare' with full effort
+Panel 4: Successfully completing the action 'ruotare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruotare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5597
+Word: ruscello
+Story: 1. Discovering 'ruscello' for the first time. 2. Seeing 'ruscello' in its natural context. 3. A person interacting with 'ruscello'. 4. 'ruscello' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruscello'.
+Panel 1: Discovering 'ruscello' for the first time
+Panel 2: Seeing 'ruscello' in its natural context
+Panel 3: A person interacting with 'ruscello'
+Panel 4: 'ruscello' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruscello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5598
+Word: ruspa
+Story: 1. Discovering 'ruspa' for the first time. 2. Seeing 'ruspa' in its natural context. 3. A person interacting with 'ruspa'. 4. 'ruspa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruspa'.
+Panel 1: Discovering 'ruspa' for the first time
+Panel 2: Seeing 'ruspa' in its natural context
+Panel 3: A person interacting with 'ruspa'
+Panel 4: 'ruspa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruspa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5599
+Word: russare
+Story: 1. A person thinking about the action of 'russare'. 2. Starting to perform the action 'russare'. 3. Actively doing 'russare' with full effort. 4. Successfully completing the action 'russare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'russare'.
+Panel 1: A person thinking about the action of 'russare'
+Panel 2: Starting to perform the action 'russare'
+Panel 3: Actively doing 'russare' with full effort
+Panel 4: Successfully completing the action 'russare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "russare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5600
+Word: russo
+Story: 1. Encountering someone or something described as 'russo'. 2. Recognizing the quality of 'russo' in a scene. 3. A vivid example showing 'russo' clearly. 4. Understanding the full meaning of 'russo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'russo'.
+Panel 1: Encountering someone or something described as 'russo'
+Panel 2: Recognizing the quality of 'russo' in a scene
+Panel 3: A vivid example showing 'russo' clearly
+Panel 4: Understanding the full meaning of 'russo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "russo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5601
+Word: rustico
+Story: 1. Encountering someone or something described as 'rustico'. 2. Recognizing the quality of 'rustico' in a scene. 3. A vivid example showing 'rustico' clearly. 4. Understanding the full meaning of 'rustico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rustico'.
+Panel 1: Encountering someone or something described as 'rustico'
+Panel 2: Recognizing the quality of 'rustico' in a scene
+Panel 3: A vivid example showing 'rustico' clearly
+Panel 4: Understanding the full meaning of 'rustico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rustico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5602
+Word: ruttare
+Story: 1. A person thinking about the action of 'ruttare'. 2. Starting to perform the action 'ruttare'. 3. Actively doing 'ruttare' with full effort. 4. Successfully completing the action 'ruttare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ruttare'.
+Panel 1: A person thinking about the action of 'ruttare'
+Panel 2: Starting to perform the action 'ruttare'
+Panel 3: Actively doing 'ruttare' with full effort
+Panel 4: Successfully completing the action 'ruttare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ruttare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5603
+Word: rutto
+Story: 1. Discovering 'rutto' for the first time. 2. Seeing 'rutto' in its natural context. 3. A person interacting with 'rutto'. 4. 'rutto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rutto'.
+Panel 1: Discovering 'rutto' for the first time
+Panel 2: Seeing 'rutto' in its natural context
+Panel 3: A person interacting with 'rutto'
+Panel 4: 'rutto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rutto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5604
+Word: sabato
+Story: 1. Discovering 'sabato' for the first time. 2. Seeing 'sabato' in its natural context. 3. A person interacting with 'sabato'. 4. 'sabato' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sabato'.
+Panel 1: Discovering 'sabato' for the first time
+Panel 2: Seeing 'sabato' in its natural context
+Panel 3: A person interacting with 'sabato'
+Panel 4: 'sabato' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sabato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

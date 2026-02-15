@@ -1,0 +1,500 @@
+Image ID: 1105
+Word: cardiaco
+Story: 1. Encountering someone or something described as 'cardiaco'. 2. Recognizing the quality of 'cardiaco' in a scene. 3. A vivid example showing 'cardiaco' clearly. 4. Understanding the full meaning of 'cardiaco'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cardiaco'.
+Panel 1: Encountering someone or something described as 'cardiaco'
+Panel 2: Recognizing the quality of 'cardiaco' in a scene
+Panel 3: A vivid example showing 'cardiaco' clearly
+Panel 4: Understanding the full meaning of 'cardiaco'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cardiaco (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1106
+Word: cardigan
+Story: 1. Discovering 'cardigan' for the first time. 2. Seeing 'cardigan' in its natural context. 3. A person interacting with 'cardigan'. 4. 'cardigan' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cardigan'.
+Panel 1: Discovering 'cardigan' for the first time
+Panel 2: Seeing 'cardigan' in its natural context
+Panel 3: A person interacting with 'cardigan'
+Panel 4: 'cardigan' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cardigan (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1107
+Word: cardinale
+Story: 1. Encountering someone or something described as 'cardinale'. 2. Recognizing the quality of 'cardinale' in a scene. 3. A vivid example showing 'cardinale' clearly. 4. Understanding the full meaning of 'cardinale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cardinale'.
+Panel 1: Encountering someone or something described as 'cardinale'
+Panel 2: Recognizing the quality of 'cardinale' in a scene
+Panel 3: A vivid example showing 'cardinale' clearly
+Panel 4: Understanding the full meaning of 'cardinale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cardinale (agg., s.m., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1108
+Word: carenza
+Story: 1. Discovering 'carenza' for the first time. 2. Seeing 'carenza' in its natural context. 3. A person interacting with 'carenza'. 4. 'carenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carenza'.
+Panel 1: Discovering 'carenza' for the first time
+Panel 2: Seeing 'carenza' in its natural context
+Panel 3: A person interacting with 'carenza'
+Panel 4: 'carenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1109
+Word: carica
+Story: 1. Discovering 'carica' for the first time. 2. Seeing 'carica' in its natural context. 3. A person interacting with 'carica'. 4. 'carica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carica'.
+Panel 1: Discovering 'carica' for the first time
+Panel 2: Seeing 'carica' in its natural context
+Panel 3: A person interacting with 'carica'
+Panel 4: 'carica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carica (s.f., loc. di comando)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1110
+Word: caricare
+Story: 1. A person thinking about the action of 'caricare'. 2. Starting to perform the action 'caricare'. 3. Actively doing 'caricare' with full effort. 4. Successfully completing the action 'caricare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'caricare'.
+Panel 1: A person thinking about the action of 'caricare'
+Panel 2: Starting to perform the action 'caricare'
+Panel 3: Actively doing 'caricare' with full effort
+Panel 4: Successfully completing the action 'caricare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "caricare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1111
+Word: carico
+Story: 1. Discovering 'carico' for the first time. 2. Seeing 'carico' in its natural context. 3. A person interacting with 'carico'. 4. 'carico' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carico'.
+Panel 1: Discovering 'carico' for the first time
+Panel 2: Seeing 'carico' in its natural context
+Panel 3: A person interacting with 'carico'
+Panel 4: 'carico' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carico (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1112
+Word: carico
+Story: 1. Seeing something that is clearly 'carico'. 2. Comparing two things, one is 'carico' and one is not. 3. A person pointing at something 'carico' and explaining. 4. A memorable example of something very 'carico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carico'.
+Panel 1: Seeing something that is clearly 'carico'
+Panel 2: Comparing two things, one is 'carico' and one is not
+Panel 3: A person pointing at something 'carico' and explaining
+Panel 4: A memorable example of something very 'carico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carico (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1113
+Word: carino
+Story: 1. Seeing something that is clearly 'carino'. 2. Comparing two things, one is 'carino' and one is not. 3. A person pointing at something 'carino' and explaining. 4. A memorable example of something very 'carino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carino'.
+Panel 1: Seeing something that is clearly 'carino'
+Panel 2: Comparing two things, one is 'carino' and one is not
+Panel 3: A person pointing at something 'carino' and explaining
+Panel 4: A memorable example of something very 'carino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carino (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1114
+Word: carità
+Story: 1. Discovering 'carità' for the first time. 2. Seeing 'carità' in its natural context. 3. A person interacting with 'carità'. 4. 'carità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carità'.
+Panel 1: Discovering 'carità' for the first time
+Panel 2: Seeing 'carità' in its natural context
+Panel 3: A person interacting with 'carità'
+Panel 4: 'carità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1115
+Word: carnagione
+Story: 1. Discovering 'carnagione' for the first time. 2. Seeing 'carnagione' in its natural context. 3. A person interacting with 'carnagione'. 4. 'carnagione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carnagione'.
+Panel 1: Discovering 'carnagione' for the first time
+Panel 2: Seeing 'carnagione' in its natural context
+Panel 3: A person interacting with 'carnagione'
+Panel 4: 'carnagione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carnagione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1116
+Word: carne
+Story: 1. Discovering 'carne' for the first time. 2. Seeing 'carne' in its natural context. 3. A person interacting with 'carne'. 4. 'carne' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carne'.
+Panel 1: Discovering 'carne' for the first time
+Panel 2: Seeing 'carne' in its natural context
+Panel 3: A person interacting with 'carne'
+Panel 4: 'carne' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carne (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1117
+Word: carnevale
+Story: 1. Discovering 'carnevale' for the first time. 2. Seeing 'carnevale' in its natural context. 3. A person interacting with 'carnevale'. 4. 'carnevale' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carnevale'.
+Panel 1: Discovering 'carnevale' for the first time
+Panel 2: Seeing 'carnevale' in its natural context
+Panel 3: A person interacting with 'carnevale'
+Panel 4: 'carnevale' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carnevale (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1118
+Word: carnivoro
+Story: 1. Encountering someone or something described as 'carnivoro'. 2. Recognizing the quality of 'carnivoro' in a scene. 3. A vivid example showing 'carnivoro' clearly. 4. Understanding the full meaning of 'carnivoro'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carnivoro'.
+Panel 1: Encountering someone or something described as 'carnivoro'
+Panel 2: Recognizing the quality of 'carnivoro' in a scene
+Panel 3: A vivid example showing 'carnivoro' clearly
+Panel 4: Understanding the full meaning of 'carnivoro'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carnivoro (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1119
+Word: carnoso
+Story: 1. Encountering someone or something described as 'carnoso'. 2. Recognizing the quality of 'carnoso' in a scene. 3. A vivid example showing 'carnoso' clearly. 4. Understanding the full meaning of 'carnoso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carnoso'.
+Panel 1: Encountering someone or something described as 'carnoso'
+Panel 2: Recognizing the quality of 'carnoso' in a scene
+Panel 3: A vivid example showing 'carnoso' clearly
+Panel 4: Understanding the full meaning of 'carnoso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carnoso (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1120
+Word: caro
+Story: 1. A scene where something happens 'caro'. 2. Showing the manner or degree of 'caro'. 3. Contrasting doing something 'caro' vs not. 4. A clear example of 'caro' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'caro'.
+Panel 1: A scene where something happens 'caro'
+Panel 2: Showing the manner or degree of 'caro'
+Panel 3: Contrasting doing something 'caro' vs not
+Panel 4: A clear example of 'caro' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "caro (agg., avv., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1121
+Word: carosello
+Story: 1. Discovering 'carosello' for the first time. 2. Seeing 'carosello' in its natural context. 3. A person interacting with 'carosello'. 4. 'carosello' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carosello'.
+Panel 1: Discovering 'carosello' for the first time
+Panel 2: Seeing 'carosello' in its natural context
+Panel 3: A person interacting with 'carosello'
+Panel 4: 'carosello' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carosello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1122
+Word: carovana
+Story: 1. Discovering 'carovana' for the first time. 2. Seeing 'carovana' in its natural context. 3. A person interacting with 'carovana'. 4. 'carovana' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carovana'.
+Panel 1: Discovering 'carovana' for the first time
+Panel 2: Seeing 'carovana' in its natural context
+Panel 3: A person interacting with 'carovana'
+Panel 4: 'carovana' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carovana (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1123
+Word: carriera
+Story: 1. Discovering 'carriera' for the first time. 2. Seeing 'carriera' in its natural context. 3. A person interacting with 'carriera'. 4. 'carriera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carriera'.
+Panel 1: Discovering 'carriera' for the first time
+Panel 2: Seeing 'carriera' in its natural context
+Panel 3: A person interacting with 'carriera'
+Panel 4: 'carriera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carriera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1124
+Word: carro
+Story: 1. Discovering 'carro' for the first time. 2. Seeing 'carro' in its natural context. 3. A person interacting with 'carro'. 4. 'carro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carro'.
+Panel 1: Discovering 'carro' for the first time
+Panel 2: Seeing 'carro' in its natural context
+Panel 3: A person interacting with 'carro'
+Panel 4: 'carro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1125
+Word: carrozzeria
+Story: 1. Discovering 'carrozzeria' for the first time. 2. Seeing 'carrozzeria' in its natural context. 3. A person interacting with 'carrozzeria'. 4. 'carrozzeria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carrozzeria'.
+Panel 1: Discovering 'carrozzeria' for the first time
+Panel 2: Seeing 'carrozzeria' in its natural context
+Panel 3: A person interacting with 'carrozzeria'
+Panel 4: 'carrozzeria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carrozzeria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1126
+Word: carta
+Story: 1. Discovering 'carta' for the first time. 2. Seeing 'carta' in its natural context. 3. A person interacting with 'carta'. 4. 'carta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'carta'.
+Panel 1: Discovering 'carta' for the first time
+Panel 2: Seeing 'carta' in its natural context
+Panel 3: A person interacting with 'carta'
+Panel 4: 'carta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "carta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1127
+Word: cartaceo
+Story: 1. Seeing something that is clearly 'cartaceo'. 2. Comparing two things, one is 'cartaceo' and one is not. 3. A person pointing at something 'cartaceo' and explaining. 4. A memorable example of something very 'cartaceo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cartaceo'.
+Panel 1: Seeing something that is clearly 'cartaceo'
+Panel 2: Comparing two things, one is 'cartaceo' and one is not
+Panel 3: A person pointing at something 'cartaceo' and explaining
+Panel 4: A memorable example of something very 'cartaceo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cartaceo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1128
+Word: cartella
+Story: 1. Discovering 'cartella' for the first time. 2. Seeing 'cartella' in its natural context. 3. A person interacting with 'cartella'. 4. 'cartella' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cartella'.
+Panel 1: Discovering 'cartella' for the first time
+Panel 2: Seeing 'cartella' in its natural context
+Panel 3: A person interacting with 'cartella'
+Panel 4: 'cartella' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cartella (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1129
+Word: cartello
+Story: 1. Discovering 'cartello' for the first time. 2. Seeing 'cartello' in its natural context. 3. A person interacting with 'cartello'. 4. 'cartello' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cartello'.
+Panel 1: Discovering 'cartello' for the first time
+Panel 2: Seeing 'cartello' in its natural context
+Panel 3: A person interacting with 'cartello'
+Panel 4: 'cartello' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cartello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1130
+Word: cartoleria
+Story: 1. Discovering 'cartoleria' for the first time. 2. Seeing 'cartoleria' in its natural context. 3. A person interacting with 'cartoleria'. 4. 'cartoleria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cartoleria'.
+Panel 1: Discovering 'cartoleria' for the first time
+Panel 2: Seeing 'cartoleria' in its natural context
+Panel 3: A person interacting with 'cartoleria'
+Panel 4: 'cartoleria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cartoleria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1131
+Word: cartolina
+Story: 1. Discovering 'cartolina' for the first time. 2. Seeing 'cartolina' in its natural context. 3. A person interacting with 'cartolina'. 4. 'cartolina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cartolina'.
+Panel 1: Discovering 'cartolina' for the first time
+Panel 2: Seeing 'cartolina' in its natural context
+Panel 3: A person interacting with 'cartolina'
+Panel 4: 'cartolina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cartolina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1132
+Word: cartone
+Story: 1. Discovering 'cartone' for the first time. 2. Seeing 'cartone' in its natural context. 3. A person interacting with 'cartone'. 4. 'cartone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cartone'.
+Panel 1: Discovering 'cartone' for the first time
+Panel 2: Seeing 'cartone' in its natural context
+Panel 3: A person interacting with 'cartone'
+Panel 4: 'cartone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cartone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1133
+Word: cartuccia
+Story: 1. Discovering 'cartuccia' for the first time. 2. Seeing 'cartuccia' in its natural context. 3. A person interacting with 'cartuccia'. 4. 'cartuccia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cartuccia'.
+Panel 1: Discovering 'cartuccia' for the first time
+Panel 2: Seeing 'cartuccia' in its natural context
+Panel 3: A person interacting with 'cartuccia'
+Panel 4: 'cartuccia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cartuccia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1134
+Word: casa
+Story: 1. Discovering 'casa' for the first time. 2. Seeing 'casa' in its natural context. 3. A person interacting with 'casa'. 4. 'casa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'casa'.
+Panel 1: Discovering 'casa' for the first time
+Panel 2: Seeing 'casa' in its natural context
+Panel 3: A person interacting with 'casa'
+Panel 4: 'casa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "casa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1135
+Word: casalinga
+Story: 1. Discovering 'casalinga' for the first time. 2. Seeing 'casalinga' in its natural context. 3. A person interacting with 'casalinga'. 4. 'casalinga' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'casalinga'.
+Panel 1: Discovering 'casalinga' for the first time
+Panel 2: Seeing 'casalinga' in its natural context
+Panel 3: A person interacting with 'casalinga'
+Panel 4: 'casalinga' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "casalinga (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1136
+Word: casalingo
+Story: 1. Encountering someone or something described as 'casalingo'. 2. Recognizing the quality of 'casalingo' in a scene. 3. A vivid example showing 'casalingo' clearly. 4. Understanding the full meaning of 'casalingo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'casalingo'.
+Panel 1: Encountering someone or something described as 'casalingo'
+Panel 2: Recognizing the quality of 'casalingo' in a scene
+Panel 3: A vivid example showing 'casalingo' clearly
+Panel 4: Understanding the full meaning of 'casalingo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "casalingo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1137
+Word: cascare
+Story: 1. A person thinking about the action of 'cascare'. 2. Starting to perform the action 'cascare'. 3. Actively doing 'cascare' with full effort. 4. Successfully completing the action 'cascare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cascare'.
+Panel 1: A person thinking about the action of 'cascare'
+Panel 2: Starting to perform the action 'cascare'
+Panel 3: Actively doing 'cascare' with full effort
+Panel 4: Successfully completing the action 'cascare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cascare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1138
+Word: cascata
+Story: 1. Discovering 'cascata' for the first time. 2. Seeing 'cascata' in its natural context. 3. A person interacting with 'cascata'. 4. 'cascata' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cascata'.
+Panel 1: Discovering 'cascata' for the first time
+Panel 2: Seeing 'cascata' in its natural context
+Panel 3: A person interacting with 'cascata'
+Panel 4: 'cascata' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cascata (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1139
+Word: casco
+Story: 1. Discovering 'casco' for the first time. 2. Seeing 'casco' in its natural context. 3. A person interacting with 'casco'. 4. 'casco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'casco'.
+Panel 1: Discovering 'casco' for the first time
+Panel 2: Seeing 'casco' in its natural context
+Panel 3: A person interacting with 'casco'
+Panel 4: 'casco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "casco (s.m.,  s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1140
+Word: caserma
+Story: 1. Discovering 'caserma' for the first time. 2. Seeing 'caserma' in its natural context. 3. A person interacting with 'caserma'. 4. 'caserma' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'caserma'.
+Panel 1: Discovering 'caserma' for the first time
+Panel 2: Seeing 'caserma' in its natural context
+Panel 3: A person interacting with 'caserma'
+Panel 4: 'caserma' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "caserma (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1141
+Word: casetta
+Story: 1. Discovering 'casetta' for the first time. 2. Seeing 'casetta' in its natural context. 3. A person interacting with 'casetta'. 4. 'casetta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'casetta'.
+Panel 1: Discovering 'casetta' for the first time
+Panel 2: Seeing 'casetta' in its natural context
+Panel 3: A person interacting with 'casetta'
+Panel 4: 'casetta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "casetta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1142
+Word: casino
+Story: 1. Discovering 'casino' for the first time. 2. Seeing 'casino' in its natural context. 3. A person interacting with 'casino'. 4. 'casino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'casino'.
+Panel 1: Discovering 'casino' for the first time
+Panel 2: Seeing 'casino' in its natural context
+Panel 3: A person interacting with 'casino'
+Panel 4: 'casino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "casino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1143
+Word: caso
+Story: 1. Discovering 'caso' for the first time. 2. Seeing 'caso' in its natural context. 3. A person interacting with 'caso'. 4. 'caso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'caso'.
+Panel 1: Discovering 'caso' for the first time
+Panel 2: Seeing 'caso' in its natural context
+Panel 3: A person interacting with 'caso'
+Panel 4: 'caso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "caso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1144
+Word: cassa
+Story: 1. Discovering 'cassa' for the first time. 2. Seeing 'cassa' in its natural context. 3. A person interacting with 'cassa'. 4. 'cassa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cassa'.
+Panel 1: Discovering 'cassa' for the first time
+Panel 2: Seeing 'cassa' in its natural context
+Panel 3: A person interacting with 'cassa'
+Panel 4: 'cassa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cassa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1145
+Word: cassaforte
+Story: 1. Discovering 'cassaforte' for the first time. 2. Seeing 'cassaforte' in its natural context. 3. A person interacting with 'cassaforte'. 4. 'cassaforte' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cassaforte'.
+Panel 1: Discovering 'cassaforte' for the first time
+Panel 2: Seeing 'cassaforte' in its natural context
+Panel 3: A person interacting with 'cassaforte'
+Panel 4: 'cassaforte' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cassaforte (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1146
+Word: cassapanca
+Story: 1. Discovering 'cassapanca' for the first time. 2. Seeing 'cassapanca' in its natural context. 3. A person interacting with 'cassapanca'. 4. 'cassapanca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cassapanca'.
+Panel 1: Discovering 'cassapanca' for the first time
+Panel 2: Seeing 'cassapanca' in its natural context
+Panel 3: A person interacting with 'cassapanca'
+Panel 4: 'cassapanca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cassapanca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1147
+Word: casseruola
+Story: 1. Discovering 'casseruola' for the first time. 2. Seeing 'casseruola' in its natural context. 3. A person interacting with 'casseruola'. 4. 'casseruola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'casseruola'.
+Panel 1: Discovering 'casseruola' for the first time
+Panel 2: Seeing 'casseruola' in its natural context
+Panel 3: A person interacting with 'casseruola'
+Panel 4: 'casseruola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "casseruola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1148
+Word: cassetta
+Story: 1. Discovering 'cassetta' for the first time. 2. Seeing 'cassetta' in its natural context. 3. A person interacting with 'cassetta'. 4. 'cassetta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cassetta'.
+Panel 1: Discovering 'cassetta' for the first time
+Panel 2: Seeing 'cassetta' in its natural context
+Panel 3: A person interacting with 'cassetta'
+Panel 4: 'cassetta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cassetta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1149
+Word: cassettiera
+Story: 1. Discovering 'cassettiera' for the first time. 2. Seeing 'cassettiera' in its natural context. 3. A person interacting with 'cassettiera'. 4. 'cassettiera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cassettiera'.
+Panel 1: Discovering 'cassettiera' for the first time
+Panel 2: Seeing 'cassettiera' in its natural context
+Panel 3: A person interacting with 'cassettiera'
+Panel 4: 'cassettiera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cassettiera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1150
+Word: cassetto
+Story: 1. Discovering 'cassetto' for the first time. 2. Seeing 'cassetto' in its natural context. 3. A person interacting with 'cassetto'. 4. 'cassetto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cassetto'.
+Panel 1: Discovering 'cassetto' for the first time
+Panel 2: Seeing 'cassetto' in its natural context
+Panel 3: A person interacting with 'cassetto'
+Panel 4: 'cassetto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cassetto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1151
+Word: cassiera
+Story: 1. Discovering 'cassiera' for the first time. 2. Seeing 'cassiera' in its natural context. 3. A person interacting with 'cassiera'. 4. 'cassiera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cassiera'.
+Panel 1: Discovering 'cassiera' for the first time
+Panel 2: Seeing 'cassiera' in its natural context
+Panel 3: A person interacting with 'cassiera'
+Panel 4: 'cassiera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cassiera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1152
+Word: castagna
+Story: 1. Discovering 'castagna' for the first time. 2. Seeing 'castagna' in its natural context. 3. A person interacting with 'castagna'. 4. 'castagna' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'castagna'.
+Panel 1: Discovering 'castagna' for the first time
+Panel 2: Seeing 'castagna' in its natural context
+Panel 3: A person interacting with 'castagna'
+Panel 4: 'castagna' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "castagna (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1153
+Word: castagno
+Story: 1. Discovering 'castagno' for the first time. 2. Seeing 'castagno' in its natural context. 3. A person interacting with 'castagno'. 4. 'castagno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'castagno'.
+Panel 1: Discovering 'castagno' for the first time
+Panel 2: Seeing 'castagno' in its natural context
+Panel 3: A person interacting with 'castagno'
+Panel 4: 'castagno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "castagno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1154
+Word: castano
+Story: 1. Seeing something that is clearly 'castano'. 2. Comparing two things, one is 'castano' and one is not. 3. A person pointing at something 'castano' and explaining. 4. A memorable example of something very 'castano'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'castano'.
+Panel 1: Seeing something that is clearly 'castano'
+Panel 2: Comparing two things, one is 'castano' and one is not
+Panel 3: A person pointing at something 'castano' and explaining
+Panel 4: A memorable example of something very 'castano'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "castano (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

@@ -1,0 +1,500 @@
+Image ID: 1305
+Word: cinguettio
+Story: 1. Discovering 'cinguettio' for the first time. 2. Seeing 'cinguettio' in its natural context. 3. A person interacting with 'cinguettio'. 4. 'cinguettio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cinguettio'.
+Panel 1: Discovering 'cinguettio' for the first time
+Panel 2: Seeing 'cinguettio' in its natural context
+Panel 3: A person interacting with 'cinguettio'
+Panel 4: 'cinguettio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cinguettio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1306
+Word: cinico
+Story: 1. Encountering someone or something described as 'cinico'. 2. Recognizing the quality of 'cinico' in a scene. 3. A vivid example showing 'cinico' clearly. 4. Understanding the full meaning of 'cinico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cinico'.
+Panel 1: Encountering someone or something described as 'cinico'
+Panel 2: Recognizing the quality of 'cinico' in a scene
+Panel 3: A vivid example showing 'cinico' clearly
+Panel 4: Understanding the full meaning of 'cinico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cinico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1307
+Word: cinquanta
+Story: 1. Encountering someone or something described as 'cinquanta'. 2. Recognizing the quality of 'cinquanta' in a scene. 3. A vivid example showing 'cinquanta' clearly. 4. Understanding the full meaning of 'cinquanta'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cinquanta'.
+Panel 1: Encountering someone or something described as 'cinquanta'
+Panel 2: Recognizing the quality of 'cinquanta' in a scene
+Panel 3: A vivid example showing 'cinquanta' clearly
+Panel 4: Understanding the full meaning of 'cinquanta'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cinquanta (agg.num.card.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1308
+Word: cinque
+Story: 1. Encountering someone or something described as 'cinque'. 2. Recognizing the quality of 'cinque' in a scene. 3. A vivid example showing 'cinque' clearly. 4. Understanding the full meaning of 'cinque'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cinque'.
+Panel 1: Encountering someone or something described as 'cinque'
+Panel 2: Recognizing the quality of 'cinque' in a scene
+Panel 3: A vivid example showing 'cinque' clearly
+Panel 4: Understanding the full meaning of 'cinque'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cinque (agg.num.card.inv., s.m.inv., s.f.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1309
+Word: cinquecento
+Story: 1. Encountering someone or something described as 'cinquecento'. 2. Recognizing the quality of 'cinquecento' in a scene. 3. A vivid example showing 'cinquecento' clearly. 4. Understanding the full meaning of 'cinquecento'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cinquecento'.
+Panel 1: Encountering someone or something described as 'cinquecento'
+Panel 2: Recognizing the quality of 'cinquecento' in a scene
+Panel 3: A vivid example showing 'cinquecento' clearly
+Panel 4: Understanding the full meaning of 'cinquecento'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cinquecento (agg.num.card.inv., s.m.inv., s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1310
+Word: cintura
+Story: 1. Discovering 'cintura' for the first time. 2. Seeing 'cintura' in its natural context. 3. A person interacting with 'cintura'. 4. 'cintura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cintura'.
+Panel 1: Discovering 'cintura' for the first time
+Panel 2: Seeing 'cintura' in its natural context
+Panel 3: A person interacting with 'cintura'
+Panel 4: 'cintura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cintura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1311
+Word: cinturino
+Story: 1. Discovering 'cinturino' for the first time. 2. Seeing 'cinturino' in its natural context. 3. A person interacting with 'cinturino'. 4. 'cinturino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cinturino'.
+Panel 1: Discovering 'cinturino' for the first time
+Panel 2: Seeing 'cinturino' in its natural context
+Panel 3: A person interacting with 'cinturino'
+Panel 4: 'cinturino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cinturino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1312
+Word: ciò
+Story: 1. Two speech bubbles connected by the word 'ciò'. 2. A sentence on a blackboard highlighting 'ciò'. 3. A teacher explaining the use of 'ciò'. 4. Students practicing sentences with 'ciò'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ciò'.
+Panel 1: Two speech bubbles connected by the word 'ciò'
+Panel 2: A sentence on a blackboard highlighting 'ciò'
+Panel 3: A teacher explaining the use of 'ciò'
+Panel 4: Students practicing sentences with 'ciò'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ciò (pron.dimostr.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1313
+Word: ciocca
+Story: 1. Discovering 'ciocca' for the first time. 2. Seeing 'ciocca' in its natural context. 3. A person interacting with 'ciocca'. 4. 'ciocca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ciocca'.
+Panel 1: Discovering 'ciocca' for the first time
+Panel 2: Seeing 'ciocca' in its natural context
+Panel 3: A person interacting with 'ciocca'
+Panel 4: 'ciocca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ciocca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1314
+Word: cioccolatino
+Story: 1. Discovering 'cioccolatino' for the first time. 2. Seeing 'cioccolatino' in its natural context. 3. A person interacting with 'cioccolatino'. 4. 'cioccolatino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cioccolatino'.
+Panel 1: Discovering 'cioccolatino' for the first time
+Panel 2: Seeing 'cioccolatino' in its natural context
+Panel 3: A person interacting with 'cioccolatino'
+Panel 4: 'cioccolatino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cioccolatino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1315
+Word: cioccolato
+Story: 1. Encountering someone or something described as 'cioccolato'. 2. Recognizing the quality of 'cioccolato' in a scene. 3. A vivid example showing 'cioccolato' clearly. 4. Understanding the full meaning of 'cioccolato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cioccolato'.
+Panel 1: Encountering someone or something described as 'cioccolato'
+Panel 2: Recognizing the quality of 'cioccolato' in a scene
+Panel 3: A vivid example showing 'cioccolato' clearly
+Panel 4: Understanding the full meaning of 'cioccolato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cioccolato (s.m., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1316
+Word: cioè
+Story: 1. Two speech bubbles connected by the word 'cioè'. 2. A sentence on a blackboard highlighting 'cioè'. 3. A teacher explaining the use of 'cioè'. 4. Students practicing sentences with 'cioè'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cioè'.
+Panel 1: Two speech bubbles connected by the word 'cioè'
+Panel 2: A sentence on a blackboard highlighting 'cioè'
+Panel 3: A teacher explaining the use of 'cioè'
+Panel 4: Students practicing sentences with 'cioè'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cioè (cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1317
+Word: ciotola
+Story: 1. Discovering 'ciotola' for the first time. 2. Seeing 'ciotola' in its natural context. 3. A person interacting with 'ciotola'. 4. 'ciotola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ciotola'.
+Panel 1: Discovering 'ciotola' for the first time
+Panel 2: Seeing 'ciotola' in its natural context
+Panel 3: A person interacting with 'ciotola'
+Panel 4: 'ciotola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ciotola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1318
+Word: cipolla
+Story: 1. Discovering 'cipolla' for the first time. 2. Seeing 'cipolla' in its natural context. 3. A person interacting with 'cipolla'. 4. 'cipolla' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cipolla'.
+Panel 1: Discovering 'cipolla' for the first time
+Panel 2: Seeing 'cipolla' in its natural context
+Panel 3: A person interacting with 'cipolla'
+Panel 4: 'cipolla' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cipolla (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1319
+Word: cipresso
+Story: 1. Discovering 'cipresso' for the first time. 2. Seeing 'cipresso' in its natural context. 3. A person interacting with 'cipresso'. 4. 'cipresso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cipresso'.
+Panel 1: Discovering 'cipresso' for the first time
+Panel 2: Seeing 'cipresso' in its natural context
+Panel 3: A person interacting with 'cipresso'
+Panel 4: 'cipresso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cipresso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1320
+Word: cipriota
+Story: 1. Encountering someone or something described as 'cipriota'. 2. Recognizing the quality of 'cipriota' in a scene. 3. A vivid example showing 'cipriota' clearly. 4. Understanding the full meaning of 'cipriota'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cipriota'.
+Panel 1: Encountering someone or something described as 'cipriota'
+Panel 2: Recognizing the quality of 'cipriota' in a scene
+Panel 3: A vivid example showing 'cipriota' clearly
+Panel 4: Understanding the full meaning of 'cipriota'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cipriota (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1321
+Word: circa
+Story: 1. A scene where something happens 'circa'. 2. Showing the manner or degree of 'circa'. 3. Contrasting doing something 'circa' vs not. 4. A clear example of 'circa' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'circa'.
+Panel 1: A scene where something happens 'circa'
+Panel 2: Showing the manner or degree of 'circa'
+Panel 3: Contrasting doing something 'circa' vs not
+Panel 4: A clear example of 'circa' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "circa (prep., avv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1322
+Word: circo
+Story: 1. Discovering 'circo' for the first time. 2. Seeing 'circo' in its natural context. 3. A person interacting with 'circo'. 4. 'circo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'circo'.
+Panel 1: Discovering 'circo' for the first time
+Panel 2: Seeing 'circo' in its natural context
+Panel 3: A person interacting with 'circo'
+Panel 4: 'circo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "circo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1323
+Word: circolare
+Story: 1. Encountering someone or something described as 'circolare'. 2. Recognizing the quality of 'circolare' in a scene. 3. A vivid example showing 'circolare' clearly. 4. Understanding the full meaning of 'circolare'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'circolare'.
+Panel 1: Encountering someone or something described as 'circolare'
+Panel 2: Recognizing the quality of 'circolare' in a scene
+Panel 3: A vivid example showing 'circolare' clearly
+Panel 4: Understanding the full meaning of 'circolare'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "circolare (agg., s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1324
+Word: circolare
+Story: 1. A person thinking about the action of 'circolare'. 2. Starting to perform the action 'circolare'. 3. Actively doing 'circolare' with full effort. 4. Successfully completing the action 'circolare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'circolare'.
+Panel 1: A person thinking about the action of 'circolare'
+Panel 2: Starting to perform the action 'circolare'
+Panel 3: Actively doing 'circolare' with full effort
+Panel 4: Successfully completing the action 'circolare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "circolare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1325
+Word: circolazione
+Story: 1. Discovering 'circolazione' for the first time. 2. Seeing 'circolazione' in its natural context. 3. A person interacting with 'circolazione'. 4. 'circolazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'circolazione'.
+Panel 1: Discovering 'circolazione' for the first time
+Panel 2: Seeing 'circolazione' in its natural context
+Panel 3: A person interacting with 'circolazione'
+Panel 4: 'circolazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "circolazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1326
+Word: circolo
+Story: 1. Discovering 'circolo' for the first time. 2. Seeing 'circolo' in its natural context. 3. A person interacting with 'circolo'. 4. 'circolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'circolo'.
+Panel 1: Discovering 'circolo' for the first time
+Panel 2: Seeing 'circolo' in its natural context
+Panel 3: A person interacting with 'circolo'
+Panel 4: 'circolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "circolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1327
+Word: circondare
+Story: 1. A person thinking about the action of 'circondare'. 2. Starting to perform the action 'circondare'. 3. Actively doing 'circondare' with full effort. 4. Successfully completing the action 'circondare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'circondare'.
+Panel 1: A person thinking about the action of 'circondare'
+Panel 2: Starting to perform the action 'circondare'
+Panel 3: Actively doing 'circondare' with full effort
+Panel 4: Successfully completing the action 'circondare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "circondare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1328
+Word: circostanza
+Story: 1. Discovering 'circostanza' for the first time. 2. Seeing 'circostanza' in its natural context. 3. A person interacting with 'circostanza'. 4. 'circostanza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'circostanza'.
+Panel 1: Discovering 'circostanza' for the first time
+Panel 2: Seeing 'circostanza' in its natural context
+Panel 3: A person interacting with 'circostanza'
+Panel 4: 'circostanza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "circostanza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1329
+Word: circuito
+Story: 1. Discovering 'circuito' for the first time. 2. Seeing 'circuito' in its natural context. 3. A person interacting with 'circuito'. 4. 'circuito' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'circuito'.
+Panel 1: Discovering 'circuito' for the first time
+Panel 2: Seeing 'circuito' in its natural context
+Panel 3: A person interacting with 'circuito'
+Panel 4: 'circuito' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "circuito (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1330
+Word: citare
+Story: 1. A person thinking about the action of 'citare'. 2. Starting to perform the action 'citare'. 3. Actively doing 'citare' with full effort. 4. Successfully completing the action 'citare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'citare'.
+Panel 1: A person thinking about the action of 'citare'
+Panel 2: Starting to perform the action 'citare'
+Panel 3: Actively doing 'citare' with full effort
+Panel 4: Successfully completing the action 'citare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "citare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1331
+Word: citato
+Story: 1. Encountering someone or something described as 'citato'. 2. Recognizing the quality of 'citato' in a scene. 3. A vivid example showing 'citato' clearly. 4. Understanding the full meaning of 'citato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'citato'.
+Panel 1: Encountering someone or something described as 'citato'
+Panel 2: Recognizing the quality of 'citato' in a scene
+Panel 3: A vivid example showing 'citato' clearly
+Panel 4: Understanding the full meaning of 'citato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "citato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1332
+Word: citazione
+Story: 1. Discovering 'citazione' for the first time. 2. Seeing 'citazione' in its natural context. 3. A person interacting with 'citazione'. 4. 'citazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'citazione'.
+Panel 1: Discovering 'citazione' for the first time
+Panel 2: Seeing 'citazione' in its natural context
+Panel 3: A person interacting with 'citazione'
+Panel 4: 'citazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "citazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1333
+Word: citofono
+Story: 1. Discovering 'citofono' for the first time. 2. Seeing 'citofono' in its natural context. 3. A person interacting with 'citofono'. 4. 'citofono' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'citofono'.
+Panel 1: Discovering 'citofono' for the first time
+Panel 2: Seeing 'citofono' in its natural context
+Panel 3: A person interacting with 'citofono'
+Panel 4: 'citofono' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "citofono (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1334
+Word: città
+Story: 1. Discovering 'città' for the first time. 2. Seeing 'città' in its natural context. 3. A person interacting with 'città'. 4. 'città' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'città'.
+Panel 1: Discovering 'città' for the first time
+Panel 2: Seeing 'città' in its natural context
+Panel 3: A person interacting with 'città'
+Panel 4: 'città' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "città (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1335
+Word: cittadina
+Story: 1. Discovering 'cittadina' for the first time. 2. Seeing 'cittadina' in its natural context. 3. A person interacting with 'cittadina'. 4. 'cittadina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cittadina'.
+Panel 1: Discovering 'cittadina' for the first time
+Panel 2: Seeing 'cittadina' in its natural context
+Panel 3: A person interacting with 'cittadina'
+Panel 4: 'cittadina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cittadina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1336
+Word: cittadinanza
+Story: 1. Discovering 'cittadinanza' for the first time. 2. Seeing 'cittadinanza' in its natural context. 3. A person interacting with 'cittadinanza'. 4. 'cittadinanza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cittadinanza'.
+Panel 1: Discovering 'cittadinanza' for the first time
+Panel 2: Seeing 'cittadinanza' in its natural context
+Panel 3: A person interacting with 'cittadinanza'
+Panel 4: 'cittadinanza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cittadinanza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1337
+Word: cittadino
+Story: 1. Encountering someone or something described as 'cittadino'. 2. Recognizing the quality of 'cittadino' in a scene. 3. A vivid example showing 'cittadino' clearly. 4. Understanding the full meaning of 'cittadino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cittadino'.
+Panel 1: Encountering someone or something described as 'cittadino'
+Panel 2: Recognizing the quality of 'cittadino' in a scene
+Panel 3: A vivid example showing 'cittadino' clearly
+Panel 4: Understanding the full meaning of 'cittadino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cittadino (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1338
+Word: ciuffo
+Story: 1. Discovering 'ciuffo' for the first time. 2. Seeing 'ciuffo' in its natural context. 3. A person interacting with 'ciuffo'. 4. 'ciuffo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ciuffo'.
+Panel 1: Discovering 'ciuffo' for the first time
+Panel 2: Seeing 'ciuffo' in its natural context
+Panel 3: A person interacting with 'ciuffo'
+Panel 4: 'ciuffo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ciuffo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1339
+Word: civile
+Story: 1. Encountering someone or something described as 'civile'. 2. Recognizing the quality of 'civile' in a scene. 3. A vivid example showing 'civile' clearly. 4. Understanding the full meaning of 'civile'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'civile'.
+Panel 1: Encountering someone or something described as 'civile'
+Panel 2: Recognizing the quality of 'civile' in a scene
+Panel 3: A vivid example showing 'civile' clearly
+Panel 4: Understanding the full meaning of 'civile'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "civile (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1340
+Word: civiltà
+Story: 1. Discovering 'civiltà' for the first time. 2. Seeing 'civiltà' in its natural context. 3. A person interacting with 'civiltà'. 4. 'civiltà' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'civiltà'.
+Panel 1: Discovering 'civiltà' for the first time
+Panel 2: Seeing 'civiltà' in its natural context
+Panel 3: A person interacting with 'civiltà'
+Panel 4: 'civiltà' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "civiltà (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1341
+Word: clacson
+Story: 1. Discovering 'clacson' for the first time. 2. Seeing 'clacson' in its natural context. 3. A person interacting with 'clacson'. 4. 'clacson' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'clacson'.
+Panel 1: Discovering 'clacson' for the first time
+Panel 2: Seeing 'clacson' in its natural context
+Panel 3: A person interacting with 'clacson'
+Panel 4: 'clacson' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "clacson (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1342
+Word: clan
+Story: 1. Discovering 'clan' for the first time. 2. Seeing 'clan' in its natural context. 3. A person interacting with 'clan'. 4. 'clan' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'clan'.
+Panel 1: Discovering 'clan' for the first time
+Panel 2: Seeing 'clan' in its natural context
+Panel 3: A person interacting with 'clan'
+Panel 4: 'clan' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "clan (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1343
+Word: clandestino
+Story: 1. Encountering someone or something described as 'clandestino'. 2. Recognizing the quality of 'clandestino' in a scene. 3. A vivid example showing 'clandestino' clearly. 4. Understanding the full meaning of 'clandestino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'clandestino'.
+Panel 1: Encountering someone or something described as 'clandestino'
+Panel 2: Recognizing the quality of 'clandestino' in a scene
+Panel 3: A vivid example showing 'clandestino' clearly
+Panel 4: Understanding the full meaning of 'clandestino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "clandestino (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1344
+Word: classe
+Story: 1. Discovering 'classe' for the first time. 2. Seeing 'classe' in its natural context. 3. A person interacting with 'classe'. 4. 'classe' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'classe'.
+Panel 1: Discovering 'classe' for the first time
+Panel 2: Seeing 'classe' in its natural context
+Panel 3: A person interacting with 'classe'
+Panel 4: 'classe' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "classe (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1345
+Word: classico
+Story: 1. Encountering someone or something described as 'classico'. 2. Recognizing the quality of 'classico' in a scene. 3. A vivid example showing 'classico' clearly. 4. Understanding the full meaning of 'classico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'classico'.
+Panel 1: Encountering someone or something described as 'classico'
+Panel 2: Recognizing the quality of 'classico' in a scene
+Panel 3: A vivid example showing 'classico' clearly
+Panel 4: Understanding the full meaning of 'classico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "classico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1346
+Word: classifica
+Story: 1. Discovering 'classifica' for the first time. 2. Seeing 'classifica' in its natural context. 3. A person interacting with 'classifica'. 4. 'classifica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'classifica'.
+Panel 1: Discovering 'classifica' for the first time
+Panel 2: Seeing 'classifica' in its natural context
+Panel 3: A person interacting with 'classifica'
+Panel 4: 'classifica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "classifica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1347
+Word: classificare
+Story: 1. A person thinking about the action of 'classificare'. 2. Starting to perform the action 'classificare'. 3. Actively doing 'classificare' with full effort. 4. Successfully completing the action 'classificare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'classificare'.
+Panel 1: A person thinking about the action of 'classificare'
+Panel 2: Starting to perform the action 'classificare'
+Panel 3: Actively doing 'classificare' with full effort
+Panel 4: Successfully completing the action 'classificare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "classificare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1348
+Word: clero
+Story: 1. Discovering 'clero' for the first time. 2. Seeing 'clero' in its natural context. 3. A person interacting with 'clero'. 4. 'clero' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'clero'.
+Panel 1: Discovering 'clero' for the first time
+Panel 2: Seeing 'clero' in its natural context
+Panel 3: A person interacting with 'clero'
+Panel 4: 'clero' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "clero (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1349
+Word: cliccare
+Story: 1. A person thinking about the action of 'cliccare'. 2. Starting to perform the action 'cliccare'. 3. Actively doing 'cliccare' with full effort. 4. Successfully completing the action 'cliccare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cliccare'.
+Panel 1: A person thinking about the action of 'cliccare'
+Panel 2: Starting to perform the action 'cliccare'
+Panel 3: Actively doing 'cliccare' with full effort
+Panel 4: Successfully completing the action 'cliccare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cliccare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1350
+Word: cliente
+Story: 1. Discovering 'cliente' for the first time. 2. Seeing 'cliente' in its natural context. 3. A person interacting with 'cliente'. 4. 'cliente' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cliente'.
+Panel 1: Discovering 'cliente' for the first time
+Panel 2: Seeing 'cliente' in its natural context
+Panel 3: A person interacting with 'cliente'
+Panel 4: 'cliente' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cliente (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1351
+Word: clima
+Story: 1. Discovering 'clima' for the first time. 2. Seeing 'clima' in its natural context. 3. A person interacting with 'clima'. 4. 'clima' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'clima'.
+Panel 1: Discovering 'clima' for the first time
+Panel 2: Seeing 'clima' in its natural context
+Panel 3: A person interacting with 'clima'
+Panel 4: 'clima' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "clima (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1352
+Word: clinica
+Story: 1. Discovering 'clinica' for the first time. 2. Seeing 'clinica' in its natural context. 3. A person interacting with 'clinica'. 4. 'clinica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'clinica'.
+Panel 1: Discovering 'clinica' for the first time
+Panel 2: Seeing 'clinica' in its natural context
+Panel 3: A person interacting with 'clinica'
+Panel 4: 'clinica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "clinica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1353
+Word: clinico
+Story: 1. Encountering someone or something described as 'clinico'. 2. Recognizing the quality of 'clinico' in a scene. 3. A vivid example showing 'clinico' clearly. 4. Understanding the full meaning of 'clinico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'clinico'.
+Panel 1: Encountering someone or something described as 'clinico'
+Panel 2: Recognizing the quality of 'clinico' in a scene
+Panel 3: A vivid example showing 'clinico' clearly
+Panel 4: Understanding the full meaning of 'clinico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "clinico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1354
+Word: clistere
+Story: 1. Discovering 'clistere' for the first time. 2. Seeing 'clistere' in its natural context. 3. A person interacting with 'clistere'. 4. 'clistere' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'clistere'.
+Panel 1: Discovering 'clistere' for the first time
+Panel 2: Seeing 'clistere' in its natural context
+Panel 3: A person interacting with 'clistere'
+Panel 4: 'clistere' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "clistere (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

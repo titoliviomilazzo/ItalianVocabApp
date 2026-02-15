@@ -1,0 +1,500 @@
+Image ID: 2855
+Word: giornale
+Story: 1. Encountering someone or something described as 'giornale'. 2. Recognizing the quality of 'giornale' in a scene. 3. A vivid example showing 'giornale' clearly. 4. Understanding the full meaning of 'giornale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giornale'.
+Panel 1: Encountering someone or something described as 'giornale'
+Panel 2: Recognizing the quality of 'giornale' in a scene
+Panel 3: A vivid example showing 'giornale' clearly
+Panel 4: Understanding the full meaning of 'giornale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giornale (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2856
+Word: giornalino
+Story: 1. Discovering 'giornalino' for the first time. 2. Seeing 'giornalino' in its natural context. 3. A person interacting with 'giornalino'. 4. 'giornalino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giornalino'.
+Panel 1: Discovering 'giornalino' for the first time
+Panel 2: Seeing 'giornalino' in its natural context
+Panel 3: A person interacting with 'giornalino'
+Panel 4: 'giornalino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giornalino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2857
+Word: giornalista
+Story: 1. Discovering 'giornalista' for the first time. 2. Seeing 'giornalista' in its natural context. 3. A person interacting with 'giornalista'. 4. 'giornalista' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giornalista'.
+Panel 1: Discovering 'giornalista' for the first time
+Panel 2: Seeing 'giornalista' in its natural context
+Panel 3: A person interacting with 'giornalista'
+Panel 4: 'giornalista' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giornalista (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2858
+Word: giornata
+Story: 1. Discovering 'giornata' for the first time. 2. Seeing 'giornata' in its natural context. 3. A person interacting with 'giornata'. 4. 'giornata' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giornata'.
+Panel 1: Discovering 'giornata' for the first time
+Panel 2: Seeing 'giornata' in its natural context
+Panel 3: A person interacting with 'giornata'
+Panel 4: 'giornata' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giornata (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2859
+Word: giorno
+Story: 1. Discovering 'giorno' for the first time. 2. Seeing 'giorno' in its natural context. 3. A person interacting with 'giorno'. 4. 'giorno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giorno'.
+Panel 1: Discovering 'giorno' for the first time
+Panel 2: Seeing 'giorno' in its natural context
+Panel 3: A person interacting with 'giorno'
+Panel 4: 'giorno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giorno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2860
+Word: giostra
+Story: 1. Discovering 'giostra' for the first time. 2. Seeing 'giostra' in its natural context. 3. A person interacting with 'giostra'. 4. 'giostra' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giostra'.
+Panel 1: Discovering 'giostra' for the first time
+Panel 2: Seeing 'giostra' in its natural context
+Panel 3: A person interacting with 'giostra'
+Panel 4: 'giostra' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giostra (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2861
+Word: giovane
+Story: 1. Encountering someone or something described as 'giovane'. 2. Recognizing the quality of 'giovane' in a scene. 3. A vivid example showing 'giovane' clearly. 4. Understanding the full meaning of 'giovane'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giovane'.
+Panel 1: Encountering someone or something described as 'giovane'
+Panel 2: Recognizing the quality of 'giovane' in a scene
+Panel 3: A vivid example showing 'giovane' clearly
+Panel 4: Understanding the full meaning of 'giovane'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giovane (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2862
+Word: giovanile
+Story: 1. Seeing something that is clearly 'giovanile'. 2. Comparing two things, one is 'giovanile' and one is not. 3. A person pointing at something 'giovanile' and explaining. 4. A memorable example of something very 'giovanile'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giovanile'.
+Panel 1: Seeing something that is clearly 'giovanile'
+Panel 2: Comparing two things, one is 'giovanile' and one is not
+Panel 3: A person pointing at something 'giovanile' and explaining
+Panel 4: A memorable example of something very 'giovanile'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giovanile (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2863
+Word: giovedì
+Story: 1. Discovering 'giovedì' for the first time. 2. Seeing 'giovedì' in its natural context. 3. A person interacting with 'giovedì'. 4. 'giovedì' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giovedì'.
+Panel 1: Discovering 'giovedì' for the first time
+Panel 2: Seeing 'giovedì' in its natural context
+Panel 3: A person interacting with 'giovedì'
+Panel 4: 'giovedì' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giovedì (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2864
+Word: gioventù
+Story: 1. Discovering 'gioventù' for the first time. 2. Seeing 'gioventù' in its natural context. 3. A person interacting with 'gioventù'. 4. 'gioventù' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'gioventù'.
+Panel 1: Discovering 'gioventù' for the first time
+Panel 2: Seeing 'gioventù' in its natural context
+Panel 3: A person interacting with 'gioventù'
+Panel 4: 'gioventù' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "gioventù (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2865
+Word: giovinezza
+Story: 1. Discovering 'giovinezza' for the first time. 2. Seeing 'giovinezza' in its natural context. 3. A person interacting with 'giovinezza'. 4. 'giovinezza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giovinezza'.
+Panel 1: Discovering 'giovinezza' for the first time
+Panel 2: Seeing 'giovinezza' in its natural context
+Panel 3: A person interacting with 'giovinezza'
+Panel 4: 'giovinezza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giovinezza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2866
+Word: giraffa
+Story: 1. Discovering 'giraffa' for the first time. 2. Seeing 'giraffa' in its natural context. 3. A person interacting with 'giraffa'. 4. 'giraffa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giraffa'.
+Panel 1: Discovering 'giraffa' for the first time
+Panel 2: Seeing 'giraffa' in its natural context
+Panel 3: A person interacting with 'giraffa'
+Panel 4: 'giraffa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giraffa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2867
+Word: girare
+Story: 1. A person thinking about the action of 'girare'. 2. Starting to perform the action 'girare'. 3. Actively doing 'girare' with full effort. 4. Successfully completing the action 'girare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'girare'.
+Panel 1: A person thinking about the action of 'girare'
+Panel 2: Starting to perform the action 'girare'
+Panel 3: Actively doing 'girare' with full effort
+Panel 4: Successfully completing the action 'girare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "girare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2868
+Word: giravite
+Story: 1. Discovering 'giravite' for the first time. 2. Seeing 'giravite' in its natural context. 3. A person interacting with 'giravite'. 4. 'giravite' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giravite'.
+Panel 1: Discovering 'giravite' for the first time
+Panel 2: Seeing 'giravite' in its natural context
+Panel 3: A person interacting with 'giravite'
+Panel 4: 'giravite' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giravite (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2869
+Word: giretto
+Story: 1. Discovering 'giretto' for the first time. 2. Seeing 'giretto' in its natural context. 3. A person interacting with 'giretto'. 4. 'giretto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giretto'.
+Panel 1: Discovering 'giretto' for the first time
+Panel 2: Seeing 'giretto' in its natural context
+Panel 3: A person interacting with 'giretto'
+Panel 4: 'giretto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giretto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2870
+Word: giro
+Story: 1. Discovering 'giro' for the first time. 2. Seeing 'giro' in its natural context. 3. A person interacting with 'giro'. 4. 'giro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giro'.
+Panel 1: Discovering 'giro' for the first time
+Panel 2: Seeing 'giro' in its natural context
+Panel 3: A person interacting with 'giro'
+Panel 4: 'giro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2871
+Word: gironzolare
+Story: 1. A person thinking about the action of 'gironzolare'. 2. Starting to perform the action 'gironzolare'. 3. Actively doing 'gironzolare' with full effort. 4. Successfully completing the action 'gironzolare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'gironzolare'.
+Panel 1: A person thinking about the action of 'gironzolare'
+Panel 2: Starting to perform the action 'gironzolare'
+Panel 3: Actively doing 'gironzolare' with full effort
+Panel 4: Successfully completing the action 'gironzolare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "gironzolare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2872
+Word: girotondo
+Story: 1. Discovering 'girotondo' for the first time. 2. Seeing 'girotondo' in its natural context. 3. A person interacting with 'girotondo'. 4. 'girotondo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'girotondo'.
+Panel 1: Discovering 'girotondo' for the first time
+Panel 2: Seeing 'girotondo' in its natural context
+Panel 3: A person interacting with 'girotondo'
+Panel 4: 'girotondo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "girotondo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2873
+Word: gita
+Story: 1. Discovering 'gita' for the first time. 2. Seeing 'gita' in its natural context. 3. A person interacting with 'gita'. 4. 'gita' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'gita'.
+Panel 1: Discovering 'gita' for the first time
+Panel 2: Seeing 'gita' in its natural context
+Panel 3: A person interacting with 'gita'
+Panel 4: 'gita' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "gita (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2874
+Word: giù
+Story: 1. A scene where something happens 'giù'. 2. Showing the manner or degree of 'giù'. 3. Contrasting doing something 'giù' vs not. 4. A clear example of 'giù' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giù'.
+Panel 1: A scene where something happens 'giù'
+Panel 2: Showing the manner or degree of 'giù'
+Panel 3: Contrasting doing something 'giù' vs not
+Panel 4: A clear example of 'giù' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giù (avv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2875
+Word: giubba
+Story: 1. Discovering 'giubba' for the first time. 2. Seeing 'giubba' in its natural context. 3. A person interacting with 'giubba'. 4. 'giubba' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giubba'.
+Panel 1: Discovering 'giubba' for the first time
+Panel 2: Seeing 'giubba' in its natural context
+Panel 3: A person interacting with 'giubba'
+Panel 4: 'giubba' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giubba (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2876
+Word: giubbotto
+Story: 1. Discovering 'giubbotto' for the first time. 2. Seeing 'giubbotto' in its natural context. 3. A person interacting with 'giubbotto'. 4. 'giubbotto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giubbotto'.
+Panel 1: Discovering 'giubbotto' for the first time
+Panel 2: Seeing 'giubbotto' in its natural context
+Panel 3: A person interacting with 'giubbotto'
+Panel 4: 'giubbotto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giubbotto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2877
+Word: giudicare
+Story: 1. A person thinking about the action of 'giudicare'. 2. Starting to perform the action 'giudicare'. 3. Actively doing 'giudicare' with full effort. 4. Successfully completing the action 'giudicare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giudicare'.
+Panel 1: A person thinking about the action of 'giudicare'
+Panel 2: Starting to perform the action 'giudicare'
+Panel 3: Actively doing 'giudicare' with full effort
+Panel 4: Successfully completing the action 'giudicare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giudicare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2878
+Word: giudice
+Story: 1. Discovering 'giudice' for the first time. 2. Seeing 'giudice' in its natural context. 3. A person interacting with 'giudice'. 4. 'giudice' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giudice'.
+Panel 1: Discovering 'giudice' for the first time
+Panel 2: Seeing 'giudice' in its natural context
+Panel 3: A person interacting with 'giudice'
+Panel 4: 'giudice' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giudice (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2879
+Word: giudiziario
+Story: 1. Seeing something that is clearly 'giudiziario'. 2. Comparing two things, one is 'giudiziario' and one is not. 3. A person pointing at something 'giudiziario' and explaining. 4. A memorable example of something very 'giudiziario'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giudiziario'.
+Panel 1: Seeing something that is clearly 'giudiziario'
+Panel 2: Comparing two things, one is 'giudiziario' and one is not
+Panel 3: A person pointing at something 'giudiziario' and explaining
+Panel 4: A memorable example of something very 'giudiziario'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giudiziario (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2880
+Word: giudizio
+Story: 1. Discovering 'giudizio' for the first time. 2. Seeing 'giudizio' in its natural context. 3. A person interacting with 'giudizio'. 4. 'giudizio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giudizio'.
+Panel 1: Discovering 'giudizio' for the first time
+Panel 2: Seeing 'giudizio' in its natural context
+Panel 3: A person interacting with 'giudizio'
+Panel 4: 'giudizio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giudizio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2881
+Word: giugno
+Story: 1. Discovering 'giugno' for the first time. 2. Seeing 'giugno' in its natural context. 3. A person interacting with 'giugno'. 4. 'giugno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giugno'.
+Panel 1: Discovering 'giugno' for the first time
+Panel 2: Seeing 'giugno' in its natural context
+Panel 3: A person interacting with 'giugno'
+Panel 4: 'giugno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giugno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2882
+Word: giungere
+Story: 1. A person thinking about the action of 'giungere'. 2. Starting to perform the action 'giungere'. 3. Actively doing 'giungere' with full effort. 4. Successfully completing the action 'giungere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giungere'.
+Panel 1: A person thinking about the action of 'giungere'
+Panel 2: Starting to perform the action 'giungere'
+Panel 3: Actively doing 'giungere' with full effort
+Panel 4: Successfully completing the action 'giungere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giungere (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2883
+Word: giungla
+Story: 1. Discovering 'giungla' for the first time. 2. Seeing 'giungla' in its natural context. 3. A person interacting with 'giungla'. 4. 'giungla' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giungla'.
+Panel 1: Discovering 'giungla' for the first time
+Panel 2: Seeing 'giungla' in its natural context
+Panel 3: A person interacting with 'giungla'
+Panel 4: 'giungla' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giungla (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2884
+Word: giuramento
+Story: 1. Discovering 'giuramento' for the first time. 2. Seeing 'giuramento' in its natural context. 3. A person interacting with 'giuramento'. 4. 'giuramento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giuramento'.
+Panel 1: Discovering 'giuramento' for the first time
+Panel 2: Seeing 'giuramento' in its natural context
+Panel 3: A person interacting with 'giuramento'
+Panel 4: 'giuramento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giuramento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2885
+Word: giurare
+Story: 1. A person thinking about the action of 'giurare'. 2. Starting to perform the action 'giurare'. 3. Actively doing 'giurare' with full effort. 4. Successfully completing the action 'giurare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giurare'.
+Panel 1: A person thinking about the action of 'giurare'
+Panel 2: Starting to perform the action 'giurare'
+Panel 3: Actively doing 'giurare' with full effort
+Panel 4: Successfully completing the action 'giurare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giurare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2886
+Word: giuria
+Story: 1. Discovering 'giuria' for the first time. 2. Seeing 'giuria' in its natural context. 3. A person interacting with 'giuria'. 4. 'giuria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giuria'.
+Panel 1: Discovering 'giuria' for the first time
+Panel 2: Seeing 'giuria' in its natural context
+Panel 3: A person interacting with 'giuria'
+Panel 4: 'giuria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giuria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2887
+Word: giuridico
+Story: 1. Seeing something that is clearly 'giuridico'. 2. Comparing two things, one is 'giuridico' and one is not. 3. A person pointing at something 'giuridico' and explaining. 4. A memorable example of something very 'giuridico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giuridico'.
+Panel 1: Seeing something that is clearly 'giuridico'
+Panel 2: Comparing two things, one is 'giuridico' and one is not
+Panel 3: A person pointing at something 'giuridico' and explaining
+Panel 4: A memorable example of something very 'giuridico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giuridico (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2888
+Word: giustamente
+Story: 1. A scene where something happens 'giustamente'. 2. Showing the manner or degree of 'giustamente'. 3. Contrasting doing something 'giustamente' vs not. 4. A clear example of 'giustamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giustamente'.
+Panel 1: A scene where something happens 'giustamente'
+Panel 2: Showing the manner or degree of 'giustamente'
+Panel 3: Contrasting doing something 'giustamente' vs not
+Panel 4: A clear example of 'giustamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giustamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2889
+Word: giustificare
+Story: 1. A person thinking about the action of 'giustificare'. 2. Starting to perform the action 'giustificare'. 3. Actively doing 'giustificare' with full effort. 4. Successfully completing the action 'giustificare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giustificare'.
+Panel 1: A person thinking about the action of 'giustificare'
+Panel 2: Starting to perform the action 'giustificare'
+Panel 3: Actively doing 'giustificare' with full effort
+Panel 4: Successfully completing the action 'giustificare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giustificare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2890
+Word: giustizia
+Story: 1. Discovering 'giustizia' for the first time. 2. Seeing 'giustizia' in its natural context. 3. A person interacting with 'giustizia'. 4. 'giustizia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giustizia'.
+Panel 1: Discovering 'giustizia' for the first time
+Panel 2: Seeing 'giustizia' in its natural context
+Panel 3: A person interacting with 'giustizia'
+Panel 4: 'giustizia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giustizia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2891
+Word: giusto
+Story: 1. A scene where something happens 'giusto'. 2. Showing the manner or degree of 'giusto'. 3. Contrasting doing something 'giusto' vs not. 4. A clear example of 'giusto' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'giusto'.
+Panel 1: A scene where something happens 'giusto'
+Panel 2: Showing the manner or degree of 'giusto'
+Panel 3: Contrasting doing something 'giusto' vs not
+Panel 4: A clear example of 'giusto' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "giusto (agg., s.m., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2892
+Word: gli
+Story: 1. Two speech bubbles connected by the word 'gli'. 2. A sentence on a blackboard highlighting 'gli'. 3. A teacher explaining the use of 'gli'. 4. Students practicing sentences with 'gli'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'gli'.
+Panel 1: Two speech bubbles connected by the word 'gli'
+Panel 2: A sentence on a blackboard highlighting 'gli'
+Panel 3: A teacher explaining the use of 'gli'
+Panel 4: Students practicing sentences with 'gli'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "gli (pron.pers. di terza pers.m.sing.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2893
+Word: glicine
+Story: 1. Discovering 'glicine' for the first time. 2. Seeing 'glicine' in its natural context. 3. A person interacting with 'glicine'. 4. 'glicine' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'glicine'.
+Panel 1: Discovering 'glicine' for the first time
+Panel 2: Seeing 'glicine' in its natural context
+Panel 3: A person interacting with 'glicine'
+Panel 4: 'glicine' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "glicine (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2894
+Word: global
+Story: 1. Encountering someone or something described as 'global'. 2. Recognizing the quality of 'global' in a scene. 3. A vivid example showing 'global' clearly. 4. Understanding the full meaning of 'global'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'global'.
+Panel 1: Encountering someone or something described as 'global'
+Panel 2: Recognizing the quality of 'global' in a scene
+Panel 3: A vivid example showing 'global' clearly
+Panel 4: Understanding the full meaning of 'global'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "global (agg.inv., s.m. e f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2895
+Word: globale
+Story: 1. Seeing something that is clearly 'globale'. 2. Comparing two things, one is 'globale' and one is not. 3. A person pointing at something 'globale' and explaining. 4. A memorable example of something very 'globale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'globale'.
+Panel 1: Seeing something that is clearly 'globale'
+Panel 2: Comparing two things, one is 'globale' and one is not
+Panel 3: A person pointing at something 'globale' and explaining
+Panel 4: A memorable example of something very 'globale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "globale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2896
+Word: gloria
+Story: 1. Discovering 'gloria' for the first time. 2. Seeing 'gloria' in its natural context. 3. A person interacting with 'gloria'. 4. 'gloria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'gloria'.
+Panel 1: Discovering 'gloria' for the first time
+Panel 2: Seeing 'gloria' in its natural context
+Panel 3: A person interacting with 'gloria'
+Panel 4: 'gloria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "gloria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2897
+Word: gnocco
+Story: 1. Discovering 'gnocco' for the first time. 2. Seeing 'gnocco' in its natural context. 3. A person interacting with 'gnocco'. 4. 'gnocco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'gnocco'.
+Panel 1: Discovering 'gnocco' for the first time
+Panel 2: Seeing 'gnocco' in its natural context
+Panel 3: A person interacting with 'gnocco'
+Panel 4: 'gnocco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "gnocco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2898
+Word: gnomo
+Story: 1. Discovering 'gnomo' for the first time. 2. Seeing 'gnomo' in its natural context. 3. A person interacting with 'gnomo'. 4. 'gnomo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'gnomo'.
+Panel 1: Discovering 'gnomo' for the first time
+Panel 2: Seeing 'gnomo' in its natural context
+Panel 3: A person interacting with 'gnomo'
+Panel 4: 'gnomo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "gnomo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2899
+Word: goal
+Story: 1. Discovering 'goal' for the first time. 2. Seeing 'goal' in its natural context. 3. A person interacting with 'goal'. 4. 'goal' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'goal'.
+Panel 1: Discovering 'goal' for the first time
+Panel 2: Seeing 'goal' in its natural context
+Panel 3: A person interacting with 'goal'
+Panel 4: 'goal' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "goal (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2900
+Word: gobbo
+Story: 1. Encountering someone or something described as 'gobbo'. 2. Recognizing the quality of 'gobbo' in a scene. 3. A vivid example showing 'gobbo' clearly. 4. Understanding the full meaning of 'gobbo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'gobbo'.
+Panel 1: Encountering someone or something described as 'gobbo'
+Panel 2: Recognizing the quality of 'gobbo' in a scene
+Panel 3: A vivid example showing 'gobbo' clearly
+Panel 4: Understanding the full meaning of 'gobbo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "gobbo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2901
+Word: goccia
+Story: 1. Discovering 'goccia' for the first time. 2. Seeing 'goccia' in its natural context. 3. A person interacting with 'goccia'. 4. 'goccia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'goccia'.
+Panel 1: Discovering 'goccia' for the first time
+Panel 2: Seeing 'goccia' in its natural context
+Panel 3: A person interacting with 'goccia'
+Panel 4: 'goccia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "goccia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2902
+Word: godere
+Story: 1. A person thinking about the action of 'godere'. 2. Starting to perform the action 'godere'. 3. Actively doing 'godere' with full effort. 4. Successfully completing the action 'godere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'godere'.
+Panel 1: A person thinking about the action of 'godere'
+Panel 2: Starting to perform the action 'godere'
+Panel 3: Actively doing 'godere' with full effort
+Panel 4: Successfully completing the action 'godere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "godere (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2903
+Word: gola
+Story: 1. Discovering 'gola' for the first time. 2. Seeing 'gola' in its natural context. 3. A person interacting with 'gola'. 4. 'gola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'gola'.
+Panel 1: Discovering 'gola' for the first time
+Panel 2: Seeing 'gola' in its natural context
+Panel 3: A person interacting with 'gola'
+Panel 4: 'gola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "gola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2904
+Word: goloso
+Story: 1. Seeing something that is clearly 'goloso'. 2. Comparing two things, one is 'goloso' and one is not. 3. A person pointing at something 'goloso' and explaining. 4. A memorable example of something very 'goloso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'goloso'.
+Panel 1: Seeing something that is clearly 'goloso'
+Panel 2: Comparing two things, one is 'goloso' and one is not
+Panel 3: A person pointing at something 'goloso' and explaining
+Panel 4: A memorable example of something very 'goloso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "goloso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

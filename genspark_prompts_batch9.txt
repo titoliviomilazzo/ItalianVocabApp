@@ -1,0 +1,500 @@
+Image ID: 555
+Word: assunzione
+Story: 1. Discovering 'assunzione' for the first time. 2. Seeing 'assunzione' in its natural context. 3. A person interacting with 'assunzione'. 4. 'assunzione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'assunzione'.
+Panel 1: Discovering 'assunzione' for the first time
+Panel 2: Seeing 'assunzione' in its natural context
+Panel 3: A person interacting with 'assunzione'
+Panel 4: 'assunzione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "assunzione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 556
+Word: assurdo
+Story: 1. Encountering someone or something described as 'assurdo'. 2. Recognizing the quality of 'assurdo' in a scene. 3. A vivid example showing 'assurdo' clearly. 4. Understanding the full meaning of 'assurdo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'assurdo'.
+Panel 1: Encountering someone or something described as 'assurdo'
+Panel 2: Recognizing the quality of 'assurdo' in a scene
+Panel 3: A vivid example showing 'assurdo' clearly
+Panel 4: Understanding the full meaning of 'assurdo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "assurdo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 557
+Word: asta
+Story: 1. Discovering 'asta' for the first time. 2. Seeing 'asta' in its natural context. 3. A person interacting with 'asta'. 4. 'asta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'asta'.
+Panel 1: Discovering 'asta' for the first time
+Panel 2: Seeing 'asta' in its natural context
+Panel 3: A person interacting with 'asta'
+Panel 4: 'asta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "asta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 558
+Word: astemio
+Story: 1. Encountering someone or something described as 'astemio'. 2. Recognizing the quality of 'astemio' in a scene. 3. A vivid example showing 'astemio' clearly. 4. Understanding the full meaning of 'astemio'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'astemio'.
+Panel 1: Encountering someone or something described as 'astemio'
+Panel 2: Recognizing the quality of 'astemio' in a scene
+Panel 3: A vivid example showing 'astemio' clearly
+Panel 4: Understanding the full meaning of 'astemio'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "astemio (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 559
+Word: astratto
+Story: 1. Encountering someone or something described as 'astratto'. 2. Recognizing the quality of 'astratto' in a scene. 3. A vivid example showing 'astratto' clearly. 4. Understanding the full meaning of 'astratto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'astratto'.
+Panel 1: Encountering someone or something described as 'astratto'
+Panel 2: Recognizing the quality of 'astratto' in a scene
+Panel 3: A vivid example showing 'astratto' clearly
+Panel 4: Understanding the full meaning of 'astratto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "astratto (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 560
+Word: astronave
+Story: 1. Discovering 'astronave' for the first time. 2. Seeing 'astronave' in its natural context. 3. A person interacting with 'astronave'. 4. 'astronave' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'astronave'.
+Panel 1: Discovering 'astronave' for the first time
+Panel 2: Seeing 'astronave' in its natural context
+Panel 3: A person interacting with 'astronave'
+Panel 4: 'astronave' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "astronave (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 561
+Word: astuccio
+Story: 1. Discovering 'astuccio' for the first time. 2. Seeing 'astuccio' in its natural context. 3. A person interacting with 'astuccio'. 4. 'astuccio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'astuccio'.
+Panel 1: Discovering 'astuccio' for the first time
+Panel 2: Seeing 'astuccio' in its natural context
+Panel 3: A person interacting with 'astuccio'
+Panel 4: 'astuccio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "astuccio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 562
+Word: astuto
+Story: 1. Encountering someone or something described as 'astuto'. 2. Recognizing the quality of 'astuto' in a scene. 3. A vivid example showing 'astuto' clearly. 4. Understanding the full meaning of 'astuto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'astuto'.
+Panel 1: Encountering someone or something described as 'astuto'
+Panel 2: Recognizing the quality of 'astuto' in a scene
+Panel 3: A vivid example showing 'astuto' clearly
+Panel 4: Understanding the full meaning of 'astuto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "astuto (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 563
+Word: astuzia
+Story: 1. Discovering 'astuzia' for the first time. 2. Seeing 'astuzia' in its natural context. 3. A person interacting with 'astuzia'. 4. 'astuzia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'astuzia'.
+Panel 1: Discovering 'astuzia' for the first time
+Panel 2: Seeing 'astuzia' in its natural context
+Panel 3: A person interacting with 'astuzia'
+Panel 4: 'astuzia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "astuzia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 564
+Word: ateniese
+Story: 1. Encountering someone or something described as 'ateniese'. 2. Recognizing the quality of 'ateniese' in a scene. 3. A vivid example showing 'ateniese' clearly. 4. Understanding the full meaning of 'ateniese'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ateniese'.
+Panel 1: Encountering someone or something described as 'ateniese'
+Panel 2: Recognizing the quality of 'ateniese' in a scene
+Panel 3: A vivid example showing 'ateniese' clearly
+Panel 4: Understanding the full meaning of 'ateniese'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ateniese (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 565
+Word: ateo
+Story: 1. Encountering someone or something described as 'ateo'. 2. Recognizing the quality of 'ateo' in a scene. 3. A vivid example showing 'ateo' clearly. 4. Understanding the full meaning of 'ateo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ateo'.
+Panel 1: Encountering someone or something described as 'ateo'
+Panel 2: Recognizing the quality of 'ateo' in a scene
+Panel 3: A vivid example showing 'ateo' clearly
+Panel 4: Understanding the full meaning of 'ateo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ateo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 566
+Word: atlantico
+Story: 1. Seeing something that is clearly 'atlantico'. 2. Comparing two things, one is 'atlantico' and one is not. 3. A person pointing at something 'atlantico' and explaining. 4. A memorable example of something very 'atlantico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atlantico'.
+Panel 1: Seeing something that is clearly 'atlantico'
+Panel 2: Comparing two things, one is 'atlantico' and one is not
+Panel 3: A person pointing at something 'atlantico' and explaining
+Panel 4: A memorable example of something very 'atlantico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atlantico (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 567
+Word: atleta
+Story: 1. Discovering 'atleta' for the first time. 2. Seeing 'atleta' in its natural context. 3. A person interacting with 'atleta'. 4. 'atleta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atleta'.
+Panel 1: Discovering 'atleta' for the first time
+Panel 2: Seeing 'atleta' in its natural context
+Panel 3: A person interacting with 'atleta'
+Panel 4: 'atleta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atleta (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 568
+Word: atmosfera
+Story: 1. Discovering 'atmosfera' for the first time. 2. Seeing 'atmosfera' in its natural context. 3. A person interacting with 'atmosfera'. 4. 'atmosfera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atmosfera'.
+Panel 1: Discovering 'atmosfera' for the first time
+Panel 2: Seeing 'atmosfera' in its natural context
+Panel 3: A person interacting with 'atmosfera'
+Panel 4: 'atmosfera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atmosfera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 569
+Word: atomica
+Story: 1. Discovering 'atomica' for the first time. 2. Seeing 'atomica' in its natural context. 3. A person interacting with 'atomica'. 4. 'atomica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atomica'.
+Panel 1: Discovering 'atomica' for the first time
+Panel 2: Seeing 'atomica' in its natural context
+Panel 3: A person interacting with 'atomica'
+Panel 4: 'atomica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atomica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 570
+Word: atomico
+Story: 1. Seeing something that is clearly 'atomico'. 2. Comparing two things, one is 'atomico' and one is not. 3. A person pointing at something 'atomico' and explaining. 4. A memorable example of something very 'atomico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atomico'.
+Panel 1: Seeing something that is clearly 'atomico'
+Panel 2: Comparing two things, one is 'atomico' and one is not
+Panel 3: A person pointing at something 'atomico' and explaining
+Panel 4: A memorable example of something very 'atomico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atomico (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 571
+Word: atomo
+Story: 1. Discovering 'atomo' for the first time. 2. Seeing 'atomo' in its natural context. 3. A person interacting with 'atomo'. 4. 'atomo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atomo'.
+Panel 1: Discovering 'atomo' for the first time
+Panel 2: Seeing 'atomo' in its natural context
+Panel 3: A person interacting with 'atomo'
+Panel 4: 'atomo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atomo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 572
+Word: atrio
+Story: 1. Discovering 'atrio' for the first time. 2. Seeing 'atrio' in its natural context. 3. A person interacting with 'atrio'. 4. 'atrio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atrio'.
+Panel 1: Discovering 'atrio' for the first time
+Panel 2: Seeing 'atrio' in its natural context
+Panel 3: A person interacting with 'atrio'
+Panel 4: 'atrio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atrio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 573
+Word: atroce
+Story: 1. Seeing something that is clearly 'atroce'. 2. Comparing two things, one is 'atroce' and one is not. 3. A person pointing at something 'atroce' and explaining. 4. A memorable example of something very 'atroce'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atroce'.
+Panel 1: Seeing something that is clearly 'atroce'
+Panel 2: Comparing two things, one is 'atroce' and one is not
+Panel 3: A person pointing at something 'atroce' and explaining
+Panel 4: A memorable example of something very 'atroce'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atroce (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 574
+Word: attaccante
+Story: 1. Encountering someone or something described as 'attaccante'. 2. Recognizing the quality of 'attaccante' in a scene. 3. A vivid example showing 'attaccante' clearly. 4. Understanding the full meaning of 'attaccante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attaccante'.
+Panel 1: Encountering someone or something described as 'attaccante'
+Panel 2: Recognizing the quality of 'attaccante' in a scene
+Panel 3: A vivid example showing 'attaccante' clearly
+Panel 4: Understanding the full meaning of 'attaccante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attaccante (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 575
+Word: attaccapanni
+Story: 1. Discovering 'attaccapanni' for the first time. 2. Seeing 'attaccapanni' in its natural context. 3. A person interacting with 'attaccapanni'. 4. 'attaccapanni' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attaccapanni'.
+Panel 1: Discovering 'attaccapanni' for the first time
+Panel 2: Seeing 'attaccapanni' in its natural context
+Panel 3: A person interacting with 'attaccapanni'
+Panel 4: 'attaccapanni' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attaccapanni (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 576
+Word: attaccare
+Story: 1. A person thinking about the action of 'attaccare'. 2. Starting to perform the action 'attaccare'. 3. Actively doing 'attaccare' with full effort. 4. Successfully completing the action 'attaccare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attaccare'.
+Panel 1: A person thinking about the action of 'attaccare'
+Panel 2: Starting to perform the action 'attaccare'
+Panel 3: Actively doing 'attaccare' with full effort
+Panel 4: Successfully completing the action 'attaccare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attaccare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 577
+Word: attacco
+Story: 1. Discovering 'attacco' for the first time. 2. Seeing 'attacco' in its natural context. 3. A person interacting with 'attacco'. 4. 'attacco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attacco'.
+Panel 1: Discovering 'attacco' for the first time
+Panel 2: Seeing 'attacco' in its natural context
+Panel 3: A person interacting with 'attacco'
+Panel 4: 'attacco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attacco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 578
+Word: atteggiamento
+Story: 1. Discovering 'atteggiamento' for the first time. 2. Seeing 'atteggiamento' in its natural context. 3. A person interacting with 'atteggiamento'. 4. 'atteggiamento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atteggiamento'.
+Panel 1: Discovering 'atteggiamento' for the first time
+Panel 2: Seeing 'atteggiamento' in its natural context
+Panel 3: A person interacting with 'atteggiamento'
+Panel 4: 'atteggiamento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atteggiamento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 579
+Word: atteggiare
+Story: 1. A person thinking about the action of 'atteggiare'. 2. Starting to perform the action 'atteggiare'. 3. Actively doing 'atteggiare' with full effort. 4. Successfully completing the action 'atteggiare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atteggiare'.
+Panel 1: A person thinking about the action of 'atteggiare'
+Panel 2: Starting to perform the action 'atteggiare'
+Panel 3: Actively doing 'atteggiare' with full effort
+Panel 4: Successfully completing the action 'atteggiare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atteggiare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 580
+Word: attendere
+Story: 1. A person thinking about the action of 'attendere'. 2. Starting to perform the action 'attendere'. 3. Actively doing 'attendere' with full effort. 4. Successfully completing the action 'attendere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attendere'.
+Panel 1: A person thinking about the action of 'attendere'
+Panel 2: Starting to perform the action 'attendere'
+Panel 3: Actively doing 'attendere' with full effort
+Panel 4: Successfully completing the action 'attendere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attendere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 581
+Word: attenere
+Story: 1. A person thinking about the action of 'attenere'. 2. Starting to perform the action 'attenere'. 3. Actively doing 'attenere' with full effort. 4. Successfully completing the action 'attenere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attenere'.
+Panel 1: A person thinking about the action of 'attenere'
+Panel 2: Starting to perform the action 'attenere'
+Panel 3: Actively doing 'attenere' with full effort
+Panel 4: Successfully completing the action 'attenere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attenere (v.intr., v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 582
+Word: attentamente
+Story: 1. A scene where something happens 'attentamente'. 2. Showing the manner or degree of 'attentamente'. 3. Contrasting doing something 'attentamente' vs not. 4. A clear example of 'attentamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attentamente'.
+Panel 1: A scene where something happens 'attentamente'
+Panel 2: Showing the manner or degree of 'attentamente'
+Panel 3: Contrasting doing something 'attentamente' vs not
+Panel 4: A clear example of 'attentamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attentamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 583
+Word: attentare
+Story: 1. A person thinking about the action of 'attentare'. 2. Starting to perform the action 'attentare'. 3. Actively doing 'attentare' with full effort. 4. Successfully completing the action 'attentare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attentare'.
+Panel 1: A person thinking about the action of 'attentare'
+Panel 2: Starting to perform the action 'attentare'
+Panel 3: Actively doing 'attentare' with full effort
+Panel 4: Successfully completing the action 'attentare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attentare (v.intr., v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 584
+Word: attentato
+Story: 1. Discovering 'attentato' for the first time. 2. Seeing 'attentato' in its natural context. 3. A person interacting with 'attentato'. 4. 'attentato' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attentato'.
+Panel 1: Discovering 'attentato' for the first time
+Panel 2: Seeing 'attentato' in its natural context
+Panel 3: A person interacting with 'attentato'
+Panel 4: 'attentato' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attentato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 585
+Word: attento
+Story: 1. Seeing something that is clearly 'attento'. 2. Comparing two things, one is 'attento' and one is not. 3. A person pointing at something 'attento' and explaining. 4. A memorable example of something very 'attento'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attento'.
+Panel 1: Seeing something that is clearly 'attento'
+Panel 2: Comparing two things, one is 'attento' and one is not
+Panel 3: A person pointing at something 'attento' and explaining
+Panel 4: A memorable example of something very 'attento'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attento (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 586
+Word: attenzione
+Story: 1. Discovering 'attenzione' for the first time. 2. Seeing 'attenzione' in its natural context. 3. A person interacting with 'attenzione'. 4. 'attenzione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attenzione'.
+Panel 1: Discovering 'attenzione' for the first time
+Panel 2: Seeing 'attenzione' in its natural context
+Panel 3: A person interacting with 'attenzione'
+Panel 4: 'attenzione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attenzione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 587
+Word: atterraggio
+Story: 1. Discovering 'atterraggio' for the first time. 2. Seeing 'atterraggio' in its natural context. 3. A person interacting with 'atterraggio'. 4. 'atterraggio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atterraggio'.
+Panel 1: Discovering 'atterraggio' for the first time
+Panel 2: Seeing 'atterraggio' in its natural context
+Panel 3: A person interacting with 'atterraggio'
+Panel 4: 'atterraggio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atterraggio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 588
+Word: atterrare
+Story: 1. A person thinking about the action of 'atterrare'. 2. Starting to perform the action 'atterrare'. 3. Actively doing 'atterrare' with full effort. 4. Successfully completing the action 'atterrare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atterrare'.
+Panel 1: A person thinking about the action of 'atterrare'
+Panel 2: Starting to perform the action 'atterrare'
+Panel 3: Actively doing 'atterrare' with full effort
+Panel 4: Successfully completing the action 'atterrare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atterrare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 589
+Word: attesa
+Story: 1. Discovering 'attesa' for the first time. 2. Seeing 'attesa' in its natural context. 3. A person interacting with 'attesa'. 4. 'attesa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attesa'.
+Panel 1: Discovering 'attesa' for the first time
+Panel 2: Seeing 'attesa' in its natural context
+Panel 3: A person interacting with 'attesa'
+Panel 4: 'attesa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attesa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 590
+Word: attestare
+Story: 1. A person thinking about the action of 'attestare'. 2. Starting to perform the action 'attestare'. 3. Actively doing 'attestare' with full effort. 4. Successfully completing the action 'attestare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attestare'.
+Panel 1: A person thinking about the action of 'attestare'
+Panel 2: Starting to perform the action 'attestare'
+Panel 3: Actively doing 'attestare' with full effort
+Panel 4: Successfully completing the action 'attestare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attestare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 591
+Word: attimo
+Story: 1. Discovering 'attimo' for the first time. 2. Seeing 'attimo' in its natural context. 3. A person interacting with 'attimo'. 4. 'attimo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attimo'.
+Panel 1: Discovering 'attimo' for the first time
+Panel 2: Seeing 'attimo' in its natural context
+Panel 3: A person interacting with 'attimo'
+Panel 4: 'attimo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attimo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 592
+Word: attingere
+Story: 1. A person thinking about the action of 'attingere'. 2. Starting to perform the action 'attingere'. 3. Actively doing 'attingere' with full effort. 4. Successfully completing the action 'attingere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attingere'.
+Panel 1: A person thinking about the action of 'attingere'
+Panel 2: Starting to perform the action 'attingere'
+Panel 3: Actively doing 'attingere' with full effort
+Panel 4: Successfully completing the action 'attingere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attingere (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 593
+Word: attirare
+Story: 1. A person thinking about the action of 'attirare'. 2. Starting to perform the action 'attirare'. 3. Actively doing 'attirare' with full effort. 4. Successfully completing the action 'attirare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attirare'.
+Panel 1: A person thinking about the action of 'attirare'
+Panel 2: Starting to perform the action 'attirare'
+Panel 3: Actively doing 'attirare' with full effort
+Panel 4: Successfully completing the action 'attirare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attirare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 594
+Word: attivare
+Story: 1. A person thinking about the action of 'attivare'. 2. Starting to perform the action 'attivare'. 3. Actively doing 'attivare' with full effort. 4. Successfully completing the action 'attivare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attivare'.
+Panel 1: A person thinking about the action of 'attivare'
+Panel 2: Starting to perform the action 'attivare'
+Panel 3: Actively doing 'attivare' with full effort
+Panel 4: Successfully completing the action 'attivare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attivare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 595
+Word: attività
+Story: 1. Discovering 'attività' for the first time. 2. Seeing 'attività' in its natural context. 3. A person interacting with 'attività'. 4. 'attività' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attività'.
+Panel 1: Discovering 'attività' for the first time
+Panel 2: Seeing 'attività' in its natural context
+Panel 3: A person interacting with 'attività'
+Panel 4: 'attività' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attività (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 596
+Word: attivo
+Story: 1. Encountering someone or something described as 'attivo'. 2. Recognizing the quality of 'attivo' in a scene. 3. A vivid example showing 'attivo' clearly. 4. Understanding the full meaning of 'attivo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attivo'.
+Panel 1: Encountering someone or something described as 'attivo'
+Panel 2: Recognizing the quality of 'attivo' in a scene
+Panel 3: A vivid example showing 'attivo' clearly
+Panel 4: Understanding the full meaning of 'attivo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attivo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 597
+Word: atto
+Story: 1. Discovering 'atto' for the first time. 2. Seeing 'atto' in its natural context. 3. A person interacting with 'atto'. 4. 'atto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'atto'.
+Panel 1: Discovering 'atto' for the first time
+Panel 2: Seeing 'atto' in its natural context
+Panel 3: A person interacting with 'atto'
+Panel 4: 'atto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "atto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 598
+Word: attore
+Story: 1. Discovering 'attore' for the first time. 2. Seeing 'attore' in its natural context. 3. A person interacting with 'attore'. 4. 'attore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attore'.
+Panel 1: Discovering 'attore' for the first time
+Panel 2: Seeing 'attore' in its natural context
+Panel 3: A person interacting with 'attore'
+Panel 4: 'attore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 599
+Word: attorno
+Story: 1. A scene where something happens 'attorno'. 2. Showing the manner or degree of 'attorno'. 3. Contrasting doing something 'attorno' vs not. 4. A clear example of 'attorno' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attorno'.
+Panel 1: A scene where something happens 'attorno'
+Panel 2: Showing the manner or degree of 'attorno'
+Panel 3: Contrasting doing something 'attorno' vs not
+Panel 4: A clear example of 'attorno' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attorno (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 600
+Word: attrarre
+Story: 1. A person thinking about the action of 'attrarre'. 2. Starting to perform the action 'attrarre'. 3. Actively doing 'attrarre' with full effort. 4. Successfully completing the action 'attrarre' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attrarre'.
+Panel 1: A person thinking about the action of 'attrarre'
+Panel 2: Starting to perform the action 'attrarre'
+Panel 3: Actively doing 'attrarre' with full effort
+Panel 4: Successfully completing the action 'attrarre' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attrarre (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 601
+Word: attraversare
+Story: 1. A person thinking about the action of 'attraversare'. 2. Starting to perform the action 'attraversare'. 3. Actively doing 'attraversare' with full effort. 4. Successfully completing the action 'attraversare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attraversare'.
+Panel 1: A person thinking about the action of 'attraversare'
+Panel 2: Starting to perform the action 'attraversare'
+Panel 3: Actively doing 'attraversare' with full effort
+Panel 4: Successfully completing the action 'attraversare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attraversare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 602
+Word: attraverso
+Story: 1. A scene where something happens 'attraverso'. 2. Showing the manner or degree of 'attraverso'. 3. Contrasting doing something 'attraverso' vs not. 4. A clear example of 'attraverso' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attraverso'.
+Panel 1: A scene where something happens 'attraverso'
+Panel 2: Showing the manner or degree of 'attraverso'
+Panel 3: Contrasting doing something 'attraverso' vs not
+Panel 4: A clear example of 'attraverso' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attraverso (prep., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 603
+Word: attrazione
+Story: 1. Discovering 'attrazione' for the first time. 2. Seeing 'attrazione' in its natural context. 3. A person interacting with 'attrazione'. 4. 'attrazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attrazione'.
+Panel 1: Discovering 'attrazione' for the first time
+Panel 2: Seeing 'attrazione' in its natural context
+Panel 3: A person interacting with 'attrazione'
+Panel 4: 'attrazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attrazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 604
+Word: attrezzare
+Story: 1. A person thinking about the action of 'attrezzare'. 2. Starting to perform the action 'attrezzare'. 3. Actively doing 'attrezzare' with full effort. 4. Successfully completing the action 'attrezzare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'attrezzare'.
+Panel 1: A person thinking about the action of 'attrezzare'
+Panel 2: Starting to perform the action 'attrezzare'
+Panel 3: Actively doing 'attrezzare' with full effort
+Panel 4: Successfully completing the action 'attrezzare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "attrezzare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

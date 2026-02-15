@@ -1,0 +1,500 @@
+Image ID: 6755
+Word: tivù
+Story: 1. Discovering 'tivù' for the first time. 2. Seeing 'tivù' in its natural context. 3. A person interacting with 'tivù'. 4. 'tivù' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tivù'.
+Panel 1: Discovering 'tivù' for the first time
+Panel 2: Seeing 'tivù' in its natural context
+Panel 3: A person interacting with 'tivù'
+Panel 4: 'tivù' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tivù (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6756
+Word: tizio
+Story: 1. Discovering 'tizio' for the first time. 2. Seeing 'tizio' in its natural context. 3. A person interacting with 'tizio'. 4. 'tizio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tizio'.
+Panel 1: Discovering 'tizio' for the first time
+Panel 2: Seeing 'tizio' in its natural context
+Panel 3: A person interacting with 'tizio'
+Panel 4: 'tizio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tizio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6757
+Word: toast
+Story: 1. Discovering 'toast' for the first time. 2. Seeing 'toast' in its natural context. 3. A person interacting with 'toast'. 4. 'toast' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'toast'.
+Panel 1: Discovering 'toast' for the first time
+Panel 2: Seeing 'toast' in its natural context
+Panel 3: A person interacting with 'toast'
+Panel 4: 'toast' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "toast (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6758
+Word: toccare
+Story: 1. A person thinking about the action of 'toccare'. 2. Starting to perform the action 'toccare'. 3. Actively doing 'toccare' with full effort. 4. Successfully completing the action 'toccare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'toccare'.
+Panel 1: A person thinking about the action of 'toccare'
+Panel 2: Starting to perform the action 'toccare'
+Panel 3: Actively doing 'toccare' with full effort
+Panel 4: Successfully completing the action 'toccare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "toccare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6759
+Word: tocco
+Story: 1. Discovering 'tocco' for the first time. 2. Seeing 'tocco' in its natural context. 3. A person interacting with 'tocco'. 4. 'tocco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tocco'.
+Panel 1: Discovering 'tocco' for the first time
+Panel 2: Seeing 'tocco' in its natural context
+Panel 3: A person interacting with 'tocco'
+Panel 4: 'tocco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tocco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6760
+Word: togliere
+Story: 1. A person thinking about the action of 'togliere'. 2. Starting to perform the action 'togliere'. 3. Actively doing 'togliere' with full effort. 4. Successfully completing the action 'togliere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'togliere'.
+Panel 1: A person thinking about the action of 'togliere'
+Panel 2: Starting to perform the action 'togliere'
+Panel 3: Actively doing 'togliere' with full effort
+Panel 4: Successfully completing the action 'togliere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "togliere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6761
+Word: toilette
+Story: 1. Discovering 'toilette' for the first time. 2. Seeing 'toilette' in its natural context. 3. A person interacting with 'toilette'. 4. 'toilette' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'toilette'.
+Panel 1: Discovering 'toilette' for the first time
+Panel 2: Seeing 'toilette' in its natural context
+Panel 3: A person interacting with 'toilette'
+Panel 4: 'toilette' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "toilette (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6762
+Word: toletta
+Story: 1. Discovering 'toletta' for the first time. 2. Seeing 'toletta' in its natural context. 3. A person interacting with 'toletta'. 4. 'toletta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'toletta'.
+Panel 1: Discovering 'toletta' for the first time
+Panel 2: Seeing 'toletta' in its natural context
+Panel 3: A person interacting with 'toletta'
+Panel 4: 'toletta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "toletta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6763
+Word: tolleranza
+Story: 1. Discovering 'tolleranza' for the first time. 2. Seeing 'tolleranza' in its natural context. 3. A person interacting with 'tolleranza'. 4. 'tolleranza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tolleranza'.
+Panel 1: Discovering 'tolleranza' for the first time
+Panel 2: Seeing 'tolleranza' in its natural context
+Panel 3: A person interacting with 'tolleranza'
+Panel 4: 'tolleranza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tolleranza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6764
+Word: tollerare
+Story: 1. A person thinking about the action of 'tollerare'. 2. Starting to perform the action 'tollerare'. 3. Actively doing 'tollerare' with full effort. 4. Successfully completing the action 'tollerare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tollerare'.
+Panel 1: A person thinking about the action of 'tollerare'
+Panel 2: Starting to perform the action 'tollerare'
+Panel 3: Actively doing 'tollerare' with full effort
+Panel 4: Successfully completing the action 'tollerare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tollerare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6765
+Word: tomba
+Story: 1. Discovering 'tomba' for the first time. 2. Seeing 'tomba' in its natural context. 3. A person interacting with 'tomba'. 4. 'tomba' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tomba'.
+Panel 1: Discovering 'tomba' for the first time
+Panel 2: Seeing 'tomba' in its natural context
+Panel 3: A person interacting with 'tomba'
+Panel 4: 'tomba' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tomba (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6766
+Word: tombola
+Story: 1. Discovering 'tombola' for the first time. 2. Seeing 'tombola' in its natural context. 3. A person interacting with 'tombola'. 4. 'tombola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tombola'.
+Panel 1: Discovering 'tombola' for the first time
+Panel 2: Seeing 'tombola' in its natural context
+Panel 3: A person interacting with 'tombola'
+Panel 4: 'tombola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tombola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6767
+Word: tonaca
+Story: 1. Discovering 'tonaca' for the first time. 2. Seeing 'tonaca' in its natural context. 3. A person interacting with 'tonaca'. 4. 'tonaca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tonaca'.
+Panel 1: Discovering 'tonaca' for the first time
+Panel 2: Seeing 'tonaca' in its natural context
+Panel 3: A person interacting with 'tonaca'
+Panel 4: 'tonaca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tonaca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6768
+Word: tondo
+Story: 1. Encountering someone or something described as 'tondo'. 2. Recognizing the quality of 'tondo' in a scene. 3. A vivid example showing 'tondo' clearly. 4. Understanding the full meaning of 'tondo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tondo'.
+Panel 1: Encountering someone or something described as 'tondo'
+Panel 2: Recognizing the quality of 'tondo' in a scene
+Panel 3: A vivid example showing 'tondo' clearly
+Panel 4: Understanding the full meaning of 'tondo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tondo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6769
+Word: tonnellata
+Story: 1. Discovering 'tonnellata' for the first time. 2. Seeing 'tonnellata' in its natural context. 3. A person interacting with 'tonnellata'. 4. 'tonnellata' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tonnellata'.
+Panel 1: Discovering 'tonnellata' for the first time
+Panel 2: Seeing 'tonnellata' in its natural context
+Panel 3: A person interacting with 'tonnellata'
+Panel 4: 'tonnellata' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tonnellata (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6770
+Word: tonno
+Story: 1. Discovering 'tonno' for the first time. 2. Seeing 'tonno' in its natural context. 3. A person interacting with 'tonno'. 4. 'tonno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tonno'.
+Panel 1: Discovering 'tonno' for the first time
+Panel 2: Seeing 'tonno' in its natural context
+Panel 3: A person interacting with 'tonno'
+Panel 4: 'tonno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tonno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6771
+Word: tono
+Story: 1. Discovering 'tono' for the first time. 2. Seeing 'tono' in its natural context. 3. A person interacting with 'tono'. 4. 'tono' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tono'.
+Panel 1: Discovering 'tono' for the first time
+Panel 2: Seeing 'tono' in its natural context
+Panel 3: A person interacting with 'tono'
+Panel 4: 'tono' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tono (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6772
+Word: tonsilla
+Story: 1. Discovering 'tonsilla' for the first time. 2. Seeing 'tonsilla' in its natural context. 3. A person interacting with 'tonsilla'. 4. 'tonsilla' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tonsilla'.
+Panel 1: Discovering 'tonsilla' for the first time
+Panel 2: Seeing 'tonsilla' in its natural context
+Panel 3: A person interacting with 'tonsilla'
+Panel 4: 'tonsilla' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tonsilla (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6773
+Word: top
+Story: 1. Discovering 'top' for the first time. 2. Seeing 'top' in its natural context. 3. A person interacting with 'top'. 4. 'top' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'top'.
+Panel 1: Discovering 'top' for the first time
+Panel 2: Seeing 'top' in its natural context
+Panel 3: A person interacting with 'top'
+Panel 4: 'top' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "top (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6774
+Word: topo
+Story: 1. Encountering someone or something described as 'topo'. 2. Recognizing the quality of 'topo' in a scene. 3. A vivid example showing 'topo' clearly. 4. Understanding the full meaning of 'topo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'topo'.
+Panel 1: Encountering someone or something described as 'topo'
+Panel 2: Recognizing the quality of 'topo' in a scene
+Panel 3: A vivid example showing 'topo' clearly
+Panel 4: Understanding the full meaning of 'topo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "topo (s.m., s.m.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6775
+Word: toppa
+Story: 1. Discovering 'toppa' for the first time. 2. Seeing 'toppa' in its natural context. 3. A person interacting with 'toppa'. 4. 'toppa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'toppa'.
+Panel 1: Discovering 'toppa' for the first time
+Panel 2: Seeing 'toppa' in its natural context
+Panel 3: A person interacting with 'toppa'
+Panel 4: 'toppa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "toppa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6776
+Word: torbido
+Story: 1. Encountering someone or something described as 'torbido'. 2. Recognizing the quality of 'torbido' in a scene. 3. A vivid example showing 'torbido' clearly. 4. Understanding the full meaning of 'torbido'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torbido'.
+Panel 1: Encountering someone or something described as 'torbido'
+Panel 2: Recognizing the quality of 'torbido' in a scene
+Panel 3: A vivid example showing 'torbido' clearly
+Panel 4: Understanding the full meaning of 'torbido'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torbido (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6777
+Word: torcere
+Story: 1. A person thinking about the action of 'torcere'. 2. Starting to perform the action 'torcere'. 3. Actively doing 'torcere' with full effort. 4. Successfully completing the action 'torcere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torcere'.
+Panel 1: A person thinking about the action of 'torcere'
+Panel 2: Starting to perform the action 'torcere'
+Panel 3: Actively doing 'torcere' with full effort
+Panel 4: Successfully completing the action 'torcere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torcere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6778
+Word: torcia
+Story: 1. Discovering 'torcia' for the first time. 2. Seeing 'torcia' in its natural context. 3. A person interacting with 'torcia'. 4. 'torcia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torcia'.
+Panel 1: Discovering 'torcia' for the first time
+Panel 2: Seeing 'torcia' in its natural context
+Panel 3: A person interacting with 'torcia'
+Panel 4: 'torcia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torcia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6779
+Word: torcicollo
+Story: 1. Discovering 'torcicollo' for the first time. 2. Seeing 'torcicollo' in its natural context. 3. A person interacting with 'torcicollo'. 4. 'torcicollo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torcicollo'.
+Panel 1: Discovering 'torcicollo' for the first time
+Panel 2: Seeing 'torcicollo' in its natural context
+Panel 3: A person interacting with 'torcicollo'
+Panel 4: 'torcicollo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torcicollo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6780
+Word: tordo
+Story: 1. Discovering 'tordo' for the first time. 2. Seeing 'tordo' in its natural context. 3. A person interacting with 'tordo'. 4. 'tordo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tordo'.
+Panel 1: Discovering 'tordo' for the first time
+Panel 2: Seeing 'tordo' in its natural context
+Panel 3: A person interacting with 'tordo'
+Panel 4: 'tordo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tordo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6781
+Word: torero
+Story: 1. Discovering 'torero' for the first time. 2. Seeing 'torero' in its natural context. 3. A person interacting with 'torero'. 4. 'torero' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torero'.
+Panel 1: Discovering 'torero' for the first time
+Panel 2: Seeing 'torero' in its natural context
+Panel 3: A person interacting with 'torero'
+Panel 4: 'torero' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torero (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6782
+Word: torinese
+Story: 1. Encountering someone or something described as 'torinese'. 2. Recognizing the quality of 'torinese' in a scene. 3. A vivid example showing 'torinese' clearly. 4. Understanding the full meaning of 'torinese'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torinese'.
+Panel 1: Encountering someone or something described as 'torinese'
+Panel 2: Recognizing the quality of 'torinese' in a scene
+Panel 3: A vivid example showing 'torinese' clearly
+Panel 4: Understanding the full meaning of 'torinese'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torinese (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6783
+Word: tormentare
+Story: 1. A person thinking about the action of 'tormentare'. 2. Starting to perform the action 'tormentare'. 3. Actively doing 'tormentare' with full effort. 4. Successfully completing the action 'tormentare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tormentare'.
+Panel 1: A person thinking about the action of 'tormentare'
+Panel 2: Starting to perform the action 'tormentare'
+Panel 3: Actively doing 'tormentare' with full effort
+Panel 4: Successfully completing the action 'tormentare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tormentare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6784
+Word: tornaconto
+Story: 1. Discovering 'tornaconto' for the first time. 2. Seeing 'tornaconto' in its natural context. 3. A person interacting with 'tornaconto'. 4. 'tornaconto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tornaconto'.
+Panel 1: Discovering 'tornaconto' for the first time
+Panel 2: Seeing 'tornaconto' in its natural context
+Panel 3: A person interacting with 'tornaconto'
+Panel 4: 'tornaconto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tornaconto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6785
+Word: tornare
+Story: 1. A person thinking about the action of 'tornare'. 2. Starting to perform the action 'tornare'. 3. Actively doing 'tornare' with full effort. 4. Successfully completing the action 'tornare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tornare'.
+Panel 1: A person thinking about the action of 'tornare'
+Panel 2: Starting to perform the action 'tornare'
+Panel 3: Actively doing 'tornare' with full effort
+Panel 4: Successfully completing the action 'tornare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tornare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6786
+Word: torneo
+Story: 1. Discovering 'torneo' for the first time. 2. Seeing 'torneo' in its natural context. 3. A person interacting with 'torneo'. 4. 'torneo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torneo'.
+Panel 1: Discovering 'torneo' for the first time
+Panel 2: Seeing 'torneo' in its natural context
+Panel 3: A person interacting with 'torneo'
+Panel 4: 'torneo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torneo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6787
+Word: tornio
+Story: 1. Discovering 'tornio' for the first time. 2. Seeing 'tornio' in its natural context. 3. A person interacting with 'tornio'. 4. 'tornio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tornio'.
+Panel 1: Discovering 'tornio' for the first time
+Panel 2: Seeing 'tornio' in its natural context
+Panel 3: A person interacting with 'tornio'
+Panel 4: 'tornio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tornio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6788
+Word: toro
+Story: 1. Discovering 'toro' for the first time. 2. Seeing 'toro' in its natural context. 3. A person interacting with 'toro'. 4. 'toro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'toro'.
+Panel 1: Discovering 'toro' for the first time
+Panel 2: Seeing 'toro' in its natural context
+Panel 3: A person interacting with 'toro'
+Panel 4: 'toro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "toro (s.m., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6789
+Word: torre
+Story: 1. Discovering 'torre' for the first time. 2. Seeing 'torre' in its natural context. 3. A person interacting with 'torre'. 4. 'torre' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torre'.
+Panel 1: Discovering 'torre' for the first time
+Panel 2: Seeing 'torre' in its natural context
+Panel 3: A person interacting with 'torre'
+Panel 4: 'torre' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torre (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6790
+Word: torrone
+Story: 1. Discovering 'torrone' for the first time. 2. Seeing 'torrone' in its natural context. 3. A person interacting with 'torrone'. 4. 'torrone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torrone'.
+Panel 1: Discovering 'torrone' for the first time
+Panel 2: Seeing 'torrone' in its natural context
+Panel 3: A person interacting with 'torrone'
+Panel 4: 'torrone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torrone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6791
+Word: torta
+Story: 1. Discovering 'torta' for the first time. 2. Seeing 'torta' in its natural context. 3. A person interacting with 'torta'. 4. 'torta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torta'.
+Panel 1: Discovering 'torta' for the first time
+Panel 2: Seeing 'torta' in its natural context
+Panel 3: A person interacting with 'torta'
+Panel 4: 'torta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6792
+Word: tortellino
+Story: 1. Discovering 'tortellino' for the first time. 2. Seeing 'tortellino' in its natural context. 3. A person interacting with 'tortellino'. 4. 'tortellino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tortellino'.
+Panel 1: Discovering 'tortellino' for the first time
+Panel 2: Seeing 'tortellino' in its natural context
+Panel 3: A person interacting with 'tortellino'
+Panel 4: 'tortellino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tortellino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6793
+Word: torto
+Story: 1. Discovering 'torto' for the first time. 2. Seeing 'torto' in its natural context. 3. A person interacting with 'torto'. 4. 'torto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'torto'.
+Panel 1: Discovering 'torto' for the first time
+Panel 2: Seeing 'torto' in its natural context
+Panel 3: A person interacting with 'torto'
+Panel 4: 'torto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "torto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6794
+Word: tortora
+Story: 1. Encountering someone or something described as 'tortora'. 2. Recognizing the quality of 'tortora' in a scene. 3. A vivid example showing 'tortora' clearly. 4. Understanding the full meaning of 'tortora'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tortora'.
+Panel 1: Encountering someone or something described as 'tortora'
+Panel 2: Recognizing the quality of 'tortora' in a scene
+Panel 3: A vivid example showing 'tortora' clearly
+Panel 4: Understanding the full meaning of 'tortora'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tortora (s.f., agg.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6795
+Word: tosare
+Story: 1. A person thinking about the action of 'tosare'. 2. Starting to perform the action 'tosare'. 3. Actively doing 'tosare' with full effort. 4. Successfully completing the action 'tosare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tosare'.
+Panel 1: A person thinking about the action of 'tosare'
+Panel 2: Starting to perform the action 'tosare'
+Panel 3: Actively doing 'tosare' with full effort
+Panel 4: Successfully completing the action 'tosare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tosare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6796
+Word: toscano
+Story: 1. Encountering someone or something described as 'toscano'. 2. Recognizing the quality of 'toscano' in a scene. 3. A vivid example showing 'toscano' clearly. 4. Understanding the full meaning of 'toscano'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'toscano'.
+Panel 1: Encountering someone or something described as 'toscano'
+Panel 2: Recognizing the quality of 'toscano' in a scene
+Panel 3: A vivid example showing 'toscano' clearly
+Panel 4: Understanding the full meaning of 'toscano'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "toscano (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6797
+Word: tosse
+Story: 1. Discovering 'tosse' for the first time. 2. Seeing 'tosse' in its natural context. 3. A person interacting with 'tosse'. 4. 'tosse' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tosse'.
+Panel 1: Discovering 'tosse' for the first time
+Panel 2: Seeing 'tosse' in its natural context
+Panel 3: A person interacting with 'tosse'
+Panel 4: 'tosse' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tosse (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6798
+Word: tossico
+Story: 1. Encountering someone or something described as 'tossico'. 2. Recognizing the quality of 'tossico' in a scene. 3. A vivid example showing 'tossico' clearly. 4. Understanding the full meaning of 'tossico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tossico'.
+Panel 1: Encountering someone or something described as 'tossico'
+Panel 2: Recognizing the quality of 'tossico' in a scene
+Panel 3: A vivid example showing 'tossico' clearly
+Panel 4: Understanding the full meaning of 'tossico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tossico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6799
+Word: tossire
+Story: 1. A person thinking about the action of 'tossire'. 2. Starting to perform the action 'tossire'. 3. Actively doing 'tossire' with full effort. 4. Successfully completing the action 'tossire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tossire'.
+Panel 1: A person thinking about the action of 'tossire'
+Panel 2: Starting to perform the action 'tossire'
+Panel 3: Actively doing 'tossire' with full effort
+Panel 4: Successfully completing the action 'tossire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tossire (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6800
+Word: tostapane
+Story: 1. Discovering 'tostapane' for the first time. 2. Seeing 'tostapane' in its natural context. 3. A person interacting with 'tostapane'. 4. 'tostapane' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tostapane'.
+Panel 1: Discovering 'tostapane' for the first time
+Panel 2: Seeing 'tostapane' in its natural context
+Panel 3: A person interacting with 'tostapane'
+Panel 4: 'tostapane' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tostapane (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6801
+Word: totale
+Story: 1. Encountering someone or something described as 'totale'. 2. Recognizing the quality of 'totale' in a scene. 3. A vivid example showing 'totale' clearly. 4. Understanding the full meaning of 'totale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'totale'.
+Panel 1: Encountering someone or something described as 'totale'
+Panel 2: Recognizing the quality of 'totale' in a scene
+Panel 3: A vivid example showing 'totale' clearly
+Panel 4: Understanding the full meaning of 'totale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "totale (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6802
+Word: totalmente
+Story: 1. A scene where something happens 'totalmente'. 2. Showing the manner or degree of 'totalmente'. 3. Contrasting doing something 'totalmente' vs not. 4. A clear example of 'totalmente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'totalmente'.
+Panel 1: A scene where something happens 'totalmente'
+Panel 2: Showing the manner or degree of 'totalmente'
+Panel 3: Contrasting doing something 'totalmente' vs not
+Panel 4: A clear example of 'totalmente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "totalmente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6803
+Word: tour
+Story: 1. Discovering 'tour' for the first time. 2. Seeing 'tour' in its natural context. 3. A person interacting with 'tour'. 4. 'tour' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tour'.
+Panel 1: Discovering 'tour' for the first time
+Panel 2: Seeing 'tour' in its natural context
+Panel 3: A person interacting with 'tour'
+Panel 4: 'tour' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tour (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6804
+Word: tovaglia
+Story: 1. Discovering 'tovaglia' for the first time. 2. Seeing 'tovaglia' in its natural context. 3. A person interacting with 'tovaglia'. 4. 'tovaglia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tovaglia'.
+Panel 1: Discovering 'tovaglia' for the first time
+Panel 2: Seeing 'tovaglia' in its natural context
+Panel 3: A person interacting with 'tovaglia'
+Panel 4: 'tovaglia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tovaglia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

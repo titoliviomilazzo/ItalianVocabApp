@@ -1,0 +1,500 @@
+Image ID: 2255
+Word: elettricità
+Story: 1. Discovering 'elettricità' for the first time. 2. Seeing 'elettricità' in its natural context. 3. A person interacting with 'elettricità'. 4. 'elettricità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elettricità'.
+Panel 1: Discovering 'elettricità' for the first time
+Panel 2: Seeing 'elettricità' in its natural context
+Panel 3: A person interacting with 'elettricità'
+Panel 4: 'elettricità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elettricità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2256
+Word: elettrico
+Story: 1. Encountering someone or something described as 'elettrico'. 2. Recognizing the quality of 'elettrico' in a scene. 3. A vivid example showing 'elettrico' clearly. 4. Understanding the full meaning of 'elettrico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elettrico'.
+Panel 1: Encountering someone or something described as 'elettrico'
+Panel 2: Recognizing the quality of 'elettrico' in a scene
+Panel 3: A vivid example showing 'elettrico' clearly
+Panel 4: Understanding the full meaning of 'elettrico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elettrico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2257
+Word: elettrodomestico
+Story: 1. Discovering 'elettrodomestico' for the first time. 2. Seeing 'elettrodomestico' in its natural context. 3. A person interacting with 'elettrodomestico'. 4. 'elettrodomestico' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elettrodomestico'.
+Panel 1: Discovering 'elettrodomestico' for the first time
+Panel 2: Seeing 'elettrodomestico' in its natural context
+Panel 3: A person interacting with 'elettrodomestico'
+Panel 4: 'elettrodomestico' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elettrodomestico (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2258
+Word: elettromagnetico
+Story: 1. Seeing something that is clearly 'elettromagnetico'. 2. Comparing two things, one is 'elettromagnetico' and one is not. 3. A person pointing at something 'elettromagnetico' and explaining. 4. A memorable example of something very 'elettromagnetico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elettromagnetico'.
+Panel 1: Seeing something that is clearly 'elettromagnetico'
+Panel 2: Comparing two things, one is 'elettromagnetico' and one is not
+Panel 3: A person pointing at something 'elettromagnetico' and explaining
+Panel 4: A memorable example of something very 'elettromagnetico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elettromagnetico (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2259
+Word: elettrone
+Story: 1. Discovering 'elettrone' for the first time. 2. Seeing 'elettrone' in its natural context. 3. A person interacting with 'elettrone'. 4. 'elettrone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elettrone'.
+Panel 1: Discovering 'elettrone' for the first time
+Panel 2: Seeing 'elettrone' in its natural context
+Panel 3: A person interacting with 'elettrone'
+Panel 4: 'elettrone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elettrone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2260
+Word: elettronico
+Story: 1. Seeing something that is clearly 'elettronico'. 2. Comparing two things, one is 'elettronico' and one is not. 3. A person pointing at something 'elettronico' and explaining. 4. A memorable example of something very 'elettronico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elettronico'.
+Panel 1: Seeing something that is clearly 'elettronico'
+Panel 2: Comparing two things, one is 'elettronico' and one is not
+Panel 3: A person pointing at something 'elettronico' and explaining
+Panel 4: A memorable example of something very 'elettronico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elettronico (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2261
+Word: elevare
+Story: 1. A person thinking about the action of 'elevare'. 2. Starting to perform the action 'elevare'. 3. Actively doing 'elevare' with full effort. 4. Successfully completing the action 'elevare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elevare'.
+Panel 1: A person thinking about the action of 'elevare'
+Panel 2: Starting to perform the action 'elevare'
+Panel 3: Actively doing 'elevare' with full effort
+Panel 4: Successfully completing the action 'elevare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elevare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2262
+Word: elevato
+Story: 1. Seeing something that is clearly 'elevato'. 2. Comparing two things, one is 'elevato' and one is not. 3. A person pointing at something 'elevato' and explaining. 4. A memorable example of something very 'elevato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elevato'.
+Panel 1: Seeing something that is clearly 'elevato'
+Panel 2: Comparing two things, one is 'elevato' and one is not
+Panel 3: A person pointing at something 'elevato' and explaining
+Panel 4: A memorable example of something very 'elevato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elevato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2263
+Word: elezione
+Story: 1. Discovering 'elezione' for the first time. 2. Seeing 'elezione' in its natural context. 3. A person interacting with 'elezione'. 4. 'elezione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elezione'.
+Panel 1: Discovering 'elezione' for the first time
+Panel 2: Seeing 'elezione' in its natural context
+Panel 3: A person interacting with 'elezione'
+Panel 4: 'elezione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elezione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2264
+Word: elica
+Story: 1. Discovering 'elica' for the first time. 2. Seeing 'elica' in its natural context. 3. A person interacting with 'elica'. 4. 'elica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elica'.
+Panel 1: Discovering 'elica' for the first time
+Panel 2: Seeing 'elica' in its natural context
+Panel 3: A person interacting with 'elica'
+Panel 4: 'elica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2265
+Word: elicottero
+Story: 1. Discovering 'elicottero' for the first time. 2. Seeing 'elicottero' in its natural context. 3. A person interacting with 'elicottero'. 4. 'elicottero' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elicottero'.
+Panel 1: Discovering 'elicottero' for the first time
+Panel 2: Seeing 'elicottero' in its natural context
+Panel 3: A person interacting with 'elicottero'
+Panel 4: 'elicottero' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elicottero (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2266
+Word: eliminare
+Story: 1. A person thinking about the action of 'eliminare'. 2. Starting to perform the action 'eliminare'. 3. Actively doing 'eliminare' with full effort. 4. Successfully completing the action 'eliminare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'eliminare'.
+Panel 1: A person thinking about the action of 'eliminare'
+Panel 2: Starting to perform the action 'eliminare'
+Panel 3: Actively doing 'eliminare' with full effort
+Panel 4: Successfully completing the action 'eliminare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "eliminare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2267
+Word: eliminazione
+Story: 1. Discovering 'eliminazione' for the first time. 2. Seeing 'eliminazione' in its natural context. 3. A person interacting with 'eliminazione'. 4. 'eliminazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'eliminazione'.
+Panel 1: Discovering 'eliminazione' for the first time
+Panel 2: Seeing 'eliminazione' in its natural context
+Panel 3: A person interacting with 'eliminazione'
+Panel 4: 'eliminazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "eliminazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2268
+Word: elle
+Story: 1. Discovering 'elle' for the first time. 2. Seeing 'elle' in its natural context. 3. A person interacting with 'elle'. 4. 'elle' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elle'.
+Panel 1: Discovering 'elle' for the first time
+Panel 2: Seeing 'elle' in its natural context
+Panel 3: A person interacting with 'elle'
+Panel 4: 'elle' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elle (s.f. e m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2269
+Word: elmo
+Story: 1. Discovering 'elmo' for the first time. 2. Seeing 'elmo' in its natural context. 3. A person interacting with 'elmo'. 4. 'elmo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'elmo'.
+Panel 1: Discovering 'elmo' for the first time
+Panel 2: Seeing 'elmo' in its natural context
+Panel 3: A person interacting with 'elmo'
+Panel 4: 'elmo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "elmo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2270
+Word: e-mail
+Story: 1. Discovering 'e-mail' for the first time. 2. Seeing 'e-mail' in its natural context. 3. A person interacting with 'e-mail'. 4. 'e-mail' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'e-mail'.
+Panel 1: Discovering 'e-mail' for the first time
+Panel 2: Seeing 'e-mail' in its natural context
+Panel 3: A person interacting with 'e-mail'
+Panel 4: 'e-mail' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "e-mail (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2271
+Word: emanare
+Story: 1. A person thinking about the action of 'emanare'. 2. Starting to perform the action 'emanare'. 3. Actively doing 'emanare' with full effort. 4. Successfully completing the action 'emanare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emanare'.
+Panel 1: A person thinking about the action of 'emanare'
+Panel 2: Starting to perform the action 'emanare'
+Panel 3: Actively doing 'emanare' with full effort
+Panel 4: Successfully completing the action 'emanare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emanare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2272
+Word: emergenza
+Story: 1. Discovering 'emergenza' for the first time. 2. Seeing 'emergenza' in its natural context. 3. A person interacting with 'emergenza'. 4. 'emergenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emergenza'.
+Panel 1: Discovering 'emergenza' for the first time
+Panel 2: Seeing 'emergenza' in its natural context
+Panel 3: A person interacting with 'emergenza'
+Panel 4: 'emergenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emergenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2273
+Word: emergere
+Story: 1. A person thinking about the action of 'emergere'. 2. Starting to perform the action 'emergere'. 3. Actively doing 'emergere' with full effort. 4. Successfully completing the action 'emergere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emergere'.
+Panel 1: A person thinking about the action of 'emergere'
+Panel 2: Starting to perform the action 'emergere'
+Panel 3: Actively doing 'emergere' with full effort
+Panel 4: Successfully completing the action 'emergere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emergere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2274
+Word: emettere
+Story: 1. A person thinking about the action of 'emettere'. 2. Starting to perform the action 'emettere'. 3. Actively doing 'emettere' with full effort. 4. Successfully completing the action 'emettere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emettere'.
+Panel 1: A person thinking about the action of 'emettere'
+Panel 2: Starting to perform the action 'emettere'
+Panel 3: Actively doing 'emettere' with full effort
+Panel 4: Successfully completing the action 'emettere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emettere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2275
+Word: emigrazione
+Story: 1. Discovering 'emigrazione' for the first time. 2. Seeing 'emigrazione' in its natural context. 3. A person interacting with 'emigrazione'. 4. 'emigrazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emigrazione'.
+Panel 1: Discovering 'emigrazione' for the first time
+Panel 2: Seeing 'emigrazione' in its natural context
+Panel 3: A person interacting with 'emigrazione'
+Panel 4: 'emigrazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emigrazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2276
+Word: emiliano
+Story: 1. Encountering someone or something described as 'emiliano'. 2. Recognizing the quality of 'emiliano' in a scene. 3. A vivid example showing 'emiliano' clearly. 4. Understanding the full meaning of 'emiliano'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emiliano'.
+Panel 1: Encountering someone or something described as 'emiliano'
+Panel 2: Recognizing the quality of 'emiliano' in a scene
+Panel 3: A vivid example showing 'emiliano' clearly
+Panel 4: Understanding the full meaning of 'emiliano'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emiliano (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2277
+Word: emissione
+Story: 1. Discovering 'emissione' for the first time. 2. Seeing 'emissione' in its natural context. 3. A person interacting with 'emissione'. 4. 'emissione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emissione'.
+Panel 1: Discovering 'emissione' for the first time
+Panel 2: Seeing 'emissione' in its natural context
+Panel 3: A person interacting with 'emissione'
+Panel 4: 'emissione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emissione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2278
+Word: emme
+Story: 1. Discovering 'emme' for the first time. 2. Seeing 'emme' in its natural context. 3. A person interacting with 'emme'. 4. 'emme' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emme'.
+Panel 1: Discovering 'emme' for the first time
+Panel 2: Seeing 'emme' in its natural context
+Panel 3: A person interacting with 'emme'
+Panel 4: 'emme' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emme (s.f. e m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2279
+Word: emmenthal
+Story: 1. Discovering 'emmenthal' for the first time. 2. Seeing 'emmenthal' in its natural context. 3. A person interacting with 'emmenthal'. 4. 'emmenthal' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emmenthal'.
+Panel 1: Discovering 'emmenthal' for the first time
+Panel 2: Seeing 'emmenthal' in its natural context
+Panel 3: A person interacting with 'emmenthal'
+Panel 4: 'emmenthal' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emmenthal (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2280
+Word: emo
+Story: 1. Discovering 'emo' for the first time. 2. Seeing 'emo' in its natural context. 3. A person interacting with 'emo'. 4. 'emo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emo'.
+Panel 1: Discovering 'emo' for the first time
+Panel 2: Seeing 'emo' in its natural context
+Panel 3: A person interacting with 'emo'
+Panel 4: 'emo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emo (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2281
+Word: emotivo
+Story: 1. Encountering someone or something described as 'emotivo'. 2. Recognizing the quality of 'emotivo' in a scene. 3. A vivid example showing 'emotivo' clearly. 4. Understanding the full meaning of 'emotivo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emotivo'.
+Panel 1: Encountering someone or something described as 'emotivo'
+Panel 2: Recognizing the quality of 'emotivo' in a scene
+Panel 3: A vivid example showing 'emotivo' clearly
+Panel 4: Understanding the full meaning of 'emotivo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emotivo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2282
+Word: emozionante
+Story: 1. Seeing something that is clearly 'emozionante'. 2. Comparing two things, one is 'emozionante' and one is not. 3. A person pointing at something 'emozionante' and explaining. 4. A memorable example of something very 'emozionante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emozionante'.
+Panel 1: Seeing something that is clearly 'emozionante'
+Panel 2: Comparing two things, one is 'emozionante' and one is not
+Panel 3: A person pointing at something 'emozionante' and explaining
+Panel 4: A memorable example of something very 'emozionante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emozionante (p.pres., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2283
+Word: emozionare
+Story: 1. A person thinking about the action of 'emozionare'. 2. Starting to perform the action 'emozionare'. 3. Actively doing 'emozionare' with full effort. 4. Successfully completing the action 'emozionare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emozionare'.
+Panel 1: A person thinking about the action of 'emozionare'
+Panel 2: Starting to perform the action 'emozionare'
+Panel 3: Actively doing 'emozionare' with full effort
+Panel 4: Successfully completing the action 'emozionare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emozionare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2284
+Word: emozionato
+Story: 1. Seeing something that is clearly 'emozionato'. 2. Comparing two things, one is 'emozionato' and one is not. 3. A person pointing at something 'emozionato' and explaining. 4. A memorable example of something very 'emozionato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emozionato'.
+Panel 1: Seeing something that is clearly 'emozionato'
+Panel 2: Comparing two things, one is 'emozionato' and one is not
+Panel 3: A person pointing at something 'emozionato' and explaining
+Panel 4: A memorable example of something very 'emozionato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emozionato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2285
+Word: emozione
+Story: 1. Discovering 'emozione' for the first time. 2. Seeing 'emozione' in its natural context. 3. A person interacting with 'emozione'. 4. 'emozione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'emozione'.
+Panel 1: Discovering 'emozione' for the first time
+Panel 2: Seeing 'emozione' in its natural context
+Panel 3: A person interacting with 'emozione'
+Panel 4: 'emozione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "emozione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2286
+Word: enciclopedia
+Story: 1. Discovering 'enciclopedia' for the first time. 2. Seeing 'enciclopedia' in its natural context. 3. A person interacting with 'enciclopedia'. 4. 'enciclopedia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'enciclopedia'.
+Panel 1: Discovering 'enciclopedia' for the first time
+Panel 2: Seeing 'enciclopedia' in its natural context
+Panel 3: A person interacting with 'enciclopedia'
+Panel 4: 'enciclopedia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "enciclopedia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2287
+Word: energetico
+Story: 1. Encountering someone or something described as 'energetico'. 2. Recognizing the quality of 'energetico' in a scene. 3. A vivid example showing 'energetico' clearly. 4. Understanding the full meaning of 'energetico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'energetico'.
+Panel 1: Encountering someone or something described as 'energetico'
+Panel 2: Recognizing the quality of 'energetico' in a scene
+Panel 3: A vivid example showing 'energetico' clearly
+Panel 4: Understanding the full meaning of 'energetico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "energetico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2288
+Word: energia
+Story: 1. Discovering 'energia' for the first time. 2. Seeing 'energia' in its natural context. 3. A person interacting with 'energia'. 4. 'energia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'energia'.
+Panel 1: Discovering 'energia' for the first time
+Panel 2: Seeing 'energia' in its natural context
+Panel 3: A person interacting with 'energia'
+Panel 4: 'energia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "energia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2289
+Word: enne
+Story: 1. Discovering 'enne' for the first time. 2. Seeing 'enne' in its natural context. 3. A person interacting with 'enne'. 4. 'enne' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'enne'.
+Panel 1: Discovering 'enne' for the first time
+Panel 2: Seeing 'enne' in its natural context
+Panel 3: A person interacting with 'enne'
+Panel 4: 'enne' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "enne (s.f. e m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2290
+Word: ennesimo
+Story: 1. Seeing something that is clearly 'ennesimo'. 2. Comparing two things, one is 'ennesimo' and one is not. 3. A person pointing at something 'ennesimo' and explaining. 4. A memorable example of something very 'ennesimo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ennesimo'.
+Panel 1: Seeing something that is clearly 'ennesimo'
+Panel 2: Comparing two things, one is 'ennesimo' and one is not
+Panel 3: A person pointing at something 'ennesimo' and explaining
+Panel 4: A memorable example of something very 'ennesimo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ennesimo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2291
+Word: enorme
+Story: 1. Seeing something that is clearly 'enorme'. 2. Comparing two things, one is 'enorme' and one is not. 3. A person pointing at something 'enorme' and explaining. 4. A memorable example of something very 'enorme'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'enorme'.
+Panel 1: Seeing something that is clearly 'enorme'
+Panel 2: Comparing two things, one is 'enorme' and one is not
+Panel 3: A person pointing at something 'enorme' and explaining
+Panel 4: A memorable example of something very 'enorme'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "enorme (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2292
+Word: ente
+Story: 1. Discovering 'ente' for the first time. 2. Seeing 'ente' in its natural context. 3. A person interacting with 'ente'. 4. 'ente' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ente'.
+Panel 1: Discovering 'ente' for the first time
+Panel 2: Seeing 'ente' in its natural context
+Panel 3: A person interacting with 'ente'
+Panel 4: 'ente' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ente (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2293
+Word: entità
+Story: 1. Discovering 'entità' for the first time. 2. Seeing 'entità' in its natural context. 3. A person interacting with 'entità'. 4. 'entità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'entità'.
+Panel 1: Discovering 'entità' for the first time
+Panel 2: Seeing 'entità' in its natural context
+Panel 3: A person interacting with 'entità'
+Panel 4: 'entità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "entità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2294
+Word: entrambi
+Story: 1. Seeing something that is clearly 'entrambi'. 2. Comparing two things, one is 'entrambi' and one is not. 3. A person pointing at something 'entrambi' and explaining. 4. A memorable example of something very 'entrambi'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'entrambi'.
+Panel 1: Seeing something that is clearly 'entrambi'
+Panel 2: Comparing two things, one is 'entrambi' and one is not
+Panel 3: A person pointing at something 'entrambi' and explaining
+Panel 4: A memorable example of something very 'entrambi'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "entrambi (pron.num.pl., agg.num.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2295
+Word: entrare
+Story: 1. A person thinking about the action of 'entrare'. 2. Starting to perform the action 'entrare'. 3. Actively doing 'entrare' with full effort. 4. Successfully completing the action 'entrare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'entrare'.
+Panel 1: A person thinking about the action of 'entrare'
+Panel 2: Starting to perform the action 'entrare'
+Panel 3: Actively doing 'entrare' with full effort
+Panel 4: Successfully completing the action 'entrare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "entrare (v.intr., v.tr., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2296
+Word: entrata
+Story: 1. Discovering 'entrata' for the first time. 2. Seeing 'entrata' in its natural context. 3. A person interacting with 'entrata'. 4. 'entrata' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'entrata'.
+Panel 1: Discovering 'entrata' for the first time
+Panel 2: Seeing 'entrata' in its natural context
+Panel 3: A person interacting with 'entrata'
+Panel 4: 'entrata' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "entrata (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2297
+Word: entro
+Story: 1. A scene where something happens 'entro'. 2. Showing the manner or degree of 'entro'. 3. Contrasting doing something 'entro' vs not. 4. A clear example of 'entro' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'entro'.
+Panel 1: A scene where something happens 'entro'
+Panel 2: Showing the manner or degree of 'entro'
+Panel 3: Contrasting doing something 'entro' vs not
+Panel 4: A clear example of 'entro' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "entro (prep., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2298
+Word: entusiasmo
+Story: 1. Discovering 'entusiasmo' for the first time. 2. Seeing 'entusiasmo' in its natural context. 3. A person interacting with 'entusiasmo'. 4. 'entusiasmo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'entusiasmo'.
+Panel 1: Discovering 'entusiasmo' for the first time
+Panel 2: Seeing 'entusiasmo' in its natural context
+Panel 3: A person interacting with 'entusiasmo'
+Panel 4: 'entusiasmo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "entusiasmo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2299
+Word: entusiasta
+Story: 1. Encountering someone or something described as 'entusiasta'. 2. Recognizing the quality of 'entusiasta' in a scene. 3. A vivid example showing 'entusiasta' clearly. 4. Understanding the full meaning of 'entusiasta'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'entusiasta'.
+Panel 1: Encountering someone or something described as 'entusiasta'
+Panel 2: Recognizing the quality of 'entusiasta' in a scene
+Panel 3: A vivid example showing 'entusiasta' clearly
+Panel 4: Understanding the full meaning of 'entusiasta'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "entusiasta (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2300
+Word: epifania
+Story: 1. Discovering 'epifania' for the first time. 2. Seeing 'epifania' in its natural context. 3. A person interacting with 'epifania'. 4. 'epifania' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'epifania'.
+Panel 1: Discovering 'epifania' for the first time
+Panel 2: Seeing 'epifania' in its natural context
+Panel 3: A person interacting with 'epifania'
+Panel 4: 'epifania' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "epifania (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2301
+Word: episodio
+Story: 1. Discovering 'episodio' for the first time. 2. Seeing 'episodio' in its natural context. 3. A person interacting with 'episodio'. 4. 'episodio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'episodio'.
+Panel 1: Discovering 'episodio' for the first time
+Panel 2: Seeing 'episodio' in its natural context
+Panel 3: A person interacting with 'episodio'
+Panel 4: 'episodio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "episodio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2302
+Word: epoca
+Story: 1. Discovering 'epoca' for the first time. 2. Seeing 'epoca' in its natural context. 3. A person interacting with 'epoca'. 4. 'epoca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'epoca'.
+Panel 1: Discovering 'epoca' for the first time
+Panel 2: Seeing 'epoca' in its natural context
+Panel 3: A person interacting with 'epoca'
+Panel 4: 'epoca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "epoca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2303
+Word: eppure
+Story: 1. Two speech bubbles connected by the word 'eppure'. 2. A sentence on a blackboard highlighting 'eppure'. 3. A teacher explaining the use of 'eppure'. 4. Students practicing sentences with 'eppure'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'eppure'.
+Panel 1: Two speech bubbles connected by the word 'eppure'
+Panel 2: A sentence on a blackboard highlighting 'eppure'
+Panel 3: A teacher explaining the use of 'eppure'
+Panel 4: Students practicing sentences with 'eppure'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "eppure (cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2304
+Word: equazione
+Story: 1. Discovering 'equazione' for the first time. 2. Seeing 'equazione' in its natural context. 3. A person interacting with 'equazione'. 4. 'equazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'equazione'.
+Panel 1: Discovering 'equazione' for the first time
+Panel 2: Seeing 'equazione' in its natural context
+Panel 3: A person interacting with 'equazione'
+Panel 4: 'equazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "equazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

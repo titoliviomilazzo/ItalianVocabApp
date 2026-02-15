@@ -1,0 +1,500 @@
+Image ID: 6405
+Word: stanza
+Story: 1. Discovering 'stanza' for the first time. 2. Seeing 'stanza' in its natural context. 3. A person interacting with 'stanza'. 4. 'stanza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stanza'.
+Panel 1: Discovering 'stanza' for the first time
+Panel 2: Seeing 'stanza' in its natural context
+Panel 3: A person interacting with 'stanza'
+Panel 4: 'stanza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stanza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6406
+Word: star
+Story: 1. Discovering 'star' for the first time. 2. Seeing 'star' in its natural context. 3. A person interacting with 'star'. 4. 'star' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'star'.
+Panel 1: Discovering 'star' for the first time
+Panel 2: Seeing 'star' in its natural context
+Panel 3: A person interacting with 'star'
+Panel 4: 'star' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "star (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6407
+Word: stare
+Story: 1. A person thinking about the action of 'stare'. 2. Starting to perform the action 'stare'. 3. Actively doing 'stare' with full effort. 4. Successfully completing the action 'stare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stare'.
+Panel 1: A person thinking about the action of 'stare'
+Panel 2: Starting to perform the action 'stare'
+Panel 3: Actively doing 'stare' with full effort
+Panel 4: Successfully completing the action 'stare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6408
+Word: stasera
+Story: 1. A scene where something happens 'stasera'. 2. Showing the manner or degree of 'stasera'. 3. Contrasting doing something 'stasera' vs not. 4. A clear example of 'stasera' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stasera'.
+Panel 1: A scene where something happens 'stasera'
+Panel 2: Showing the manner or degree of 'stasera'
+Panel 3: Contrasting doing something 'stasera' vs not
+Panel 4: A clear example of 'stasera' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stasera (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6409
+Word: statale
+Story: 1. Encountering someone or something described as 'statale'. 2. Recognizing the quality of 'statale' in a scene. 3. A vivid example showing 'statale' clearly. 4. Understanding the full meaning of 'statale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'statale'.
+Panel 1: Encountering someone or something described as 'statale'
+Panel 2: Recognizing the quality of 'statale' in a scene
+Panel 3: A vivid example showing 'statale' clearly
+Panel 4: Understanding the full meaning of 'statale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "statale (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6410
+Word: statistica
+Story: 1. Discovering 'statistica' for the first time. 2. Seeing 'statistica' in its natural context. 3. A person interacting with 'statistica'. 4. 'statistica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'statistica'.
+Panel 1: Discovering 'statistica' for the first time
+Panel 2: Seeing 'statistica' in its natural context
+Panel 3: A person interacting with 'statistica'
+Panel 4: 'statistica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "statistica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6411
+Word: statistico
+Story: 1. Encountering someone or something described as 'statistico'. 2. Recognizing the quality of 'statistico' in a scene. 3. A vivid example showing 'statistico' clearly. 4. Understanding the full meaning of 'statistico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'statistico'.
+Panel 1: Encountering someone or something described as 'statistico'
+Panel 2: Recognizing the quality of 'statistico' in a scene
+Panel 3: A vivid example showing 'statistico' clearly
+Panel 4: Understanding the full meaning of 'statistico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "statistico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6412
+Word: stato
+Story: 1. Discovering 'stato' for the first time. 2. Seeing 'stato' in its natural context. 3. A person interacting with 'stato'. 4. 'stato' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stato'.
+Panel 1: Discovering 'stato' for the first time
+Panel 2: Seeing 'stato' in its natural context
+Panel 3: A person interacting with 'stato'
+Panel 4: 'stato' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6413
+Word: stato
+Story: 1. Discovering 'stato' for the first time. 2. Seeing 'stato' in its natural context. 3. A person interacting with 'stato'. 4. 'stato' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stato'.
+Panel 1: Discovering 'stato' for the first time
+Panel 2: Seeing 'stato' in its natural context
+Panel 3: A person interacting with 'stato'
+Panel 4: 'stato' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6414
+Word: statua
+Story: 1. Discovering 'statua' for the first time. 2. Seeing 'statua' in its natural context. 3. A person interacting with 'statua'. 4. 'statua' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'statua'.
+Panel 1: Discovering 'statua' for the first time
+Panel 2: Seeing 'statua' in its natural context
+Panel 3: A person interacting with 'statua'
+Panel 4: 'statua' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "statua (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6415
+Word: statunitense
+Story: 1. Encountering someone or something described as 'statunitense'. 2. Recognizing the quality of 'statunitense' in a scene. 3. A vivid example showing 'statunitense' clearly. 4. Understanding the full meaning of 'statunitense'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'statunitense'.
+Panel 1: Encountering someone or something described as 'statunitense'
+Panel 2: Recognizing the quality of 'statunitense' in a scene
+Panel 3: A vivid example showing 'statunitense' clearly
+Panel 4: Understanding the full meaning of 'statunitense'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "statunitense (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6416
+Word: status
+Story: 1. Discovering 'status' for the first time. 2. Seeing 'status' in its natural context. 3. A person interacting with 'status'. 4. 'status' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'status'.
+Panel 1: Discovering 'status' for the first time
+Panel 2: Seeing 'status' in its natural context
+Panel 3: A person interacting with 'status'
+Panel 4: 'status' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "status (s.m.inv., lat.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6417
+Word: stavolta
+Story: 1. A scene where something happens 'stavolta'. 2. Showing the manner or degree of 'stavolta'. 3. Contrasting doing something 'stavolta' vs not. 4. A clear example of 'stavolta' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stavolta'.
+Panel 1: A scene where something happens 'stavolta'
+Panel 2: Showing the manner or degree of 'stavolta'
+Panel 3: Contrasting doing something 'stavolta' vs not
+Panel 4: A clear example of 'stavolta' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stavolta (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6418
+Word: stazione
+Story: 1. Discovering 'stazione' for the first time. 2. Seeing 'stazione' in its natural context. 3. A person interacting with 'stazione'. 4. 'stazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stazione'.
+Panel 1: Discovering 'stazione' for the first time
+Panel 2: Seeing 'stazione' in its natural context
+Panel 3: A person interacting with 'stazione'
+Panel 4: 'stazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6419
+Word: stella
+Story: 1. Discovering 'stella' for the first time. 2. Seeing 'stella' in its natural context. 3. A person interacting with 'stella'. 4. 'stella' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stella'.
+Panel 1: Discovering 'stella' for the first time
+Panel 2: Seeing 'stella' in its natural context
+Panel 3: A person interacting with 'stella'
+Panel 4: 'stella' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stella (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6420
+Word: stellare
+Story: 1. Seeing something that is clearly 'stellare'. 2. Comparing two things, one is 'stellare' and one is not. 3. A person pointing at something 'stellare' and explaining. 4. A memorable example of something very 'stellare'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stellare'.
+Panel 1: Seeing something that is clearly 'stellare'
+Panel 2: Comparing two things, one is 'stellare' and one is not
+Panel 3: A person pointing at something 'stellare' and explaining
+Panel 4: A memorable example of something very 'stellare'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stellare (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6421
+Word: stendere
+Story: 1. A person thinking about the action of 'stendere'. 2. Starting to perform the action 'stendere'. 3. Actively doing 'stendere' with full effort. 4. Successfully completing the action 'stendere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stendere'.
+Panel 1: A person thinking about the action of 'stendere'
+Panel 2: Starting to perform the action 'stendere'
+Panel 3: Actively doing 'stendere' with full effort
+Panel 4: Successfully completing the action 'stendere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stendere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6422
+Word: stendibiancheria
+Story: 1. Discovering 'stendibiancheria' for the first time. 2. Seeing 'stendibiancheria' in its natural context. 3. A person interacting with 'stendibiancheria'. 4. 'stendibiancheria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stendibiancheria'.
+Panel 1: Discovering 'stendibiancheria' for the first time
+Panel 2: Seeing 'stendibiancheria' in its natural context
+Panel 3: A person interacting with 'stendibiancheria'
+Panel 4: 'stendibiancheria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stendibiancheria (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6423
+Word: stereo
+Story: 1. Encountering someone or something described as 'stereo'. 2. Recognizing the quality of 'stereo' in a scene. 3. A vivid example showing 'stereo' clearly. 4. Understanding the full meaning of 'stereo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stereo'.
+Panel 1: Encountering someone or something described as 'stereo'
+Panel 2: Recognizing the quality of 'stereo' in a scene
+Panel 3: A vivid example showing 'stereo' clearly
+Panel 4: Understanding the full meaning of 'stereo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stereo (agg.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6424
+Word: sterlina
+Story: 1. Discovering 'sterlina' for the first time. 2. Seeing 'sterlina' in its natural context. 3. A person interacting with 'sterlina'. 4. 'sterlina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sterlina'.
+Panel 1: Discovering 'sterlina' for the first time
+Panel 2: Seeing 'sterlina' in its natural context
+Panel 3: A person interacting with 'sterlina'
+Panel 4: 'sterlina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sterlina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6425
+Word: sterzare
+Story: 1. A person thinking about the action of 'sterzare'. 2. Starting to perform the action 'sterzare'. 3. Actively doing 'sterzare' with full effort. 4. Successfully completing the action 'sterzare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sterzare'.
+Panel 1: A person thinking about the action of 'sterzare'
+Panel 2: Starting to perform the action 'sterzare'
+Panel 3: Actively doing 'sterzare' with full effort
+Panel 4: Successfully completing the action 'sterzare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sterzare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6426
+Word: sterzo
+Story: 1. Discovering 'sterzo' for the first time. 2. Seeing 'sterzo' in its natural context. 3. A person interacting with 'sterzo'. 4. 'sterzo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sterzo'.
+Panel 1: Discovering 'sterzo' for the first time
+Panel 2: Seeing 'sterzo' in its natural context
+Panel 3: A person interacting with 'sterzo'
+Panel 4: 'sterzo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sterzo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6427
+Word: stesso
+Story: 1. Seeing something that is clearly 'stesso'. 2. Comparing two things, one is 'stesso' and one is not. 3. A person pointing at something 'stesso' and explaining. 4. A memorable example of something very 'stesso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stesso'.
+Panel 1: Seeing something that is clearly 'stesso'
+Panel 2: Comparing two things, one is 'stesso' and one is not
+Panel 3: A person pointing at something 'stesso' and explaining
+Panel 4: A memorable example of something very 'stesso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stesso (agg.dimostr., pron.dimostr.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6428
+Word: stile
+Story: 1. Discovering 'stile' for the first time. 2. Seeing 'stile' in its natural context. 3. A person interacting with 'stile'. 4. 'stile' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stile'.
+Panel 1: Discovering 'stile' for the first time
+Panel 2: Seeing 'stile' in its natural context
+Panel 3: A person interacting with 'stile'
+Panel 4: 'stile' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stile (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6429
+Word: stima
+Story: 1. Discovering 'stima' for the first time. 2. Seeing 'stima' in its natural context. 3. A person interacting with 'stima'. 4. 'stima' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stima'.
+Panel 1: Discovering 'stima' for the first time
+Panel 2: Seeing 'stima' in its natural context
+Panel 3: A person interacting with 'stima'
+Panel 4: 'stima' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stima (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6430
+Word: stimare
+Story: 1. A person thinking about the action of 'stimare'. 2. Starting to perform the action 'stimare'. 3. Actively doing 'stimare' with full effort. 4. Successfully completing the action 'stimare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stimare'.
+Panel 1: A person thinking about the action of 'stimare'
+Panel 2: Starting to perform the action 'stimare'
+Panel 3: Actively doing 'stimare' with full effort
+Panel 4: Successfully completing the action 'stimare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stimare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6431
+Word: stimolare
+Story: 1. A person thinking about the action of 'stimolare'. 2. Starting to perform the action 'stimolare'. 3. Actively doing 'stimolare' with full effort. 4. Successfully completing the action 'stimolare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stimolare'.
+Panel 1: A person thinking about the action of 'stimolare'
+Panel 2: Starting to perform the action 'stimolare'
+Panel 3: Actively doing 'stimolare' with full effort
+Panel 4: Successfully completing the action 'stimolare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stimolare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6432
+Word: stimolo
+Story: 1. Discovering 'stimolo' for the first time. 2. Seeing 'stimolo' in its natural context. 3. A person interacting with 'stimolo'. 4. 'stimolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stimolo'.
+Panel 1: Discovering 'stimolo' for the first time
+Panel 2: Seeing 'stimolo' in its natural context
+Panel 3: A person interacting with 'stimolo'
+Panel 4: 'stimolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stimolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6433
+Word: stinco
+Story: 1. Discovering 'stinco' for the first time. 2. Seeing 'stinco' in its natural context. 3. A person interacting with 'stinco'. 4. 'stinco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stinco'.
+Panel 1: Discovering 'stinco' for the first time
+Panel 2: Seeing 'stinco' in its natural context
+Panel 3: A person interacting with 'stinco'
+Panel 4: 'stinco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stinco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6434
+Word: stipendiare
+Story: 1. A person thinking about the action of 'stipendiare'. 2. Starting to perform the action 'stipendiare'. 3. Actively doing 'stipendiare' with full effort. 4. Successfully completing the action 'stipendiare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stipendiare'.
+Panel 1: A person thinking about the action of 'stipendiare'
+Panel 2: Starting to perform the action 'stipendiare'
+Panel 3: Actively doing 'stipendiare' with full effort
+Panel 4: Successfully completing the action 'stipendiare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stipendiare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6435
+Word: stipendio
+Story: 1. Discovering 'stipendio' for the first time. 2. Seeing 'stipendio' in its natural context. 3. A person interacting with 'stipendio'. 4. 'stipendio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stipendio'.
+Panel 1: Discovering 'stipendio' for the first time
+Panel 2: Seeing 'stipendio' in its natural context
+Panel 3: A person interacting with 'stipendio'
+Panel 4: 'stipendio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stipendio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6436
+Word: stirare
+Story: 1. A person thinking about the action of 'stirare'. 2. Starting to perform the action 'stirare'. 3. Actively doing 'stirare' with full effort. 4. Successfully completing the action 'stirare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stirare'.
+Panel 1: A person thinking about the action of 'stirare'
+Panel 2: Starting to perform the action 'stirare'
+Panel 3: Actively doing 'stirare' with full effort
+Panel 4: Successfully completing the action 'stirare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stirare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6437
+Word: stivaletto
+Story: 1. Discovering 'stivaletto' for the first time. 2. Seeing 'stivaletto' in its natural context. 3. A person interacting with 'stivaletto'. 4. 'stivaletto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stivaletto'.
+Panel 1: Discovering 'stivaletto' for the first time
+Panel 2: Seeing 'stivaletto' in its natural context
+Panel 3: A person interacting with 'stivaletto'
+Panel 4: 'stivaletto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stivaletto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6438
+Word: stoffa
+Story: 1. Discovering 'stoffa' for the first time. 2. Seeing 'stoffa' in its natural context. 3. A person interacting with 'stoffa'. 4. 'stoffa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stoffa'.
+Panel 1: Discovering 'stoffa' for the first time
+Panel 2: Seeing 'stoffa' in its natural context
+Panel 3: A person interacting with 'stoffa'
+Panel 4: 'stoffa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stoffa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6439
+Word: stomaco
+Story: 1. Discovering 'stomaco' for the first time. 2. Seeing 'stomaco' in its natural context. 3. A person interacting with 'stomaco'. 4. 'stomaco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stomaco'.
+Panel 1: Discovering 'stomaco' for the first time
+Panel 2: Seeing 'stomaco' in its natural context
+Panel 3: A person interacting with 'stomaco'
+Panel 4: 'stomaco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stomaco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6440
+Word: stonare
+Story: 1. A person thinking about the action of 'stonare'. 2. Starting to perform the action 'stonare'. 3. Actively doing 'stonare' with full effort. 4. Successfully completing the action 'stonare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stonare'.
+Panel 1: A person thinking about the action of 'stonare'
+Panel 2: Starting to perform the action 'stonare'
+Panel 3: Actively doing 'stonare' with full effort
+Panel 4: Successfully completing the action 'stonare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stonare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6441
+Word: stop
+Story: 1. Discovering 'stop' for the first time. 2. Seeing 'stop' in its natural context. 3. A person interacting with 'stop'. 4. 'stop' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stop'.
+Panel 1: Discovering 'stop' for the first time
+Panel 2: Seeing 'stop' in its natural context
+Panel 3: A person interacting with 'stop'
+Panel 4: 'stop' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stop (loc. di comando, s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6442
+Word: stoppa
+Story: 1. Discovering 'stoppa' for the first time. 2. Seeing 'stoppa' in its natural context. 3. A person interacting with 'stoppa'. 4. 'stoppa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stoppa'.
+Panel 1: Discovering 'stoppa' for the first time
+Panel 2: Seeing 'stoppa' in its natural context
+Panel 3: A person interacting with 'stoppa'
+Panel 4: 'stoppa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stoppa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6443
+Word: storcere
+Story: 1. A person thinking about the action of 'storcere'. 2. Starting to perform the action 'storcere'. 3. Actively doing 'storcere' with full effort. 4. Successfully completing the action 'storcere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'storcere'.
+Panel 1: A person thinking about the action of 'storcere'
+Panel 2: Starting to perform the action 'storcere'
+Panel 3: Actively doing 'storcere' with full effort
+Panel 4: Successfully completing the action 'storcere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "storcere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6444
+Word: storia
+Story: 1. Discovering 'storia' for the first time. 2. Seeing 'storia' in its natural context. 3. A person interacting with 'storia'. 4. 'storia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'storia'.
+Panel 1: Discovering 'storia' for the first time
+Panel 2: Seeing 'storia' in its natural context
+Panel 3: A person interacting with 'storia'
+Panel 4: 'storia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "storia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6445
+Word: storico
+Story: 1. Encountering someone or something described as 'storico'. 2. Recognizing the quality of 'storico' in a scene. 3. A vivid example showing 'storico' clearly. 4. Understanding the full meaning of 'storico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'storico'.
+Panel 1: Encountering someone or something described as 'storico'
+Panel 2: Recognizing the quality of 'storico' in a scene
+Panel 3: A vivid example showing 'storico' clearly
+Panel 4: Understanding the full meaning of 'storico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "storico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6446
+Word: stornello
+Story: 1. Discovering 'stornello' for the first time. 2. Seeing 'stornello' in its natural context. 3. A person interacting with 'stornello'. 4. 'stornello' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stornello'.
+Panel 1: Discovering 'stornello' for the first time
+Panel 2: Seeing 'stornello' in its natural context
+Panel 3: A person interacting with 'stornello'
+Panel 4: 'stornello' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stornello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6447
+Word: storta
+Story: 1. Discovering 'storta' for the first time. 2. Seeing 'storta' in its natural context. 3. A person interacting with 'storta'. 4. 'storta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'storta'.
+Panel 1: Discovering 'storta' for the first time
+Panel 2: Seeing 'storta' in its natural context
+Panel 3: A person interacting with 'storta'
+Panel 4: 'storta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "storta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6448
+Word: storto
+Story: 1. A scene where something happens 'storto'. 2. Showing the manner or degree of 'storto'. 3. Contrasting doing something 'storto' vs not. 4. A clear example of 'storto' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'storto'.
+Panel 1: A scene where something happens 'storto'
+Panel 2: Showing the manner or degree of 'storto'
+Panel 3: Contrasting doing something 'storto' vs not
+Panel 4: A clear example of 'storto' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "storto (p.pass., agg., avv., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6449
+Word: stoviglia
+Story: 1. Discovering 'stoviglia' for the first time. 2. Seeing 'stoviglia' in its natural context. 3. A person interacting with 'stoviglia'. 4. 'stoviglia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stoviglia'.
+Panel 1: Discovering 'stoviglia' for the first time
+Panel 2: Seeing 'stoviglia' in its natural context
+Panel 3: A person interacting with 'stoviglia'
+Panel 4: 'stoviglia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stoviglia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6450
+Word: stracchino
+Story: 1. Discovering 'stracchino' for the first time. 2. Seeing 'stracchino' in its natural context. 3. A person interacting with 'stracchino'. 4. 'stracchino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stracchino'.
+Panel 1: Discovering 'stracchino' for the first time
+Panel 2: Seeing 'stracchino' in its natural context
+Panel 3: A person interacting with 'stracchino'
+Panel 4: 'stracchino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stracchino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6451
+Word: straccio
+Story: 1. Discovering 'straccio' for the first time. 2. Seeing 'straccio' in its natural context. 3. A person interacting with 'straccio'. 4. 'straccio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'straccio'.
+Panel 1: Discovering 'straccio' for the first time
+Panel 2: Seeing 'straccio' in its natural context
+Panel 3: A person interacting with 'straccio'
+Panel 4: 'straccio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "straccio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6452
+Word: strada
+Story: 1. Discovering 'strada' for the first time. 2. Seeing 'strada' in its natural context. 3. A person interacting with 'strada'. 4. 'strada' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'strada'.
+Panel 1: Discovering 'strada' for the first time
+Panel 2: Seeing 'strada' in its natural context
+Panel 3: A person interacting with 'strada'
+Panel 4: 'strada' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "strada (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6453
+Word: stradale
+Story: 1. Encountering someone or something described as 'stradale'. 2. Recognizing the quality of 'stradale' in a scene. 3. A vivid example showing 'stradale' clearly. 4. Understanding the full meaning of 'stradale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'stradale'.
+Panel 1: Encountering someone or something described as 'stradale'
+Panel 2: Recognizing the quality of 'stradale' in a scene
+Panel 3: A vivid example showing 'stradale' clearly
+Panel 4: Understanding the full meaning of 'stradale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "stradale (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6454
+Word: strage
+Story: 1. Discovering 'strage' for the first time. 2. Seeing 'strage' in its natural context. 3. A person interacting with 'strage'. 4. 'strage' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'strage'.
+Panel 1: Discovering 'strage' for the first time
+Panel 2: Seeing 'strage' in its natural context
+Panel 3: A person interacting with 'strage'
+Panel 4: 'strage' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "strage (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

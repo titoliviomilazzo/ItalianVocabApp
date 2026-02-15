@@ -1,0 +1,500 @@
+Image ID: 1605
+Word: consistente
+Story: 1. Seeing something that is clearly 'consistente'. 2. Comparing two things, one is 'consistente' and one is not. 3. A person pointing at something 'consistente' and explaining. 4. A memorable example of something very 'consistente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consistente'.
+Panel 1: Seeing something that is clearly 'consistente'
+Panel 2: Comparing two things, one is 'consistente' and one is not
+Panel 3: A person pointing at something 'consistente' and explaining
+Panel 4: A memorable example of something very 'consistente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consistente (p.pres., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1606
+Word: consistenza
+Story: 1. Discovering 'consistenza' for the first time. 2. Seeing 'consistenza' in its natural context. 3. A person interacting with 'consistenza'. 4. 'consistenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consistenza'.
+Panel 1: Discovering 'consistenza' for the first time
+Panel 2: Seeing 'consistenza' in its natural context
+Panel 3: A person interacting with 'consistenza'
+Panel 4: 'consistenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consistenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1607
+Word: consistere
+Story: 1. A person thinking about the action of 'consistere'. 2. Starting to perform the action 'consistere'. 3. Actively doing 'consistere' with full effort. 4. Successfully completing the action 'consistere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consistere'.
+Panel 1: A person thinking about the action of 'consistere'
+Panel 2: Starting to perform the action 'consistere'
+Panel 3: Actively doing 'consistere' with full effort
+Panel 4: Successfully completing the action 'consistere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consistere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1608
+Word: consolare
+Story: 1. A person thinking about the action of 'consolare'. 2. Starting to perform the action 'consolare'. 3. Actively doing 'consolare' with full effort. 4. Successfully completing the action 'consolare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consolare'.
+Panel 1: A person thinking about the action of 'consolare'
+Panel 2: Starting to perform the action 'consolare'
+Panel 3: Actively doing 'consolare' with full effort
+Panel 4: Successfully completing the action 'consolare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consolare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1609
+Word: consonante
+Story: 1. Discovering 'consonante' for the first time. 2. Seeing 'consonante' in its natural context. 3. A person interacting with 'consonante'. 4. 'consonante' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consonante'.
+Panel 1: Discovering 'consonante' for the first time
+Panel 2: Seeing 'consonante' in its natural context
+Panel 3: A person interacting with 'consonante'
+Panel 4: 'consonante' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consonante (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1610
+Word: consorzio
+Story: 1. Discovering 'consorzio' for the first time. 2. Seeing 'consorzio' in its natural context. 3. A person interacting with 'consorzio'. 4. 'consorzio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consorzio'.
+Panel 1: Discovering 'consorzio' for the first time
+Panel 2: Seeing 'consorzio' in its natural context
+Panel 3: A person interacting with 'consorzio'
+Panel 4: 'consorzio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consorzio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1611
+Word: constatare
+Story: 1. A person thinking about the action of 'constatare'. 2. Starting to perform the action 'constatare'. 3. Actively doing 'constatare' with full effort. 4. Successfully completing the action 'constatare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'constatare'.
+Panel 1: A person thinking about the action of 'constatare'
+Panel 2: Starting to perform the action 'constatare'
+Panel 3: Actively doing 'constatare' with full effort
+Panel 4: Successfully completing the action 'constatare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "constatare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1612
+Word: consueto
+Story: 1. Encountering someone or something described as 'consueto'. 2. Recognizing the quality of 'consueto' in a scene. 3. A vivid example showing 'consueto' clearly. 4. Understanding the full meaning of 'consueto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consueto'.
+Panel 1: Encountering someone or something described as 'consueto'
+Panel 2: Recognizing the quality of 'consueto' in a scene
+Panel 3: A vivid example showing 'consueto' clearly
+Panel 4: Understanding the full meaning of 'consueto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consueto (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1613
+Word: consulente
+Story: 1. Encountering someone or something described as 'consulente'. 2. Recognizing the quality of 'consulente' in a scene. 3. A vivid example showing 'consulente' clearly. 4. Understanding the full meaning of 'consulente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consulente'.
+Panel 1: Encountering someone or something described as 'consulente'
+Panel 2: Recognizing the quality of 'consulente' in a scene
+Panel 3: A vivid example showing 'consulente' clearly
+Panel 4: Understanding the full meaning of 'consulente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consulente (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1614
+Word: consulenza
+Story: 1. Discovering 'consulenza' for the first time. 2. Seeing 'consulenza' in its natural context. 3. A person interacting with 'consulenza'. 4. 'consulenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consulenza'.
+Panel 1: Discovering 'consulenza' for the first time
+Panel 2: Seeing 'consulenza' in its natural context
+Panel 3: A person interacting with 'consulenza'
+Panel 4: 'consulenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consulenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1615
+Word: consultare
+Story: 1. A person thinking about the action of 'consultare'. 2. Starting to perform the action 'consultare'. 3. Actively doing 'consultare' with full effort. 4. Successfully completing the action 'consultare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consultare'.
+Panel 1: A person thinking about the action of 'consultare'
+Panel 2: Starting to perform the action 'consultare'
+Panel 3: Actively doing 'consultare' with full effort
+Panel 4: Successfully completing the action 'consultare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consultare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1616
+Word: consumare
+Story: 1. A person thinking about the action of 'consumare'. 2. Starting to perform the action 'consumare'. 3. Actively doing 'consumare' with full effort. 4. Successfully completing the action 'consumare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consumare'.
+Panel 1: A person thinking about the action of 'consumare'
+Panel 2: Starting to perform the action 'consumare'
+Panel 3: Actively doing 'consumare' with full effort
+Panel 4: Successfully completing the action 'consumare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consumare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1617
+Word: consumatore
+Story: 1. Encountering someone or something described as 'consumatore'. 2. Recognizing the quality of 'consumatore' in a scene. 3. A vivid example showing 'consumatore' clearly. 4. Understanding the full meaning of 'consumatore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consumatore'.
+Panel 1: Encountering someone or something described as 'consumatore'
+Panel 2: Recognizing the quality of 'consumatore' in a scene
+Panel 3: A vivid example showing 'consumatore' clearly
+Panel 4: Understanding the full meaning of 'consumatore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consumatore (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1618
+Word: consumazione
+Story: 1. Discovering 'consumazione' for the first time. 2. Seeing 'consumazione' in its natural context. 3. A person interacting with 'consumazione'. 4. 'consumazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consumazione'.
+Panel 1: Discovering 'consumazione' for the first time
+Panel 2: Seeing 'consumazione' in its natural context
+Panel 3: A person interacting with 'consumazione'
+Panel 4: 'consumazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consumazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1619
+Word: consumo
+Story: 1. Discovering 'consumo' for the first time. 2. Seeing 'consumo' in its natural context. 3. A person interacting with 'consumo'. 4. 'consumo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'consumo'.
+Panel 1: Discovering 'consumo' for the first time
+Panel 2: Seeing 'consumo' in its natural context
+Panel 3: A person interacting with 'consumo'
+Panel 4: 'consumo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "consumo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1620
+Word: contachilometri
+Story: 1. Discovering 'contachilometri' for the first time. 2. Seeing 'contachilometri' in its natural context. 3. A person interacting with 'contachilometri'. 4. 'contachilometri' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contachilometri'.
+Panel 1: Discovering 'contachilometri' for the first time
+Panel 2: Seeing 'contachilometri' in its natural context
+Panel 3: A person interacting with 'contachilometri'
+Panel 4: 'contachilometri' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contachilometri (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1621
+Word: contadino
+Story: 1. Encountering someone or something described as 'contadino'. 2. Recognizing the quality of 'contadino' in a scene. 3. A vivid example showing 'contadino' clearly. 4. Understanding the full meaning of 'contadino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contadino'.
+Panel 1: Encountering someone or something described as 'contadino'
+Panel 2: Recognizing the quality of 'contadino' in a scene
+Panel 3: A vivid example showing 'contadino' clearly
+Panel 4: Understanding the full meaning of 'contadino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contadino (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1622
+Word: contagiare
+Story: 1. A person thinking about the action of 'contagiare'. 2. Starting to perform the action 'contagiare'. 3. Actively doing 'contagiare' with full effort. 4. Successfully completing the action 'contagiare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contagiare'.
+Panel 1: A person thinking about the action of 'contagiare'
+Panel 2: Starting to perform the action 'contagiare'
+Panel 3: Actively doing 'contagiare' with full effort
+Panel 4: Successfully completing the action 'contagiare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contagiare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1623
+Word: contagio
+Story: 1. Discovering 'contagio' for the first time. 2. Seeing 'contagio' in its natural context. 3. A person interacting with 'contagio'. 4. 'contagio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contagio'.
+Panel 1: Discovering 'contagio' for the first time
+Panel 2: Seeing 'contagio' in its natural context
+Panel 3: A person interacting with 'contagio'
+Panel 4: 'contagio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contagio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1624
+Word: contagioso
+Story: 1. Seeing something that is clearly 'contagioso'. 2. Comparing two things, one is 'contagioso' and one is not. 3. A person pointing at something 'contagioso' and explaining. 4. A memorable example of something very 'contagioso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contagioso'.
+Panel 1: Seeing something that is clearly 'contagioso'
+Panel 2: Comparing two things, one is 'contagioso' and one is not
+Panel 3: A person pointing at something 'contagioso' and explaining
+Panel 4: A memorable example of something very 'contagioso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contagioso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1625
+Word: contagocce
+Story: 1. Discovering 'contagocce' for the first time. 2. Seeing 'contagocce' in its natural context. 3. A person interacting with 'contagocce'. 4. 'contagocce' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contagocce'.
+Panel 1: Discovering 'contagocce' for the first time
+Panel 2: Seeing 'contagocce' in its natural context
+Panel 3: A person interacting with 'contagocce'
+Panel 4: 'contagocce' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contagocce (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1626
+Word: contaminare
+Story: 1. A person thinking about the action of 'contaminare'. 2. Starting to perform the action 'contaminare'. 3. Actively doing 'contaminare' with full effort. 4. Successfully completing the action 'contaminare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contaminare'.
+Panel 1: A person thinking about the action of 'contaminare'
+Panel 2: Starting to perform the action 'contaminare'
+Panel 3: Actively doing 'contaminare' with full effort
+Panel 4: Successfully completing the action 'contaminare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contaminare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1627
+Word: contante
+Story: 1. Encountering someone or something described as 'contante'. 2. Recognizing the quality of 'contante' in a scene. 3. A vivid example showing 'contante' clearly. 4. Understanding the full meaning of 'contante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contante'.
+Panel 1: Encountering someone or something described as 'contante'
+Panel 2: Recognizing the quality of 'contante' in a scene
+Panel 3: A vivid example showing 'contante' clearly
+Panel 4: Understanding the full meaning of 'contante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contante (p.pres., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1628
+Word: contare
+Story: 1. A person thinking about the action of 'contare'. 2. Starting to perform the action 'contare'. 3. Actively doing 'contare' with full effort. 4. Successfully completing the action 'contare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contare'.
+Panel 1: A person thinking about the action of 'contare'
+Panel 2: Starting to perform the action 'contare'
+Panel 3: Actively doing 'contare' with full effort
+Panel 4: Successfully completing the action 'contare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1629
+Word: contatore
+Story: 1. Discovering 'contatore' for the first time. 2. Seeing 'contatore' in its natural context. 3. A person interacting with 'contatore'. 4. 'contatore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contatore'.
+Panel 1: Discovering 'contatore' for the first time
+Panel 2: Seeing 'contatore' in its natural context
+Panel 3: A person interacting with 'contatore'
+Panel 4: 'contatore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contatore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1630
+Word: contattare
+Story: 1. A person thinking about the action of 'contattare'. 2. Starting to perform the action 'contattare'. 3. Actively doing 'contattare' with full effort. 4. Successfully completing the action 'contattare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contattare'.
+Panel 1: A person thinking about the action of 'contattare'
+Panel 2: Starting to perform the action 'contattare'
+Panel 3: Actively doing 'contattare' with full effort
+Panel 4: Successfully completing the action 'contattare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contattare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1631
+Word: contatto
+Story: 1. Discovering 'contatto' for the first time. 2. Seeing 'contatto' in its natural context. 3. A person interacting with 'contatto'. 4. 'contatto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contatto'.
+Panel 1: Discovering 'contatto' for the first time
+Panel 2: Seeing 'contatto' in its natural context
+Panel 3: A person interacting with 'contatto'
+Panel 4: 'contatto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contatto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1632
+Word: conte
+Story: 1. Discovering 'conte' for the first time. 2. Seeing 'conte' in its natural context. 3. A person interacting with 'conte'. 4. 'conte' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'conte'.
+Panel 1: Discovering 'conte' for the first time
+Panel 2: Seeing 'conte' in its natural context
+Panel 3: A person interacting with 'conte'
+Panel 4: 'conte' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "conte (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1633
+Word: contemplare
+Story: 1. A person thinking about the action of 'contemplare'. 2. Starting to perform the action 'contemplare'. 3. Actively doing 'contemplare' with full effort. 4. Successfully completing the action 'contemplare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contemplare'.
+Panel 1: A person thinking about the action of 'contemplare'
+Panel 2: Starting to perform the action 'contemplare'
+Panel 3: Actively doing 'contemplare' with full effort
+Panel 4: Successfully completing the action 'contemplare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contemplare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1634
+Word: contemporaneamente
+Story: 1. A scene where something happens 'contemporaneamente'. 2. Showing the manner or degree of 'contemporaneamente'. 3. Contrasting doing something 'contemporaneamente' vs not. 4. A clear example of 'contemporaneamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contemporaneamente'.
+Panel 1: A scene where something happens 'contemporaneamente'
+Panel 2: Showing the manner or degree of 'contemporaneamente'
+Panel 3: Contrasting doing something 'contemporaneamente' vs not
+Panel 4: A clear example of 'contemporaneamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contemporaneamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1635
+Word: contemporaneo
+Story: 1. Encountering someone or something described as 'contemporaneo'. 2. Recognizing the quality of 'contemporaneo' in a scene. 3. A vivid example showing 'contemporaneo' clearly. 4. Understanding the full meaning of 'contemporaneo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contemporaneo'.
+Panel 1: Encountering someone or something described as 'contemporaneo'
+Panel 2: Recognizing the quality of 'contemporaneo' in a scene
+Panel 3: A vivid example showing 'contemporaneo' clearly
+Panel 4: Understanding the full meaning of 'contemporaneo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contemporaneo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1636
+Word: contenere
+Story: 1. A person thinking about the action of 'contenere'. 2. Starting to perform the action 'contenere'. 3. Actively doing 'contenere' with full effort. 4. Successfully completing the action 'contenere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contenere'.
+Panel 1: A person thinking about the action of 'contenere'
+Panel 2: Starting to perform the action 'contenere'
+Panel 3: Actively doing 'contenere' with full effort
+Panel 4: Successfully completing the action 'contenere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contenere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1637
+Word: contenitore
+Story: 1. Encountering someone or something described as 'contenitore'. 2. Recognizing the quality of 'contenitore' in a scene. 3. A vivid example showing 'contenitore' clearly. 4. Understanding the full meaning of 'contenitore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contenitore'.
+Panel 1: Encountering someone or something described as 'contenitore'
+Panel 2: Recognizing the quality of 'contenitore' in a scene
+Panel 3: A vivid example showing 'contenitore' clearly
+Panel 4: Understanding the full meaning of 'contenitore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contenitore (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1638
+Word: contentare
+Story: 1. A person thinking about the action of 'contentare'. 2. Starting to perform the action 'contentare'. 3. Actively doing 'contentare' with full effort. 4. Successfully completing the action 'contentare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contentare'.
+Panel 1: A person thinking about the action of 'contentare'
+Panel 2: Starting to perform the action 'contentare'
+Panel 3: Actively doing 'contentare' with full effort
+Panel 4: Successfully completing the action 'contentare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contentare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1639
+Word: contentezza
+Story: 1. Discovering 'contentezza' for the first time. 2. Seeing 'contentezza' in its natural context. 3. A person interacting with 'contentezza'. 4. 'contentezza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contentezza'.
+Panel 1: Discovering 'contentezza' for the first time
+Panel 2: Seeing 'contentezza' in its natural context
+Panel 3: A person interacting with 'contentezza'
+Panel 4: 'contentezza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contentezza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1640
+Word: contento
+Story: 1. Seeing something that is clearly 'contento'. 2. Comparing two things, one is 'contento' and one is not. 3. A person pointing at something 'contento' and explaining. 4. A memorable example of something very 'contento'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contento'.
+Panel 1: Seeing something that is clearly 'contento'
+Panel 2: Comparing two things, one is 'contento' and one is not
+Panel 3: A person pointing at something 'contento' and explaining
+Panel 4: A memorable example of something very 'contento'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contento (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1641
+Word: contenuto
+Story: 1. Encountering someone or something described as 'contenuto'. 2. Recognizing the quality of 'contenuto' in a scene. 3. A vivid example showing 'contenuto' clearly. 4. Understanding the full meaning of 'contenuto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contenuto'.
+Panel 1: Encountering someone or something described as 'contenuto'
+Panel 2: Recognizing the quality of 'contenuto' in a scene
+Panel 3: A vivid example showing 'contenuto' clearly
+Panel 4: Understanding the full meaning of 'contenuto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contenuto (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1642
+Word: contestare
+Story: 1. A person thinking about the action of 'contestare'. 2. Starting to perform the action 'contestare'. 3. Actively doing 'contestare' with full effort. 4. Successfully completing the action 'contestare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contestare'.
+Panel 1: A person thinking about the action of 'contestare'
+Panel 2: Starting to perform the action 'contestare'
+Panel 3: Actively doing 'contestare' with full effort
+Panel 4: Successfully completing the action 'contestare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contestare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1643
+Word: contestazione
+Story: 1. Discovering 'contestazione' for the first time. 2. Seeing 'contestazione' in its natural context. 3. A person interacting with 'contestazione'. 4. 'contestazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contestazione'.
+Panel 1: Discovering 'contestazione' for the first time
+Panel 2: Seeing 'contestazione' in its natural context
+Panel 3: A person interacting with 'contestazione'
+Panel 4: 'contestazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contestazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1644
+Word: contesto
+Story: 1. Discovering 'contesto' for the first time. 2. Seeing 'contesto' in its natural context. 3. A person interacting with 'contesto'. 4. 'contesto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contesto'.
+Panel 1: Discovering 'contesto' for the first time
+Panel 2: Seeing 'contesto' in its natural context
+Panel 3: A person interacting with 'contesto'
+Panel 4: 'contesto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contesto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1645
+Word: continente
+Story: 1. Discovering 'continente' for the first time. 2. Seeing 'continente' in its natural context. 3. A person interacting with 'continente'. 4. 'continente' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'continente'.
+Panel 1: Discovering 'continente' for the first time
+Panel 2: Seeing 'continente' in its natural context
+Panel 3: A person interacting with 'continente'
+Panel 4: 'continente' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "continente (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1646
+Word: continuamente
+Story: 1. A scene where something happens 'continuamente'. 2. Showing the manner or degree of 'continuamente'. 3. Contrasting doing something 'continuamente' vs not. 4. A clear example of 'continuamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'continuamente'.
+Panel 1: A scene where something happens 'continuamente'
+Panel 2: Showing the manner or degree of 'continuamente'
+Panel 3: Contrasting doing something 'continuamente' vs not
+Panel 4: A clear example of 'continuamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "continuamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1647
+Word: continuare
+Story: 1. A person thinking about the action of 'continuare'. 2. Starting to perform the action 'continuare'. 3. Actively doing 'continuare' with full effort. 4. Successfully completing the action 'continuare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'continuare'.
+Panel 1: A person thinking about the action of 'continuare'
+Panel 2: Starting to perform the action 'continuare'
+Panel 3: Actively doing 'continuare' with full effort
+Panel 4: Successfully completing the action 'continuare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "continuare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1648
+Word: continuazione
+Story: 1. Discovering 'continuazione' for the first time. 2. Seeing 'continuazione' in its natural context. 3. A person interacting with 'continuazione'. 4. 'continuazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'continuazione'.
+Panel 1: Discovering 'continuazione' for the first time
+Panel 2: Seeing 'continuazione' in its natural context
+Panel 3: A person interacting with 'continuazione'
+Panel 4: 'continuazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "continuazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1649
+Word: continuità
+Story: 1. Discovering 'continuità' for the first time. 2. Seeing 'continuità' in its natural context. 3. A person interacting with 'continuità'. 4. 'continuità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'continuità'.
+Panel 1: Discovering 'continuità' for the first time
+Panel 2: Seeing 'continuità' in its natural context
+Panel 3: A person interacting with 'continuità'
+Panel 4: 'continuità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "continuità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1650
+Word: continuo
+Story: 1. A scene where something happens 'continuo'. 2. Showing the manner or degree of 'continuo'. 3. Contrasting doing something 'continuo' vs not. 4. A clear example of 'continuo' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'continuo'.
+Panel 1: A scene where something happens 'continuo'
+Panel 2: Showing the manner or degree of 'continuo'
+Panel 3: Contrasting doing something 'continuo' vs not
+Panel 4: A clear example of 'continuo' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "continuo (agg., s.m., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1651
+Word: conto
+Story: 1. Discovering 'conto' for the first time. 2. Seeing 'conto' in its natural context. 3. A person interacting with 'conto'. 4. 'conto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'conto'.
+Panel 1: Discovering 'conto' for the first time
+Panel 2: Seeing 'conto' in its natural context
+Panel 3: A person interacting with 'conto'
+Panel 4: 'conto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "conto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1652
+Word: contorno
+Story: 1. Discovering 'contorno' for the first time. 2. Seeing 'contorno' in its natural context. 3. A person interacting with 'contorno'. 4. 'contorno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contorno'.
+Panel 1: Discovering 'contorno' for the first time
+Panel 2: Seeing 'contorno' in its natural context
+Panel 3: A person interacting with 'contorno'
+Panel 4: 'contorno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contorno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1653
+Word: contrabbandiere
+Story: 1. Discovering 'contrabbandiere' for the first time. 2. Seeing 'contrabbandiere' in its natural context. 3. A person interacting with 'contrabbandiere'. 4. 'contrabbandiere' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contrabbandiere'.
+Panel 1: Discovering 'contrabbandiere' for the first time
+Panel 2: Seeing 'contrabbandiere' in its natural context
+Panel 3: A person interacting with 'contrabbandiere'
+Panel 4: 'contrabbandiere' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contrabbandiere (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1654
+Word: contrabbando
+Story: 1. Discovering 'contrabbando' for the first time. 2. Seeing 'contrabbando' in its natural context. 3. A person interacting with 'contrabbando'. 4. 'contrabbando' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'contrabbando'.
+Panel 1: Discovering 'contrabbando' for the first time
+Panel 2: Seeing 'contrabbando' in its natural context
+Panel 3: A person interacting with 'contrabbando'
+Panel 4: 'contrabbando' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "contrabbando (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

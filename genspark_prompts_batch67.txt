@@ -1,0 +1,500 @@
+Image ID: 3455
+Word: leader
+Story: 1. Discovering 'leader' for the first time. 2. Seeing 'leader' in its natural context. 3. A person interacting with 'leader'. 4. 'leader' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leader'.
+Panel 1: Discovering 'leader' for the first time
+Panel 2: Seeing 'leader' in its natural context
+Panel 3: A person interacting with 'leader'
+Panel 4: 'leader' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leader (s.m. e f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3456
+Word: lealtà
+Story: 1. Discovering 'lealtà' for the first time. 2. Seeing 'lealtà' in its natural context. 3. A person interacting with 'lealtà'. 4. 'lealtà' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lealtà'.
+Panel 1: Discovering 'lealtà' for the first time
+Panel 2: Seeing 'lealtà' in its natural context
+Panel 3: A person interacting with 'lealtà'
+Panel 4: 'lealtà' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lealtà (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3457
+Word: lebbra
+Story: 1. Discovering 'lebbra' for the first time. 2. Seeing 'lebbra' in its natural context. 3. A person interacting with 'lebbra'. 4. 'lebbra' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lebbra'.
+Panel 1: Discovering 'lebbra' for the first time
+Panel 2: Seeing 'lebbra' in its natural context
+Panel 3: A person interacting with 'lebbra'
+Panel 4: 'lebbra' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lebbra (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3458
+Word: leccare
+Story: 1. A person thinking about the action of 'leccare'. 2. Starting to perform the action 'leccare'. 3. Actively doing 'leccare' with full effort. 4. Successfully completing the action 'leccare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leccare'.
+Panel 1: A person thinking about the action of 'leccare'
+Panel 2: Starting to perform the action 'leccare'
+Panel 3: Actively doing 'leccare' with full effort
+Panel 4: Successfully completing the action 'leccare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leccare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3459
+Word: leccio
+Story: 1. Discovering 'leccio' for the first time. 2. Seeing 'leccio' in its natural context. 3. A person interacting with 'leccio'. 4. 'leccio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leccio'.
+Panel 1: Discovering 'leccio' for the first time
+Panel 2: Seeing 'leccio' in its natural context
+Panel 3: A person interacting with 'leccio'
+Panel 4: 'leccio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leccio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3460
+Word: lecito
+Story: 1. Encountering someone or something described as 'lecito'. 2. Recognizing the quality of 'lecito' in a scene. 3. A vivid example showing 'lecito' clearly. 4. Understanding the full meaning of 'lecito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lecito'.
+Panel 1: Encountering someone or something described as 'lecito'
+Panel 2: Recognizing the quality of 'lecito' in a scene
+Panel 3: A vivid example showing 'lecito' clearly
+Panel 4: Understanding the full meaning of 'lecito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lecito (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3461
+Word: lega
+Story: 1. Discovering 'lega' for the first time. 2. Seeing 'lega' in its natural context. 3. A person interacting with 'lega'. 4. 'lega' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lega'.
+Panel 1: Discovering 'lega' for the first time
+Panel 2: Seeing 'lega' in its natural context
+Panel 3: A person interacting with 'lega'
+Panel 4: 'lega' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lega (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3462
+Word: legale
+Story: 1. Encountering someone or something described as 'legale'. 2. Recognizing the quality of 'legale' in a scene. 3. A vivid example showing 'legale' clearly. 4. Understanding the full meaning of 'legale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legale'.
+Panel 1: Encountering someone or something described as 'legale'
+Panel 2: Recognizing the quality of 'legale' in a scene
+Panel 3: A vivid example showing 'legale' clearly
+Panel 4: Understanding the full meaning of 'legale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legale (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3463
+Word: legame
+Story: 1. Discovering 'legame' for the first time. 2. Seeing 'legame' in its natural context. 3. A person interacting with 'legame'. 4. 'legame' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legame'.
+Panel 1: Discovering 'legame' for the first time
+Panel 2: Seeing 'legame' in its natural context
+Panel 3: A person interacting with 'legame'
+Panel 4: 'legame' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legame (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3464
+Word: legare
+Story: 1. A person thinking about the action of 'legare'. 2. Starting to perform the action 'legare'. 3. Actively doing 'legare' with full effort. 4. Successfully completing the action 'legare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legare'.
+Panel 1: A person thinking about the action of 'legare'
+Panel 2: Starting to perform the action 'legare'
+Panel 3: Actively doing 'legare' with full effort
+Panel 4: Successfully completing the action 'legare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3465
+Word: legato
+Story: 1. Encountering someone or something described as 'legato'. 2. Recognizing the quality of 'legato' in a scene. 3. A vivid example showing 'legato' clearly. 4. Understanding the full meaning of 'legato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legato'.
+Panel 1: Encountering someone or something described as 'legato'
+Panel 2: Recognizing the quality of 'legato' in a scene
+Panel 3: A vivid example showing 'legato' clearly
+Panel 4: Understanding the full meaning of 'legato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3466
+Word: legge
+Story: 1. Discovering 'legge' for the first time. 2. Seeing 'legge' in its natural context. 3. A person interacting with 'legge'. 4. 'legge' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legge'.
+Panel 1: Discovering 'legge' for the first time
+Panel 2: Seeing 'legge' in its natural context
+Panel 3: A person interacting with 'legge'
+Panel 4: 'legge' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legge (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3467
+Word: leggenda
+Story: 1. Discovering 'leggenda' for the first time. 2. Seeing 'leggenda' in its natural context. 3. A person interacting with 'leggenda'. 4. 'leggenda' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leggenda'.
+Panel 1: Discovering 'leggenda' for the first time
+Panel 2: Seeing 'leggenda' in its natural context
+Panel 3: A person interacting with 'leggenda'
+Panel 4: 'leggenda' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leggenda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3468
+Word: leggere
+Story: 1. A person thinking about the action of 'leggere'. 2. Starting to perform the action 'leggere'. 3. Actively doing 'leggere' with full effort. 4. Successfully completing the action 'leggere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leggere'.
+Panel 1: A person thinking about the action of 'leggere'
+Panel 2: Starting to perform the action 'leggere'
+Panel 3: Actively doing 'leggere' with full effort
+Panel 4: Successfully completing the action 'leggere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leggere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3469
+Word: leggermente
+Story: 1. A scene where something happens 'leggermente'. 2. Showing the manner or degree of 'leggermente'. 3. Contrasting doing something 'leggermente' vs not. 4. A clear example of 'leggermente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leggermente'.
+Panel 1: A scene where something happens 'leggermente'
+Panel 2: Showing the manner or degree of 'leggermente'
+Panel 3: Contrasting doing something 'leggermente' vs not
+Panel 4: A clear example of 'leggermente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leggermente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3470
+Word: leggero
+Story: 1. A scene where something happens 'leggero'. 2. Showing the manner or degree of 'leggero'. 3. Contrasting doing something 'leggero' vs not. 4. A clear example of 'leggero' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leggero'.
+Panel 1: A scene where something happens 'leggero'
+Panel 2: Showing the manner or degree of 'leggero'
+Panel 3: Contrasting doing something 'leggero' vs not
+Panel 4: A clear example of 'leggero' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leggero (agg., avv., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3471
+Word: legislativo
+Story: 1. Seeing something that is clearly 'legislativo'. 2. Comparing two things, one is 'legislativo' and one is not. 3. A person pointing at something 'legislativo' and explaining. 4. A memorable example of something very 'legislativo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legislativo'.
+Panel 1: Seeing something that is clearly 'legislativo'
+Panel 2: Comparing two things, one is 'legislativo' and one is not
+Panel 3: A person pointing at something 'legislativo' and explaining
+Panel 4: A memorable example of something very 'legislativo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legislativo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3472
+Word: legittimo
+Story: 1. Seeing something that is clearly 'legittimo'. 2. Comparing two things, one is 'legittimo' and one is not. 3. A person pointing at something 'legittimo' and explaining. 4. A memorable example of something very 'legittimo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legittimo'.
+Panel 1: Seeing something that is clearly 'legittimo'
+Panel 2: Comparing two things, one is 'legittimo' and one is not
+Panel 3: A person pointing at something 'legittimo' and explaining
+Panel 4: A memorable example of something very 'legittimo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legittimo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3473
+Word: legna
+Story: 1. Discovering 'legna' for the first time. 2. Seeing 'legna' in its natural context. 3. A person interacting with 'legna'. 4. 'legna' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legna'.
+Panel 1: Discovering 'legna' for the first time
+Panel 2: Seeing 'legna' in its natural context
+Panel 3: A person interacting with 'legna'
+Panel 4: 'legna' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legna (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3474
+Word: legno
+Story: 1. Discovering 'legno' for the first time. 2. Seeing 'legno' in its natural context. 3. A person interacting with 'legno'. 4. 'legno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legno'.
+Panel 1: Discovering 'legno' for the first time
+Panel 2: Seeing 'legno' in its natural context
+Panel 3: A person interacting with 'legno'
+Panel 4: 'legno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3475
+Word: legume
+Story: 1. Discovering 'legume' for the first time. 2. Seeing 'legume' in its natural context. 3. A person interacting with 'legume'. 4. 'legume' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'legume'.
+Panel 1: Discovering 'legume' for the first time
+Panel 2: Seeing 'legume' in its natural context
+Panel 3: A person interacting with 'legume'
+Panel 4: 'legume' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "legume (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3476
+Word: lei
+Story: 1. Two speech bubbles connected by the word 'lei'. 2. A sentence on a blackboard highlighting 'lei'. 3. A teacher explaining the use of 'lei'. 4. Students practicing sentences with 'lei'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lei'.
+Panel 1: Two speech bubbles connected by the word 'lei'
+Panel 2: A sentence on a blackboard highlighting 'lei'
+Panel 3: A teacher explaining the use of 'lei'
+Panel 4: Students practicing sentences with 'lei'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lei (pron.pers. di terza pers.f.sing., s.m.inv., s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3477
+Word: lentamente
+Story: 1. A scene where something happens 'lentamente'. 2. Showing the manner or degree of 'lentamente'. 3. Contrasting doing something 'lentamente' vs not. 4. A clear example of 'lentamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lentamente'.
+Panel 1: A scene where something happens 'lentamente'
+Panel 2: Showing the manner or degree of 'lentamente'
+Panel 3: Contrasting doing something 'lentamente' vs not
+Panel 4: A clear example of 'lentamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lentamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3478
+Word: lente
+Story: 1. Discovering 'lente' for the first time. 2. Seeing 'lente' in its natural context. 3. A person interacting with 'lente'. 4. 'lente' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lente'.
+Panel 1: Discovering 'lente' for the first time
+Panel 2: Seeing 'lente' in its natural context
+Panel 3: A person interacting with 'lente'
+Panel 4: 'lente' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lente (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3479
+Word: lenticchia
+Story: 1. Discovering 'lenticchia' for the first time. 2. Seeing 'lenticchia' in its natural context. 3. A person interacting with 'lenticchia'. 4. 'lenticchia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lenticchia'.
+Panel 1: Discovering 'lenticchia' for the first time
+Panel 2: Seeing 'lenticchia' in its natural context
+Panel 3: A person interacting with 'lenticchia'
+Panel 4: 'lenticchia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lenticchia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3480
+Word: lentiggine
+Story: 1. Discovering 'lentiggine' for the first time. 2. Seeing 'lentiggine' in its natural context. 3. A person interacting with 'lentiggine'. 4. 'lentiggine' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lentiggine'.
+Panel 1: Discovering 'lentiggine' for the first time
+Panel 2: Seeing 'lentiggine' in its natural context
+Panel 3: A person interacting with 'lentiggine'
+Panel 4: 'lentiggine' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lentiggine (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3481
+Word: lento
+Story: 1. A scene where something happens 'lento'. 2. Showing the manner or degree of 'lento'. 3. Contrasting doing something 'lento' vs not. 4. A clear example of 'lento' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lento'.
+Panel 1: A scene where something happens 'lento'
+Panel 2: Showing the manner or degree of 'lento'
+Panel 3: Contrasting doing something 'lento' vs not
+Panel 4: A clear example of 'lento' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lento (agg., s.m., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3482
+Word: lenza
+Story: 1. Discovering 'lenza' for the first time. 2. Seeing 'lenza' in its natural context. 3. A person interacting with 'lenza'. 4. 'lenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lenza'.
+Panel 1: Discovering 'lenza' for the first time
+Panel 2: Seeing 'lenza' in its natural context
+Panel 3: A person interacting with 'lenza'
+Panel 4: 'lenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3483
+Word: lenzuolo
+Story: 1. Discovering 'lenzuolo' for the first time. 2. Seeing 'lenzuolo' in its natural context. 3. A person interacting with 'lenzuolo'. 4. 'lenzuolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lenzuolo'.
+Panel 1: Discovering 'lenzuolo' for the first time
+Panel 2: Seeing 'lenzuolo' in its natural context
+Panel 3: A person interacting with 'lenzuolo'
+Panel 4: 'lenzuolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lenzuolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3484
+Word: leone
+Story: 1. Discovering 'leone' for the first time. 2. Seeing 'leone' in its natural context. 3. A person interacting with 'leone'. 4. 'leone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leone'.
+Panel 1: Discovering 'leone' for the first time
+Panel 2: Seeing 'leone' in its natural context
+Panel 3: A person interacting with 'leone'
+Panel 4: 'leone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leone (s.m., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3485
+Word: leonessa
+Story: 1. Discovering 'leonessa' for the first time. 2. Seeing 'leonessa' in its natural context. 3. A person interacting with 'leonessa'. 4. 'leonessa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leonessa'.
+Panel 1: Discovering 'leonessa' for the first time
+Panel 2: Seeing 'leonessa' in its natural context
+Panel 3: A person interacting with 'leonessa'
+Panel 4: 'leonessa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leonessa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3486
+Word: leopardo
+Story: 1. Discovering 'leopardo' for the first time. 2. Seeing 'leopardo' in its natural context. 3. A person interacting with 'leopardo'. 4. 'leopardo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leopardo'.
+Panel 1: Discovering 'leopardo' for the first time
+Panel 2: Seeing 'leopardo' in its natural context
+Panel 3: A person interacting with 'leopardo'
+Panel 4: 'leopardo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leopardo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3487
+Word: lepre
+Story: 1. Discovering 'lepre' for the first time. 2. Seeing 'lepre' in its natural context. 3. A person interacting with 'lepre'. 4. 'lepre' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lepre'.
+Panel 1: Discovering 'lepre' for the first time
+Panel 2: Seeing 'lepre' in its natural context
+Panel 3: A person interacting with 'lepre'
+Panel 4: 'lepre' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lepre (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3488
+Word: lesione
+Story: 1. Discovering 'lesione' for the first time. 2. Seeing 'lesione' in its natural context. 3. A person interacting with 'lesione'. 4. 'lesione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lesione'.
+Panel 1: Discovering 'lesione' for the first time
+Panel 2: Seeing 'lesione' in its natural context
+Panel 3: A person interacting with 'lesione'
+Panel 4: 'lesione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lesione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3489
+Word: lessare
+Story: 1. A person thinking about the action of 'lessare'. 2. Starting to perform the action 'lessare'. 3. Actively doing 'lessare' with full effort. 4. Successfully completing the action 'lessare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lessare'.
+Panel 1: A person thinking about the action of 'lessare'
+Panel 2: Starting to perform the action 'lessare'
+Panel 3: Actively doing 'lessare' with full effort
+Panel 4: Successfully completing the action 'lessare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lessare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3490
+Word: lessema
+Story: 1. Discovering 'lessema' for the first time. 2. Seeing 'lessema' in its natural context. 3. A person interacting with 'lessema'. 4. 'lessema' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lessema'.
+Panel 1: Discovering 'lessema' for the first time
+Panel 2: Seeing 'lessema' in its natural context
+Panel 3: A person interacting with 'lessema'
+Panel 4: 'lessema' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lessema (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3491
+Word: lettera
+Story: 1. Discovering 'lettera' for the first time. 2. Seeing 'lettera' in its natural context. 3. A person interacting with 'lettera'. 4. 'lettera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lettera'.
+Panel 1: Discovering 'lettera' for the first time
+Panel 2: Seeing 'lettera' in its natural context
+Panel 3: A person interacting with 'lettera'
+Panel 4: 'lettera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lettera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3492
+Word: letterale
+Story: 1. Seeing something that is clearly 'letterale'. 2. Comparing two things, one is 'letterale' and one is not. 3. A person pointing at something 'letterale' and explaining. 4. A memorable example of something very 'letterale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'letterale'.
+Panel 1: Seeing something that is clearly 'letterale'
+Panel 2: Comparing two things, one is 'letterale' and one is not
+Panel 3: A person pointing at something 'letterale' and explaining
+Panel 4: A memorable example of something very 'letterale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "letterale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3493
+Word: letteralmente
+Story: 1. A scene where something happens 'letteralmente'. 2. Showing the manner or degree of 'letteralmente'. 3. Contrasting doing something 'letteralmente' vs not. 4. A clear example of 'letteralmente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'letteralmente'.
+Panel 1: A scene where something happens 'letteralmente'
+Panel 2: Showing the manner or degree of 'letteralmente'
+Panel 3: Contrasting doing something 'letteralmente' vs not
+Panel 4: A clear example of 'letteralmente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "letteralmente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3494
+Word: letterario
+Story: 1. Seeing something that is clearly 'letterario'. 2. Comparing two things, one is 'letterario' and one is not. 3. A person pointing at something 'letterario' and explaining. 4. A memorable example of something very 'letterario'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'letterario'.
+Panel 1: Seeing something that is clearly 'letterario'
+Panel 2: Comparing two things, one is 'letterario' and one is not
+Panel 3: A person pointing at something 'letterario' and explaining
+Panel 4: A memorable example of something very 'letterario'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "letterario (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3495
+Word: letteratura
+Story: 1. Discovering 'letteratura' for the first time. 2. Seeing 'letteratura' in its natural context. 3. A person interacting with 'letteratura'. 4. 'letteratura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'letteratura'.
+Panel 1: Discovering 'letteratura' for the first time
+Panel 2: Seeing 'letteratura' in its natural context
+Panel 3: A person interacting with 'letteratura'
+Panel 4: 'letteratura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "letteratura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3496
+Word: letto
+Story: 1. Discovering 'letto' for the first time. 2. Seeing 'letto' in its natural context. 3. A person interacting with 'letto'. 4. 'letto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'letto'.
+Panel 1: Discovering 'letto' for the first time
+Panel 2: Seeing 'letto' in its natural context
+Panel 3: A person interacting with 'letto'
+Panel 4: 'letto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "letto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3497
+Word: lettone
+Story: 1. Discovering 'lettone' for the first time. 2. Seeing 'lettone' in its natural context. 3. A person interacting with 'lettone'. 4. 'lettone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lettone'.
+Panel 1: Discovering 'lettone' for the first time
+Panel 2: Seeing 'lettone' in its natural context
+Panel 3: A person interacting with 'lettone'
+Panel 4: 'lettone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lettone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3498
+Word: lettore
+Story: 1. Discovering 'lettore' for the first time. 2. Seeing 'lettore' in its natural context. 3. A person interacting with 'lettore'. 4. 'lettore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lettore'.
+Panel 1: Discovering 'lettore' for the first time
+Panel 2: Seeing 'lettore' in its natural context
+Panel 3: A person interacting with 'lettore'
+Panel 4: 'lettore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lettore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3499
+Word: lettura
+Story: 1. Discovering 'lettura' for the first time. 2. Seeing 'lettura' in its natural context. 3. A person interacting with 'lettura'. 4. 'lettura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lettura'.
+Panel 1: Discovering 'lettura' for the first time
+Panel 2: Seeing 'lettura' in its natural context
+Panel 3: A person interacting with 'lettura'
+Panel 4: 'lettura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lettura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3500
+Word: leva
+Story: 1. Discovering 'leva' for the first time. 2. Seeing 'leva' in its natural context. 3. A person interacting with 'leva'. 4. 'leva' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'leva'.
+Panel 1: Discovering 'leva' for the first time
+Panel 2: Seeing 'leva' in its natural context
+Panel 3: A person interacting with 'leva'
+Panel 4: 'leva' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "leva (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3501
+Word: levare
+Story: 1. A person thinking about the action of 'levare'. 2. Starting to perform the action 'levare'. 3. Actively doing 'levare' with full effort. 4. Successfully completing the action 'levare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'levare'.
+Panel 1: A person thinking about the action of 'levare'
+Panel 2: Starting to perform the action 'levare'
+Panel 3: Actively doing 'levare' with full effort
+Panel 4: Successfully completing the action 'levare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "levare (v.tr., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3502
+Word: lezione
+Story: 1. Discovering 'lezione' for the first time. 2. Seeing 'lezione' in its natural context. 3. A person interacting with 'lezione'. 4. 'lezione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lezione'.
+Panel 1: Discovering 'lezione' for the first time
+Panel 2: Seeing 'lezione' in its natural context
+Panel 3: A person interacting with 'lezione'
+Panel 4: 'lezione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lezione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3503
+Word: li
+Story: 1. Two speech bubbles connected by the word 'li'. 2. A sentence on a blackboard highlighting 'li'. 3. A teacher explaining the use of 'li'. 4. Students practicing sentences with 'li'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'li'.
+Panel 1: Two speech bubbles connected by the word 'li'
+Panel 2: A sentence on a blackboard highlighting 'li'
+Panel 3: A teacher explaining the use of 'li'
+Panel 4: Students practicing sentences with 'li'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "li (pron.pers. di terza pers.m.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3504
+Word: lì
+Story: 1. A scene where something happens 'lì'. 2. Showing the manner or degree of 'lì'. 3. Contrasting doing something 'lì' vs not. 4. A clear example of 'lì' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lì'.
+Panel 1: A scene where something happens 'lì'
+Panel 2: Showing the manner or degree of 'lì'
+Panel 3: Contrasting doing something 'lì' vs not
+Panel 4: A clear example of 'lì' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lì (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

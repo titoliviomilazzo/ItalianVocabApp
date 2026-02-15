@@ -1,0 +1,500 @@
+Image ID: 1355
+Word: cloro
+Story: 1. Discovering 'cloro' for the first time. 2. Seeing 'cloro' in its natural context. 3. A person interacting with 'cloro'. 4. 'cloro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cloro'.
+Panel 1: Discovering 'cloro' for the first time
+Panel 2: Seeing 'cloro' in its natural context
+Panel 3: A person interacting with 'cloro'
+Panel 4: 'cloro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cloro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1356
+Word: club
+Story: 1. Discovering 'club' for the first time. 2. Seeing 'club' in its natural context. 3. A person interacting with 'club'. 4. 'club' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'club'.
+Panel 1: Discovering 'club' for the first time
+Panel 2: Seeing 'club' in its natural context
+Panel 3: A person interacting with 'club'
+Panel 4: 'club' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "club (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1357
+Word: cobra
+Story: 1. Discovering 'cobra' for the first time. 2. Seeing 'cobra' in its natural context. 3. A person interacting with 'cobra'. 4. 'cobra' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cobra'.
+Panel 1: Discovering 'cobra' for the first time
+Panel 2: Seeing 'cobra' in its natural context
+Panel 3: A person interacting with 'cobra'
+Panel 4: 'cobra' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cobra (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1358
+Word: cocaina
+Story: 1. Discovering 'cocaina' for the first time. 2. Seeing 'cocaina' in its natural context. 3. A person interacting with 'cocaina'. 4. 'cocaina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cocaina'.
+Panel 1: Discovering 'cocaina' for the first time
+Panel 2: Seeing 'cocaina' in its natural context
+Panel 3: A person interacting with 'cocaina'
+Panel 4: 'cocaina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cocaina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1359
+Word: coccinella
+Story: 1. Discovering 'coccinella' for the first time. 2. Seeing 'coccinella' in its natural context. 3. A person interacting with 'coccinella'. 4. 'coccinella' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coccinella'.
+Panel 1: Discovering 'coccinella' for the first time
+Panel 2: Seeing 'coccinella' in its natural context
+Panel 3: A person interacting with 'coccinella'
+Panel 4: 'coccinella' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coccinella (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1360
+Word: coccio
+Story: 1. Discovering 'coccio' for the first time. 2. Seeing 'coccio' in its natural context. 3. A person interacting with 'coccio'. 4. 'coccio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coccio'.
+Panel 1: Discovering 'coccio' for the first time
+Panel 2: Seeing 'coccio' in its natural context
+Panel 3: A person interacting with 'coccio'
+Panel 4: 'coccio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coccio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1361
+Word: cocciuto
+Story: 1. Encountering someone or something described as 'cocciuto'. 2. Recognizing the quality of 'cocciuto' in a scene. 3. A vivid example showing 'cocciuto' clearly. 4. Understanding the full meaning of 'cocciuto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cocciuto'.
+Panel 1: Encountering someone or something described as 'cocciuto'
+Panel 2: Recognizing the quality of 'cocciuto' in a scene
+Panel 3: A vivid example showing 'cocciuto' clearly
+Panel 4: Understanding the full meaning of 'cocciuto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cocciuto (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1362
+Word: cocco
+Story: 1. Discovering 'cocco' for the first time. 2. Seeing 'cocco' in its natural context. 3. A person interacting with 'cocco'. 4. 'cocco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cocco'.
+Panel 1: Discovering 'cocco' for the first time
+Panel 2: Seeing 'cocco' in its natural context
+Panel 3: A person interacting with 'cocco'
+Panel 4: 'cocco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cocco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1363
+Word: coccodrillo
+Story: 1. Discovering 'coccodrillo' for the first time. 2. Seeing 'coccodrillo' in its natural context. 3. A person interacting with 'coccodrillo'. 4. 'coccodrillo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coccodrillo'.
+Panel 1: Discovering 'coccodrillo' for the first time
+Panel 2: Seeing 'coccodrillo' in its natural context
+Panel 3: A person interacting with 'coccodrillo'
+Panel 4: 'coccodrillo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coccodrillo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1364
+Word: coccola
+Story: 1. Discovering 'coccola' for the first time. 2. Seeing 'coccola' in its natural context. 3. A person interacting with 'coccola'. 4. 'coccola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coccola'.
+Panel 1: Discovering 'coccola' for the first time
+Panel 2: Seeing 'coccola' in its natural context
+Panel 3: A person interacting with 'coccola'
+Panel 4: 'coccola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coccola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1365
+Word: coccolare
+Story: 1. A person thinking about the action of 'coccolare'. 2. Starting to perform the action 'coccolare'. 3. Actively doing 'coccolare' with full effort. 4. Successfully completing the action 'coccolare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coccolare'.
+Panel 1: A person thinking about the action of 'coccolare'
+Panel 2: Starting to perform the action 'coccolare'
+Panel 3: Actively doing 'coccolare' with full effort
+Panel 4: Successfully completing the action 'coccolare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coccolare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1366
+Word: cocomero
+Story: 1. Discovering 'cocomero' for the first time. 2. Seeing 'cocomero' in its natural context. 3. A person interacting with 'cocomero'. 4. 'cocomero' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cocomero'.
+Panel 1: Discovering 'cocomero' for the first time
+Panel 2: Seeing 'cocomero' in its natural context
+Panel 3: A person interacting with 'cocomero'
+Panel 4: 'cocomero' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cocomero (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1367
+Word: coda
+Story: 1. Discovering 'coda' for the first time. 2. Seeing 'coda' in its natural context. 3. A person interacting with 'coda'. 4. 'coda' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coda'.
+Panel 1: Discovering 'coda' for the first time
+Panel 2: Seeing 'coda' in its natural context
+Panel 3: A person interacting with 'coda'
+Panel 4: 'coda' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1368
+Word: codice
+Story: 1. Discovering 'codice' for the first time. 2. Seeing 'codice' in its natural context. 3. A person interacting with 'codice'. 4. 'codice' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'codice'.
+Panel 1: Discovering 'codice' for the first time
+Panel 2: Seeing 'codice' in its natural context
+Panel 3: A person interacting with 'codice'
+Panel 4: 'codice' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "codice (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1369
+Word: coerente
+Story: 1. Seeing something that is clearly 'coerente'. 2. Comparing two things, one is 'coerente' and one is not. 3. A person pointing at something 'coerente' and explaining. 4. A memorable example of something very 'coerente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coerente'.
+Panel 1: Seeing something that is clearly 'coerente'
+Panel 2: Comparing two things, one is 'coerente' and one is not
+Panel 3: A person pointing at something 'coerente' and explaining
+Panel 4: A memorable example of something very 'coerente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coerente (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1370
+Word: cofano
+Story: 1. Discovering 'cofano' for the first time. 2. Seeing 'cofano' in its natural context. 3. A person interacting with 'cofano'. 4. 'cofano' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cofano'.
+Panel 1: Discovering 'cofano' for the first time
+Panel 2: Seeing 'cofano' in its natural context
+Panel 3: A person interacting with 'cofano'
+Panel 4: 'cofano' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cofano (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1371
+Word: cogliere
+Story: 1. A person thinking about the action of 'cogliere'. 2. Starting to perform the action 'cogliere'. 3. Actively doing 'cogliere' with full effort. 4. Successfully completing the action 'cogliere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cogliere'.
+Panel 1: A person thinking about the action of 'cogliere'
+Panel 2: Starting to perform the action 'cogliere'
+Panel 3: Actively doing 'cogliere' with full effort
+Panel 4: Successfully completing the action 'cogliere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cogliere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1372
+Word: coglione
+Story: 1. Discovering 'coglione' for the first time. 2. Seeing 'coglione' in its natural context. 3. A person interacting with 'coglione'. 4. 'coglione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coglione'.
+Panel 1: Discovering 'coglione' for the first time
+Panel 2: Seeing 'coglione' in its natural context
+Panel 3: A person interacting with 'coglione'
+Panel 4: 'coglione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coglione (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1373
+Word: cognato
+Story: 1. Encountering someone or something described as 'cognato'. 2. Recognizing the quality of 'cognato' in a scene. 3. A vivid example showing 'cognato' clearly. 4. Understanding the full meaning of 'cognato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cognato'.
+Panel 1: Encountering someone or something described as 'cognato'
+Panel 2: Recognizing the quality of 'cognato' in a scene
+Panel 3: A vivid example showing 'cognato' clearly
+Panel 4: Understanding the full meaning of 'cognato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cognato (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1374
+Word: cognome
+Story: 1. Discovering 'cognome' for the first time. 2. Seeing 'cognome' in its natural context. 3. A person interacting with 'cognome'. 4. 'cognome' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cognome'.
+Panel 1: Discovering 'cognome' for the first time
+Panel 2: Seeing 'cognome' in its natural context
+Panel 3: A person interacting with 'cognome'
+Panel 4: 'cognome' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cognome (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1375
+Word: coincidenza
+Story: 1. Discovering 'coincidenza' for the first time. 2. Seeing 'coincidenza' in its natural context. 3. A person interacting with 'coincidenza'. 4. 'coincidenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coincidenza'.
+Panel 1: Discovering 'coincidenza' for the first time
+Panel 2: Seeing 'coincidenza' in its natural context
+Panel 3: A person interacting with 'coincidenza'
+Panel 4: 'coincidenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coincidenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1376
+Word: coincidere
+Story: 1. A person thinking about the action of 'coincidere'. 2. Starting to perform the action 'coincidere'. 3. Actively doing 'coincidere' with full effort. 4. Successfully completing the action 'coincidere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coincidere'.
+Panel 1: A person thinking about the action of 'coincidere'
+Panel 2: Starting to perform the action 'coincidere'
+Panel 3: Actively doing 'coincidere' with full effort
+Panel 4: Successfully completing the action 'coincidere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coincidere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1377
+Word: coinvolgere
+Story: 1. A person thinking about the action of 'coinvolgere'. 2. Starting to perform the action 'coinvolgere'. 3. Actively doing 'coinvolgere' with full effort. 4. Successfully completing the action 'coinvolgere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coinvolgere'.
+Panel 1: A person thinking about the action of 'coinvolgere'
+Panel 2: Starting to perform the action 'coinvolgere'
+Panel 3: Actively doing 'coinvolgere' with full effort
+Panel 4: Successfully completing the action 'coinvolgere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coinvolgere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1378
+Word: coinvolgimento
+Story: 1. Discovering 'coinvolgimento' for the first time. 2. Seeing 'coinvolgimento' in its natural context. 3. A person interacting with 'coinvolgimento'. 4. 'coinvolgimento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'coinvolgimento'.
+Panel 1: Discovering 'coinvolgimento' for the first time
+Panel 2: Seeing 'coinvolgimento' in its natural context
+Panel 3: A person interacting with 'coinvolgimento'
+Panel 4: 'coinvolgimento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "coinvolgimento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1379
+Word: colare
+Story: 1. A person thinking about the action of 'colare'. 2. Starting to perform the action 'colare'. 3. Actively doing 'colare' with full effort. 4. Successfully completing the action 'colare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'colare'.
+Panel 1: A person thinking about the action of 'colare'
+Panel 2: Starting to perform the action 'colare'
+Panel 3: Actively doing 'colare' with full effort
+Panel 4: Successfully completing the action 'colare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "colare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1380
+Word: colata
+Story: 1. Discovering 'colata' for the first time. 2. Seeing 'colata' in its natural context. 3. A person interacting with 'colata'. 4. 'colata' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'colata'.
+Panel 1: Discovering 'colata' for the first time
+Panel 2: Seeing 'colata' in its natural context
+Panel 3: A person interacting with 'colata'
+Panel 4: 'colata' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "colata (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1381
+Word: colazione
+Story: 1. Discovering 'colazione' for the first time. 2. Seeing 'colazione' in its natural context. 3. A person interacting with 'colazione'. 4. 'colazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'colazione'.
+Panel 1: Discovering 'colazione' for the first time
+Panel 2: Seeing 'colazione' in its natural context
+Panel 3: A person interacting with 'colazione'
+Panel 4: 'colazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "colazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1382
+Word: colera
+Story: 1. Discovering 'colera' for the first time. 2. Seeing 'colera' in its natural context. 3. A person interacting with 'colera'. 4. 'colera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'colera'.
+Panel 1: Discovering 'colera' for the first time
+Panel 2: Seeing 'colera' in its natural context
+Panel 3: A person interacting with 'colera'
+Panel 4: 'colera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "colera (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1383
+Word: colica
+Story: 1. Discovering 'colica' for the first time. 2. Seeing 'colica' in its natural context. 3. A person interacting with 'colica'. 4. 'colica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'colica'.
+Panel 1: Discovering 'colica' for the first time
+Panel 2: Seeing 'colica' in its natural context
+Panel 3: A person interacting with 'colica'
+Panel 4: 'colica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "colica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1384
+Word: colino
+Story: 1. Discovering 'colino' for the first time. 2. Seeing 'colino' in its natural context. 3. A person interacting with 'colino'. 4. 'colino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'colino'.
+Panel 1: Discovering 'colino' for the first time
+Panel 2: Seeing 'colino' in its natural context
+Panel 3: A person interacting with 'colino'
+Panel 4: 'colino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "colino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1385
+Word: colla
+Story: 1. Discovering 'colla' for the first time. 2. Seeing 'colla' in its natural context. 3. A person interacting with 'colla'. 4. 'colla' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'colla'.
+Panel 1: Discovering 'colla' for the first time
+Panel 2: Seeing 'colla' in its natural context
+Panel 3: A person interacting with 'colla'
+Panel 4: 'colla' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "colla (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1386
+Word: collaborare
+Story: 1. A person thinking about the action of 'collaborare'. 2. Starting to perform the action 'collaborare'. 3. Actively doing 'collaborare' with full effort. 4. Successfully completing the action 'collaborare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collaborare'.
+Panel 1: A person thinking about the action of 'collaborare'
+Panel 2: Starting to perform the action 'collaborare'
+Panel 3: Actively doing 'collaborare' with full effort
+Panel 4: Successfully completing the action 'collaborare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collaborare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1387
+Word: collaboratore
+Story: 1. Discovering 'collaboratore' for the first time. 2. Seeing 'collaboratore' in its natural context. 3. A person interacting with 'collaboratore'. 4. 'collaboratore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collaboratore'.
+Panel 1: Discovering 'collaboratore' for the first time
+Panel 2: Seeing 'collaboratore' in its natural context
+Panel 3: A person interacting with 'collaboratore'
+Panel 4: 'collaboratore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collaboratore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1388
+Word: collaborazione
+Story: 1. Discovering 'collaborazione' for the first time. 2. Seeing 'collaborazione' in its natural context. 3. A person interacting with 'collaborazione'. 4. 'collaborazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collaborazione'.
+Panel 1: Discovering 'collaborazione' for the first time
+Panel 2: Seeing 'collaborazione' in its natural context
+Panel 3: A person interacting with 'collaborazione'
+Panel 4: 'collaborazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collaborazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1389
+Word: collana
+Story: 1. Discovering 'collana' for the first time. 2. Seeing 'collana' in its natural context. 3. A person interacting with 'collana'. 4. 'collana' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collana'.
+Panel 1: Discovering 'collana' for the first time
+Panel 2: Seeing 'collana' in its natural context
+Panel 3: A person interacting with 'collana'
+Panel 4: 'collana' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collana (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1390
+Word: collant
+Story: 1. Encountering someone or something described as 'collant'. 2. Recognizing the quality of 'collant' in a scene. 3. A vivid example showing 'collant' clearly. 4. Understanding the full meaning of 'collant'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collant'.
+Panel 1: Encountering someone or something described as 'collant'
+Panel 2: Recognizing the quality of 'collant' in a scene
+Panel 3: A vivid example showing 'collant' clearly
+Panel 4: Understanding the full meaning of 'collant'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collant (s.m.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1391
+Word: collare
+Story: 1. Discovering 'collare' for the first time. 2. Seeing 'collare' in its natural context. 3. A person interacting with 'collare'. 4. 'collare' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collare'.
+Panel 1: Discovering 'collare' for the first time
+Panel 2: Seeing 'collare' in its natural context
+Panel 3: A person interacting with 'collare'
+Panel 4: 'collare' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collare (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1392
+Word: collasso
+Story: 1. Discovering 'collasso' for the first time. 2. Seeing 'collasso' in its natural context. 3. A person interacting with 'collasso'. 4. 'collasso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collasso'.
+Panel 1: Discovering 'collasso' for the first time
+Panel 2: Seeing 'collasso' in its natural context
+Panel 3: A person interacting with 'collasso'
+Panel 4: 'collasso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collasso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1393
+Word: collaterale
+Story: 1. Encountering someone or something described as 'collaterale'. 2. Recognizing the quality of 'collaterale' in a scene. 3. A vivid example showing 'collaterale' clearly. 4. Understanding the full meaning of 'collaterale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collaterale'.
+Panel 1: Encountering someone or something described as 'collaterale'
+Panel 2: Recognizing the quality of 'collaterale' in a scene
+Panel 3: A vivid example showing 'collaterale' clearly
+Panel 4: Understanding the full meaning of 'collaterale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collaterale (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1394
+Word: colle
+Story: 1. Discovering 'colle' for the first time. 2. Seeing 'colle' in its natural context. 3. A person interacting with 'colle'. 4. 'colle' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'colle'.
+Panel 1: Discovering 'colle' for the first time
+Panel 2: Seeing 'colle' in its natural context
+Panel 3: A person interacting with 'colle'
+Panel 4: 'colle' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "colle (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1395
+Word: collega
+Story: 1. Discovering 'collega' for the first time. 2. Seeing 'collega' in its natural context. 3. A person interacting with 'collega'. 4. 'collega' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collega'.
+Panel 1: Discovering 'collega' for the first time
+Panel 2: Seeing 'collega' in its natural context
+Panel 3: A person interacting with 'collega'
+Panel 4: 'collega' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collega (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1396
+Word: collegamento
+Story: 1. Discovering 'collegamento' for the first time. 2. Seeing 'collegamento' in its natural context. 3. A person interacting with 'collegamento'. 4. 'collegamento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collegamento'.
+Panel 1: Discovering 'collegamento' for the first time
+Panel 2: Seeing 'collegamento' in its natural context
+Panel 3: A person interacting with 'collegamento'
+Panel 4: 'collegamento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collegamento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1397
+Word: collegare
+Story: 1. A person thinking about the action of 'collegare'. 2. Starting to perform the action 'collegare'. 3. Actively doing 'collegare' with full effort. 4. Successfully completing the action 'collegare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collegare'.
+Panel 1: A person thinking about the action of 'collegare'
+Panel 2: Starting to perform the action 'collegare'
+Panel 3: Actively doing 'collegare' with full effort
+Panel 4: Successfully completing the action 'collegare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collegare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1398
+Word: collegio
+Story: 1. Discovering 'collegio' for the first time. 2. Seeing 'collegio' in its natural context. 3. A person interacting with 'collegio'. 4. 'collegio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collegio'.
+Panel 1: Discovering 'collegio' for the first time
+Panel 2: Seeing 'collegio' in its natural context
+Panel 3: A person interacting with 'collegio'
+Panel 4: 'collegio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collegio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1399
+Word: collera
+Story: 1. Discovering 'collera' for the first time. 2. Seeing 'collera' in its natural context. 3. A person interacting with 'collera'. 4. 'collera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collera'.
+Panel 1: Discovering 'collera' for the first time
+Panel 2: Seeing 'collera' in its natural context
+Panel 3: A person interacting with 'collera'
+Panel 4: 'collera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1400
+Word: colletta
+Story: 1. Discovering 'colletta' for the first time. 2. Seeing 'colletta' in its natural context. 3. A person interacting with 'colletta'. 4. 'colletta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'colletta'.
+Panel 1: Discovering 'colletta' for the first time
+Panel 2: Seeing 'colletta' in its natural context
+Panel 3: A person interacting with 'colletta'
+Panel 4: 'colletta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "colletta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1401
+Word: collettivo
+Story: 1. Encountering someone or something described as 'collettivo'. 2. Recognizing the quality of 'collettivo' in a scene. 3. A vivid example showing 'collettivo' clearly. 4. Understanding the full meaning of 'collettivo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collettivo'.
+Panel 1: Encountering someone or something described as 'collettivo'
+Panel 2: Recognizing the quality of 'collettivo' in a scene
+Panel 3: A vivid example showing 'collettivo' clearly
+Panel 4: Understanding the full meaning of 'collettivo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collettivo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1402
+Word: collezione
+Story: 1. Discovering 'collezione' for the first time. 2. Seeing 'collezione' in its natural context. 3. A person interacting with 'collezione'. 4. 'collezione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collezione'.
+Panel 1: Discovering 'collezione' for the first time
+Panel 2: Seeing 'collezione' in its natural context
+Panel 3: A person interacting with 'collezione'
+Panel 4: 'collezione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collezione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1403
+Word: collina
+Story: 1. Discovering 'collina' for the first time. 2. Seeing 'collina' in its natural context. 3. A person interacting with 'collina'. 4. 'collina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collina'.
+Panel 1: Discovering 'collina' for the first time
+Panel 2: Seeing 'collina' in its natural context
+Panel 3: A person interacting with 'collina'
+Panel 4: 'collina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1404
+Word: collo
+Story: 1. Discovering 'collo' for the first time. 2. Seeing 'collo' in its natural context. 3. A person interacting with 'collo'. 4. 'collo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'collo'.
+Panel 1: Discovering 'collo' for the first time
+Panel 2: Seeing 'collo' in its natural context
+Panel 3: A person interacting with 'collo'
+Panel 4: 'collo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "collo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

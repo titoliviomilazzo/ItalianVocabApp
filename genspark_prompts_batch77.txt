@@ -1,0 +1,500 @@
+Image ID: 3955
+Word: mossa
+Story: 1. Discovering 'mossa' for the first time. 2. Seeing 'mossa' in its natural context. 3. A person interacting with 'mossa'. 4. 'mossa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mossa'.
+Panel 1: Discovering 'mossa' for the first time
+Panel 2: Seeing 'mossa' in its natural context
+Panel 3: A person interacting with 'mossa'
+Panel 4: 'mossa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mossa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3956
+Word: mostarda
+Story: 1. Discovering 'mostarda' for the first time. 2. Seeing 'mostarda' in its natural context. 3. A person interacting with 'mostarda'. 4. 'mostarda' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mostarda'.
+Panel 1: Discovering 'mostarda' for the first time
+Panel 2: Seeing 'mostarda' in its natural context
+Panel 3: A person interacting with 'mostarda'
+Panel 4: 'mostarda' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mostarda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3957
+Word: mostra
+Story: 1. Discovering 'mostra' for the first time. 2. Seeing 'mostra' in its natural context. 3. A person interacting with 'mostra'. 4. 'mostra' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mostra'.
+Panel 1: Discovering 'mostra' for the first time
+Panel 2: Seeing 'mostra' in its natural context
+Panel 3: A person interacting with 'mostra'
+Panel 4: 'mostra' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mostra (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3958
+Word: mostrare
+Story: 1. A person thinking about the action of 'mostrare'. 2. Starting to perform the action 'mostrare'. 3. Actively doing 'mostrare' with full effort. 4. Successfully completing the action 'mostrare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mostrare'.
+Panel 1: A person thinking about the action of 'mostrare'
+Panel 2: Starting to perform the action 'mostrare'
+Panel 3: Actively doing 'mostrare' with full effort
+Panel 4: Successfully completing the action 'mostrare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mostrare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3959
+Word: mostro
+Story: 1. Discovering 'mostro' for the first time. 2. Seeing 'mostro' in its natural context. 3. A person interacting with 'mostro'. 4. 'mostro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mostro'.
+Panel 1: Discovering 'mostro' for the first time
+Panel 2: Seeing 'mostro' in its natural context
+Panel 3: A person interacting with 'mostro'
+Panel 4: 'mostro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mostro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3960
+Word: motel
+Story: 1. Discovering 'motel' for the first time. 2. Seeing 'motel' in its natural context. 3. A person interacting with 'motel'. 4. 'motel' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motel'.
+Panel 1: Discovering 'motel' for the first time
+Panel 2: Seeing 'motel' in its natural context
+Panel 3: A person interacting with 'motel'
+Panel 4: 'motel' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motel (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3961
+Word: motivare
+Story: 1. A person thinking about the action of 'motivare'. 2. Starting to perform the action 'motivare'. 3. Actively doing 'motivare' with full effort. 4. Successfully completing the action 'motivare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motivare'.
+Panel 1: A person thinking about the action of 'motivare'
+Panel 2: Starting to perform the action 'motivare'
+Panel 3: Actively doing 'motivare' with full effort
+Panel 4: Successfully completing the action 'motivare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motivare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3962
+Word: motivazione
+Story: 1. Discovering 'motivazione' for the first time. 2. Seeing 'motivazione' in its natural context. 3. A person interacting with 'motivazione'. 4. 'motivazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motivazione'.
+Panel 1: Discovering 'motivazione' for the first time
+Panel 2: Seeing 'motivazione' in its natural context
+Panel 3: A person interacting with 'motivazione'
+Panel 4: 'motivazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motivazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3963
+Word: motivo
+Story: 1. Discovering 'motivo' for the first time. 2. Seeing 'motivo' in its natural context. 3. A person interacting with 'motivo'. 4. 'motivo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motivo'.
+Panel 1: Discovering 'motivo' for the first time
+Panel 2: Seeing 'motivo' in its natural context
+Panel 3: A person interacting with 'motivo'
+Panel 4: 'motivo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motivo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3964
+Word: moto
+Story: 1. Discovering 'moto' for the first time. 2. Seeing 'moto' in its natural context. 3. A person interacting with 'moto'. 4. 'moto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'moto'.
+Panel 1: Discovering 'moto' for the first time
+Panel 2: Seeing 'moto' in its natural context
+Panel 3: A person interacting with 'moto'
+Panel 4: 'moto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "moto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3965
+Word: moto
+Story: 1. Discovering 'moto' for the first time. 2. Seeing 'moto' in its natural context. 3. A person interacting with 'moto'. 4. 'moto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'moto'.
+Panel 1: Discovering 'moto' for the first time
+Panel 2: Seeing 'moto' in its natural context
+Panel 3: A person interacting with 'moto'
+Panel 4: 'moto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "moto (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3966
+Word: motociclismo
+Story: 1. Discovering 'motociclismo' for the first time. 2. Seeing 'motociclismo' in its natural context. 3. A person interacting with 'motociclismo'. 4. 'motociclismo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motociclismo'.
+Panel 1: Discovering 'motociclismo' for the first time
+Panel 2: Seeing 'motociclismo' in its natural context
+Panel 3: A person interacting with 'motociclismo'
+Panel 4: 'motociclismo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motociclismo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3967
+Word: motociclista
+Story: 1. Encountering someone or something described as 'motociclista'. 2. Recognizing the quality of 'motociclista' in a scene. 3. A vivid example showing 'motociclista' clearly. 4. Understanding the full meaning of 'motociclista'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motociclista'.
+Panel 1: Encountering someone or something described as 'motociclista'
+Panel 2: Recognizing the quality of 'motociclista' in a scene
+Panel 3: A vivid example showing 'motociclista' clearly
+Panel 4: Understanding the full meaning of 'motociclista'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motociclista (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3968
+Word: motore
+Story: 1. Encountering someone or something described as 'motore'. 2. Recognizing the quality of 'motore' in a scene. 3. A vivid example showing 'motore' clearly. 4. Understanding the full meaning of 'motore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motore'.
+Panel 1: Encountering someone or something described as 'motore'
+Panel 2: Recognizing the quality of 'motore' in a scene
+Panel 3: A vivid example showing 'motore' clearly
+Panel 4: Understanding the full meaning of 'motore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motore (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3969
+Word: motorino
+Story: 1. Discovering 'motorino' for the first time. 2. Seeing 'motorino' in its natural context. 3. A person interacting with 'motorino'. 4. 'motorino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motorino'.
+Panel 1: Discovering 'motorino' for the first time
+Panel 2: Seeing 'motorino' in its natural context
+Panel 3: A person interacting with 'motorino'
+Panel 4: 'motorino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motorino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3970
+Word: motoscafo
+Story: 1. Discovering 'motoscafo' for the first time. 2. Seeing 'motoscafo' in its natural context. 3. A person interacting with 'motoscafo'. 4. 'motoscafo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motoscafo'.
+Panel 1: Discovering 'motoscafo' for the first time
+Panel 2: Seeing 'motoscafo' in its natural context
+Panel 3: A person interacting with 'motoscafo'
+Panel 4: 'motoscafo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motoscafo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3971
+Word: mousse
+Story: 1. Discovering 'mousse' for the first time. 2. Seeing 'mousse' in its natural context. 3. A person interacting with 'mousse'. 4. 'mousse' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mousse'.
+Panel 1: Discovering 'mousse' for the first time
+Panel 2: Seeing 'mousse' in its natural context
+Panel 3: A person interacting with 'mousse'
+Panel 4: 'mousse' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mousse (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3972
+Word: movimento
+Story: 1. Discovering 'movimento' for the first time. 2. Seeing 'movimento' in its natural context. 3. A person interacting with 'movimento'. 4. 'movimento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'movimento'.
+Panel 1: Discovering 'movimento' for the first time
+Panel 2: Seeing 'movimento' in its natural context
+Panel 3: A person interacting with 'movimento'
+Panel 4: 'movimento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "movimento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3973
+Word: mozzarella
+Story: 1. Discovering 'mozzarella' for the first time. 2. Seeing 'mozzarella' in its natural context. 3. A person interacting with 'mozzarella'. 4. 'mozzarella' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mozzarella'.
+Panel 1: Discovering 'mozzarella' for the first time
+Panel 2: Seeing 'mozzarella' in its natural context
+Panel 3: A person interacting with 'mozzarella'
+Panel 4: 'mozzarella' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mozzarella (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3974
+Word: mucca
+Story: 1. Discovering 'mucca' for the first time. 2. Seeing 'mucca' in its natural context. 3. A person interacting with 'mucca'. 4. 'mucca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mucca'.
+Panel 1: Discovering 'mucca' for the first time
+Panel 2: Seeing 'mucca' in its natural context
+Panel 3: A person interacting with 'mucca'
+Panel 4: 'mucca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mucca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3975
+Word: mucchio
+Story: 1. Discovering 'mucchio' for the first time. 2. Seeing 'mucchio' in its natural context. 3. A person interacting with 'mucchio'. 4. 'mucchio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mucchio'.
+Panel 1: Discovering 'mucchio' for the first time
+Panel 2: Seeing 'mucchio' in its natural context
+Panel 3: A person interacting with 'mucchio'
+Panel 4: 'mucchio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mucchio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3976
+Word: muggire
+Story: 1. A person thinking about the action of 'muggire'. 2. Starting to perform the action 'muggire'. 3. Actively doing 'muggire' with full effort. 4. Successfully completing the action 'muggire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muggire'.
+Panel 1: A person thinking about the action of 'muggire'
+Panel 2: Starting to perform the action 'muggire'
+Panel 3: Actively doing 'muggire' with full effort
+Panel 4: Successfully completing the action 'muggire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muggire (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3977
+Word: muggito
+Story: 1. Encountering someone or something described as 'muggito'. 2. Recognizing the quality of 'muggito' in a scene. 3. A vivid example showing 'muggito' clearly. 4. Understanding the full meaning of 'muggito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muggito'.
+Panel 1: Encountering someone or something described as 'muggito'
+Panel 2: Recognizing the quality of 'muggito' in a scene
+Panel 3: A vivid example showing 'muggito' clearly
+Panel 4: Understanding the full meaning of 'muggito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muggito (p.pass., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3978
+Word: mugnaio
+Story: 1. Discovering 'mugnaio' for the first time. 2. Seeing 'mugnaio' in its natural context. 3. A person interacting with 'mugnaio'. 4. 'mugnaio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mugnaio'.
+Panel 1: Discovering 'mugnaio' for the first time
+Panel 2: Seeing 'mugnaio' in its natural context
+Panel 3: A person interacting with 'mugnaio'
+Panel 4: 'mugnaio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mugnaio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3979
+Word: mugolare
+Story: 1. A person thinking about the action of 'mugolare'. 2. Starting to perform the action 'mugolare'. 3. Actively doing 'mugolare' with full effort. 4. Successfully completing the action 'mugolare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mugolare'.
+Panel 1: A person thinking about the action of 'mugolare'
+Panel 2: Starting to perform the action 'mugolare'
+Panel 3: Actively doing 'mugolare' with full effort
+Panel 4: Successfully completing the action 'mugolare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mugolare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3980
+Word: mulino
+Story: 1. Discovering 'mulino' for the first time. 2. Seeing 'mulino' in its natural context. 3. A person interacting with 'mulino'. 4. 'mulino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mulino'.
+Panel 1: Discovering 'mulino' for the first time
+Panel 2: Seeing 'mulino' in its natural context
+Panel 3: A person interacting with 'mulino'
+Panel 4: 'mulino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mulino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3981
+Word: multa
+Story: 1. Discovering 'multa' for the first time. 2. Seeing 'multa' in its natural context. 3. A person interacting with 'multa'. 4. 'multa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'multa'.
+Panel 1: Discovering 'multa' for the first time
+Panel 2: Seeing 'multa' in its natural context
+Panel 3: A person interacting with 'multa'
+Panel 4: 'multa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "multa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3982
+Word: multare
+Story: 1. A person thinking about the action of 'multare'. 2. Starting to perform the action 'multare'. 3. Actively doing 'multare' with full effort. 4. Successfully completing the action 'multare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'multare'.
+Panel 1: A person thinking about the action of 'multare'
+Panel 2: Starting to perform the action 'multare'
+Panel 3: Actively doing 'multare' with full effort
+Panel 4: Successfully completing the action 'multare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "multare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3983
+Word: multinazionale
+Story: 1. Encountering someone or something described as 'multinazionale'. 2. Recognizing the quality of 'multinazionale' in a scene. 3. A vivid example showing 'multinazionale' clearly. 4. Understanding the full meaning of 'multinazionale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'multinazionale'.
+Panel 1: Encountering someone or something described as 'multinazionale'
+Panel 2: Recognizing the quality of 'multinazionale' in a scene
+Panel 3: A vivid example showing 'multinazionale' clearly
+Panel 4: Understanding the full meaning of 'multinazionale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "multinazionale (agg., s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3984
+Word: multiplo
+Story: 1. Encountering someone or something described as 'multiplo'. 2. Recognizing the quality of 'multiplo' in a scene. 3. A vivid example showing 'multiplo' clearly. 4. Understanding the full meaning of 'multiplo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'multiplo'.
+Panel 1: Encountering someone or something described as 'multiplo'
+Panel 2: Recognizing the quality of 'multiplo' in a scene
+Panel 3: A vivid example showing 'multiplo' clearly
+Panel 4: Understanding the full meaning of 'multiplo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "multiplo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3985
+Word: multipresa
+Story: 1. Discovering 'multipresa' for the first time. 2. Seeing 'multipresa' in its natural context. 3. A person interacting with 'multipresa'. 4. 'multipresa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'multipresa'.
+Panel 1: Discovering 'multipresa' for the first time
+Panel 2: Seeing 'multipresa' in its natural context
+Panel 3: A person interacting with 'multipresa'
+Panel 4: 'multipresa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "multipresa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3986
+Word: mummia
+Story: 1. Discovering 'mummia' for the first time. 2. Seeing 'mummia' in its natural context. 3. A person interacting with 'mummia'. 4. 'mummia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mummia'.
+Panel 1: Discovering 'mummia' for the first time
+Panel 2: Seeing 'mummia' in its natural context
+Panel 3: A person interacting with 'mummia'
+Panel 4: 'mummia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mummia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3987
+Word: mungere
+Story: 1. A person thinking about the action of 'mungere'. 2. Starting to perform the action 'mungere'. 3. Actively doing 'mungere' with full effort. 4. Successfully completing the action 'mungere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mungere'.
+Panel 1: A person thinking about the action of 'mungere'
+Panel 2: Starting to perform the action 'mungere'
+Panel 3: Actively doing 'mungere' with full effort
+Panel 4: Successfully completing the action 'mungere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mungere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3988
+Word: municipio
+Story: 1. Discovering 'municipio' for the first time. 2. Seeing 'municipio' in its natural context. 3. A person interacting with 'municipio'. 4. 'municipio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'municipio'.
+Panel 1: Discovering 'municipio' for the first time
+Panel 2: Seeing 'municipio' in its natural context
+Panel 3: A person interacting with 'municipio'
+Panel 4: 'municipio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "municipio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3989
+Word: muovere
+Story: 1. A person thinking about the action of 'muovere'. 2. Starting to perform the action 'muovere'. 3. Actively doing 'muovere' with full effort. 4. Successfully completing the action 'muovere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muovere'.
+Panel 1: A person thinking about the action of 'muovere'
+Panel 2: Starting to perform the action 'muovere'
+Panel 3: Actively doing 'muovere' with full effort
+Panel 4: Successfully completing the action 'muovere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muovere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3990
+Word: murare
+Story: 1. A person thinking about the action of 'murare'. 2. Starting to perform the action 'murare'. 3. Actively doing 'murare' with full effort. 4. Successfully completing the action 'murare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'murare'.
+Panel 1: A person thinking about the action of 'murare'
+Panel 2: Starting to perform the action 'murare'
+Panel 3: Actively doing 'murare' with full effort
+Panel 4: Successfully completing the action 'murare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "murare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3991
+Word: muratore
+Story: 1. Discovering 'muratore' for the first time. 2. Seeing 'muratore' in its natural context. 3. A person interacting with 'muratore'. 4. 'muratore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muratore'.
+Panel 1: Discovering 'muratore' for the first time
+Panel 2: Seeing 'muratore' in its natural context
+Panel 3: A person interacting with 'muratore'
+Panel 4: 'muratore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muratore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3992
+Word: muro
+Story: 1. Discovering 'muro' for the first time. 2. Seeing 'muro' in its natural context. 3. A person interacting with 'muro'. 4. 'muro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muro'.
+Panel 1: Discovering 'muro' for the first time
+Panel 2: Seeing 'muro' in its natural context
+Panel 3: A person interacting with 'muro'
+Panel 4: 'muro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3993
+Word: muschio
+Story: 1. Encountering someone or something described as 'muschio'. 2. Recognizing the quality of 'muschio' in a scene. 3. A vivid example showing 'muschio' clearly. 4. Understanding the full meaning of 'muschio'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muschio'.
+Panel 1: Encountering someone or something described as 'muschio'
+Panel 2: Recognizing the quality of 'muschio' in a scene
+Panel 3: A vivid example showing 'muschio' clearly
+Panel 4: Understanding the full meaning of 'muschio'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muschio (s.m., s.m.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3994
+Word: muscolare
+Story: 1. Encountering someone or something described as 'muscolare'. 2. Recognizing the quality of 'muscolare' in a scene. 3. A vivid example showing 'muscolare' clearly. 4. Understanding the full meaning of 'muscolare'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muscolare'.
+Panel 1: Encountering someone or something described as 'muscolare'
+Panel 2: Recognizing the quality of 'muscolare' in a scene
+Panel 3: A vivid example showing 'muscolare' clearly
+Panel 4: Understanding the full meaning of 'muscolare'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muscolare (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3995
+Word: muscolo
+Story: 1. Discovering 'muscolo' for the first time. 2. Seeing 'muscolo' in its natural context. 3. A person interacting with 'muscolo'. 4. 'muscolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muscolo'.
+Panel 1: Discovering 'muscolo' for the first time
+Panel 2: Seeing 'muscolo' in its natural context
+Panel 3: A person interacting with 'muscolo'
+Panel 4: 'muscolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muscolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3996
+Word: museo
+Story: 1. Discovering 'museo' for the first time. 2. Seeing 'museo' in its natural context. 3. A person interacting with 'museo'. 4. 'museo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'museo'.
+Panel 1: Discovering 'museo' for the first time
+Panel 2: Seeing 'museo' in its natural context
+Panel 3: A person interacting with 'museo'
+Panel 4: 'museo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "museo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3997
+Word: musica
+Story: 1. Discovering 'musica' for the first time. 2. Seeing 'musica' in its natural context. 3. A person interacting with 'musica'. 4. 'musica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'musica'.
+Panel 1: Discovering 'musica' for the first time
+Panel 2: Seeing 'musica' in its natural context
+Panel 3: A person interacting with 'musica'
+Panel 4: 'musica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "musica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3998
+Word: musicale
+Story: 1. Seeing something that is clearly 'musicale'. 2. Comparing two things, one is 'musicale' and one is not. 3. A person pointing at something 'musicale' and explaining. 4. A memorable example of something very 'musicale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'musicale'.
+Panel 1: Seeing something that is clearly 'musicale'
+Panel 2: Comparing two things, one is 'musicale' and one is not
+Panel 3: A person pointing at something 'musicale' and explaining
+Panel 4: A memorable example of something very 'musicale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "musicale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3999
+Word: musicista
+Story: 1. Discovering 'musicista' for the first time. 2. Seeing 'musicista' in its natural context. 3. A person interacting with 'musicista'. 4. 'musicista' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'musicista'.
+Panel 1: Discovering 'musicista' for the first time
+Panel 2: Seeing 'musicista' in its natural context
+Panel 3: A person interacting with 'musicista'
+Panel 4: 'musicista' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "musicista (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4000
+Word: muso
+Story: 1. Discovering 'muso' for the first time. 2. Seeing 'muso' in its natural context. 3. A person interacting with 'muso'. 4. 'muso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muso'.
+Panel 1: Discovering 'muso' for the first time
+Panel 2: Seeing 'muso' in its natural context
+Panel 3: A person interacting with 'muso'
+Panel 4: 'muso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4001
+Word: musulmano
+Story: 1. Encountering someone or something described as 'musulmano'. 2. Recognizing the quality of 'musulmano' in a scene. 3. A vivid example showing 'musulmano' clearly. 4. Understanding the full meaning of 'musulmano'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'musulmano'.
+Panel 1: Encountering someone or something described as 'musulmano'
+Panel 2: Recognizing the quality of 'musulmano' in a scene
+Panel 3: A vivid example showing 'musulmano' clearly
+Panel 4: Understanding the full meaning of 'musulmano'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "musulmano (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4002
+Word: muta
+Story: 1. Discovering 'muta' for the first time. 2. Seeing 'muta' in its natural context. 3. A person interacting with 'muta'. 4. 'muta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muta'.
+Panel 1: Discovering 'muta' for the first time
+Panel 2: Seeing 'muta' in its natural context
+Panel 3: A person interacting with 'muta'
+Panel 4: 'muta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4003
+Word: mutamento
+Story: 1. Discovering 'mutamento' for the first time. 2. Seeing 'mutamento' in its natural context. 3. A person interacting with 'mutamento'. 4. 'mutamento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mutamento'.
+Panel 1: Discovering 'mutamento' for the first time
+Panel 2: Seeing 'mutamento' in its natural context
+Panel 3: A person interacting with 'mutamento'
+Panel 4: 'mutamento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mutamento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4004
+Word: mutanda
+Story: 1. Discovering 'mutanda' for the first time. 2. Seeing 'mutanda' in its natural context. 3. A person interacting with 'mutanda'. 4. 'mutanda' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mutanda'.
+Panel 1: Discovering 'mutanda' for the first time
+Panel 2: Seeing 'mutanda' in its natural context
+Panel 3: A person interacting with 'mutanda'
+Panel 4: 'mutanda' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mutanda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

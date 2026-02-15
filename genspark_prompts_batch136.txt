@@ -1,0 +1,500 @@
+Image ID: 6905
+Word: trucco
+Story: 1. Discovering 'trucco' for the first time. 2. Seeing 'trucco' in its natural context. 3. A person interacting with 'trucco'. 4. 'trucco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'trucco'.
+Panel 1: Discovering 'trucco' for the first time
+Panel 2: Seeing 'trucco' in its natural context
+Panel 3: A person interacting with 'trucco'
+Panel 4: 'trucco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "trucco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6906
+Word: truffa
+Story: 1. Discovering 'truffa' for the first time. 2. Seeing 'truffa' in its natural context. 3. A person interacting with 'truffa'. 4. 'truffa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'truffa'.
+Panel 1: Discovering 'truffa' for the first time
+Panel 2: Seeing 'truffa' in its natural context
+Panel 3: A person interacting with 'truffa'
+Panel 4: 'truffa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "truffa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6907
+Word: truffare
+Story: 1. A person thinking about the action of 'truffare'. 2. Starting to perform the action 'truffare'. 3. Actively doing 'truffare' with full effort. 4. Successfully completing the action 'truffare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'truffare'.
+Panel 1: A person thinking about the action of 'truffare'
+Panel 2: Starting to perform the action 'truffare'
+Panel 3: Actively doing 'truffare' with full effort
+Panel 4: Successfully completing the action 'truffare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "truffare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6908
+Word: truppa
+Story: 1. Discovering 'truppa' for the first time. 2. Seeing 'truppa' in its natural context. 3. A person interacting with 'truppa'. 4. 'truppa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'truppa'.
+Panel 1: Discovering 'truppa' for the first time
+Panel 2: Seeing 'truppa' in its natural context
+Panel 3: A person interacting with 'truppa'
+Panel 4: 'truppa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "truppa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6909
+Word: t-shirt
+Story: 1. Discovering 't-shirt' for the first time. 2. Seeing 't-shirt' in its natural context. 3. A person interacting with 't-shirt'. 4. 't-shirt' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 't-shirt'.
+Panel 1: Discovering 't-shirt' for the first time
+Panel 2: Seeing 't-shirt' in its natural context
+Panel 3: A person interacting with 't-shirt'
+Panel 4: 't-shirt' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "t-shirt (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6910
+Word: tu
+Story: 1. Two speech bubbles connected by the word 'tu'. 2. A sentence on a blackboard highlighting 'tu'. 3. A teacher explaining the use of 'tu'. 4. Students practicing sentences with 'tu'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tu'.
+Panel 1: Two speech bubbles connected by the word 'tu'
+Panel 2: A sentence on a blackboard highlighting 'tu'
+Panel 3: A teacher explaining the use of 'tu'
+Panel 4: Students practicing sentences with 'tu'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tu (pron.pers. di seconda pers.sing., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6911
+Word: tubo
+Story: 1. Discovering 'tubo' for the first time. 2. Seeing 'tubo' in its natural context. 3. A person interacting with 'tubo'. 4. 'tubo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tubo'.
+Panel 1: Discovering 'tubo' for the first time
+Panel 2: Seeing 'tubo' in its natural context
+Panel 3: A person interacting with 'tubo'
+Panel 4: 'tubo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tubo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6912
+Word: tuffare
+Story: 1. A person thinking about the action of 'tuffare'. 2. Starting to perform the action 'tuffare'. 3. Actively doing 'tuffare' with full effort. 4. Successfully completing the action 'tuffare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tuffare'.
+Panel 1: A person thinking about the action of 'tuffare'
+Panel 2: Starting to perform the action 'tuffare'
+Panel 3: Actively doing 'tuffare' with full effort
+Panel 4: Successfully completing the action 'tuffare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tuffare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6913
+Word: tuffo
+Story: 1. Discovering 'tuffo' for the first time. 2. Seeing 'tuffo' in its natural context. 3. A person interacting with 'tuffo'. 4. 'tuffo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tuffo'.
+Panel 1: Discovering 'tuffo' for the first time
+Panel 2: Seeing 'tuffo' in its natural context
+Panel 3: A person interacting with 'tuffo'
+Panel 4: 'tuffo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tuffo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6914
+Word: tulipano
+Story: 1. Discovering 'tulipano' for the first time. 2. Seeing 'tulipano' in its natural context. 3. A person interacting with 'tulipano'. 4. 'tulipano' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tulipano'.
+Panel 1: Discovering 'tulipano' for the first time
+Panel 2: Seeing 'tulipano' in its natural context
+Panel 3: A person interacting with 'tulipano'
+Panel 4: 'tulipano' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tulipano (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6915
+Word: tumore
+Story: 1. Discovering 'tumore' for the first time. 2. Seeing 'tumore' in its natural context. 3. A person interacting with 'tumore'. 4. 'tumore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tumore'.
+Panel 1: Discovering 'tumore' for the first time
+Panel 2: Seeing 'tumore' in its natural context
+Panel 3: A person interacting with 'tumore'
+Panel 4: 'tumore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tumore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6916
+Word: tunica
+Story: 1. Discovering 'tunica' for the first time. 2. Seeing 'tunica' in its natural context. 3. A person interacting with 'tunica'. 4. 'tunica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tunica'.
+Panel 1: Discovering 'tunica' for the first time
+Panel 2: Seeing 'tunica' in its natural context
+Panel 3: A person interacting with 'tunica'
+Panel 4: 'tunica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tunica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6917
+Word: tunisino
+Story: 1. Encountering someone or something described as 'tunisino'. 2. Recognizing the quality of 'tunisino' in a scene. 3. A vivid example showing 'tunisino' clearly. 4. Understanding the full meaning of 'tunisino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tunisino'.
+Panel 1: Encountering someone or something described as 'tunisino'
+Panel 2: Recognizing the quality of 'tunisino' in a scene
+Panel 3: A vivid example showing 'tunisino' clearly
+Panel 4: Understanding the full meaning of 'tunisino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tunisino (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6918
+Word: tunnel
+Story: 1. Discovering 'tunnel' for the first time. 2. Seeing 'tunnel' in its natural context. 3. A person interacting with 'tunnel'. 4. 'tunnel' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tunnel'.
+Panel 1: Discovering 'tunnel' for the first time
+Panel 2: Seeing 'tunnel' in its natural context
+Panel 3: A person interacting with 'tunnel'
+Panel 4: 'tunnel' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tunnel (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6919
+Word: tuo
+Story: 1. Seeing something that is clearly 'tuo'. 2. Comparing two things, one is 'tuo' and one is not. 3. A person pointing at something 'tuo' and explaining. 4. A memorable example of something very 'tuo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tuo'.
+Panel 1: Seeing something that is clearly 'tuo'
+Panel 2: Comparing two things, one is 'tuo' and one is not
+Panel 3: A person pointing at something 'tuo' and explaining
+Panel 4: A memorable example of something very 'tuo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tuo (agg.poss. di seconda pers.sing., pron.poss. di seconda pers.sing.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6920
+Word: tuono
+Story: 1. Discovering 'tuono' for the first time. 2. Seeing 'tuono' in its natural context. 3. A person interacting with 'tuono'. 4. 'tuono' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tuono'.
+Panel 1: Discovering 'tuono' for the first time
+Panel 2: Seeing 'tuono' in its natural context
+Panel 3: A person interacting with 'tuono'
+Panel 4: 'tuono' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tuono (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6921
+Word: turbare
+Story: 1. A person thinking about the action of 'turbare'. 2. Starting to perform the action 'turbare'. 3. Actively doing 'turbare' with full effort. 4. Successfully completing the action 'turbare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'turbare'.
+Panel 1: A person thinking about the action of 'turbare'
+Panel 2: Starting to perform the action 'turbare'
+Panel 3: Actively doing 'turbare' with full effort
+Panel 4: Successfully completing the action 'turbare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "turbare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6922
+Word: turco
+Story: 1. Encountering someone or something described as 'turco'. 2. Recognizing the quality of 'turco' in a scene. 3. A vivid example showing 'turco' clearly. 4. Understanding the full meaning of 'turco'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'turco'.
+Panel 1: Encountering someone or something described as 'turco'
+Panel 2: Recognizing the quality of 'turco' in a scene
+Panel 3: A vivid example showing 'turco' clearly
+Panel 4: Understanding the full meaning of 'turco'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "turco (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6923
+Word: turismo
+Story: 1. Discovering 'turismo' for the first time. 2. Seeing 'turismo' in its natural context. 3. A person interacting with 'turismo'. 4. 'turismo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'turismo'.
+Panel 1: Discovering 'turismo' for the first time
+Panel 2: Seeing 'turismo' in its natural context
+Panel 3: A person interacting with 'turismo'
+Panel 4: 'turismo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "turismo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6924
+Word: turista
+Story: 1. Discovering 'turista' for the first time. 2. Seeing 'turista' in its natural context. 3. A person interacting with 'turista'. 4. 'turista' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'turista'.
+Panel 1: Discovering 'turista' for the first time
+Panel 2: Seeing 'turista' in its natural context
+Panel 3: A person interacting with 'turista'
+Panel 4: 'turista' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "turista (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6925
+Word: turistico
+Story: 1. Seeing something that is clearly 'turistico'. 2. Comparing two things, one is 'turistico' and one is not. 3. A person pointing at something 'turistico' and explaining. 4. A memorable example of something very 'turistico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'turistico'.
+Panel 1: Seeing something that is clearly 'turistico'
+Panel 2: Comparing two things, one is 'turistico' and one is not
+Panel 3: A person pointing at something 'turistico' and explaining
+Panel 4: A memorable example of something very 'turistico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "turistico (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6926
+Word: turno
+Story: 1. Discovering 'turno' for the first time. 2. Seeing 'turno' in its natural context. 3. A person interacting with 'turno'. 4. 'turno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'turno'.
+Panel 1: Discovering 'turno' for the first time
+Panel 2: Seeing 'turno' in its natural context
+Panel 3: A person interacting with 'turno'
+Panel 4: 'turno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "turno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6927
+Word: tuta
+Story: 1. Discovering 'tuta' for the first time. 2. Seeing 'tuta' in its natural context. 3. A person interacting with 'tuta'. 4. 'tuta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tuta'.
+Panel 1: Discovering 'tuta' for the first time
+Panel 2: Seeing 'tuta' in its natural context
+Panel 3: A person interacting with 'tuta'
+Panel 4: 'tuta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tuta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6928
+Word: tutela
+Story: 1. Discovering 'tutela' for the first time. 2. Seeing 'tutela' in its natural context. 3. A person interacting with 'tutela'. 4. 'tutela' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tutela'.
+Panel 1: Discovering 'tutela' for the first time
+Panel 2: Seeing 'tutela' in its natural context
+Panel 3: A person interacting with 'tutela'
+Panel 4: 'tutela' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tutela (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6929
+Word: tutelare
+Story: 1. A person thinking about the action of 'tutelare'. 2. Starting to perform the action 'tutelare'. 3. Actively doing 'tutelare' with full effort. 4. Successfully completing the action 'tutelare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tutelare'.
+Panel 1: A person thinking about the action of 'tutelare'
+Panel 2: Starting to perform the action 'tutelare'
+Panel 3: Actively doing 'tutelare' with full effort
+Panel 4: Successfully completing the action 'tutelare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tutelare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6930
+Word: tutore
+Story: 1. Discovering 'tutore' for the first time. 2. Seeing 'tutore' in its natural context. 3. A person interacting with 'tutore'. 4. 'tutore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tutore'.
+Panel 1: Discovering 'tutore' for the first time
+Panel 2: Seeing 'tutore' in its natural context
+Panel 3: A person interacting with 'tutore'
+Panel 4: 'tutore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tutore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6931
+Word: tuttavia
+Story: 1. A scene where something happens 'tuttavia'. 2. Showing the manner or degree of 'tuttavia'. 3. Contrasting doing something 'tuttavia' vs not. 4. A clear example of 'tuttavia' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tuttavia'.
+Panel 1: A scene where something happens 'tuttavia'
+Panel 2: Showing the manner or degree of 'tuttavia'
+Panel 3: Contrasting doing something 'tuttavia' vs not
+Panel 4: A clear example of 'tuttavia' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tuttavia (cong., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6932
+Word: tutto
+Story: 1. Encountering someone or something described as 'tutto'. 2. Recognizing the quality of 'tutto' in a scene. 3. A vivid example showing 'tutto' clearly. 4. Understanding the full meaning of 'tutto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tutto'.
+Panel 1: Encountering someone or something described as 'tutto'
+Panel 2: Recognizing the quality of 'tutto' in a scene
+Panel 3: A vivid example showing 'tutto' clearly
+Panel 4: Understanding the full meaning of 'tutto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tutto (agg.indef., pron.indef., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6933
+Word: tuttora
+Story: 1. A scene where something happens 'tuttora'. 2. Showing the manner or degree of 'tuttora'. 3. Contrasting doing something 'tuttora' vs not. 4. A clear example of 'tuttora' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'tuttora'.
+Panel 1: A scene where something happens 'tuttora'
+Panel 2: Showing the manner or degree of 'tuttora'
+Panel 3: Contrasting doing something 'tuttora' vs not
+Panel 4: A clear example of 'tuttora' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "tuttora (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6934
+Word: u
+Story: 1. Discovering 'u' for the first time. 2. Seeing 'u' in its natural context. 3. A person interacting with 'u'. 4. 'u' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'u'.
+Panel 1: Discovering 'u' for the first time
+Panel 2: Seeing 'u' in its natural context
+Panel 3: A person interacting with 'u'
+Panel 4: 'u' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "u (s.f. e m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6935
+Word: ubriaco
+Story: 1. Encountering someone or something described as 'ubriaco'. 2. Recognizing the quality of 'ubriaco' in a scene. 3. A vivid example showing 'ubriaco' clearly. 4. Understanding the full meaning of 'ubriaco'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ubriaco'.
+Panel 1: Encountering someone or something described as 'ubriaco'
+Panel 2: Recognizing the quality of 'ubriaco' in a scene
+Panel 3: A vivid example showing 'ubriaco' clearly
+Panel 4: Understanding the full meaning of 'ubriaco'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ubriaco (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6936
+Word: uccello
+Story: 1. Discovering 'uccello' for the first time. 2. Seeing 'uccello' in its natural context. 3. A person interacting with 'uccello'. 4. 'uccello' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'uccello'.
+Panel 1: Discovering 'uccello' for the first time
+Panel 2: Seeing 'uccello' in its natural context
+Panel 3: A person interacting with 'uccello'
+Panel 4: 'uccello' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "uccello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6937
+Word: uccidere
+Story: 1. A person thinking about the action of 'uccidere'. 2. Starting to perform the action 'uccidere'. 3. Actively doing 'uccidere' with full effort. 4. Successfully completing the action 'uccidere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'uccidere'.
+Panel 1: A person thinking about the action of 'uccidere'
+Panel 2: Starting to perform the action 'uccidere'
+Panel 3: Actively doing 'uccidere' with full effort
+Panel 4: Successfully completing the action 'uccidere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "uccidere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6938
+Word: ucraino
+Story: 1. Encountering someone or something described as 'ucraino'. 2. Recognizing the quality of 'ucraino' in a scene. 3. A vivid example showing 'ucraino' clearly. 4. Understanding the full meaning of 'ucraino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ucraino'.
+Panel 1: Encountering someone or something described as 'ucraino'
+Panel 2: Recognizing the quality of 'ucraino' in a scene
+Panel 3: A vivid example showing 'ucraino' clearly
+Panel 4: Understanding the full meaning of 'ucraino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ucraino (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6939
+Word: udienza
+Story: 1. Discovering 'udienza' for the first time. 2. Seeing 'udienza' in its natural context. 3. A person interacting with 'udienza'. 4. 'udienza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'udienza'.
+Panel 1: Discovering 'udienza' for the first time
+Panel 2: Seeing 'udienza' in its natural context
+Panel 3: A person interacting with 'udienza'
+Panel 4: 'udienza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "udienza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6940
+Word: udinese
+Story: 1. Encountering someone or something described as 'udinese'. 2. Recognizing the quality of 'udinese' in a scene. 3. A vivid example showing 'udinese' clearly. 4. Understanding the full meaning of 'udinese'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'udinese'.
+Panel 1: Encountering someone or something described as 'udinese'
+Panel 2: Recognizing the quality of 'udinese' in a scene
+Panel 3: A vivid example showing 'udinese' clearly
+Panel 4: Understanding the full meaning of 'udinese'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "udinese (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6941
+Word: udire
+Story: 1. A person thinking about the action of 'udire'. 2. Starting to perform the action 'udire'. 3. Actively doing 'udire' with full effort. 4. Successfully completing the action 'udire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'udire'.
+Panel 1: A person thinking about the action of 'udire'
+Panel 2: Starting to perform the action 'udire'
+Panel 3: Actively doing 'udire' with full effort
+Panel 4: Successfully completing the action 'udire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "udire (v.tr. e intr., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6942
+Word: ufficiale
+Story: 1. Discovering 'ufficiale' for the first time. 2. Seeing 'ufficiale' in its natural context. 3. A person interacting with 'ufficiale'. 4. 'ufficiale' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ufficiale'.
+Panel 1: Discovering 'ufficiale' for the first time
+Panel 2: Seeing 'ufficiale' in its natural context
+Panel 3: A person interacting with 'ufficiale'
+Panel 4: 'ufficiale' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ufficiale (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6943
+Word: ufficiale
+Story: 1. Seeing something that is clearly 'ufficiale'. 2. Comparing two things, one is 'ufficiale' and one is not. 3. A person pointing at something 'ufficiale' and explaining. 4. A memorable example of something very 'ufficiale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ufficiale'.
+Panel 1: Seeing something that is clearly 'ufficiale'
+Panel 2: Comparing two things, one is 'ufficiale' and one is not
+Panel 3: A person pointing at something 'ufficiale' and explaining
+Panel 4: A memorable example of something very 'ufficiale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ufficiale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6944
+Word: ufficialmente
+Story: 1. A scene where something happens 'ufficialmente'. 2. Showing the manner or degree of 'ufficialmente'. 3. Contrasting doing something 'ufficialmente' vs not. 4. A clear example of 'ufficialmente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ufficialmente'.
+Panel 1: A scene where something happens 'ufficialmente'
+Panel 2: Showing the manner or degree of 'ufficialmente'
+Panel 3: Contrasting doing something 'ufficialmente' vs not
+Panel 4: A clear example of 'ufficialmente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ufficialmente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6945
+Word: ufficio
+Story: 1. Discovering 'ufficio' for the first time. 2. Seeing 'ufficio' in its natural context. 3. A person interacting with 'ufficio'. 4. 'ufficio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ufficio'.
+Panel 1: Discovering 'ufficio' for the first time
+Panel 2: Seeing 'ufficio' in its natural context
+Panel 3: A person interacting with 'ufficio'
+Panel 4: 'ufficio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ufficio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6946
+Word: uguale
+Story: 1. A scene where something happens 'uguale'. 2. Showing the manner or degree of 'uguale'. 3. Contrasting doing something 'uguale' vs not. 4. A clear example of 'uguale' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'uguale'.
+Panel 1: A scene where something happens 'uguale'
+Panel 2: Showing the manner or degree of 'uguale'
+Panel 3: Contrasting doing something 'uguale' vs not
+Panel 4: A clear example of 'uguale' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "uguale (agg., avv., s.m. e f., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6947
+Word: ugualmente
+Story: 1. A scene where something happens 'ugualmente'. 2. Showing the manner or degree of 'ugualmente'. 3. Contrasting doing something 'ugualmente' vs not. 4. A clear example of 'ugualmente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ugualmente'.
+Panel 1: A scene where something happens 'ugualmente'
+Panel 2: Showing the manner or degree of 'ugualmente'
+Panel 3: Contrasting doing something 'ugualmente' vs not
+Panel 4: A clear example of 'ugualmente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ugualmente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6948
+Word: ulcera
+Story: 1. Discovering 'ulcera' for the first time. 2. Seeing 'ulcera' in its natural context. 3. A person interacting with 'ulcera'. 4. 'ulcera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ulcera'.
+Panel 1: Discovering 'ulcera' for the first time
+Panel 2: Seeing 'ulcera' in its natural context
+Panel 3: A person interacting with 'ulcera'
+Panel 4: 'ulcera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ulcera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6949
+Word: ulteriore
+Story: 1. Seeing something that is clearly 'ulteriore'. 2. Comparing two things, one is 'ulteriore' and one is not. 3. A person pointing at something 'ulteriore' and explaining. 4. A memorable example of something very 'ulteriore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ulteriore'.
+Panel 1: Seeing something that is clearly 'ulteriore'
+Panel 2: Comparing two things, one is 'ulteriore' and one is not
+Panel 3: A person pointing at something 'ulteriore' and explaining
+Panel 4: A memorable example of something very 'ulteriore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ulteriore (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6950
+Word: ulteriormente
+Story: 1. A scene where something happens 'ulteriormente'. 2. Showing the manner or degree of 'ulteriormente'. 3. Contrasting doing something 'ulteriormente' vs not. 4. A clear example of 'ulteriormente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ulteriormente'.
+Panel 1: A scene where something happens 'ulteriormente'
+Panel 2: Showing the manner or degree of 'ulteriormente'
+Panel 3: Contrasting doing something 'ulteriormente' vs not
+Panel 4: A clear example of 'ulteriormente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ulteriormente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6951
+Word: ultimamente
+Story: 1. A scene where something happens 'ultimamente'. 2. Showing the manner or degree of 'ultimamente'. 3. Contrasting doing something 'ultimamente' vs not. 4. A clear example of 'ultimamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ultimamente'.
+Panel 1: A scene where something happens 'ultimamente'
+Panel 2: Showing the manner or degree of 'ultimamente'
+Panel 3: Contrasting doing something 'ultimamente' vs not
+Panel 4: A clear example of 'ultimamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ultimamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6952
+Word: ultimo
+Story: 1. Encountering someone or something described as 'ultimo'. 2. Recognizing the quality of 'ultimo' in a scene. 3. A vivid example showing 'ultimo' clearly. 4. Understanding the full meaning of 'ultimo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ultimo'.
+Panel 1: Encountering someone or something described as 'ultimo'
+Panel 2: Recognizing the quality of 'ultimo' in a scene
+Panel 3: A vivid example showing 'ultimo' clearly
+Panel 4: Understanding the full meaning of 'ultimo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ultimo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6953
+Word: ultravioletto
+Story: 1. Encountering someone or something described as 'ultravioletto'. 2. Recognizing the quality of 'ultravioletto' in a scene. 3. A vivid example showing 'ultravioletto' clearly. 4. Understanding the full meaning of 'ultravioletto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ultravioletto'.
+Panel 1: Encountering someone or something described as 'ultravioletto'
+Panel 2: Recognizing the quality of 'ultravioletto' in a scene
+Panel 3: A vivid example showing 'ultravioletto' clearly
+Panel 4: Understanding the full meaning of 'ultravioletto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ultravioletto (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6954
+Word: umanità
+Story: 1. Discovering 'umanità' for the first time. 2. Seeing 'umanità' in its natural context. 3. A person interacting with 'umanità'. 4. 'umanità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'umanità'.
+Panel 1: Discovering 'umanità' for the first time
+Panel 2: Seeing 'umanità' in its natural context
+Panel 3: A person interacting with 'umanità'
+Panel 4: 'umanità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "umanità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

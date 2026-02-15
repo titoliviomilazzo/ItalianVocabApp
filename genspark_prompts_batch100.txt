@@ -1,0 +1,500 @@
+Image ID: 5105
+Word: qualificare
+Story: 1. A person thinking about the action of 'qualificare'. 2. Starting to perform the action 'qualificare'. 3. Actively doing 'qualificare' with full effort. 4. Successfully completing the action 'qualificare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'qualificare'.
+Panel 1: A person thinking about the action of 'qualificare'
+Panel 2: Starting to perform the action 'qualificare'
+Panel 3: Actively doing 'qualificare' with full effort
+Panel 4: Successfully completing the action 'qualificare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "qualificare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5106
+Word: qualità
+Story: 1. Discovering 'qualità' for the first time. 2. Seeing 'qualità' in its natural context. 3. A person interacting with 'qualità'. 4. 'qualità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'qualità'.
+Panel 1: Discovering 'qualità' for the first time
+Panel 2: Seeing 'qualità' in its natural context
+Panel 3: A person interacting with 'qualità'
+Panel 4: 'qualità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "qualità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5107
+Word: qualora
+Story: 1. Two speech bubbles connected by the word 'qualora'. 2. A sentence on a blackboard highlighting 'qualora'. 3. A teacher explaining the use of 'qualora'. 4. Students practicing sentences with 'qualora'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'qualora'.
+Panel 1: Two speech bubbles connected by the word 'qualora'
+Panel 2: A sentence on a blackboard highlighting 'qualora'
+Panel 3: A teacher explaining the use of 'qualora'
+Panel 4: Students practicing sentences with 'qualora'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "qualora (cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5108
+Word: qualsiasi
+Story: 1. Seeing something that is clearly 'qualsiasi'. 2. Comparing two things, one is 'qualsiasi' and one is not. 3. A person pointing at something 'qualsiasi' and explaining. 4. A memorable example of something very 'qualsiasi'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'qualsiasi'.
+Panel 1: Seeing something that is clearly 'qualsiasi'
+Panel 2: Comparing two things, one is 'qualsiasi' and one is not
+Panel 3: A person pointing at something 'qualsiasi' and explaining
+Panel 4: A memorable example of something very 'qualsiasi'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "qualsiasi (agg.indef., agg.rel.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5109
+Word: qualunque
+Story: 1. Seeing something that is clearly 'qualunque'. 2. Comparing two things, one is 'qualunque' and one is not. 3. A person pointing at something 'qualunque' and explaining. 4. A memorable example of something very 'qualunque'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'qualunque'.
+Panel 1: Seeing something that is clearly 'qualunque'
+Panel 2: Comparing two things, one is 'qualunque' and one is not
+Panel 3: A person pointing at something 'qualunque' and explaining
+Panel 4: A memorable example of something very 'qualunque'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "qualunque (agg.indef., agg.rel., pron.rel.indef.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5110
+Word: quando
+Story: 1. A scene where something happens 'quando'. 2. Showing the manner or degree of 'quando'. 3. Contrasting doing something 'quando' vs not. 4. A clear example of 'quando' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quando'.
+Panel 1: A scene where something happens 'quando'
+Panel 2: Showing the manner or degree of 'quando'
+Panel 3: Contrasting doing something 'quando' vs not
+Panel 4: A clear example of 'quando' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quando (cong., avv., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5111
+Word: quantità
+Story: 1. Discovering 'quantità' for the first time. 2. Seeing 'quantità' in its natural context. 3. A person interacting with 'quantità'. 4. 'quantità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quantità'.
+Panel 1: Discovering 'quantità' for the first time
+Panel 2: Seeing 'quantità' in its natural context
+Panel 3: A person interacting with 'quantità'
+Panel 4: 'quantità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quantità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5112
+Word: quantitativo
+Story: 1. Encountering someone or something described as 'quantitativo'. 2. Recognizing the quality of 'quantitativo' in a scene. 3. A vivid example showing 'quantitativo' clearly. 4. Understanding the full meaning of 'quantitativo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quantitativo'.
+Panel 1: Encountering someone or something described as 'quantitativo'
+Panel 2: Recognizing the quality of 'quantitativo' in a scene
+Panel 3: A vivid example showing 'quantitativo' clearly
+Panel 4: Understanding the full meaning of 'quantitativo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quantitativo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5113
+Word: quanto
+Story: 1. A scene where something happens 'quanto'. 2. Showing the manner or degree of 'quanto'. 3. Contrasting doing something 'quanto' vs not. 4. A clear example of 'quanto' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quanto'.
+Panel 1: A scene where something happens 'quanto'
+Panel 2: Showing the manner or degree of 'quanto'
+Panel 3: Contrasting doing something 'quanto' vs not
+Panel 4: A clear example of 'quanto' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quanto (agg. interr., agg.escl., agg.rel., pron.interr., pron.escl., pron.rel., avv., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5114
+Word: quaranta
+Story: 1. Encountering someone or something described as 'quaranta'. 2. Recognizing the quality of 'quaranta' in a scene. 3. A vivid example showing 'quaranta' clearly. 4. Understanding the full meaning of 'quaranta'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quaranta'.
+Panel 1: Encountering someone or something described as 'quaranta'
+Panel 2: Recognizing the quality of 'quaranta' in a scene
+Panel 3: A vivid example showing 'quaranta' clearly
+Panel 4: Understanding the full meaning of 'quaranta'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quaranta (agg.num.card.inv., s.m.inv., s.m.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5115
+Word: quarta
+Story: 1. Discovering 'quarta' for the first time. 2. Seeing 'quarta' in its natural context. 3. A person interacting with 'quarta'. 4. 'quarta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quarta'.
+Panel 1: Discovering 'quarta' for the first time
+Panel 2: Seeing 'quarta' in its natural context
+Panel 3: A person interacting with 'quarta'
+Panel 4: 'quarta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quarta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5116
+Word: quartiere
+Story: 1. Discovering 'quartiere' for the first time. 2. Seeing 'quartiere' in its natural context. 3. A person interacting with 'quartiere'. 4. 'quartiere' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quartiere'.
+Panel 1: Discovering 'quartiere' for the first time
+Panel 2: Seeing 'quartiere' in its natural context
+Panel 3: A person interacting with 'quartiere'
+Panel 4: 'quartiere' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quartiere (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5117
+Word: quarto
+Story: 1. Encountering someone or something described as 'quarto'. 2. Recognizing the quality of 'quarto' in a scene. 3. A vivid example showing 'quarto' clearly. 4. Understanding the full meaning of 'quarto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quarto'.
+Panel 1: Encountering someone or something described as 'quarto'
+Panel 2: Recognizing the quality of 'quarto' in a scene
+Panel 3: A vivid example showing 'quarto' clearly
+Panel 4: Understanding the full meaning of 'quarto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quarto (agg.num.ord., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5118
+Word: quasi
+Story: 1. A scene where something happens 'quasi'. 2. Showing the manner or degree of 'quasi'. 3. Contrasting doing something 'quasi' vs not. 4. A clear example of 'quasi' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quasi'.
+Panel 1: A scene where something happens 'quasi'
+Panel 2: Showing the manner or degree of 'quasi'
+Panel 3: Contrasting doing something 'quasi' vs not
+Panel 4: A clear example of 'quasi' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quasi (avv., cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5119
+Word: quattordici
+Story: 1. Encountering someone or something described as 'quattordici'. 2. Recognizing the quality of 'quattordici' in a scene. 3. A vivid example showing 'quattordici' clearly. 4. Understanding the full meaning of 'quattordici'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quattordici'.
+Panel 1: Encountering someone or something described as 'quattordici'
+Panel 2: Recognizing the quality of 'quattordici' in a scene
+Panel 3: A vivid example showing 'quattordici' clearly
+Panel 4: Understanding the full meaning of 'quattordici'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quattordici (agg.num.card.inv., s.m.inv., s.f.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5120
+Word: quattro
+Story: 1. Encountering someone or something described as 'quattro'. 2. Recognizing the quality of 'quattro' in a scene. 3. A vivid example showing 'quattro' clearly. 4. Understanding the full meaning of 'quattro'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quattro'.
+Panel 1: Encountering someone or something described as 'quattro'
+Panel 2: Recognizing the quality of 'quattro' in a scene
+Panel 3: A vivid example showing 'quattro' clearly
+Panel 4: Understanding the full meaning of 'quattro'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quattro (agg.num.card.inv., s.m.inv., s.f.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5121
+Word: quello
+Story: 1. Seeing something that is clearly 'quello'. 2. Comparing two things, one is 'quello' and one is not. 3. A person pointing at something 'quello' and explaining. 4. A memorable example of something very 'quello'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quello'.
+Panel 1: Seeing something that is clearly 'quello'
+Panel 2: Comparing two things, one is 'quello' and one is not
+Panel 3: A person pointing at something 'quello' and explaining
+Panel 4: A memorable example of something very 'quello'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quello (agg.dimostr., pron.dimostr.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5122
+Word: quercia
+Story: 1. Discovering 'quercia' for the first time. 2. Seeing 'quercia' in its natural context. 3. A person interacting with 'quercia'. 4. 'quercia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quercia'.
+Panel 1: Discovering 'quercia' for the first time
+Panel 2: Seeing 'quercia' in its natural context
+Panel 3: A person interacting with 'quercia'
+Panel 4: 'quercia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quercia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5123
+Word: questione
+Story: 1. Discovering 'questione' for the first time. 2. Seeing 'questione' in its natural context. 3. A person interacting with 'questione'. 4. 'questione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'questione'.
+Panel 1: Discovering 'questione' for the first time
+Panel 2: Seeing 'questione' in its natural context
+Panel 3: A person interacting with 'questione'
+Panel 4: 'questione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "questione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5124
+Word: questo
+Story: 1. Seeing something that is clearly 'questo'. 2. Comparing two things, one is 'questo' and one is not. 3. A person pointing at something 'questo' and explaining. 4. A memorable example of something very 'questo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'questo'.
+Panel 1: Seeing something that is clearly 'questo'
+Panel 2: Comparing two things, one is 'questo' and one is not
+Panel 3: A person pointing at something 'questo' and explaining
+Panel 4: A memorable example of something very 'questo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "questo (agg.dimostr., pron.dimostr.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5125
+Word: questura
+Story: 1. Discovering 'questura' for the first time. 2. Seeing 'questura' in its natural context. 3. A person interacting with 'questura'. 4. 'questura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'questura'.
+Panel 1: Discovering 'questura' for the first time
+Panel 2: Seeing 'questura' in its natural context
+Panel 3: A person interacting with 'questura'
+Panel 4: 'questura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "questura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5126
+Word: qui
+Story: 1. A scene where something happens 'qui'. 2. Showing the manner or degree of 'qui'. 3. Contrasting doing something 'qui' vs not. 4. A clear example of 'qui' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'qui'.
+Panel 1: A scene where something happens 'qui'
+Panel 2: Showing the manner or degree of 'qui'
+Panel 3: Contrasting doing something 'qui' vs not
+Panel 4: A clear example of 'qui' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "qui (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5127
+Word: quindi
+Story: 1. A scene where something happens 'quindi'. 2. Showing the manner or degree of 'quindi'. 3. Contrasting doing something 'quindi' vs not. 4. A clear example of 'quindi' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quindi'.
+Panel 1: A scene where something happens 'quindi'
+Panel 2: Showing the manner or degree of 'quindi'
+Panel 3: Contrasting doing something 'quindi' vs not
+Panel 4: A clear example of 'quindi' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quindi (avv., cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5128
+Word: quindici
+Story: 1. Encountering someone or something described as 'quindici'. 2. Recognizing the quality of 'quindici' in a scene. 3. A vivid example showing 'quindici' clearly. 4. Understanding the full meaning of 'quindici'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quindici'.
+Panel 1: Encountering someone or something described as 'quindici'
+Panel 2: Recognizing the quality of 'quindici' in a scene
+Panel 3: A vivid example showing 'quindici' clearly
+Panel 4: Understanding the full meaning of 'quindici'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quindici (agg.num.card.inv., s.m.inv., s.f.pl., s.m.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5129
+Word: quinta
+Story: 1. Discovering 'quinta' for the first time. 2. Seeing 'quinta' in its natural context. 3. A person interacting with 'quinta'. 4. 'quinta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quinta'.
+Panel 1: Discovering 'quinta' for the first time
+Panel 2: Seeing 'quinta' in its natural context
+Panel 3: A person interacting with 'quinta'
+Panel 4: 'quinta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quinta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5130
+Word: quinto
+Story: 1. Encountering someone or something described as 'quinto'. 2. Recognizing the quality of 'quinto' in a scene. 3. A vivid example showing 'quinto' clearly. 4. Understanding the full meaning of 'quinto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quinto'.
+Panel 1: Encountering someone or something described as 'quinto'
+Panel 2: Recognizing the quality of 'quinto' in a scene
+Panel 3: A vivid example showing 'quinto' clearly
+Panel 4: Understanding the full meaning of 'quinto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quinto (agg.num.ord., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5131
+Word: quiz
+Story: 1. Discovering 'quiz' for the first time. 2. Seeing 'quiz' in its natural context. 3. A person interacting with 'quiz'. 4. 'quiz' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quiz'.
+Panel 1: Discovering 'quiz' for the first time
+Panel 2: Seeing 'quiz' in its natural context
+Panel 3: A person interacting with 'quiz'
+Panel 4: 'quiz' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quiz (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5132
+Word: quota
+Story: 1. Discovering 'quota' for the first time. 2. Seeing 'quota' in its natural context. 3. A person interacting with 'quota'. 4. 'quota' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quota'.
+Panel 1: Discovering 'quota' for the first time
+Panel 2: Seeing 'quota' in its natural context
+Panel 3: A person interacting with 'quota'
+Panel 4: 'quota' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quota (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5133
+Word: quotidiano
+Story: 1. Encountering someone or something described as 'quotidiano'. 2. Recognizing the quality of 'quotidiano' in a scene. 3. A vivid example showing 'quotidiano' clearly. 4. Understanding the full meaning of 'quotidiano'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quotidiano'.
+Panel 1: Encountering someone or something described as 'quotidiano'
+Panel 2: Recognizing the quality of 'quotidiano' in a scene
+Panel 3: A vivid example showing 'quotidiano' clearly
+Panel 4: Understanding the full meaning of 'quotidiano'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quotidiano (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5134
+Word: rabbia
+Story: 1. Discovering 'rabbia' for the first time. 2. Seeing 'rabbia' in its natural context. 3. A person interacting with 'rabbia'. 4. 'rabbia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rabbia'.
+Panel 1: Discovering 'rabbia' for the first time
+Panel 2: Seeing 'rabbia' in its natural context
+Panel 3: A person interacting with 'rabbia'
+Panel 4: 'rabbia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rabbia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5135
+Word: racchetta
+Story: 1. Discovering 'racchetta' for the first time. 2. Seeing 'racchetta' in its natural context. 3. A person interacting with 'racchetta'. 4. 'racchetta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'racchetta'.
+Panel 1: Discovering 'racchetta' for the first time
+Panel 2: Seeing 'racchetta' in its natural context
+Panel 3: A person interacting with 'racchetta'
+Panel 4: 'racchetta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "racchetta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5136
+Word: racchiudere
+Story: 1. A person thinking about the action of 'racchiudere'. 2. Starting to perform the action 'racchiudere'. 3. Actively doing 'racchiudere' with full effort. 4. Successfully completing the action 'racchiudere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'racchiudere'.
+Panel 1: A person thinking about the action of 'racchiudere'
+Panel 2: Starting to perform the action 'racchiudere'
+Panel 3: Actively doing 'racchiudere' with full effort
+Panel 4: Successfully completing the action 'racchiudere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "racchiudere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5137
+Word: raccogliere
+Story: 1. A person thinking about the action of 'raccogliere'. 2. Starting to perform the action 'raccogliere'. 3. Actively doing 'raccogliere' with full effort. 4. Successfully completing the action 'raccogliere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raccogliere'.
+Panel 1: A person thinking about the action of 'raccogliere'
+Panel 2: Starting to perform the action 'raccogliere'
+Panel 3: Actively doing 'raccogliere' with full effort
+Panel 4: Successfully completing the action 'raccogliere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raccogliere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5138
+Word: raccolta
+Story: 1. Discovering 'raccolta' for the first time. 2. Seeing 'raccolta' in its natural context. 3. A person interacting with 'raccolta'. 4. 'raccolta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raccolta'.
+Panel 1: Discovering 'raccolta' for the first time
+Panel 2: Seeing 'raccolta' in its natural context
+Panel 3: A person interacting with 'raccolta'
+Panel 4: 'raccolta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raccolta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5139
+Word: raccomandare
+Story: 1. A person thinking about the action of 'raccomandare'. 2. Starting to perform the action 'raccomandare'. 3. Actively doing 'raccomandare' with full effort. 4. Successfully completing the action 'raccomandare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raccomandare'.
+Panel 1: A person thinking about the action of 'raccomandare'
+Panel 2: Starting to perform the action 'raccomandare'
+Panel 3: Actively doing 'raccomandare' with full effort
+Panel 4: Successfully completing the action 'raccomandare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raccomandare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5140
+Word: raccomandazione
+Story: 1. Discovering 'raccomandazione' for the first time. 2. Seeing 'raccomandazione' in its natural context. 3. A person interacting with 'raccomandazione'. 4. 'raccomandazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raccomandazione'.
+Panel 1: Discovering 'raccomandazione' for the first time
+Panel 2: Seeing 'raccomandazione' in its natural context
+Panel 3: A person interacting with 'raccomandazione'
+Panel 4: 'raccomandazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raccomandazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5141
+Word: raccontare
+Story: 1. A person thinking about the action of 'raccontare'. 2. Starting to perform the action 'raccontare'. 3. Actively doing 'raccontare' with full effort. 4. Successfully completing the action 'raccontare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raccontare'.
+Panel 1: A person thinking about the action of 'raccontare'
+Panel 2: Starting to perform the action 'raccontare'
+Panel 3: Actively doing 'raccontare' with full effort
+Panel 4: Successfully completing the action 'raccontare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raccontare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5142
+Word: racconto
+Story: 1. Discovering 'racconto' for the first time. 2. Seeing 'racconto' in its natural context. 3. A person interacting with 'racconto'. 4. 'racconto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'racconto'.
+Panel 1: Discovering 'racconto' for the first time
+Panel 2: Seeing 'racconto' in its natural context
+Panel 3: A person interacting with 'racconto'
+Panel 4: 'racconto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "racconto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5143
+Word: raddoppiare
+Story: 1. A person thinking about the action of 'raddoppiare'. 2. Starting to perform the action 'raddoppiare'. 3. Actively doing 'raddoppiare' with full effort. 4. Successfully completing the action 'raddoppiare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raddoppiare'.
+Panel 1: A person thinking about the action of 'raddoppiare'
+Panel 2: Starting to perform the action 'raddoppiare'
+Panel 3: Actively doing 'raddoppiare' with full effort
+Panel 4: Successfully completing the action 'raddoppiare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raddoppiare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5144
+Word: raddrizzare
+Story: 1. A person thinking about the action of 'raddrizzare'. 2. Starting to perform the action 'raddrizzare'. 3. Actively doing 'raddrizzare' with full effort. 4. Successfully completing the action 'raddrizzare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raddrizzare'.
+Panel 1: A person thinking about the action of 'raddrizzare'
+Panel 2: Starting to perform the action 'raddrizzare'
+Panel 3: Actively doing 'raddrizzare' with full effort
+Panel 4: Successfully completing the action 'raddrizzare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raddrizzare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5145
+Word: radere
+Story: 1. A person thinking about the action of 'radere'. 2. Starting to perform the action 'radere'. 3. Actively doing 'radere' with full effort. 4. Successfully completing the action 'radere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'radere'.
+Panel 1: A person thinking about the action of 'radere'
+Panel 2: Starting to perform the action 'radere'
+Panel 3: Actively doing 'radere' with full effort
+Panel 4: Successfully completing the action 'radere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "radere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5146
+Word: radiazione
+Story: 1. Discovering 'radiazione' for the first time. 2. Seeing 'radiazione' in its natural context. 3. A person interacting with 'radiazione'. 4. 'radiazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'radiazione'.
+Panel 1: Discovering 'radiazione' for the first time
+Panel 2: Seeing 'radiazione' in its natural context
+Panel 3: A person interacting with 'radiazione'
+Panel 4: 'radiazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "radiazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5147
+Word: radicale
+Story: 1. Encountering someone or something described as 'radicale'. 2. Recognizing the quality of 'radicale' in a scene. 3. A vivid example showing 'radicale' clearly. 4. Understanding the full meaning of 'radicale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'radicale'.
+Panel 1: Encountering someone or something described as 'radicale'
+Panel 2: Recognizing the quality of 'radicale' in a scene
+Panel 3: A vivid example showing 'radicale' clearly
+Panel 4: Understanding the full meaning of 'radicale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "radicale (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5148
+Word: radicchio
+Story: 1. Discovering 'radicchio' for the first time. 2. Seeing 'radicchio' in its natural context. 3. A person interacting with 'radicchio'. 4. 'radicchio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'radicchio'.
+Panel 1: Discovering 'radicchio' for the first time
+Panel 2: Seeing 'radicchio' in its natural context
+Panel 3: A person interacting with 'radicchio'
+Panel 4: 'radicchio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "radicchio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5149
+Word: radice
+Story: 1. Discovering 'radice' for the first time. 2. Seeing 'radice' in its natural context. 3. A person interacting with 'radice'. 4. 'radice' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'radice'.
+Panel 1: Discovering 'radice' for the first time
+Panel 2: Seeing 'radice' in its natural context
+Panel 3: A person interacting with 'radice'
+Panel 4: 'radice' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "radice (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5150
+Word: radio
+Story: 1. Encountering someone or something described as 'radio'. 2. Recognizing the quality of 'radio' in a scene. 3. A vivid example showing 'radio' clearly. 4. Understanding the full meaning of 'radio'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'radio'.
+Panel 1: Encountering someone or something described as 'radio'
+Panel 2: Recognizing the quality of 'radio' in a scene
+Panel 3: A vivid example showing 'radio' clearly
+Panel 4: Understanding the full meaning of 'radio'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "radio (s.f.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5151
+Word: rado
+Story: 1. A scene where something happens 'rado'. 2. Showing the manner or degree of 'rado'. 3. Contrasting doing something 'rado' vs not. 4. A clear example of 'rado' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rado'.
+Panel 1: A scene where something happens 'rado'
+Panel 2: Showing the manner or degree of 'rado'
+Panel 3: Contrasting doing something 'rado' vs not
+Panel 4: A clear example of 'rado' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rado (agg., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5152
+Word: raffigurare
+Story: 1. A person thinking about the action of 'raffigurare'. 2. Starting to perform the action 'raffigurare'. 3. Actively doing 'raffigurare' with full effort. 4. Successfully completing the action 'raffigurare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raffigurare'.
+Panel 1: A person thinking about the action of 'raffigurare'
+Panel 2: Starting to perform the action 'raffigurare'
+Panel 3: Actively doing 'raffigurare' with full effort
+Panel 4: Successfully completing the action 'raffigurare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raffigurare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5153
+Word: raffinato
+Story: 1. Encountering someone or something described as 'raffinato'. 2. Recognizing the quality of 'raffinato' in a scene. 3. A vivid example showing 'raffinato' clearly. 4. Understanding the full meaning of 'raffinato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raffinato'.
+Panel 1: Encountering someone or something described as 'raffinato'
+Panel 2: Recognizing the quality of 'raffinato' in a scene
+Panel 3: A vivid example showing 'raffinato' clearly
+Panel 4: Understanding the full meaning of 'raffinato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raffinato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5154
+Word: rafforzamento
+Story: 1. Discovering 'rafforzamento' for the first time. 2. Seeing 'rafforzamento' in its natural context. 3. A person interacting with 'rafforzamento'. 4. 'rafforzamento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rafforzamento'.
+Panel 1: Discovering 'rafforzamento' for the first time
+Panel 2: Seeing 'rafforzamento' in its natural context
+Panel 3: A person interacting with 'rafforzamento'
+Panel 4: 'rafforzamento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rafforzamento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

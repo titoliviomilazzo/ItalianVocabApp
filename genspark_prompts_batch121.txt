@@ -1,0 +1,500 @@
+Image ID: 6155
+Word: sole
+Story: 1. Discovering 'sole' for the first time. 2. Seeing 'sole' in its natural context. 3. A person interacting with 'sole'. 4. 'sole' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sole'.
+Panel 1: Discovering 'sole' for the first time
+Panel 2: Seeing 'sole' in its natural context
+Panel 3: A person interacting with 'sole'
+Panel 4: 'sole' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sole (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6156
+Word: solenne
+Story: 1. Seeing something that is clearly 'solenne'. 2. Comparing two things, one is 'solenne' and one is not. 3. A person pointing at something 'solenne' and explaining. 4. A memorable example of something very 'solenne'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'solenne'.
+Panel 1: Seeing something that is clearly 'solenne'
+Panel 2: Comparing two things, one is 'solenne' and one is not
+Panel 3: A person pointing at something 'solenne' and explaining
+Panel 4: A memorable example of something very 'solenne'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "solenne (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6157
+Word: solidarietà
+Story: 1. Discovering 'solidarietà' for the first time. 2. Seeing 'solidarietà' in its natural context. 3. A person interacting with 'solidarietà'. 4. 'solidarietà' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'solidarietà'.
+Panel 1: Discovering 'solidarietà' for the first time
+Panel 2: Seeing 'solidarietà' in its natural context
+Panel 3: A person interacting with 'solidarietà'
+Panel 4: 'solidarietà' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "solidarietà (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6158
+Word: solido
+Story: 1. Encountering someone or something described as 'solido'. 2. Recognizing the quality of 'solido' in a scene. 3. A vivid example showing 'solido' clearly. 4. Understanding the full meaning of 'solido'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'solido'.
+Panel 1: Encountering someone or something described as 'solido'
+Panel 2: Recognizing the quality of 'solido' in a scene
+Panel 3: A vivid example showing 'solido' clearly
+Panel 4: Understanding the full meaning of 'solido'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "solido (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6159
+Word: solitamente
+Story: 1. A scene where something happens 'solitamente'. 2. Showing the manner or degree of 'solitamente'. 3. Contrasting doing something 'solitamente' vs not. 4. A clear example of 'solitamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'solitamente'.
+Panel 1: A scene where something happens 'solitamente'
+Panel 2: Showing the manner or degree of 'solitamente'
+Panel 3: Contrasting doing something 'solitamente' vs not
+Panel 4: A clear example of 'solitamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "solitamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6160
+Word: solitario
+Story: 1. Encountering someone or something described as 'solitario'. 2. Recognizing the quality of 'solitario' in a scene. 3. A vivid example showing 'solitario' clearly. 4. Understanding the full meaning of 'solitario'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'solitario'.
+Panel 1: Encountering someone or something described as 'solitario'
+Panel 2: Recognizing the quality of 'solitario' in a scene
+Panel 3: A vivid example showing 'solitario' clearly
+Panel 4: Understanding the full meaning of 'solitario'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "solitario (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6161
+Word: solito
+Story: 1. Encountering someone or something described as 'solito'. 2. Recognizing the quality of 'solito' in a scene. 3. A vivid example showing 'solito' clearly. 4. Understanding the full meaning of 'solito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'solito'.
+Panel 1: Encountering someone or something described as 'solito'
+Panel 2: Recognizing the quality of 'solito' in a scene
+Panel 3: A vivid example showing 'solito' clearly
+Panel 4: Understanding the full meaning of 'solito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "solito (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6162
+Word: solitudine
+Story: 1. Discovering 'solitudine' for the first time. 2. Seeing 'solitudine' in its natural context. 3. A person interacting with 'solitudine'. 4. 'solitudine' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'solitudine'.
+Panel 1: Discovering 'solitudine' for the first time
+Panel 2: Seeing 'solitudine' in its natural context
+Panel 3: A person interacting with 'solitudine'
+Panel 4: 'solitudine' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "solitudine (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6163
+Word: solletico
+Story: 1. Discovering 'solletico' for the first time. 2. Seeing 'solletico' in its natural context. 3. A person interacting with 'solletico'. 4. 'solletico' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'solletico'.
+Panel 1: Discovering 'solletico' for the first time
+Panel 2: Seeing 'solletico' in its natural context
+Panel 3: A person interacting with 'solletico'
+Panel 4: 'solletico' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "solletico (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6164
+Word: sollevare
+Story: 1. A person thinking about the action of 'sollevare'. 2. Starting to perform the action 'sollevare'. 3. Actively doing 'sollevare' with full effort. 4. Successfully completing the action 'sollevare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sollevare'.
+Panel 1: A person thinking about the action of 'sollevare'
+Panel 2: Starting to perform the action 'sollevare'
+Panel 3: Actively doing 'sollevare' with full effort
+Panel 4: Successfully completing the action 'sollevare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sollevare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6165
+Word: sollievo
+Story: 1. Discovering 'sollievo' for the first time. 2. Seeing 'sollievo' in its natural context. 3. A person interacting with 'sollievo'. 4. 'sollievo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sollievo'.
+Panel 1: Discovering 'sollievo' for the first time
+Panel 2: Seeing 'sollievo' in its natural context
+Panel 3: A person interacting with 'sollievo'
+Panel 4: 'sollievo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sollievo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6166
+Word: solo
+Story: 1. A scene where something happens 'solo'. 2. Showing the manner or degree of 'solo'. 3. Contrasting doing something 'solo' vs not. 4. A clear example of 'solo' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'solo'.
+Panel 1: A scene where something happens 'solo'
+Panel 2: Showing the manner or degree of 'solo'
+Panel 3: Contrasting doing something 'solo' vs not
+Panel 4: A clear example of 'solo' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "solo (agg., s.m., avv., cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6167
+Word: soltanto
+Story: 1. A scene where something happens 'soltanto'. 2. Showing the manner or degree of 'soltanto'. 3. Contrasting doing something 'soltanto' vs not. 4. A clear example of 'soltanto' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'soltanto'.
+Panel 1: A scene where something happens 'soltanto'
+Panel 2: Showing the manner or degree of 'soltanto'
+Panel 3: Contrasting doing something 'soltanto' vs not
+Panel 4: A clear example of 'soltanto' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "soltanto (avv., cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6168
+Word: soluzione
+Story: 1. Discovering 'soluzione' for the first time. 2. Seeing 'soluzione' in its natural context. 3. A person interacting with 'soluzione'. 4. 'soluzione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'soluzione'.
+Panel 1: Discovering 'soluzione' for the first time
+Panel 2: Seeing 'soluzione' in its natural context
+Panel 3: A person interacting with 'soluzione'
+Panel 4: 'soluzione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "soluzione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6169
+Word: somigliare
+Story: 1. A person thinking about the action of 'somigliare'. 2. Starting to perform the action 'somigliare'. 3. Actively doing 'somigliare' with full effort. 4. Successfully completing the action 'somigliare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'somigliare'.
+Panel 1: A person thinking about the action of 'somigliare'
+Panel 2: Starting to perform the action 'somigliare'
+Panel 3: Actively doing 'somigliare' with full effort
+Panel 4: Successfully completing the action 'somigliare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "somigliare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6170
+Word: somma
+Story: 1. Discovering 'somma' for the first time. 2. Seeing 'somma' in its natural context. 3. A person interacting with 'somma'. 4. 'somma' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'somma'.
+Panel 1: Discovering 'somma' for the first time
+Panel 2: Seeing 'somma' in its natural context
+Panel 3: A person interacting with 'somma'
+Panel 4: 'somma' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "somma (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6171
+Word: sommare
+Story: 1. A person thinking about the action of 'sommare'. 2. Starting to perform the action 'sommare'. 3. Actively doing 'sommare' with full effort. 4. Successfully completing the action 'sommare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sommare'.
+Panel 1: A person thinking about the action of 'sommare'
+Panel 2: Starting to perform the action 'sommare'
+Panel 3: Actively doing 'sommare' with full effort
+Panel 4: Successfully completing the action 'sommare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sommare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6172
+Word: sondaggio
+Story: 1. Discovering 'sondaggio' for the first time. 2. Seeing 'sondaggio' in its natural context. 3. A person interacting with 'sondaggio'. 4. 'sondaggio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sondaggio'.
+Panel 1: Discovering 'sondaggio' for the first time
+Panel 2: Seeing 'sondaggio' in its natural context
+Panel 3: A person interacting with 'sondaggio'
+Panel 4: 'sondaggio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sondaggio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6173
+Word: sonno
+Story: 1. Discovering 'sonno' for the first time. 2. Seeing 'sonno' in its natural context. 3. A person interacting with 'sonno'. 4. 'sonno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sonno'.
+Panel 1: Discovering 'sonno' for the first time
+Panel 2: Seeing 'sonno' in its natural context
+Panel 3: A person interacting with 'sonno'
+Panel 4: 'sonno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sonno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6174
+Word: sonoro
+Story: 1. Encountering someone or something described as 'sonoro'. 2. Recognizing the quality of 'sonoro' in a scene. 3. A vivid example showing 'sonoro' clearly. 4. Understanding the full meaning of 'sonoro'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sonoro'.
+Panel 1: Encountering someone or something described as 'sonoro'
+Panel 2: Recognizing the quality of 'sonoro' in a scene
+Panel 3: A vivid example showing 'sonoro' clearly
+Panel 4: Understanding the full meaning of 'sonoro'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sonoro (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6175
+Word: soppalco
+Story: 1. Discovering 'soppalco' for the first time. 2. Seeing 'soppalco' in its natural context. 3. A person interacting with 'soppalco'. 4. 'soppalco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'soppalco'.
+Panel 1: Discovering 'soppalco' for the first time
+Panel 2: Seeing 'soppalco' in its natural context
+Panel 3: A person interacting with 'soppalco'
+Panel 4: 'soppalco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "soppalco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6176
+Word: sopportare
+Story: 1. A person thinking about the action of 'sopportare'. 2. Starting to perform the action 'sopportare'. 3. Actively doing 'sopportare' with full effort. 4. Successfully completing the action 'sopportare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sopportare'.
+Panel 1: A person thinking about the action of 'sopportare'
+Panel 2: Starting to perform the action 'sopportare'
+Panel 3: Actively doing 'sopportare' with full effort
+Panel 4: Successfully completing the action 'sopportare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sopportare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6177
+Word: sopra
+Story: 1. A scene where something happens 'sopra'. 2. Showing the manner or degree of 'sopra'. 3. Contrasting doing something 'sopra' vs not. 4. A clear example of 'sopra' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sopra'.
+Panel 1: A scene where something happens 'sopra'
+Panel 2: Showing the manner or degree of 'sopra'
+Panel 3: Contrasting doing something 'sopra' vs not
+Panel 4: A clear example of 'sopra' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sopra (prep., avv., agg.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6178
+Word: soprabito
+Story: 1. Discovering 'soprabito' for the first time. 2. Seeing 'soprabito' in its natural context. 3. A person interacting with 'soprabito'. 4. 'soprabito' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'soprabito'.
+Panel 1: Discovering 'soprabito' for the first time
+Panel 2: Seeing 'soprabito' in its natural context
+Panel 3: A person interacting with 'soprabito'
+Panel 4: 'soprabito' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "soprabito (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6179
+Word: sopracciglio
+Story: 1. Discovering 'sopracciglio' for the first time. 2. Seeing 'sopracciglio' in its natural context. 3. A person interacting with 'sopracciglio'. 4. 'sopracciglio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sopracciglio'.
+Panel 1: Discovering 'sopracciglio' for the first time
+Panel 2: Seeing 'sopracciglio' in its natural context
+Panel 3: A person interacting with 'sopracciglio'
+Panel 4: 'sopracciglio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sopracciglio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6180
+Word: soprammobile
+Story: 1. Discovering 'soprammobile' for the first time. 2. Seeing 'soprammobile' in its natural context. 3. A person interacting with 'soprammobile'. 4. 'soprammobile' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'soprammobile'.
+Panel 1: Discovering 'soprammobile' for the first time
+Panel 2: Seeing 'soprammobile' in its natural context
+Panel 3: A person interacting with 'soprammobile'
+Panel 4: 'soprammobile' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "soprammobile (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6181
+Word: soprannome
+Story: 1. Discovering 'soprannome' for the first time. 2. Seeing 'soprannome' in its natural context. 3. A person interacting with 'soprannome'. 4. 'soprannome' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'soprannome'.
+Panel 1: Discovering 'soprannome' for the first time
+Panel 2: Seeing 'soprannome' in its natural context
+Panel 3: A person interacting with 'soprannome'
+Panel 4: 'soprannome' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "soprannome (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6182
+Word: soprattutto
+Story: 1. A scene where something happens 'soprattutto'. 2. Showing the manner or degree of 'soprattutto'. 3. Contrasting doing something 'soprattutto' vs not. 4. A clear example of 'soprattutto' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'soprattutto'.
+Panel 1: A scene where something happens 'soprattutto'
+Panel 2: Showing the manner or degree of 'soprattutto'
+Panel 3: Contrasting doing something 'soprattutto' vs not
+Panel 4: A clear example of 'soprattutto' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "soprattutto (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6183
+Word: sopravvalutare
+Story: 1. A person thinking about the action of 'sopravvalutare'. 2. Starting to perform the action 'sopravvalutare'. 3. Actively doing 'sopravvalutare' with full effort. 4. Successfully completing the action 'sopravvalutare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sopravvalutare'.
+Panel 1: A person thinking about the action of 'sopravvalutare'
+Panel 2: Starting to perform the action 'sopravvalutare'
+Panel 3: Actively doing 'sopravvalutare' with full effort
+Panel 4: Successfully completing the action 'sopravvalutare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sopravvalutare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6184
+Word: sopravvivenza
+Story: 1. Discovering 'sopravvivenza' for the first time. 2. Seeing 'sopravvivenza' in its natural context. 3. A person interacting with 'sopravvivenza'. 4. 'sopravvivenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sopravvivenza'.
+Panel 1: Discovering 'sopravvivenza' for the first time
+Panel 2: Seeing 'sopravvivenza' in its natural context
+Panel 3: A person interacting with 'sopravvivenza'
+Panel 4: 'sopravvivenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sopravvivenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6185
+Word: sopravvivere
+Story: 1. A person thinking about the action of 'sopravvivere'. 2. Starting to perform the action 'sopravvivere'. 3. Actively doing 'sopravvivere' with full effort. 4. Successfully completing the action 'sopravvivere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sopravvivere'.
+Panel 1: A person thinking about the action of 'sopravvivere'
+Panel 2: Starting to perform the action 'sopravvivere'
+Panel 3: Actively doing 'sopravvivere' with full effort
+Panel 4: Successfully completing the action 'sopravvivere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sopravvivere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6186
+Word: sorcio
+Story: 1. Discovering 'sorcio' for the first time. 2. Seeing 'sorcio' in its natural context. 3. A person interacting with 'sorcio'. 4. 'sorcio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorcio'.
+Panel 1: Discovering 'sorcio' for the first time
+Panel 2: Seeing 'sorcio' in its natural context
+Panel 3: A person interacting with 'sorcio'
+Panel 4: 'sorcio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorcio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6187
+Word: sordo
+Story: 1. Encountering someone or something described as 'sordo'. 2. Recognizing the quality of 'sordo' in a scene. 3. A vivid example showing 'sordo' clearly. 4. Understanding the full meaning of 'sordo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sordo'.
+Panel 1: Encountering someone or something described as 'sordo'
+Panel 2: Recognizing the quality of 'sordo' in a scene
+Panel 3: A vivid example showing 'sordo' clearly
+Panel 4: Understanding the full meaning of 'sordo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sordo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6188
+Word: sorella
+Story: 1. Discovering 'sorella' for the first time. 2. Seeing 'sorella' in its natural context. 3. A person interacting with 'sorella'. 4. 'sorella' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorella'.
+Panel 1: Discovering 'sorella' for the first time
+Panel 2: Seeing 'sorella' in its natural context
+Panel 3: A person interacting with 'sorella'
+Panel 4: 'sorella' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorella (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6189
+Word: sorgente
+Story: 1. Encountering someone or something described as 'sorgente'. 2. Recognizing the quality of 'sorgente' in a scene. 3. A vivid example showing 'sorgente' clearly. 4. Understanding the full meaning of 'sorgente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorgente'.
+Panel 1: Encountering someone or something described as 'sorgente'
+Panel 2: Recognizing the quality of 'sorgente' in a scene
+Panel 3: A vivid example showing 'sorgente' clearly
+Panel 4: Understanding the full meaning of 'sorgente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorgente (p.pres., agg., s.f., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6190
+Word: sorgere
+Story: 1. A person thinking about the action of 'sorgere'. 2. Starting to perform the action 'sorgere'. 3. Actively doing 'sorgere' with full effort. 4. Successfully completing the action 'sorgere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorgere'.
+Panel 1: A person thinking about the action of 'sorgere'
+Panel 2: Starting to perform the action 'sorgere'
+Panel 3: Actively doing 'sorgere' with full effort
+Panel 4: Successfully completing the action 'sorgere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorgere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6191
+Word: sorpassare
+Story: 1. A person thinking about the action of 'sorpassare'. 2. Starting to perform the action 'sorpassare'. 3. Actively doing 'sorpassare' with full effort. 4. Successfully completing the action 'sorpassare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorpassare'.
+Panel 1: A person thinking about the action of 'sorpassare'
+Panel 2: Starting to perform the action 'sorpassare'
+Panel 3: Actively doing 'sorpassare' with full effort
+Panel 4: Successfully completing the action 'sorpassare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorpassare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6192
+Word: sorpasso
+Story: 1. Discovering 'sorpasso' for the first time. 2. Seeing 'sorpasso' in its natural context. 3. A person interacting with 'sorpasso'. 4. 'sorpasso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorpasso'.
+Panel 1: Discovering 'sorpasso' for the first time
+Panel 2: Seeing 'sorpasso' in its natural context
+Panel 3: A person interacting with 'sorpasso'
+Panel 4: 'sorpasso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorpasso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6193
+Word: sorprendente
+Story: 1. Seeing something that is clearly 'sorprendente'. 2. Comparing two things, one is 'sorprendente' and one is not. 3. A person pointing at something 'sorprendente' and explaining. 4. A memorable example of something very 'sorprendente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorprendente'.
+Panel 1: Seeing something that is clearly 'sorprendente'
+Panel 2: Comparing two things, one is 'sorprendente' and one is not
+Panel 3: A person pointing at something 'sorprendente' and explaining
+Panel 4: A memorable example of something very 'sorprendente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorprendente (p.pres., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6194
+Word: sorprendere
+Story: 1. A person thinking about the action of 'sorprendere'. 2. Starting to perform the action 'sorprendere'. 3. Actively doing 'sorprendere' with full effort. 4. Successfully completing the action 'sorprendere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorprendere'.
+Panel 1: A person thinking about the action of 'sorprendere'
+Panel 2: Starting to perform the action 'sorprendere'
+Panel 3: Actively doing 'sorprendere' with full effort
+Panel 4: Successfully completing the action 'sorprendere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorprendere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6195
+Word: sorpresa
+Story: 1. Discovering 'sorpresa' for the first time. 2. Seeing 'sorpresa' in its natural context. 3. A person interacting with 'sorpresa'. 4. 'sorpresa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorpresa'.
+Panel 1: Discovering 'sorpresa' for the first time
+Panel 2: Seeing 'sorpresa' in its natural context
+Panel 3: A person interacting with 'sorpresa'
+Panel 4: 'sorpresa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorpresa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6196
+Word: sorridente
+Story: 1. Seeing something that is clearly 'sorridente'. 2. Comparing two things, one is 'sorridente' and one is not. 3. A person pointing at something 'sorridente' and explaining. 4. A memorable example of something very 'sorridente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorridente'.
+Panel 1: Seeing something that is clearly 'sorridente'
+Panel 2: Comparing two things, one is 'sorridente' and one is not
+Panel 3: A person pointing at something 'sorridente' and explaining
+Panel 4: A memorable example of something very 'sorridente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorridente (p.pres., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6197
+Word: sorridere
+Story: 1. A person thinking about the action of 'sorridere'. 2. Starting to perform the action 'sorridere'. 3. Actively doing 'sorridere' with full effort. 4. Successfully completing the action 'sorridere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorridere'.
+Panel 1: A person thinking about the action of 'sorridere'
+Panel 2: Starting to perform the action 'sorridere'
+Panel 3: Actively doing 'sorridere' with full effort
+Panel 4: Successfully completing the action 'sorridere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorridere (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6198
+Word: sorriso
+Story: 1. Discovering 'sorriso' for the first time. 2. Seeing 'sorriso' in its natural context. 3. A person interacting with 'sorriso'. 4. 'sorriso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorriso'.
+Panel 1: Discovering 'sorriso' for the first time
+Panel 2: Seeing 'sorriso' in its natural context
+Panel 3: A person interacting with 'sorriso'
+Panel 4: 'sorriso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorriso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6199
+Word: sorso
+Story: 1. Discovering 'sorso' for the first time. 2. Seeing 'sorso' in its natural context. 3. A person interacting with 'sorso'. 4. 'sorso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorso'.
+Panel 1: Discovering 'sorso' for the first time
+Panel 2: Seeing 'sorso' in its natural context
+Panel 3: A person interacting with 'sorso'
+Panel 4: 'sorso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6200
+Word: sorta
+Story: 1. Discovering 'sorta' for the first time. 2. Seeing 'sorta' in its natural context. 3. A person interacting with 'sorta'. 4. 'sorta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorta'.
+Panel 1: Discovering 'sorta' for the first time
+Panel 2: Seeing 'sorta' in its natural context
+Panel 3: A person interacting with 'sorta'
+Panel 4: 'sorta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6201
+Word: sorte
+Story: 1. Discovering 'sorte' for the first time. 2. Seeing 'sorte' in its natural context. 3. A person interacting with 'sorte'. 4. 'sorte' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorte'.
+Panel 1: Discovering 'sorte' for the first time
+Panel 2: Seeing 'sorte' in its natural context
+Panel 3: A person interacting with 'sorte'
+Panel 4: 'sorte' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorte (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6202
+Word: sorteggiare
+Story: 1. A person thinking about the action of 'sorteggiare'. 2. Starting to perform the action 'sorteggiare'. 3. Actively doing 'sorteggiare' with full effort. 4. Successfully completing the action 'sorteggiare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorteggiare'.
+Panel 1: A person thinking about the action of 'sorteggiare'
+Panel 2: Starting to perform the action 'sorteggiare'
+Panel 3: Actively doing 'sorteggiare' with full effort
+Panel 4: Successfully completing the action 'sorteggiare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorteggiare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6203
+Word: sorteggio
+Story: 1. Discovering 'sorteggio' for the first time. 2. Seeing 'sorteggio' in its natural context. 3. A person interacting with 'sorteggio'. 4. 'sorteggio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorteggio'.
+Panel 1: Discovering 'sorteggio' for the first time
+Panel 2: Seeing 'sorteggio' in its natural context
+Panel 3: A person interacting with 'sorteggio'
+Panel 4: 'sorteggio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorteggio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 6204
+Word: sorvegliare
+Story: 1. A person thinking about the action of 'sorvegliare'. 2. Starting to perform the action 'sorvegliare'. 3. Actively doing 'sorvegliare' with full effort. 4. Successfully completing the action 'sorvegliare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'sorvegliare'.
+Panel 1: A person thinking about the action of 'sorvegliare'
+Panel 2: Starting to perform the action 'sorvegliare'
+Panel 3: Actively doing 'sorvegliare' with full effort
+Panel 4: Successfully completing the action 'sorvegliare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "sorvegliare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

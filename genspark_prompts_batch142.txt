@@ -1,0 +1,400 @@
+Image ID: 7205
+Word: vomito
+Story: 1. Discovering 'vomito' for the first time. 2. Seeing 'vomito' in its natural context. 3. A person interacting with 'vomito'. 4. 'vomito' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vomito'.
+Panel 1: Discovering 'vomito' for the first time
+Panel 2: Seeing 'vomito' in its natural context
+Panel 3: A person interacting with 'vomito'
+Panel 4: 'vomito' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vomito (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7206
+Word: vongola
+Story: 1. Discovering 'vongola' for the first time. 2. Seeing 'vongola' in its natural context. 3. A person interacting with 'vongola'. 4. 'vongola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vongola'.
+Panel 1: Discovering 'vongola' for the first time
+Panel 2: Seeing 'vongola' in its natural context
+Panel 3: A person interacting with 'vongola'
+Panel 4: 'vongola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vongola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7207
+Word: vostro
+Story: 1. Seeing something that is clearly 'vostro'. 2. Comparing two things, one is 'vostro' and one is not. 3. A person pointing at something 'vostro' and explaining. 4. A memorable example of something very 'vostro'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vostro'.
+Panel 1: Seeing something that is clearly 'vostro'
+Panel 2: Comparing two things, one is 'vostro' and one is not
+Panel 3: A person pointing at something 'vostro' and explaining
+Panel 4: A memorable example of something very 'vostro'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vostro (agg.poss. di seconda pers.pl., pron.poss. di seconda pers.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7208
+Word: votare
+Story: 1. A person thinking about the action of 'votare'. 2. Starting to perform the action 'votare'. 3. Actively doing 'votare' with full effort. 4. Successfully completing the action 'votare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'votare'.
+Panel 1: A person thinking about the action of 'votare'
+Panel 2: Starting to perform the action 'votare'
+Panel 3: Actively doing 'votare' with full effort
+Panel 4: Successfully completing the action 'votare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "votare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7209
+Word: votazione
+Story: 1. Discovering 'votazione' for the first time. 2. Seeing 'votazione' in its natural context. 3. A person interacting with 'votazione'. 4. 'votazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'votazione'.
+Panel 1: Discovering 'votazione' for the first time
+Panel 2: Seeing 'votazione' in its natural context
+Panel 3: A person interacting with 'votazione'
+Panel 4: 'votazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "votazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7210
+Word: voto
+Story: 1. Discovering 'voto' for the first time. 2. Seeing 'voto' in its natural context. 3. A person interacting with 'voto'. 4. 'voto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'voto'.
+Panel 1: Discovering 'voto' for the first time
+Panel 2: Seeing 'voto' in its natural context
+Panel 3: A person interacting with 'voto'
+Panel 4: 'voto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "voto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7211
+Word: vu
+Story: 1. Discovering 'vu' for the first time. 2. Seeing 'vu' in its natural context. 3. A person interacting with 'vu'. 4. 'vu' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vu'.
+Panel 1: Discovering 'vu' for the first time
+Panel 2: Seeing 'vu' in its natural context
+Panel 3: A person interacting with 'vu'
+Panel 4: 'vu' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vu (s.f. e m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7212
+Word: vuotare
+Story: 1. A person thinking about the action of 'vuotare'. 2. Starting to perform the action 'vuotare'. 3. Actively doing 'vuotare' with full effort. 4. Successfully completing the action 'vuotare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vuotare'.
+Panel 1: A person thinking about the action of 'vuotare'
+Panel 2: Starting to perform the action 'vuotare'
+Panel 3: Actively doing 'vuotare' with full effort
+Panel 4: Successfully completing the action 'vuotare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vuotare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7213
+Word: vuoto
+Story: 1. Encountering someone or something described as 'vuoto'. 2. Recognizing the quality of 'vuoto' in a scene. 3. A vivid example showing 'vuoto' clearly. 4. Understanding the full meaning of 'vuoto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vuoto'.
+Panel 1: Encountering someone or something described as 'vuoto'
+Panel 2: Recognizing the quality of 'vuoto' in a scene
+Panel 3: A vivid example showing 'vuoto' clearly
+Panel 4: Understanding the full meaning of 'vuoto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vuoto (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7214
+Word: wafer
+Story: 1. Discovering 'wafer' for the first time. 2. Seeing 'wafer' in its natural context. 3. A person interacting with 'wafer'. 4. 'wafer' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'wafer'.
+Panel 1: Discovering 'wafer' for the first time
+Panel 2: Seeing 'wafer' in its natural context
+Panel 3: A person interacting with 'wafer'
+Panel 4: 'wafer' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "wafer (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7215
+Word: web
+Story: 1. Discovering 'web' for the first time. 2. Seeing 'web' in its natural context. 3. A person interacting with 'web'. 4. 'web' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'web'.
+Panel 1: Discovering 'web' for the first time
+Panel 2: Seeing 'web' in its natural context
+Panel 3: A person interacting with 'web'
+Panel 4: 'web' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "web (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7216
+Word: weekend
+Story: 1. Discovering 'weekend' for the first time. 2. Seeing 'weekend' in its natural context. 3. A person interacting with 'weekend'. 4. 'weekend' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'weekend'.
+Panel 1: Discovering 'weekend' for the first time
+Panel 2: Seeing 'weekend' in its natural context
+Panel 3: A person interacting with 'weekend'
+Panel 4: 'weekend' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "weekend (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7217
+Word: whisky
+Story: 1. Discovering 'whisky' for the first time. 2. Seeing 'whisky' in its natural context. 3. A person interacting with 'whisky'. 4. 'whisky' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'whisky'.
+Panel 1: Discovering 'whisky' for the first time
+Panel 2: Seeing 'whisky' in its natural context
+Panel 3: A person interacting with 'whisky'
+Panel 4: 'whisky' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "whisky (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7218
+Word: wurstel
+Story: 1. Discovering 'wurstel' for the first time. 2. Seeing 'wurstel' in its natural context. 3. A person interacting with 'wurstel'. 4. 'wurstel' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'wurstel'.
+Panel 1: Discovering 'wurstel' for the first time
+Panel 2: Seeing 'wurstel' in its natural context
+Panel 3: A person interacting with 'wurstel'
+Panel 4: 'wurstel' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "wurstel (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7219
+Word: yogurt
+Story: 1. Discovering 'yogurt' for the first time. 2. Seeing 'yogurt' in its natural context. 3. A person interacting with 'yogurt'. 4. 'yogurt' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'yogurt'.
+Panel 1: Discovering 'yogurt' for the first time
+Panel 2: Seeing 'yogurt' in its natural context
+Panel 3: A person interacting with 'yogurt'
+Panel 4: 'yogurt' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "yogurt (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7220
+Word: zaino
+Story: 1. Discovering 'zaino' for the first time. 2. Seeing 'zaino' in its natural context. 3. A person interacting with 'zaino'. 4. 'zaino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zaino'.
+Panel 1: Discovering 'zaino' for the first time
+Panel 2: Seeing 'zaino' in its natural context
+Panel 3: A person interacting with 'zaino'
+Panel 4: 'zaino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zaino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7221
+Word: zampa
+Story: 1. Discovering 'zampa' for the first time. 2. Seeing 'zampa' in its natural context. 3. A person interacting with 'zampa'. 4. 'zampa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zampa'.
+Panel 1: Discovering 'zampa' for the first time
+Panel 2: Seeing 'zampa' in its natural context
+Panel 3: A person interacting with 'zampa'
+Panel 4: 'zampa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zampa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7222
+Word: zampogna
+Story: 1. Discovering 'zampogna' for the first time. 2. Seeing 'zampogna' in its natural context. 3. A person interacting with 'zampogna'. 4. 'zampogna' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zampogna'.
+Panel 1: Discovering 'zampogna' for the first time
+Panel 2: Seeing 'zampogna' in its natural context
+Panel 3: A person interacting with 'zampogna'
+Panel 4: 'zampogna' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zampogna (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7223
+Word: zanna
+Story: 1. Discovering 'zanna' for the first time. 2. Seeing 'zanna' in its natural context. 3. A person interacting with 'zanna'. 4. 'zanna' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zanna'.
+Panel 1: Discovering 'zanna' for the first time
+Panel 2: Seeing 'zanna' in its natural context
+Panel 3: A person interacting with 'zanna'
+Panel 4: 'zanna' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zanna (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7224
+Word: zanzara
+Story: 1. Discovering 'zanzara' for the first time. 2. Seeing 'zanzara' in its natural context. 3. A person interacting with 'zanzara'. 4. 'zanzara' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zanzara'.
+Panel 1: Discovering 'zanzara' for the first time
+Panel 2: Seeing 'zanzara' in its natural context
+Panel 3: A person interacting with 'zanzara'
+Panel 4: 'zanzara' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zanzara (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7225
+Word: zattera
+Story: 1. Discovering 'zattera' for the first time. 2. Seeing 'zattera' in its natural context. 3. A person interacting with 'zattera'. 4. 'zattera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zattera'.
+Panel 1: Discovering 'zattera' for the first time
+Panel 2: Seeing 'zattera' in its natural context
+Panel 3: A person interacting with 'zattera'
+Panel 4: 'zattera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zattera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7226
+Word: zebra
+Story: 1. Discovering 'zebra' for the first time. 2. Seeing 'zebra' in its natural context. 3. A person interacting with 'zebra'. 4. 'zebra' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zebra'.
+Panel 1: Discovering 'zebra' for the first time
+Panel 2: Seeing 'zebra' in its natural context
+Panel 3: A person interacting with 'zebra'
+Panel 4: 'zebra' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zebra (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7227
+Word: zero
+Story: 1. Encountering someone or something described as 'zero'. 2. Recognizing the quality of 'zero' in a scene. 3. A vivid example showing 'zero' clearly. 4. Understanding the full meaning of 'zero'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zero'.
+Panel 1: Encountering someone or something described as 'zero'
+Panel 2: Recognizing the quality of 'zero' in a scene
+Panel 3: A vivid example showing 'zero' clearly
+Panel 4: Understanding the full meaning of 'zero'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zero (agg.num.card.inv., s.m., simb.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7228
+Word: zeta
+Story: 1. Discovering 'zeta' for the first time. 2. Seeing 'zeta' in its natural context. 3. A person interacting with 'zeta'. 4. 'zeta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zeta'.
+Panel 1: Discovering 'zeta' for the first time
+Panel 2: Seeing 'zeta' in its natural context
+Panel 3: A person interacting with 'zeta'
+Panel 4: 'zeta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zeta (s.f. e m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7229
+Word: zia
+Story: 1. Discovering 'zia' for the first time. 2. Seeing 'zia' in its natural context. 3. A person interacting with 'zia'. 4. 'zia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zia'.
+Panel 1: Discovering 'zia' for the first time
+Panel 2: Seeing 'zia' in its natural context
+Panel 3: A person interacting with 'zia'
+Panel 4: 'zia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7230
+Word: zingaro
+Story: 1. Encountering someone or something described as 'zingaro'. 2. Recognizing the quality of 'zingaro' in a scene. 3. A vivid example showing 'zingaro' clearly. 4. Understanding the full meaning of 'zingaro'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zingaro'.
+Panel 1: Encountering someone or something described as 'zingaro'
+Panel 2: Recognizing the quality of 'zingaro' in a scene
+Panel 3: A vivid example showing 'zingaro' clearly
+Panel 4: Understanding the full meaning of 'zingaro'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zingaro (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7231
+Word: zio
+Story: 1. Discovering 'zio' for the first time. 2. Seeing 'zio' in its natural context. 3. A person interacting with 'zio'. 4. 'zio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zio'.
+Panel 1: Discovering 'zio' for the first time
+Panel 2: Seeing 'zio' in its natural context
+Panel 3: A person interacting with 'zio'
+Panel 4: 'zio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7232
+Word: zitella
+Story: 1. Discovering 'zitella' for the first time. 2. Seeing 'zitella' in its natural context. 3. A person interacting with 'zitella'. 4. 'zitella' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zitella'.
+Panel 1: Discovering 'zitella' for the first time
+Panel 2: Seeing 'zitella' in its natural context
+Panel 3: A person interacting with 'zitella'
+Panel 4: 'zitella' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zitella (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7233
+Word: zitto
+Story: 1. Encountering someone or something described as 'zitto'. 2. Recognizing the quality of 'zitto' in a scene. 3. A vivid example showing 'zitto' clearly. 4. Understanding the full meaning of 'zitto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zitto'.
+Panel 1: Encountering someone or something described as 'zitto'
+Panel 2: Recognizing the quality of 'zitto' in a scene
+Panel 3: A vivid example showing 'zitto' clearly
+Panel 4: Understanding the full meaning of 'zitto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zitto (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7234
+Word: zoccolo
+Story: 1. Discovering 'zoccolo' for the first time. 2. Seeing 'zoccolo' in its natural context. 3. A person interacting with 'zoccolo'. 4. 'zoccolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zoccolo'.
+Panel 1: Discovering 'zoccolo' for the first time
+Panel 2: Seeing 'zoccolo' in its natural context
+Panel 3: A person interacting with 'zoccolo'
+Panel 4: 'zoccolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zoccolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7235
+Word: zolla
+Story: 1. Discovering 'zolla' for the first time. 2. Seeing 'zolla' in its natural context. 3. A person interacting with 'zolla'. 4. 'zolla' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zolla'.
+Panel 1: Discovering 'zolla' for the first time
+Panel 2: Seeing 'zolla' in its natural context
+Panel 3: A person interacting with 'zolla'
+Panel 4: 'zolla' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zolla (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7236
+Word: zona
+Story: 1. Discovering 'zona' for the first time. 2. Seeing 'zona' in its natural context. 3. A person interacting with 'zona'. 4. 'zona' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zona'.
+Panel 1: Discovering 'zona' for the first time
+Panel 2: Seeing 'zona' in its natural context
+Panel 3: A person interacting with 'zona'
+Panel 4: 'zona' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zona (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7237
+Word: zoo
+Story: 1. Discovering 'zoo' for the first time. 2. Seeing 'zoo' in its natural context. 3. A person interacting with 'zoo'. 4. 'zoo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zoo'.
+Panel 1: Discovering 'zoo' for the first time
+Panel 2: Seeing 'zoo' in its natural context
+Panel 3: A person interacting with 'zoo'
+Panel 4: 'zoo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zoo (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7238
+Word: zoppicare
+Story: 1. A person thinking about the action of 'zoppicare'. 2. Starting to perform the action 'zoppicare'. 3. Actively doing 'zoppicare' with full effort. 4. Successfully completing the action 'zoppicare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zoppicare'.
+Panel 1: A person thinking about the action of 'zoppicare'
+Panel 2: Starting to perform the action 'zoppicare'
+Panel 3: Actively doing 'zoppicare' with full effort
+Panel 4: Successfully completing the action 'zoppicare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zoppicare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7239
+Word: zoppo
+Story: 1. Encountering someone or something described as 'zoppo'. 2. Recognizing the quality of 'zoppo' in a scene. 3. A vivid example showing 'zoppo' clearly. 4. Understanding the full meaning of 'zoppo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zoppo'.
+Panel 1: Encountering someone or something described as 'zoppo'
+Panel 2: Recognizing the quality of 'zoppo' in a scene
+Panel 3: A vivid example showing 'zoppo' clearly
+Panel 4: Understanding the full meaning of 'zoppo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zoppo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7240
+Word: zucca
+Story: 1. Discovering 'zucca' for the first time. 2. Seeing 'zucca' in its natural context. 3. A person interacting with 'zucca'. 4. 'zucca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zucca'.
+Panel 1: Discovering 'zucca' for the first time
+Panel 2: Seeing 'zucca' in its natural context
+Panel 3: A person interacting with 'zucca'
+Panel 4: 'zucca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zucca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7241
+Word: zucchero
+Story: 1. Discovering 'zucchero' for the first time. 2. Seeing 'zucchero' in its natural context. 3. A person interacting with 'zucchero'. 4. 'zucchero' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zucchero'.
+Panel 1: Discovering 'zucchero' for the first time
+Panel 2: Seeing 'zucchero' in its natural context
+Panel 3: A person interacting with 'zucchero'
+Panel 4: 'zucchero' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zucchero (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7242
+Word: zucchina
+Story: 1. Discovering 'zucchina' for the first time. 2. Seeing 'zucchina' in its natural context. 3. A person interacting with 'zucchina'. 4. 'zucchina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zucchina'.
+Panel 1: Discovering 'zucchina' for the first time
+Panel 2: Seeing 'zucchina' in its natural context
+Panel 3: A person interacting with 'zucchina'
+Panel 4: 'zucchina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zucchina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7243
+Word: zuffa
+Story: 1. Discovering 'zuffa' for the first time. 2. Seeing 'zuffa' in its natural context. 3. A person interacting with 'zuffa'. 4. 'zuffa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zuffa'.
+Panel 1: Discovering 'zuffa' for the first time
+Panel 2: Seeing 'zuffa' in its natural context
+Panel 3: A person interacting with 'zuffa'
+Panel 4: 'zuffa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zuffa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7244
+Word: zuppa
+Story: 1. Discovering 'zuppa' for the first time. 2. Seeing 'zuppa' in its natural context. 3. A person interacting with 'zuppa'. 4. 'zuppa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'zuppa'.
+Panel 1: Discovering 'zuppa' for the first time
+Panel 2: Seeing 'zuppa' in its natural context
+Panel 3: A person interacting with 'zuppa'
+Panel 4: 'zuppa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "zuppa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

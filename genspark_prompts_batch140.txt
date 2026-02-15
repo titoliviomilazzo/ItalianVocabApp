@@ -1,0 +1,500 @@
+Image ID: 7105
+Word: vespa
+Story: 1. Discovering 'vespa' for the first time. 2. Seeing 'vespa' in its natural context. 3. A person interacting with 'vespa'. 4. 'vespa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vespa'.
+Panel 1: Discovering 'vespa' for the first time
+Panel 2: Seeing 'vespa' in its natural context
+Panel 3: A person interacting with 'vespa'
+Panel 4: 'vespa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vespa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7106
+Word: veste
+Story: 1. Discovering 'veste' for the first time. 2. Seeing 'veste' in its natural context. 3. A person interacting with 'veste'. 4. 'veste' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'veste'.
+Panel 1: Discovering 'veste' for the first time
+Panel 2: Seeing 'veste' in its natural context
+Panel 3: A person interacting with 'veste'
+Panel 4: 'veste' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "veste (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7107
+Word: vestire
+Story: 1. A person thinking about the action of 'vestire'. 2. Starting to perform the action 'vestire'. 3. Actively doing 'vestire' with full effort. 4. Successfully completing the action 'vestire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vestire'.
+Panel 1: A person thinking about the action of 'vestire'
+Panel 2: Starting to perform the action 'vestire'
+Panel 3: Actively doing 'vestire' with full effort
+Panel 4: Successfully completing the action 'vestire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vestire (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7108
+Word: vestito
+Story: 1. Discovering 'vestito' for the first time. 2. Seeing 'vestito' in its natural context. 3. A person interacting with 'vestito'. 4. 'vestito' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vestito'.
+Panel 1: Discovering 'vestito' for the first time
+Panel 2: Seeing 'vestito' in its natural context
+Panel 3: A person interacting with 'vestito'
+Panel 4: 'vestito' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vestito (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7109
+Word: vestito
+Story: 1. Seeing something that is clearly 'vestito'. 2. Comparing two things, one is 'vestito' and one is not. 3. A person pointing at something 'vestito' and explaining. 4. A memorable example of something very 'vestito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vestito'.
+Panel 1: Seeing something that is clearly 'vestito'
+Panel 2: Comparing two things, one is 'vestito' and one is not
+Panel 3: A person pointing at something 'vestito' and explaining
+Panel 4: A memorable example of something very 'vestito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vestito (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7110
+Word: veterinario
+Story: 1. Encountering someone or something described as 'veterinario'. 2. Recognizing the quality of 'veterinario' in a scene. 3. A vivid example showing 'veterinario' clearly. 4. Understanding the full meaning of 'veterinario'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'veterinario'.
+Panel 1: Encountering someone or something described as 'veterinario'
+Panel 2: Recognizing the quality of 'veterinario' in a scene
+Panel 3: A vivid example showing 'veterinario' clearly
+Panel 4: Understanding the full meaning of 'veterinario'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "veterinario (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7111
+Word: vetrina
+Story: 1. Discovering 'vetrina' for the first time. 2. Seeing 'vetrina' in its natural context. 3. A person interacting with 'vetrina'. 4. 'vetrina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vetrina'.
+Panel 1: Discovering 'vetrina' for the first time
+Panel 2: Seeing 'vetrina' in its natural context
+Panel 3: A person interacting with 'vetrina'
+Panel 4: 'vetrina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vetrina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7112
+Word: vetro
+Story: 1. Discovering 'vetro' for the first time. 2. Seeing 'vetro' in its natural context. 3. A person interacting with 'vetro'. 4. 'vetro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vetro'.
+Panel 1: Discovering 'vetro' for the first time
+Panel 2: Seeing 'vetro' in its natural context
+Panel 3: A person interacting with 'vetro'
+Panel 4: 'vetro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vetro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7113
+Word: vettura
+Story: 1. Discovering 'vettura' for the first time. 2. Seeing 'vettura' in its natural context. 3. A person interacting with 'vettura'. 4. 'vettura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vettura'.
+Panel 1: Discovering 'vettura' for the first time
+Panel 2: Seeing 'vettura' in its natural context
+Panel 3: A person interacting with 'vettura'
+Panel 4: 'vettura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vettura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7114
+Word: vi
+Story: 1. A scene where something happens 'vi'. 2. Showing the manner or degree of 'vi'. 3. Contrasting doing something 'vi' vs not. 4. A clear example of 'vi' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vi'.
+Panel 1: A scene where something happens 'vi'
+Panel 2: Showing the manner or degree of 'vi'
+Panel 3: Contrasting doing something 'vi' vs not
+Panel 4: A clear example of 'vi' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vi (pron.pers. di seconda pers.pl., pron.dimostr., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7115
+Word: via
+Story: 1. A scene where something happens 'via'. 2. Showing the manner or degree of 'via'. 3. Contrasting doing something 'via' vs not. 4. A clear example of 'via' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'via'.
+Panel 1: A scene where something happens 'via'
+Panel 2: Showing the manner or degree of 'via'
+Panel 3: Contrasting doing something 'via' vs not
+Panel 4: A clear example of 'via' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "via (s.f., avv., inter., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7116
+Word: viaggiare
+Story: 1. A person thinking about the action of 'viaggiare'. 2. Starting to perform the action 'viaggiare'. 3. Actively doing 'viaggiare' with full effort. 4. Successfully completing the action 'viaggiare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'viaggiare'.
+Panel 1: A person thinking about the action of 'viaggiare'
+Panel 2: Starting to perform the action 'viaggiare'
+Panel 3: Actively doing 'viaggiare' with full effort
+Panel 4: Successfully completing the action 'viaggiare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "viaggiare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7117
+Word: viaggiatore
+Story: 1. Discovering 'viaggiatore' for the first time. 2. Seeing 'viaggiatore' in its natural context. 3. A person interacting with 'viaggiatore'. 4. 'viaggiatore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'viaggiatore'.
+Panel 1: Discovering 'viaggiatore' for the first time
+Panel 2: Seeing 'viaggiatore' in its natural context
+Panel 3: A person interacting with 'viaggiatore'
+Panel 4: 'viaggiatore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "viaggiatore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7118
+Word: viaggiatrice
+Story: 1. Discovering 'viaggiatrice' for the first time. 2. Seeing 'viaggiatrice' in its natural context. 3. A person interacting with 'viaggiatrice'. 4. 'viaggiatrice' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'viaggiatrice'.
+Panel 1: Discovering 'viaggiatrice' for the first time
+Panel 2: Seeing 'viaggiatrice' in its natural context
+Panel 3: A person interacting with 'viaggiatrice'
+Panel 4: 'viaggiatrice' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "viaggiatrice (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7119
+Word: viaggio
+Story: 1. Discovering 'viaggio' for the first time. 2. Seeing 'viaggio' in its natural context. 3. A person interacting with 'viaggio'. 4. 'viaggio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'viaggio'.
+Panel 1: Discovering 'viaggio' for the first time
+Panel 2: Seeing 'viaggio' in its natural context
+Panel 3: A person interacting with 'viaggio'
+Panel 4: 'viaggio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "viaggio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7120
+Word: viale
+Story: 1. Discovering 'viale' for the first time. 2. Seeing 'viale' in its natural context. 3. A person interacting with 'viale'. 4. 'viale' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'viale'.
+Panel 1: Discovering 'viale' for the first time
+Panel 2: Seeing 'viale' in its natural context
+Panel 3: A person interacting with 'viale'
+Panel 4: 'viale' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "viale (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7121
+Word: vibrare
+Story: 1. A person thinking about the action of 'vibrare'. 2. Starting to perform the action 'vibrare'. 3. Actively doing 'vibrare' with full effort. 4. Successfully completing the action 'vibrare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vibrare'.
+Panel 1: A person thinking about the action of 'vibrare'
+Panel 2: Starting to perform the action 'vibrare'
+Panel 3: Actively doing 'vibrare' with full effort
+Panel 4: Successfully completing the action 'vibrare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vibrare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7122
+Word: vice
+Story: 1. Discovering 'vice' for the first time. 2. Seeing 'vice' in its natural context. 3. A person interacting with 'vice'. 4. 'vice' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vice'.
+Panel 1: Discovering 'vice' for the first time
+Panel 2: Seeing 'vice' in its natural context
+Panel 3: A person interacting with 'vice'
+Panel 4: 'vice' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vice (s.m. e f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7123
+Word: vicenda
+Story: 1. Discovering 'vicenda' for the first time. 2. Seeing 'vicenda' in its natural context. 3. A person interacting with 'vicenda'. 4. 'vicenda' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vicenda'.
+Panel 1: Discovering 'vicenda' for the first time
+Panel 2: Seeing 'vicenda' in its natural context
+Panel 3: A person interacting with 'vicenda'
+Panel 4: 'vicenda' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vicenda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7124
+Word: viceversa
+Story: 1. A scene where something happens 'viceversa'. 2. Showing the manner or degree of 'viceversa'. 3. Contrasting doing something 'viceversa' vs not. 4. A clear example of 'viceversa' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'viceversa'.
+Panel 1: A scene where something happens 'viceversa'
+Panel 2: Showing the manner or degree of 'viceversa'
+Panel 3: Contrasting doing something 'viceversa' vs not
+Panel 4: A clear example of 'viceversa' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "viceversa (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7125
+Word: vicinanza
+Story: 1. Discovering 'vicinanza' for the first time. 2. Seeing 'vicinanza' in its natural context. 3. A person interacting with 'vicinanza'. 4. 'vicinanza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vicinanza'.
+Panel 1: Discovering 'vicinanza' for the first time
+Panel 2: Seeing 'vicinanza' in its natural context
+Panel 3: A person interacting with 'vicinanza'
+Panel 4: 'vicinanza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vicinanza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7126
+Word: vicino
+Story: 1. A scene where something happens 'vicino'. 2. Showing the manner or degree of 'vicino'. 3. Contrasting doing something 'vicino' vs not. 4. A clear example of 'vicino' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vicino'.
+Panel 1: A scene where something happens 'vicino'
+Panel 2: Showing the manner or degree of 'vicino'
+Panel 3: Contrasting doing something 'vicino' vs not
+Panel 4: A clear example of 'vicino' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vicino (agg., s.m., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7127
+Word: vicolo
+Story: 1. Discovering 'vicolo' for the first time. 2. Seeing 'vicolo' in its natural context. 3. A person interacting with 'vicolo'. 4. 'vicolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vicolo'.
+Panel 1: Discovering 'vicolo' for the first time
+Panel 2: Seeing 'vicolo' in its natural context
+Panel 3: A person interacting with 'vicolo'
+Panel 4: 'vicolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vicolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7128
+Word: video
+Story: 1. Encountering someone or something described as 'video'. 2. Recognizing the quality of 'video' in a scene. 3. A vivid example showing 'video' clearly. 4. Understanding the full meaning of 'video'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'video'.
+Panel 1: Encountering someone or something described as 'video'
+Panel 2: Recognizing the quality of 'video' in a scene
+Panel 3: A vivid example showing 'video' clearly
+Panel 4: Understanding the full meaning of 'video'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "video (agg.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7129
+Word: videogioco
+Story: 1. Discovering 'videogioco' for the first time. 2. Seeing 'videogioco' in its natural context. 3. A person interacting with 'videogioco'. 4. 'videogioco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'videogioco'.
+Panel 1: Discovering 'videogioco' for the first time
+Panel 2: Seeing 'videogioco' in its natural context
+Panel 3: A person interacting with 'videogioco'
+Panel 4: 'videogioco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "videogioco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7130
+Word: viennese
+Story: 1. Encountering someone or something described as 'viennese'. 2. Recognizing the quality of 'viennese' in a scene. 3. A vivid example showing 'viennese' clearly. 4. Understanding the full meaning of 'viennese'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'viennese'.
+Panel 1: Encountering someone or something described as 'viennese'
+Panel 2: Recognizing the quality of 'viennese' in a scene
+Panel 3: A vivid example showing 'viennese' clearly
+Panel 4: Understanding the full meaning of 'viennese'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "viennese (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7131
+Word: vietare
+Story: 1. A person thinking about the action of 'vietare'. 2. Starting to perform the action 'vietare'. 3. Actively doing 'vietare' with full effort. 4. Successfully completing the action 'vietare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vietare'.
+Panel 1: A person thinking about the action of 'vietare'
+Panel 2: Starting to perform the action 'vietare'
+Panel 3: Actively doing 'vietare' with full effort
+Panel 4: Successfully completing the action 'vietare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vietare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7132
+Word: vigile
+Story: 1. Encountering someone or something described as 'vigile'. 2. Recognizing the quality of 'vigile' in a scene. 3. A vivid example showing 'vigile' clearly. 4. Understanding the full meaning of 'vigile'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vigile'.
+Panel 1: Encountering someone or something described as 'vigile'
+Panel 2: Recognizing the quality of 'vigile' in a scene
+Panel 3: A vivid example showing 'vigile' clearly
+Panel 4: Understanding the full meaning of 'vigile'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vigile (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7133
+Word: vigilia
+Story: 1. Discovering 'vigilia' for the first time. 2. Seeing 'vigilia' in its natural context. 3. A person interacting with 'vigilia'. 4. 'vigilia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vigilia'.
+Panel 1: Discovering 'vigilia' for the first time
+Panel 2: Seeing 'vigilia' in its natural context
+Panel 3: A person interacting with 'vigilia'
+Panel 4: 'vigilia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vigilia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7134
+Word: vigna
+Story: 1. Discovering 'vigna' for the first time. 2. Seeing 'vigna' in its natural context. 3. A person interacting with 'vigna'. 4. 'vigna' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vigna'.
+Panel 1: Discovering 'vigna' for the first time
+Panel 2: Seeing 'vigna' in its natural context
+Panel 3: A person interacting with 'vigna'
+Panel 4: 'vigna' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vigna (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7135
+Word: vigore
+Story: 1. Discovering 'vigore' for the first time. 2. Seeing 'vigore' in its natural context. 3. A person interacting with 'vigore'. 4. 'vigore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vigore'.
+Panel 1: Discovering 'vigore' for the first time
+Panel 2: Seeing 'vigore' in its natural context
+Panel 3: A person interacting with 'vigore'
+Panel 4: 'vigore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vigore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7136
+Word: villa
+Story: 1. Discovering 'villa' for the first time. 2. Seeing 'villa' in its natural context. 3. A person interacting with 'villa'. 4. 'villa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'villa'.
+Panel 1: Discovering 'villa' for the first time
+Panel 2: Seeing 'villa' in its natural context
+Panel 3: A person interacting with 'villa'
+Panel 4: 'villa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "villa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7137
+Word: villaggio
+Story: 1. Discovering 'villaggio' for the first time. 2. Seeing 'villaggio' in its natural context. 3. A person interacting with 'villaggio'. 4. 'villaggio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'villaggio'.
+Panel 1: Discovering 'villaggio' for the first time
+Panel 2: Seeing 'villaggio' in its natural context
+Panel 3: A person interacting with 'villaggio'
+Panel 4: 'villaggio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "villaggio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7138
+Word: vincente
+Story: 1. Encountering someone or something described as 'vincente'. 2. Recognizing the quality of 'vincente' in a scene. 3. A vivid example showing 'vincente' clearly. 4. Understanding the full meaning of 'vincente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vincente'.
+Panel 1: Encountering someone or something described as 'vincente'
+Panel 2: Recognizing the quality of 'vincente' in a scene
+Panel 3: A vivid example showing 'vincente' clearly
+Panel 4: Understanding the full meaning of 'vincente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vincente (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7139
+Word: vincere
+Story: 1. A person thinking about the action of 'vincere'. 2. Starting to perform the action 'vincere'. 3. Actively doing 'vincere' with full effort. 4. Successfully completing the action 'vincere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vincere'.
+Panel 1: A person thinking about the action of 'vincere'
+Panel 2: Starting to perform the action 'vincere'
+Panel 3: Actively doing 'vincere' with full effort
+Panel 4: Successfully completing the action 'vincere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vincere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7140
+Word: vincitore
+Story: 1. Encountering someone or something described as 'vincitore'. 2. Recognizing the quality of 'vincitore' in a scene. 3. A vivid example showing 'vincitore' clearly. 4. Understanding the full meaning of 'vincitore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vincitore'.
+Panel 1: Encountering someone or something described as 'vincitore'
+Panel 2: Recognizing the quality of 'vincitore' in a scene
+Panel 3: A vivid example showing 'vincitore' clearly
+Panel 4: Understanding the full meaning of 'vincitore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vincitore (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7141
+Word: vincolo
+Story: 1. Discovering 'vincolo' for the first time. 2. Seeing 'vincolo' in its natural context. 3. A person interacting with 'vincolo'. 4. 'vincolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vincolo'.
+Panel 1: Discovering 'vincolo' for the first time
+Panel 2: Seeing 'vincolo' in its natural context
+Panel 3: A person interacting with 'vincolo'
+Panel 4: 'vincolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vincolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7142
+Word: vino
+Story: 1. Encountering someone or something described as 'vino'. 2. Recognizing the quality of 'vino' in a scene. 3. A vivid example showing 'vino' clearly. 4. Understanding the full meaning of 'vino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vino'.
+Panel 1: Encountering someone or something described as 'vino'
+Panel 2: Recognizing the quality of 'vino' in a scene
+Panel 3: A vivid example showing 'vino' clearly
+Panel 4: Understanding the full meaning of 'vino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vino (s.m., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7143
+Word: viola
+Story: 1. Encountering someone or something described as 'viola'. 2. Recognizing the quality of 'viola' in a scene. 3. A vivid example showing 'viola' clearly. 4. Understanding the full meaning of 'viola'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'viola'.
+Panel 1: Encountering someone or something described as 'viola'
+Panel 2: Recognizing the quality of 'viola' in a scene
+Panel 3: A vivid example showing 'viola' clearly
+Panel 4: Understanding the full meaning of 'viola'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "viola (s.f., s.m. e f.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7144
+Word: violare
+Story: 1. A person thinking about the action of 'violare'. 2. Starting to perform the action 'violare'. 3. Actively doing 'violare' with full effort. 4. Successfully completing the action 'violare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'violare'.
+Panel 1: A person thinking about the action of 'violare'
+Panel 2: Starting to perform the action 'violare'
+Panel 3: Actively doing 'violare' with full effort
+Panel 4: Successfully completing the action 'violare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "violare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7145
+Word: violazione
+Story: 1. Discovering 'violazione' for the first time. 2. Seeing 'violazione' in its natural context. 3. A person interacting with 'violazione'. 4. 'violazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'violazione'.
+Panel 1: Discovering 'violazione' for the first time
+Panel 2: Seeing 'violazione' in its natural context
+Panel 3: A person interacting with 'violazione'
+Panel 4: 'violazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "violazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7146
+Word: violentare
+Story: 1. A person thinking about the action of 'violentare'. 2. Starting to perform the action 'violentare'. 3. Actively doing 'violentare' with full effort. 4. Successfully completing the action 'violentare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'violentare'.
+Panel 1: A person thinking about the action of 'violentare'
+Panel 2: Starting to perform the action 'violentare'
+Panel 3: Actively doing 'violentare' with full effort
+Panel 4: Successfully completing the action 'violentare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "violentare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7147
+Word: violento
+Story: 1. Encountering someone or something described as 'violento'. 2. Recognizing the quality of 'violento' in a scene. 3. A vivid example showing 'violento' clearly. 4. Understanding the full meaning of 'violento'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'violento'.
+Panel 1: Encountering someone or something described as 'violento'
+Panel 2: Recognizing the quality of 'violento' in a scene
+Panel 3: A vivid example showing 'violento' clearly
+Panel 4: Understanding the full meaning of 'violento'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "violento (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7148
+Word: violenza
+Story: 1. Discovering 'violenza' for the first time. 2. Seeing 'violenza' in its natural context. 3. A person interacting with 'violenza'. 4. 'violenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'violenza'.
+Panel 1: Discovering 'violenza' for the first time
+Panel 2: Seeing 'violenza' in its natural context
+Panel 3: A person interacting with 'violenza'
+Panel 4: 'violenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "violenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7149
+Word: violetta
+Story: 1. Discovering 'violetta' for the first time. 2. Seeing 'violetta' in its natural context. 3. A person interacting with 'violetta'. 4. 'violetta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'violetta'.
+Panel 1: Discovering 'violetta' for the first time
+Panel 2: Seeing 'violetta' in its natural context
+Panel 3: A person interacting with 'violetta'
+Panel 4: 'violetta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "violetta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7150
+Word: violetto
+Story: 1. Encountering someone or something described as 'violetto'. 2. Recognizing the quality of 'violetto' in a scene. 3. A vivid example showing 'violetto' clearly. 4. Understanding the full meaning of 'violetto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'violetto'.
+Panel 1: Encountering someone or something described as 'violetto'
+Panel 2: Recognizing the quality of 'violetto' in a scene
+Panel 3: A vivid example showing 'violetto' clearly
+Panel 4: Understanding the full meaning of 'violetto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "violetto (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7151
+Word: violino
+Story: 1. Discovering 'violino' for the first time. 2. Seeing 'violino' in its natural context. 3. A person interacting with 'violino'. 4. 'violino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'violino'.
+Panel 1: Discovering 'violino' for the first time
+Panel 2: Seeing 'violino' in its natural context
+Panel 3: A person interacting with 'violino'
+Panel 4: 'violino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "violino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7152
+Word: vipera
+Story: 1. Discovering 'vipera' for the first time. 2. Seeing 'vipera' in its natural context. 3. A person interacting with 'vipera'. 4. 'vipera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'vipera'.
+Panel 1: Discovering 'vipera' for the first time
+Panel 2: Seeing 'vipera' in its natural context
+Panel 3: A person interacting with 'vipera'
+Panel 4: 'vipera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "vipera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7153
+Word: virgola
+Story: 1. Discovering 'virgola' for the first time. 2. Seeing 'virgola' in its natural context. 3. A person interacting with 'virgola'. 4. 'virgola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'virgola'.
+Panel 1: Discovering 'virgola' for the first time
+Panel 2: Seeing 'virgola' in its natural context
+Panel 3: A person interacting with 'virgola'
+Panel 4: 'virgola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "virgola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7154
+Word: virtù
+Story: 1. Discovering 'virtù' for the first time. 2. Seeing 'virtù' in its natural context. 3. A person interacting with 'virtù'. 4. 'virtù' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'virtù'.
+Panel 1: Discovering 'virtù' for the first time
+Panel 2: Seeing 'virtù' in its natural context
+Panel 3: A person interacting with 'virtù'
+Panel 4: 'virtù' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "virtù (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

@@ -1,0 +1,500 @@
+Image ID: 4855
+Word: preciso
+Story: 1. A scene where something happens 'preciso'. 2. Showing the manner or degree of 'preciso'. 3. Contrasting doing something 'preciso' vs not. 4. A clear example of 'preciso' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preciso'.
+Panel 1: A scene where something happens 'preciso'
+Panel 2: Showing the manner or degree of 'preciso'
+Panel 3: Contrasting doing something 'preciso' vs not
+Panel 4: A clear example of 'preciso' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preciso (agg., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4856
+Word: preda
+Story: 1. Discovering 'preda' for the first time. 2. Seeing 'preda' in its natural context. 3. A person interacting with 'preda'. 4. 'preda' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preda'.
+Panel 1: Discovering 'preda' for the first time
+Panel 2: Seeing 'preda' in its natural context
+Panel 3: A person interacting with 'preda'
+Panel 4: 'preda' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4857
+Word: predisporre
+Story: 1. A person thinking about the action of 'predisporre'. 2. Starting to perform the action 'predisporre'. 3. Actively doing 'predisporre' with full effort. 4. Successfully completing the action 'predisporre' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'predisporre'.
+Panel 1: A person thinking about the action of 'predisporre'
+Panel 2: Starting to perform the action 'predisporre'
+Panel 3: Actively doing 'predisporre' with full effort
+Panel 4: Successfully completing the action 'predisporre' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "predisporre (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4858
+Word: preferenza
+Story: 1. Discovering 'preferenza' for the first time. 2. Seeing 'preferenza' in its natural context. 3. A person interacting with 'preferenza'. 4. 'preferenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preferenza'.
+Panel 1: Discovering 'preferenza' for the first time
+Panel 2: Seeing 'preferenza' in its natural context
+Panel 3: A person interacting with 'preferenza'
+Panel 4: 'preferenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preferenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4859
+Word: preferire
+Story: 1. A person thinking about the action of 'preferire'. 2. Starting to perform the action 'preferire'. 3. Actively doing 'preferire' with full effort. 4. Successfully completing the action 'preferire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preferire'.
+Panel 1: A person thinking about the action of 'preferire'
+Panel 2: Starting to perform the action 'preferire'
+Panel 3: Actively doing 'preferire' with full effort
+Panel 4: Successfully completing the action 'preferire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preferire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4860
+Word: preferito
+Story: 1. Encountering someone or something described as 'preferito'. 2. Recognizing the quality of 'preferito' in a scene. 3. A vivid example showing 'preferito' clearly. 4. Understanding the full meaning of 'preferito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preferito'.
+Panel 1: Encountering someone or something described as 'preferito'
+Panel 2: Recognizing the quality of 'preferito' in a scene
+Panel 3: A vivid example showing 'preferito' clearly
+Panel 4: Understanding the full meaning of 'preferito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preferito (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4861
+Word: pregare
+Story: 1. A person thinking about the action of 'pregare'. 2. Starting to perform the action 'pregare'. 3. Actively doing 'pregare' with full effort. 4. Successfully completing the action 'pregare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pregare'.
+Panel 1: A person thinking about the action of 'pregare'
+Panel 2: Starting to perform the action 'pregare'
+Panel 3: Actively doing 'pregare' with full effort
+Panel 4: Successfully completing the action 'pregare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pregare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4862
+Word: preghiera
+Story: 1. Discovering 'preghiera' for the first time. 2. Seeing 'preghiera' in its natural context. 3. A person interacting with 'preghiera'. 4. 'preghiera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preghiera'.
+Panel 1: Discovering 'preghiera' for the first time
+Panel 2: Seeing 'preghiera' in its natural context
+Panel 3: A person interacting with 'preghiera'
+Panel 4: 'preghiera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preghiera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4863
+Word: pregiato
+Story: 1. Seeing something that is clearly 'pregiato'. 2. Comparing two things, one is 'pregiato' and one is not. 3. A person pointing at something 'pregiato' and explaining. 4. A memorable example of something very 'pregiato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pregiato'.
+Panel 1: Seeing something that is clearly 'pregiato'
+Panel 2: Comparing two things, one is 'pregiato' and one is not
+Panel 3: A person pointing at something 'pregiato' and explaining
+Panel 4: A memorable example of something very 'pregiato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pregiato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4864
+Word: pregio
+Story: 1. Discovering 'pregio' for the first time. 2. Seeing 'pregio' in its natural context. 3. A person interacting with 'pregio'. 4. 'pregio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pregio'.
+Panel 1: Discovering 'pregio' for the first time
+Panel 2: Seeing 'pregio' in its natural context
+Panel 3: A person interacting with 'pregio'
+Panel 4: 'pregio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pregio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4865
+Word: pregiudizio
+Story: 1. Discovering 'pregiudizio' for the first time. 2. Seeing 'pregiudizio' in its natural context. 3. A person interacting with 'pregiudizio'. 4. 'pregiudizio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pregiudizio'.
+Panel 1: Discovering 'pregiudizio' for the first time
+Panel 2: Seeing 'pregiudizio' in its natural context
+Panel 3: A person interacting with 'pregiudizio'
+Panel 4: 'pregiudizio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pregiudizio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4866
+Word: prego
+Story: 1. Two speech bubbles connected by the word 'prego'. 2. A sentence on a blackboard highlighting 'prego'. 3. A teacher explaining the use of 'prego'. 4. Students practicing sentences with 'prego'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prego'.
+Panel 1: Two speech bubbles connected by the word 'prego'
+Panel 2: A sentence on a blackboard highlighting 'prego'
+Panel 3: A teacher explaining the use of 'prego'
+Panel 4: Students practicing sentences with 'prego'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prego (inter.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4867
+Word: prelevare
+Story: 1. A person thinking about the action of 'prelevare'. 2. Starting to perform the action 'prelevare'. 3. Actively doing 'prelevare' with full effort. 4. Successfully completing the action 'prelevare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prelevare'.
+Panel 1: A person thinking about the action of 'prelevare'
+Panel 2: Starting to perform the action 'prelevare'
+Panel 3: Actively doing 'prelevare' with full effort
+Panel 4: Successfully completing the action 'prelevare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prelevare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4868
+Word: preliminare
+Story: 1. Encountering someone or something described as 'preliminare'. 2. Recognizing the quality of 'preliminare' in a scene. 3. A vivid example showing 'preliminare' clearly. 4. Understanding the full meaning of 'preliminare'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preliminare'.
+Panel 1: Encountering someone or something described as 'preliminare'
+Panel 2: Recognizing the quality of 'preliminare' in a scene
+Panel 3: A vivid example showing 'preliminare' clearly
+Panel 4: Understanding the full meaning of 'preliminare'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preliminare (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4869
+Word: prémaman
+Story: 1. Seeing something that is clearly 'prémaman'. 2. Comparing two things, one is 'prémaman' and one is not. 3. A person pointing at something 'prémaman' and explaining. 4. A memorable example of something very 'prémaman'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prémaman'.
+Panel 1: Seeing something that is clearly 'prémaman'
+Panel 2: Comparing two things, one is 'prémaman' and one is not
+Panel 3: A person pointing at something 'prémaman' and explaining
+Panel 4: A memorable example of something very 'prémaman'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prémaman (agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4870
+Word: premere
+Story: 1. A person thinking about the action of 'premere'. 2. Starting to perform the action 'premere'. 3. Actively doing 'premere' with full effort. 4. Successfully completing the action 'premere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'premere'.
+Panel 1: A person thinking about the action of 'premere'
+Panel 2: Starting to perform the action 'premere'
+Panel 3: Actively doing 'premere' with full effort
+Panel 4: Successfully completing the action 'premere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "premere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4871
+Word: premessa
+Story: 1. Discovering 'premessa' for the first time. 2. Seeing 'premessa' in its natural context. 3. A person interacting with 'premessa'. 4. 'premessa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'premessa'.
+Panel 1: Discovering 'premessa' for the first time
+Panel 2: Seeing 'premessa' in its natural context
+Panel 3: A person interacting with 'premessa'
+Panel 4: 'premessa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "premessa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4872
+Word: premiare
+Story: 1. A person thinking about the action of 'premiare'. 2. Starting to perform the action 'premiare'. 3. Actively doing 'premiare' with full effort. 4. Successfully completing the action 'premiare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'premiare'.
+Panel 1: A person thinking about the action of 'premiare'
+Panel 2: Starting to perform the action 'premiare'
+Panel 3: Actively doing 'premiare' with full effort
+Panel 4: Successfully completing the action 'premiare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "premiare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4873
+Word: premier
+Story: 1. Discovering 'premier' for the first time. 2. Seeing 'premier' in its natural context. 3. A person interacting with 'premier'. 4. 'premier' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'premier'.
+Panel 1: Discovering 'premier' for the first time
+Panel 2: Seeing 'premier' in its natural context
+Panel 3: A person interacting with 'premier'
+Panel 4: 'premier' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "premier (s.m. e f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4874
+Word: premio
+Story: 1. Encountering someone or something described as 'premio'. 2. Recognizing the quality of 'premio' in a scene. 3. A vivid example showing 'premio' clearly. 4. Understanding the full meaning of 'premio'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'premio'.
+Panel 1: Encountering someone or something described as 'premio'
+Panel 2: Recognizing the quality of 'premio' in a scene
+Panel 3: A vivid example showing 'premio' clearly
+Panel 4: Understanding the full meaning of 'premio'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "premio (s.m., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4875
+Word: prendere
+Story: 1. A person thinking about the action of 'prendere'. 2. Starting to perform the action 'prendere'. 3. Actively doing 'prendere' with full effort. 4. Successfully completing the action 'prendere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prendere'.
+Panel 1: A person thinking about the action of 'prendere'
+Panel 2: Starting to perform the action 'prendere'
+Panel 3: Actively doing 'prendere' with full effort
+Panel 4: Successfully completing the action 'prendere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prendere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4876
+Word: prenotare
+Story: 1. A person thinking about the action of 'prenotare'. 2. Starting to perform the action 'prenotare'. 3. Actively doing 'prenotare' with full effort. 4. Successfully completing the action 'prenotare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prenotare'.
+Panel 1: A person thinking about the action of 'prenotare'
+Panel 2: Starting to perform the action 'prenotare'
+Panel 3: Actively doing 'prenotare' with full effort
+Panel 4: Successfully completing the action 'prenotare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prenotare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4877
+Word: prenotazione
+Story: 1. Discovering 'prenotazione' for the first time. 2. Seeing 'prenotazione' in its natural context. 3. A person interacting with 'prenotazione'. 4. 'prenotazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prenotazione'.
+Panel 1: Discovering 'prenotazione' for the first time
+Panel 2: Seeing 'prenotazione' in its natural context
+Panel 3: A person interacting with 'prenotazione'
+Panel 4: 'prenotazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prenotazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4878
+Word: preoccupare
+Story: 1. A person thinking about the action of 'preoccupare'. 2. Starting to perform the action 'preoccupare'. 3. Actively doing 'preoccupare' with full effort. 4. Successfully completing the action 'preoccupare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preoccupare'.
+Panel 1: A person thinking about the action of 'preoccupare'
+Panel 2: Starting to perform the action 'preoccupare'
+Panel 3: Actively doing 'preoccupare' with full effort
+Panel 4: Successfully completing the action 'preoccupare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preoccupare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4879
+Word: preoccupato
+Story: 1. Seeing something that is clearly 'preoccupato'. 2. Comparing two things, one is 'preoccupato' and one is not. 3. A person pointing at something 'preoccupato' and explaining. 4. A memorable example of something very 'preoccupato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preoccupato'.
+Panel 1: Seeing something that is clearly 'preoccupato'
+Panel 2: Comparing two things, one is 'preoccupato' and one is not
+Panel 3: A person pointing at something 'preoccupato' and explaining
+Panel 4: A memorable example of something very 'preoccupato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preoccupato (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4880
+Word: preoccupazione
+Story: 1. Discovering 'preoccupazione' for the first time. 2. Seeing 'preoccupazione' in its natural context. 3. A person interacting with 'preoccupazione'. 4. 'preoccupazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preoccupazione'.
+Panel 1: Discovering 'preoccupazione' for the first time
+Panel 2: Seeing 'preoccupazione' in its natural context
+Panel 3: A person interacting with 'preoccupazione'
+Panel 4: 'preoccupazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preoccupazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4881
+Word: preparare
+Story: 1. A person thinking about the action of 'preparare'. 2. Starting to perform the action 'preparare'. 3. Actively doing 'preparare' with full effort. 4. Successfully completing the action 'preparare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preparare'.
+Panel 1: A person thinking about the action of 'preparare'
+Panel 2: Starting to perform the action 'preparare'
+Panel 3: Actively doing 'preparare' with full effort
+Panel 4: Successfully completing the action 'preparare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preparare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4882
+Word: preparazione
+Story: 1. Discovering 'preparazione' for the first time. 2. Seeing 'preparazione' in its natural context. 3. A person interacting with 'preparazione'. 4. 'preparazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preparazione'.
+Panel 1: Discovering 'preparazione' for the first time
+Panel 2: Seeing 'preparazione' in its natural context
+Panel 3: A person interacting with 'preparazione'
+Panel 4: 'preparazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preparazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4883
+Word: prepotente
+Story: 1. Encountering someone or something described as 'prepotente'. 2. Recognizing the quality of 'prepotente' in a scene. 3. A vivid example showing 'prepotente' clearly. 4. Understanding the full meaning of 'prepotente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prepotente'.
+Panel 1: Encountering someone or something described as 'prepotente'
+Panel 2: Recognizing the quality of 'prepotente' in a scene
+Panel 3: A vivid example showing 'prepotente' clearly
+Panel 4: Understanding the full meaning of 'prepotente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prepotente (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4884
+Word: presa
+Story: 1. Discovering 'presa' for the first time. 2. Seeing 'presa' in its natural context. 3. A person interacting with 'presa'. 4. 'presa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presa'.
+Panel 1: Discovering 'presa' for the first time
+Panel 2: Seeing 'presa' in its natural context
+Panel 3: A person interacting with 'presa'
+Panel 4: 'presa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4885
+Word: prescindere
+Story: 1. A person thinking about the action of 'prescindere'. 2. Starting to perform the action 'prescindere'. 3. Actively doing 'prescindere' with full effort. 4. Successfully completing the action 'prescindere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prescindere'.
+Panel 1: A person thinking about the action of 'prescindere'
+Panel 2: Starting to perform the action 'prescindere'
+Panel 3: Actively doing 'prescindere' with full effort
+Panel 4: Successfully completing the action 'prescindere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prescindere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4886
+Word: prescrivere
+Story: 1. A person thinking about the action of 'prescrivere'. 2. Starting to perform the action 'prescrivere'. 3. Actively doing 'prescrivere' with full effort. 4. Successfully completing the action 'prescrivere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prescrivere'.
+Panel 1: A person thinking about the action of 'prescrivere'
+Panel 2: Starting to perform the action 'prescrivere'
+Panel 3: Actively doing 'prescrivere' with full effort
+Panel 4: Successfully completing the action 'prescrivere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prescrivere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4887
+Word: prescrizione
+Story: 1. Discovering 'prescrizione' for the first time. 2. Seeing 'prescrizione' in its natural context. 3. A person interacting with 'prescrizione'. 4. 'prescrizione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prescrizione'.
+Panel 1: Discovering 'prescrizione' for the first time
+Panel 2: Seeing 'prescrizione' in its natural context
+Panel 3: A person interacting with 'prescrizione'
+Panel 4: 'prescrizione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prescrizione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4888
+Word: presentare
+Story: 1. A person thinking about the action of 'presentare'. 2. Starting to perform the action 'presentare'. 3. Actively doing 'presentare' with full effort. 4. Successfully completing the action 'presentare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presentare'.
+Panel 1: A person thinking about the action of 'presentare'
+Panel 2: Starting to perform the action 'presentare'
+Panel 3: Actively doing 'presentare' with full effort
+Panel 4: Successfully completing the action 'presentare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presentare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4889
+Word: presentazione
+Story: 1. Discovering 'presentazione' for the first time. 2. Seeing 'presentazione' in its natural context. 3. A person interacting with 'presentazione'. 4. 'presentazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presentazione'.
+Panel 1: Discovering 'presentazione' for the first time
+Panel 2: Seeing 'presentazione' in its natural context
+Panel 3: A person interacting with 'presentazione'
+Panel 4: 'presentazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presentazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4890
+Word: presente
+Story: 1. A scene where something happens 'presente'. 2. Showing the manner or degree of 'presente'. 3. Contrasting doing something 'presente' vs not. 4. A clear example of 'presente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presente'.
+Panel 1: A scene where something happens 'presente'
+Panel 2: Showing the manner or degree of 'presente'
+Panel 3: Contrasting doing something 'presente' vs not
+Panel 4: A clear example of 'presente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presente (agg., s.m., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4891
+Word: presenza
+Story: 1. Discovering 'presenza' for the first time. 2. Seeing 'presenza' in its natural context. 3. A person interacting with 'presenza'. 4. 'presenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presenza'.
+Panel 1: Discovering 'presenza' for the first time
+Panel 2: Seeing 'presenza' in its natural context
+Panel 3: A person interacting with 'presenza'
+Panel 4: 'presenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4892
+Word: presepe
+Story: 1. Discovering 'presepe' for the first time. 2. Seeing 'presepe' in its natural context. 3. A person interacting with 'presepe'. 4. 'presepe' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presepe'.
+Panel 1: Discovering 'presepe' for the first time
+Panel 2: Seeing 'presepe' in its natural context
+Panel 3: A person interacting with 'presepe'
+Panel 4: 'presepe' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presepe (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4893
+Word: preside
+Story: 1. Discovering 'preside' for the first time. 2. Seeing 'preside' in its natural context. 3. A person interacting with 'preside'. 4. 'preside' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'preside'.
+Panel 1: Discovering 'preside' for the first time
+Panel 2: Seeing 'preside' in its natural context
+Panel 3: A person interacting with 'preside'
+Panel 4: 'preside' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "preside (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4894
+Word: presidente
+Story: 1. Encountering someone or something described as 'presidente'. 2. Recognizing the quality of 'presidente' in a scene. 3. A vivid example showing 'presidente' clearly. 4. Understanding the full meaning of 'presidente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presidente'.
+Panel 1: Encountering someone or something described as 'presidente'
+Panel 2: Recognizing the quality of 'presidente' in a scene
+Panel 3: A vivid example showing 'presidente' clearly
+Panel 4: Understanding the full meaning of 'presidente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presidente (s.m. e f., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4895
+Word: presidenza
+Story: 1. Discovering 'presidenza' for the first time. 2. Seeing 'presidenza' in its natural context. 3. A person interacting with 'presidenza'. 4. 'presidenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presidenza'.
+Panel 1: Discovering 'presidenza' for the first time
+Panel 2: Seeing 'presidenza' in its natural context
+Panel 3: A person interacting with 'presidenza'
+Panel 4: 'presidenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presidenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4896
+Word: pressione
+Story: 1. Discovering 'pressione' for the first time. 2. Seeing 'pressione' in its natural context. 3. A person interacting with 'pressione'. 4. 'pressione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pressione'.
+Panel 1: Discovering 'pressione' for the first time
+Panel 2: Seeing 'pressione' in its natural context
+Panel 3: A person interacting with 'pressione'
+Panel 4: 'pressione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pressione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4897
+Word: presso
+Story: 1. A scene where something happens 'presso'. 2. Showing the manner or degree of 'presso'. 3. Contrasting doing something 'presso' vs not. 4. A clear example of 'presso' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presso'.
+Panel 1: A scene where something happens 'presso'
+Panel 2: Showing the manner or degree of 'presso'
+Panel 3: Contrasting doing something 'presso' vs not
+Panel 4: A clear example of 'presso' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presso (avv., prep., s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4898
+Word: prestare
+Story: 1. A person thinking about the action of 'prestare'. 2. Starting to perform the action 'prestare'. 3. Actively doing 'prestare' with full effort. 4. Successfully completing the action 'prestare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prestare'.
+Panel 1: A person thinking about the action of 'prestare'
+Panel 2: Starting to perform the action 'prestare'
+Panel 3: Actively doing 'prestare' with full effort
+Panel 4: Successfully completing the action 'prestare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prestare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4899
+Word: prestazione
+Story: 1. Discovering 'prestazione' for the first time. 2. Seeing 'prestazione' in its natural context. 3. A person interacting with 'prestazione'. 4. 'prestazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prestazione'.
+Panel 1: Discovering 'prestazione' for the first time
+Panel 2: Seeing 'prestazione' in its natural context
+Panel 3: A person interacting with 'prestazione'
+Panel 4: 'prestazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prestazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4900
+Word: prestigio
+Story: 1. Discovering 'prestigio' for the first time. 2. Seeing 'prestigio' in its natural context. 3. A person interacting with 'prestigio'. 4. 'prestigio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prestigio'.
+Panel 1: Discovering 'prestigio' for the first time
+Panel 2: Seeing 'prestigio' in its natural context
+Panel 3: A person interacting with 'prestigio'
+Panel 4: 'prestigio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prestigio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4901
+Word: prestigioso
+Story: 1. Seeing something that is clearly 'prestigioso'. 2. Comparing two things, one is 'prestigioso' and one is not. 3. A person pointing at something 'prestigioso' and explaining. 4. A memorable example of something very 'prestigioso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prestigioso'.
+Panel 1: Seeing something that is clearly 'prestigioso'
+Panel 2: Comparing two things, one is 'prestigioso' and one is not
+Panel 3: A person pointing at something 'prestigioso' and explaining
+Panel 4: A memorable example of something very 'prestigioso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prestigioso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4902
+Word: prestito
+Story: 1. Discovering 'prestito' for the first time. 2. Seeing 'prestito' in its natural context. 3. A person interacting with 'prestito'. 4. 'prestito' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'prestito'.
+Panel 1: Discovering 'prestito' for the first time
+Panel 2: Seeing 'prestito' in its natural context
+Panel 3: A person interacting with 'prestito'
+Panel 4: 'prestito' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "prestito (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4903
+Word: presto
+Story: 1. A scene where something happens 'presto'. 2. Showing the manner or degree of 'presto'. 3. Contrasting doing something 'presto' vs not. 4. A clear example of 'presto' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presto'.
+Panel 1: A scene where something happens 'presto'
+Panel 2: Showing the manner or degree of 'presto'
+Panel 3: Contrasting doing something 'presto' vs not
+Panel 4: A clear example of 'presto' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presto (avv., inter., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4904
+Word: presumere
+Story: 1. A person thinking about the action of 'presumere'. 2. Starting to perform the action 'presumere'. 3. Actively doing 'presumere' with full effort. 4. Successfully completing the action 'presumere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'presumere'.
+Panel 1: A person thinking about the action of 'presumere'
+Panel 2: Starting to perform the action 'presumere'
+Panel 3: Actively doing 'presumere' with full effort
+Panel 4: Successfully completing the action 'presumere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "presumere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

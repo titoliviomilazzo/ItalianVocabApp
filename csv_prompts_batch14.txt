@@ -1,0 +1,499 @@
+Image ID: 3833
+Word: meteo
+Story: 1. A person facing a situation where they need to meteo. 2. Preparing and getting ready to meteo. 3. Actively performing the action of meteo with determination. 4. The satisfying result after successfully completing meteo.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meteo'.
+Panel 1: A person facing a situation where they need to meteo.
+Panel 2: Preparing and getting ready to meteo.
+Panel 3: Actively performing the action of meteo with determination.
+Panel 4: The satisfying result after successfully completing meteo.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meteo (agg.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7506
+Word: meteorologia
+Story: 1. Discovering meteorologia in an interesting setting. 2. Observing meteorologia up close with curiosity. 3. A practical use of meteorologia in daily life. 4. Understanding why meteorologia matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meteorologia'.
+Panel 1: Discovering meteorologia in an interesting setting.
+Panel 2: Observing meteorologia up close with curiosity.
+Panel 3: A practical use of meteorologia in daily life.
+Panel 4: Understanding why meteorologia matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meteorologia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7507
+Word: meteorologico
+Story: 1. A clear depiction of meteorologico in everyday life. 2. Someone encountering meteorologico for the first time. 3. A person using or interacting with meteorologico. 4. Meteorologico playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'meteorologico'.
+Panel 1: A clear depiction of meteorologico in everyday life.
+Panel 2: Someone encountering meteorologico for the first time.
+Panel 3: A person using or interacting with meteorologico.
+Panel 4: Meteorologico playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "meteorologico (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3834
+Word: metodo
+Story: 1. An illustration showing what metodo looks like. 2. Metodo in its typical environment or context. 3. A person pointing at metodo and explaining it. 4. A scene where metodo is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'metodo'.
+Panel 1: An illustration showing what metodo looks like.
+Panel 2: Metodo in its typical environment or context.
+Panel 3: A person pointing at metodo and explaining it.
+Panel 4: A scene where metodo is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "metodo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7508
+Word: metterci
+Story: 1. A scene that perfectly represents the feeling of metterci. 2. An object or place that embodies metterci. 3. Someone reacting to something metterci. 4. The concept of metterci illustrated in a clear way.
+Prompt: A 4-panel grid comic strip telling a story for the word 'metterci'.
+Panel 1: A scene that perfectly represents the feeling of metterci.
+Panel 2: An object or place that embodies metterci.
+Panel 3: Someone reacting to something metterci.
+Panel 4: The concept of metterci illustrated in a clear way.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "metterci (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7509
+Word: mezzi di trasporto
+Story: 1. An illustration showing what mezzi di trasporto looks like. 2. Mezzi Di Trasporto in its typical environment or context. 3. A person pointing at mezzi di trasporto and explaining it. 4. A scene where mezzi di trasporto is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mezzi di trasporto'.
+Panel 1: An illustration showing what mezzi di trasporto looks like.
+Panel 2: Mezzi Di Trasporto in its typical environment or context.
+Panel 3: A person pointing at mezzi di trasporto and explaining it.
+Panel 4: A scene where mezzi di trasporto is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mezzi di trasporto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3849
+Word: miglioramento
+Story: 1. Discovering miglioramento in an interesting setting. 2. Observing miglioramento up close with curiosity. 3. A practical use of miglioramento in daily life. 4. Understanding why miglioramento matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'miglioramento'.
+Panel 1: Discovering miglioramento in an interesting setting.
+Panel 2: Observing miglioramento up close with curiosity.
+Panel 3: A practical use of miglioramento in daily life.
+Panel 4: Understanding why miglioramento matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "miglioramento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3850
+Word: migliorare
+Story: 1. A person facing a situation where they need to migliorare. 2. Preparing and getting ready to migliorare. 3. Actively performing the action of migliorare with determination. 4. The satisfying result after successfully completing migliorare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'migliorare'.
+Panel 1: A person facing a situation where they need to migliorare.
+Panel 2: Preparing and getting ready to migliorare.
+Panel 3: Actively performing the action of migliorare with determination.
+Panel 4: The satisfying result after successfully completing migliorare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "migliorare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3851
+Word: migliore
+Story: 1. A thought bubble showing the idea of migliore. 2. Taking the first step to migliore. 3. Fully engaged in the act of migliore. 4. A completed scene showing the effect of migliore.
+Prompt: A 4-panel grid comic strip telling a story for the word 'migliore'.
+Panel 1: A thought bubble showing the idea of migliore.
+Panel 2: Taking the first step to migliore.
+Panel 3: Fully engaged in the act of migliore.
+Panel 4: A completed scene showing the effect of migliore.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "migliore (agg., s.m. e f., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7510
+Word: migrante
+Story: 1. A scene that perfectly represents the feeling of migrante. 2. An object or place that embodies migrante. 3. Someone reacting to something migrante. 4. The concept of migrante illustrated in a clear way.
+Prompt: A 4-panel grid comic strip telling a story for the word 'migrante'.
+Panel 1: A scene that perfectly represents the feeling of migrante.
+Panel 2: An object or place that embodies migrante.
+Panel 3: Someone reacting to something migrante.
+Panel 4: The concept of migrante illustrated in a clear way.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "migrante (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7511
+Word: migrante ambientale
+Story: 1. A scene that perfectly represents the feeling of migrante ambientale. 2. An object or place that embodies migrante ambientale. 3. Someone reacting to something migrante ambientale. 4. The concept of migrante ambientale illustrated in a clear way.
+Prompt: A 4-panel grid comic strip telling a story for the word 'migrante ambientale'.
+Panel 1: A scene that perfectly represents the feeling of migrante ambientale.
+Panel 2: An object or place that embodies migrante ambientale.
+Panel 3: Someone reacting to something migrante ambientale.
+Panel 4: The concept of migrante ambientale illustrated in a clear way.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "migrante ambientale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7512
+Word: migratorio
+Story: 1. Discovering migratorio in an interesting setting. 2. Observing migratorio up close with curiosity. 3. A practical use of migratorio in daily life. 4. Understanding why migratorio matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'migratorio'.
+Panel 1: Discovering migratorio in an interesting setting.
+Panel 2: Observing migratorio up close with curiosity.
+Panel 3: A practical use of migratorio in daily life.
+Panel 4: Understanding why migratorio matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "migratorio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7513
+Word: migrazione
+Story: 1. Discovering migrazione in an interesting setting. 2. Observing migrazione up close with curiosity. 3. A practical use of migrazione in daily life. 4. Understanding why migrazione matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'migrazione'.
+Panel 1: Discovering migrazione in an interesting setting.
+Panel 2: Observing migrazione up close with curiosity.
+Panel 3: A practical use of migrazione in daily life.
+Panel 4: Understanding why migrazione matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "migrazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7514
+Word: migrazione circolare
+Story: 1. Someone explaining the concept of migrazione circolare to a friend. 2. A real-life scenario that requires migrazione circolare. 3. A person in the middle of migrazione circolare with focus. 4. The positive outcome of migrazione circolare shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'migrazione circolare'.
+Panel 1: Someone explaining the concept of migrazione circolare to a friend.
+Panel 2: A real-life scenario that requires migrazione circolare.
+Panel 3: A person in the middle of migrazione circolare with focus.
+Panel 4: The positive outcome of migrazione circolare shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "migrazione circolare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3855
+Word: miliardo
+Story: 1. Discovering miliardo in an interesting setting. 2. Observing miliardo up close with curiosity. 3. A practical use of miliardo in daily life. 4. Understanding why miliardo matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'miliardo'.
+Panel 1: Discovering miliardo in an interesting setting.
+Panel 2: Observing miliardo up close with curiosity.
+Panel 3: A practical use of miliardo in daily life.
+Panel 4: Understanding why miliardo matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "miliardo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3856
+Word: milione
+Story: 1. A clear depiction of milione in everyday life. 2. Someone encountering milione for the first time. 3. A person using or interacting with milione. 4. Milione playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'milione'.
+Panel 1: A clear depiction of milione in everyday life.
+Panel 2: Someone encountering milione for the first time.
+Panel 3: A person using or interacting with milione.
+Panel 4: Milione playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "milione (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3865
+Word: minestra
+Story: 1. Discovering minestra in an interesting setting. 2. Observing minestra up close with curiosity. 3. A practical use of minestra in daily life. 4. Understanding why minestra matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'minestra'.
+Panel 1: Discovering minestra in an interesting setting.
+Panel 2: Observing minestra up close with curiosity.
+Panel 3: A practical use of minestra in daily life.
+Panel 4: Understanding why minestra matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "minestra (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3869
+Word: minigonna
+Story: 1. An illustration showing what minigonna looks like. 2. Minigonna in its typical environment or context. 3. A person pointing at minigonna and explaining it. 4. A scene where minigonna is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'minigonna'.
+Panel 1: An illustration showing what minigonna looks like.
+Panel 2: Minigonna in its typical environment or context.
+Panel 3: A person pointing at minigonna and explaining it.
+Panel 4: A scene where minigonna is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "minigonna (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3871
+Word: Ministero
+Story: 1. A clear depiction of Ministero in everyday life. 2. Someone encountering Ministero for the first time. 3. A person using or interacting with Ministero. 4. Ministero playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'Ministero'.
+Panel 1: A clear depiction of Ministero in everyday life.
+Panel 2: Someone encountering Ministero for the first time.
+Panel 3: A person using or interacting with Ministero.
+Panel 4: Ministero playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "Ministero (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3872
+Word: ministro
+Story: 1. Discovering ministro in an interesting setting. 2. Observing ministro up close with curiosity. 3. A practical use of ministro in daily life. 4. Understanding why ministro matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ministro'.
+Panel 1: Discovering ministro in an interesting setting.
+Panel 2: Observing ministro up close with curiosity.
+Panel 3: A practical use of ministro in daily life.
+Panel 4: Understanding why ministro matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ministro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3890
+Word: misura
+Story: 1. An illustration showing what misura looks like. 2. Misura in its typical environment or context. 3. A person pointing at misura and explaining it. 4. A scene where misura is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'misura'.
+Panel 1: An illustration showing what misura looks like.
+Panel 2: Misura in its typical environment or context.
+Panel 3: A person pointing at misura and explaining it.
+Panel 4: A scene where misura is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "misura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3903
+Word: modello
+Story: 1. Discovering modello in an interesting setting. 2. Observing modello up close with curiosity. 3. A practical use of modello in daily life. 4. Understanding why modello matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'modello'.
+Panel 1: Discovering modello in an interesting setting.
+Panel 2: Observing modello up close with curiosity.
+Panel 3: A practical use of modello in daily life.
+Panel 4: Understanding why modello matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "modello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3915
+Word: moglie
+Story: 1. Discovering moglie in an interesting setting. 2. Observing moglie up close with curiosity. 3. A practical use of moglie in daily life. 4. Understanding why moglie matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'moglie'.
+Panel 1: Discovering moglie in an interesting setting.
+Panel 2: Observing moglie up close with curiosity.
+Panel 3: A practical use of moglie in daily life.
+Panel 4: Understanding why moglie matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "moglie (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7515
+Word: molteplice
+Story: 1. A scene that perfectly represents the feeling of molteplice. 2. An object or place that embodies molteplice. 3. Someone reacting to something molteplice. 4. The concept of molteplice illustrated in a clear way.
+Prompt: A 4-panel grid comic strip telling a story for the word 'molteplice'.
+Panel 1: A scene that perfectly represents the feeling of molteplice.
+Panel 2: An object or place that embodies molteplice.
+Panel 3: Someone reacting to something molteplice.
+Panel 4: The concept of molteplice illustrated in a clear way.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "molteplice (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3923
+Word: molto
+Story: 1. A person facing a situation where they need to molto. 2. Preparing and getting ready to molto. 3. Actively performing the action of molto with determination. 4. The satisfying result after successfully completing molto.
+Prompt: A 4-panel grid comic strip telling a story for the word 'molto'.
+Panel 1: A person facing a situation where they need to molto.
+Panel 2: Preparing and getting ready to molto.
+Panel 3: Actively performing the action of molto with determination.
+Panel 4: The satisfying result after successfully completing molto.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "molto (agg.indef., pron.indef., avv., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3924
+Word: momento
+Story: 1. An illustration showing what momento looks like. 2. Momento in its typical environment or context. 3. A person pointing at momento and explaining it. 4. A scene where momento is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'momento'.
+Panel 1: An illustration showing what momento looks like.
+Panel 2: Momento in its typical environment or context.
+Panel 3: A person pointing at momento and explaining it.
+Panel 4: A scene where momento is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "momento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3940
+Word: monumento
+Story: 1. A clear depiction of monumento in everyday life. 2. Someone encountering monumento for the first time. 3. A person using or interacting with monumento. 4. Monumento playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'monumento'.
+Panel 1: A clear depiction of monumento in everyday life.
+Panel 2: Someone encountering monumento for the first time.
+Panel 3: A person using or interacting with monumento.
+Panel 4: Monumento playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "monumento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3962
+Word: motivazione
+Story: 1. Discovering motivazione in an interesting setting. 2. Observing motivazione up close with curiosity. 3. A practical use of motivazione in daily life. 4. Understanding why motivazione matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'motivazione'.
+Panel 1: Discovering motivazione in an interesting setting.
+Panel 2: Observing motivazione up close with curiosity.
+Panel 3: A practical use of motivazione in daily life.
+Panel 4: Understanding why motivazione matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "motivazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7516
+Word: mozzafiato
+Story: 1. Discovering mozzafiato in an interesting setting. 2. Observing mozzafiato up close with curiosity. 3. A practical use of mozzafiato in daily life. 4. Understanding why mozzafiato matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mozzafiato'.
+Panel 1: Discovering mozzafiato in an interesting setting.
+Panel 2: Observing mozzafiato up close with curiosity.
+Panel 3: A practical use of mozzafiato in daily life.
+Panel 4: Understanding why mozzafiato matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mozzafiato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3973
+Word: mozzarella
+Story: 1. An illustration showing what mozzarella looks like. 2. Mozzarella in its typical environment or context. 3. A person pointing at mozzarella and explaining it. 4. A scene where mozzarella is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mozzarella'.
+Panel 1: An illustration showing what mozzarella looks like.
+Panel 2: Mozzarella in its typical environment or context.
+Panel 3: A person pointing at mozzarella and explaining it.
+Panel 4: A scene where mozzarella is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mozzarella (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7517
+Word: mozzarella di bufala
+Story: 1. A clear depiction of mozzarella di bufala in everyday life. 2. Someone encountering mozzarella di bufala for the first time. 3. A person using or interacting with mozzarella di bufala. 4. Mozzarella Di Bufala playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mozzarella di bufala'.
+Panel 1: A clear depiction of mozzarella di bufala in everyday life.
+Panel 2: Someone encountering mozzarella di bufala for the first time.
+Panel 3: A person using or interacting with mozzarella di bufala.
+Panel 4: Mozzarella Di Bufala playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mozzarella di bufala (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7518
+Word: muoversi
+Story: 1. A person facing a situation where they need to muoversi. 2. Preparing and getting ready to muoversi. 3. Actively performing the action of muoversi with determination. 4. The satisfying result after successfully completing muoversi.
+Prompt: A 4-panel grid comic strip telling a story for the word 'muoversi'.
+Panel 1: A person facing a situation where they need to muoversi.
+Panel 2: Preparing and getting ready to muoversi.
+Panel 3: Actively performing the action of muoversi with determination.
+Panel 4: The satisfying result after successfully completing muoversi.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "muoversi (v.pronom.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3996
+Word: museo
+Story: 1. Discovering museo in an interesting setting. 2. Observing museo up close with curiosity. 3. A practical use of museo in daily life. 4. Understanding why museo matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'museo'.
+Panel 1: Discovering museo in an interesting setting.
+Panel 2: Observing museo up close with curiosity.
+Panel 3: A practical use of museo in daily life.
+Panel 4: Understanding why museo matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "museo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7519
+Word: mutande
+Story: 1. Seeing something that is clearly mutande. 2. Comparing two things: one is mutande, the other is not. 3. A person describing something as mutande with gestures. 4. A vivid, memorable example of something very mutande.
+Prompt: A 4-panel grid comic strip telling a story for the word 'mutande'.
+Panel 1: Seeing something that is clearly mutande.
+Panel 2: Comparing two things: one is mutande, the other is not.
+Panel 3: A person describing something as mutande with gestures.
+Panel 4: A vivid, memorable example of something very mutande.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "mutande (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4027
+Word: Natale
+Story: 1. A clear depiction of Natale in everyday life. 2. Someone encountering Natale for the first time. 3. A person using or interacting with Natale. 4. Natale playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'Natale'.
+Panel 1: A clear depiction of Natale in everyday life.
+Panel 2: Someone encountering Natale for the first time.
+Panel 3: A person using or interacting with Natale.
+Panel 4: Natale playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "Natale (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4028
+Word: natalizio
+Story: 1. A clear depiction of natalizio in everyday life. 2. Someone encountering natalizio for the first time. 3. A person using or interacting with natalizio. 4. Natalizio playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'natalizio'.
+Panel 1: A clear depiction of natalizio in everyday life.
+Panel 2: Someone encountering natalizio for the first time.
+Panel 3: A person using or interacting with natalizio.
+Panel 4: Natalizio playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "natalizio (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4037
+Word: navigare
+Story: 1. A person facing a situation where they need to navigare. 2. Preparing and getting ready to navigare. 3. Actively performing the action of navigare with determination. 4. The satisfying result after successfully completing navigare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'navigare'.
+Panel 1: A person facing a situation where they need to navigare.
+Panel 2: Preparing and getting ready to navigare.
+Panel 3: Actively performing the action of navigare with determination.
+Panel 4: The satisfying result after successfully completing navigare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "navigare (v.intr., v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7520
+Word: negozio d’abbigliamento
+Story: 1. A clear depiction of negozio d’abbigliamento in everyday life. 2. Someone encountering negozio d’abbigliamento for the first time. 3. A person using or interacting with negozio d’abbigliamento. 4. Negozio D’Abbigliamento playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'negozio d’abbigliamento'.
+Panel 1: A clear depiction of negozio d’abbigliamento in everyday life.
+Panel 2: Someone encountering negozio d’abbigliamento for the first time.
+Panel 3: A person using or interacting with negozio d’abbigliamento.
+Panel 4: Negozio D’Abbigliamento playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "negozio d’abbigliamento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7521
+Word: neologismo
+Story: 1. Discovering neologismo in an interesting setting. 2. Observing neologismo up close with curiosity. 3. A practical use of neologismo in daily life. 4. Understanding why neologismo matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'neologismo'.
+Panel 1: Discovering neologismo in an interesting setting.
+Panel 2: Observing neologismo up close with curiosity.
+Panel 3: A practical use of neologismo in daily life.
+Panel 4: Understanding why neologismo matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "neologismo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4066
+Word: nervoso
+Story: 1. An illustration showing what nervoso looks like. 2. Nervoso in its typical environment or context. 3. A person pointing at nervoso and explaining it. 4. A scene where nervoso is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'nervoso'.
+Panel 1: An illustration showing what nervoso looks like.
+Panel 2: Nervoso in its typical environment or context.
+Panel 3: A person pointing at nervoso and explaining it.
+Panel 4: A scene where nervoso is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "nervoso (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4067
+Word: nessuno
+Story: 1. Discovering nessuno in an interesting setting. 2. Observing nessuno up close with curiosity. 3. A practical use of nessuno in daily life. 4. Understanding why nessuno matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'nessuno'.
+Panel 1: Discovering nessuno in an interesting setting.
+Panel 2: Observing nessuno up close with curiosity.
+Panel 3: A practical use of nessuno in daily life.
+Panel 4: Understanding why nessuno matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "nessuno (agg.indef., pron. indef.m., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4088
+Word: noleggiare
+Story: 1. A person facing a situation where they need to noleggiare. 2. Preparing and getting ready to noleggiare. 3. Actively performing the action of noleggiare with determination. 4. The satisfying result after successfully completing noleggiare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'noleggiare'.
+Panel 1: A person facing a situation where they need to noleggiare.
+Panel 2: Preparing and getting ready to noleggiare.
+Panel 3: Actively performing the action of noleggiare with determination.
+Panel 4: The satisfying result after successfully completing noleggiare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "noleggiare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4091
+Word: nominare
+Story: 1. A thought bubble showing the idea of nominare. 2. Taking the first step to nominare. 3. Fully engaged in the act of nominare. 4. A completed scene showing the effect of nominare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'nominare'.
+Panel 1: A thought bubble showing the idea of nominare.
+Panel 2: Taking the first step to nominare.
+Panel 3: Fully engaged in the act of nominare.
+Panel 4: A completed scene showing the effect of nominare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "nominare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4095
+Word: nonno
+Story: 1. A clear depiction of nonno in everyday life. 2. Someone encountering nonno for the first time. 3. A person using or interacting with nonno. 4. Nonno playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'nonno'.
+Panel 1: A clear depiction of nonno in everyday life.
+Panel 2: Someone encountering nonno for the first time.
+Panel 3: A person using or interacting with nonno.
+Panel 4: Nonno playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "nonno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4097
+Word: nonostante
+Story: 1. Encountering the concept of 'nonostante' in daily life. 2. Seeing 'nonostante' used in a natural Italian context. 3. A person demonstrating the meaning of 'nonostante'. 4. A clear and memorable example of 'nonostante' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'nonostante'.
+Panel 1: Encountering the concept of 'nonostante' in daily life.
+Panel 2: Seeing 'nonostante' used in a natural Italian context.
+Panel 3: A person demonstrating the meaning of 'nonostante'.
+Panel 4: A clear and memorable example of 'nonostante' in action.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "nonostante (prep., cong.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7522
+Word: noodles
+Story: 1. Seeing something that is clearly noodles. 2. Comparing two things: one is noodles, the other is not. 3. A person describing something as noodles with gestures. 4. A vivid, memorable example of something very noodles.
+Prompt: A 4-panel grid comic strip telling a story for the word 'noodles'.
+Panel 1: Seeing something that is clearly noodles.
+Panel 2: Comparing two things: one is noodles, the other is not.
+Panel 3: A person describing something as noodles with gestures.
+Panel 4: A vivid, memorable example of something very noodles.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "noodles (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4101
+Word: normale
+Story: 1. An illustration showing what normale looks like. 2. Normale in its typical environment or context. 3. A person pointing at normale and explaining it. 4. A scene where normale is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'normale'.
+Panel 1: An illustration showing what normale looks like.
+Panel 2: Normale in its typical environment or context.
+Panel 3: A person pointing at normale and explaining it.
+Panel 4: A scene where normale is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "normale (agg., s.m., s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4110
+Word: notare
+Story: 1. A person facing a situation where they need to notare. 2. Preparing and getting ready to notare. 3. Actively performing the action of notare with determination. 4. The satisfying result after successfully completing notare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'notare'.
+Panel 1: A person facing a situation where they need to notare.
+Panel 2: Preparing and getting ready to notare.
+Panel 3: Actively performing the action of notare with determination.
+Panel 4: The satisfying result after successfully completing notare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "notare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4112
+Word: notizia
+Story: 1. A clear depiction of notizia in everyday life. 2. Someone encountering notizia for the first time. 3. A person using or interacting with notizia. 4. Notizia playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'notizia'.
+Panel 1: A clear depiction of notizia in everyday life.
+Panel 2: Someone encountering notizia for the first time.
+Panel 3: A person using or interacting with notizia.
+Panel 4: Notizia playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "notizia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 4120
+Word: novità
+Story: 1. A person facing a situation where they need to novità. 2. Preparing and getting ready to novità. 3. Actively performing the action of novità with determination. 4. The satisfying result after successfully completing novità.
+Prompt: A 4-panel grid comic strip telling a story for the word 'novità'.
+Panel 1: A person facing a situation where they need to novità.
+Panel 2: Preparing and getting ready to novità.
+Panel 3: Actively performing the action of novità with determination.
+Panel 4: The satisfying result after successfully completing novità.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "novità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.

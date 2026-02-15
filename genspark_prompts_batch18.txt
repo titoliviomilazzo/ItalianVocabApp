@@ -1,0 +1,500 @@
+Image ID: 1005
+Word: camicia
+Story: 1. Discovering 'camicia' for the first time. 2. Seeing 'camicia' in its natural context. 3. A person interacting with 'camicia'. 4. 'camicia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'camicia'.
+Panel 1: Discovering 'camicia' for the first time
+Panel 2: Seeing 'camicia' in its natural context
+Panel 3: A person interacting with 'camicia'
+Panel 4: 'camicia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "camicia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1006
+Word: caminetto
+Story: 1. Discovering 'caminetto' for the first time. 2. Seeing 'caminetto' in its natural context. 3. A person interacting with 'caminetto'. 4. 'caminetto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'caminetto'.
+Panel 1: Discovering 'caminetto' for the first time
+Panel 2: Seeing 'caminetto' in its natural context
+Panel 3: A person interacting with 'caminetto'
+Panel 4: 'caminetto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "caminetto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1007
+Word: camion
+Story: 1. Discovering 'camion' for the first time. 2. Seeing 'camion' in its natural context. 3. A person interacting with 'camion'. 4. 'camion' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'camion'.
+Panel 1: Discovering 'camion' for the first time
+Panel 2: Seeing 'camion' in its natural context
+Panel 3: A person interacting with 'camion'
+Panel 4: 'camion' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "camion (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1008
+Word: camionista
+Story: 1. Discovering 'camionista' for the first time. 2. Seeing 'camionista' in its natural context. 3. A person interacting with 'camionista'. 4. 'camionista' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'camionista'.
+Panel 1: Discovering 'camionista' for the first time
+Panel 2: Seeing 'camionista' in its natural context
+Panel 3: A person interacting with 'camionista'
+Panel 4: 'camionista' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "camionista (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1009
+Word: cammello
+Story: 1. Encountering someone or something described as 'cammello'. 2. Recognizing the quality of 'cammello' in a scene. 3. A vivid example showing 'cammello' clearly. 4. Understanding the full meaning of 'cammello'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cammello'.
+Panel 1: Encountering someone or something described as 'cammello'
+Panel 2: Recognizing the quality of 'cammello' in a scene
+Panel 3: A vivid example showing 'cammello' clearly
+Panel 4: Understanding the full meaning of 'cammello'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cammello (s.m., s.m.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1010
+Word: camminare
+Story: 1. A person thinking about the action of 'camminare'. 2. Starting to perform the action 'camminare'. 3. Actively doing 'camminare' with full effort. 4. Successfully completing the action 'camminare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'camminare'.
+Panel 1: A person thinking about the action of 'camminare'
+Panel 2: Starting to perform the action 'camminare'
+Panel 3: Actively doing 'camminare' with full effort
+Panel 4: Successfully completing the action 'camminare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "camminare (v.intr., v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1011
+Word: camminata
+Story: 1. Discovering 'camminata' for the first time. 2. Seeing 'camminata' in its natural context. 3. A person interacting with 'camminata'. 4. 'camminata' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'camminata'.
+Panel 1: Discovering 'camminata' for the first time
+Panel 2: Seeing 'camminata' in its natural context
+Panel 3: A person interacting with 'camminata'
+Panel 4: 'camminata' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "camminata (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1012
+Word: cammino
+Story: 1. Discovering 'cammino' for the first time. 2. Seeing 'cammino' in its natural context. 3. A person interacting with 'cammino'. 4. 'cammino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cammino'.
+Panel 1: Discovering 'cammino' for the first time
+Panel 2: Seeing 'cammino' in its natural context
+Panel 3: A person interacting with 'cammino'
+Panel 4: 'cammino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cammino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1013
+Word: camomilla
+Story: 1. Discovering 'camomilla' for the first time. 2. Seeing 'camomilla' in its natural context. 3. A person interacting with 'camomilla'. 4. 'camomilla' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'camomilla'.
+Panel 1: Discovering 'camomilla' for the first time
+Panel 2: Seeing 'camomilla' in its natural context
+Panel 3: A person interacting with 'camomilla'
+Panel 4: 'camomilla' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "camomilla (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1014
+Word: camorra
+Story: 1. Discovering 'camorra' for the first time. 2. Seeing 'camorra' in its natural context. 3. A person interacting with 'camorra'. 4. 'camorra' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'camorra'.
+Panel 1: Discovering 'camorra' for the first time
+Panel 2: Seeing 'camorra' in its natural context
+Panel 3: A person interacting with 'camorra'
+Panel 4: 'camorra' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "camorra (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1015
+Word: campagna
+Story: 1. Discovering 'campagna' for the first time. 2. Seeing 'campagna' in its natural context. 3. A person interacting with 'campagna'. 4. 'campagna' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campagna'.
+Panel 1: Discovering 'campagna' for the first time
+Panel 2: Seeing 'campagna' in its natural context
+Panel 3: A person interacting with 'campagna'
+Panel 4: 'campagna' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campagna (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1016
+Word: campana
+Story: 1. Discovering 'campana' for the first time. 2. Seeing 'campana' in its natural context. 3. A person interacting with 'campana'. 4. 'campana' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campana'.
+Panel 1: Discovering 'campana' for the first time
+Panel 2: Seeing 'campana' in its natural context
+Panel 3: A person interacting with 'campana'
+Panel 4: 'campana' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campana (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1017
+Word: campanella
+Story: 1. Discovering 'campanella' for the first time. 2. Seeing 'campanella' in its natural context. 3. A person interacting with 'campanella'. 4. 'campanella' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campanella'.
+Panel 1: Discovering 'campanella' for the first time
+Panel 2: Seeing 'campanella' in its natural context
+Panel 3: A person interacting with 'campanella'
+Panel 4: 'campanella' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campanella (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1018
+Word: campanello
+Story: 1. Discovering 'campanello' for the first time. 2. Seeing 'campanello' in its natural context. 3. A person interacting with 'campanello'. 4. 'campanello' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campanello'.
+Panel 1: Discovering 'campanello' for the first time
+Panel 2: Seeing 'campanello' in its natural context
+Panel 3: A person interacting with 'campanello'
+Panel 4: 'campanello' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campanello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1019
+Word: campanile
+Story: 1. Discovering 'campanile' for the first time. 2. Seeing 'campanile' in its natural context. 3. A person interacting with 'campanile'. 4. 'campanile' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campanile'.
+Panel 1: Discovering 'campanile' for the first time
+Panel 2: Seeing 'campanile' in its natural context
+Panel 3: A person interacting with 'campanile'
+Panel 4: 'campanile' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campanile (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1020
+Word: campano
+Story: 1. Encountering someone or something described as 'campano'. 2. Recognizing the quality of 'campano' in a scene. 3. A vivid example showing 'campano' clearly. 4. Understanding the full meaning of 'campano'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campano'.
+Panel 1: Encountering someone or something described as 'campano'
+Panel 2: Recognizing the quality of 'campano' in a scene
+Panel 3: A vivid example showing 'campano' clearly
+Panel 4: Understanding the full meaning of 'campano'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campano (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1021
+Word: campare
+Story: 1. A person thinking about the action of 'campare'. 2. Starting to perform the action 'campare'. 3. Actively doing 'campare' with full effort. 4. Successfully completing the action 'campare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campare'.
+Panel 1: A person thinking about the action of 'campare'
+Panel 2: Starting to perform the action 'campare'
+Panel 3: Actively doing 'campare' with full effort
+Panel 4: Successfully completing the action 'campare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campare (v.intr., v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1022
+Word: campeggio
+Story: 1. Discovering 'campeggio' for the first time. 2. Seeing 'campeggio' in its natural context. 3. A person interacting with 'campeggio'. 4. 'campeggio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campeggio'.
+Panel 1: Discovering 'campeggio' for the first time
+Panel 2: Seeing 'campeggio' in its natural context
+Panel 3: A person interacting with 'campeggio'
+Panel 4: 'campeggio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campeggio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1023
+Word: campionato
+Story: 1. Discovering 'campionato' for the first time. 2. Seeing 'campionato' in its natural context. 3. A person interacting with 'campionato'. 4. 'campionato' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campionato'.
+Panel 1: Discovering 'campionato' for the first time
+Panel 2: Seeing 'campionato' in its natural context
+Panel 3: A person interacting with 'campionato'
+Panel 4: 'campionato' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campionato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1024
+Word: campione
+Story: 1. Discovering 'campione' for the first time. 2. Seeing 'campione' in its natural context. 3. A person interacting with 'campione'. 4. 'campione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campione'.
+Panel 1: Discovering 'campione' for the first time
+Panel 2: Seeing 'campione' in its natural context
+Panel 3: A person interacting with 'campione'
+Panel 4: 'campione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campione (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1025
+Word: campo
+Story: 1. Discovering 'campo' for the first time. 2. Seeing 'campo' in its natural context. 3. A person interacting with 'campo'. 4. 'campo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campo'.
+Panel 1: Discovering 'campo' for the first time
+Panel 2: Seeing 'campo' in its natural context
+Panel 3: A person interacting with 'campo'
+Panel 4: 'campo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1026
+Word: campobassano
+Story: 1. Encountering someone or something described as 'campobassano'. 2. Recognizing the quality of 'campobassano' in a scene. 3. A vivid example showing 'campobassano' clearly. 4. Understanding the full meaning of 'campobassano'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'campobassano'.
+Panel 1: Encountering someone or something described as 'campobassano'
+Panel 2: Recognizing the quality of 'campobassano' in a scene
+Panel 3: A vivid example showing 'campobassano' clearly
+Panel 4: Understanding the full meaning of 'campobassano'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "campobassano (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1027
+Word: camposanto
+Story: 1. Discovering 'camposanto' for the first time. 2. Seeing 'camposanto' in its natural context. 3. A person interacting with 'camposanto'. 4. 'camposanto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'camposanto'.
+Panel 1: Discovering 'camposanto' for the first time
+Panel 2: Seeing 'camposanto' in its natural context
+Panel 3: A person interacting with 'camposanto'
+Panel 4: 'camposanto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "camposanto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1028
+Word: canadese
+Story: 1. Encountering someone or something described as 'canadese'. 2. Recognizing the quality of 'canadese' in a scene. 3. A vivid example showing 'canadese' clearly. 4. Understanding the full meaning of 'canadese'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canadese'.
+Panel 1: Encountering someone or something described as 'canadese'
+Panel 2: Recognizing the quality of 'canadese' in a scene
+Panel 3: A vivid example showing 'canadese' clearly
+Panel 4: Understanding the full meaning of 'canadese'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canadese (agg., s.f., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1029
+Word: canaglia
+Story: 1. Discovering 'canaglia' for the first time. 2. Seeing 'canaglia' in its natural context. 3. A person interacting with 'canaglia'. 4. 'canaglia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canaglia'.
+Panel 1: Discovering 'canaglia' for the first time
+Panel 2: Seeing 'canaglia' in its natural context
+Panel 3: A person interacting with 'canaglia'
+Panel 4: 'canaglia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canaglia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1030
+Word: canale
+Story: 1. Discovering 'canale' for the first time. 2. Seeing 'canale' in its natural context. 3. A person interacting with 'canale'. 4. 'canale' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canale'.
+Panel 1: Discovering 'canale' for the first time
+Panel 2: Seeing 'canale' in its natural context
+Panel 3: A person interacting with 'canale'
+Panel 4: 'canale' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canale (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1031
+Word: canapa
+Story: 1. Discovering 'canapa' for the first time. 2. Seeing 'canapa' in its natural context. 3. A person interacting with 'canapa'. 4. 'canapa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canapa'.
+Panel 1: Discovering 'canapa' for the first time
+Panel 2: Seeing 'canapa' in its natural context
+Panel 3: A person interacting with 'canapa'
+Panel 4: 'canapa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canapa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1032
+Word: canarino
+Story: 1. Encountering someone or something described as 'canarino'. 2. Recognizing the quality of 'canarino' in a scene. 3. A vivid example showing 'canarino' clearly. 4. Understanding the full meaning of 'canarino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canarino'.
+Panel 1: Encountering someone or something described as 'canarino'
+Panel 2: Recognizing the quality of 'canarino' in a scene
+Panel 3: A vivid example showing 'canarino' clearly
+Panel 4: Understanding the full meaning of 'canarino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canarino (s.m., s.m.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1033
+Word: cancellare
+Story: 1. A person thinking about the action of 'cancellare'. 2. Starting to perform the action 'cancellare'. 3. Actively doing 'cancellare' with full effort. 4. Successfully completing the action 'cancellare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cancellare'.
+Panel 1: A person thinking about the action of 'cancellare'
+Panel 2: Starting to perform the action 'cancellare'
+Panel 3: Actively doing 'cancellare' with full effort
+Panel 4: Successfully completing the action 'cancellare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cancellare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1034
+Word: cancellatura
+Story: 1. Discovering 'cancellatura' for the first time. 2. Seeing 'cancellatura' in its natural context. 3. A person interacting with 'cancellatura'. 4. 'cancellatura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cancellatura'.
+Panel 1: Discovering 'cancellatura' for the first time
+Panel 2: Seeing 'cancellatura' in its natural context
+Panel 3: A person interacting with 'cancellatura'
+Panel 4: 'cancellatura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cancellatura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1035
+Word: cancello
+Story: 1. Discovering 'cancello' for the first time. 2. Seeing 'cancello' in its natural context. 3. A person interacting with 'cancello'. 4. 'cancello' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cancello'.
+Panel 1: Discovering 'cancello' for the first time
+Panel 2: Seeing 'cancello' in its natural context
+Panel 3: A person interacting with 'cancello'
+Panel 4: 'cancello' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cancello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1036
+Word: cancro
+Story: 1. Discovering 'cancro' for the first time. 2. Seeing 'cancro' in its natural context. 3. A person interacting with 'cancro'. 4. 'cancro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cancro'.
+Panel 1: Discovering 'cancro' for the first time
+Panel 2: Seeing 'cancro' in its natural context
+Panel 3: A person interacting with 'cancro'
+Panel 4: 'cancro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cancro (s.m., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1037
+Word: candela
+Story: 1. Discovering 'candela' for the first time. 2. Seeing 'candela' in its natural context. 3. A person interacting with 'candela'. 4. 'candela' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'candela'.
+Panel 1: Discovering 'candela' for the first time
+Panel 2: Seeing 'candela' in its natural context
+Panel 3: A person interacting with 'candela'
+Panel 4: 'candela' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "candela (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1038
+Word: candeliere
+Story: 1. Discovering 'candeliere' for the first time. 2. Seeing 'candeliere' in its natural context. 3. A person interacting with 'candeliere'. 4. 'candeliere' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'candeliere'.
+Panel 1: Discovering 'candeliere' for the first time
+Panel 2: Seeing 'candeliere' in its natural context
+Panel 3: A person interacting with 'candeliere'
+Panel 4: 'candeliere' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "candeliere (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1039
+Word: candidare
+Story: 1. A person thinking about the action of 'candidare'. 2. Starting to perform the action 'candidare'. 3. Actively doing 'candidare' with full effort. 4. Successfully completing the action 'candidare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'candidare'.
+Panel 1: A person thinking about the action of 'candidare'
+Panel 2: Starting to perform the action 'candidare'
+Panel 3: Actively doing 'candidare' with full effort
+Panel 4: Successfully completing the action 'candidare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "candidare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1040
+Word: candidato
+Story: 1. Encountering someone or something described as 'candidato'. 2. Recognizing the quality of 'candidato' in a scene. 3. A vivid example showing 'candidato' clearly. 4. Understanding the full meaning of 'candidato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'candidato'.
+Panel 1: Encountering someone or something described as 'candidato'
+Panel 2: Recognizing the quality of 'candidato' in a scene
+Panel 3: A vivid example showing 'candidato' clearly
+Panel 4: Understanding the full meaning of 'candidato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "candidato (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1041
+Word: candido
+Story: 1. Seeing something that is clearly 'candido'. 2. Comparing two things, one is 'candido' and one is not. 3. A person pointing at something 'candido' and explaining. 4. A memorable example of something very 'candido'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'candido'.
+Panel 1: Seeing something that is clearly 'candido'
+Panel 2: Comparing two things, one is 'candido' and one is not
+Panel 3: A person pointing at something 'candido' and explaining
+Panel 4: A memorable example of something very 'candido'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "candido (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1042
+Word: cane
+Story: 1. Discovering 'cane' for the first time. 2. Seeing 'cane' in its natural context. 3. A person interacting with 'cane'. 4. 'cane' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cane'.
+Panel 1: Discovering 'cane' for the first time
+Panel 2: Seeing 'cane' in its natural context
+Panel 3: A person interacting with 'cane'
+Panel 4: 'cane' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cane (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1043
+Word: canestro
+Story: 1. Discovering 'canestro' for the first time. 2. Seeing 'canestro' in its natural context. 3. A person interacting with 'canestro'. 4. 'canestro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canestro'.
+Panel 1: Discovering 'canestro' for the first time
+Panel 2: Seeing 'canestro' in its natural context
+Panel 3: A person interacting with 'canestro'
+Panel 4: 'canestro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canestro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1044
+Word: canguro
+Story: 1. Discovering 'canguro' for the first time. 2. Seeing 'canguro' in its natural context. 3. A person interacting with 'canguro'. 4. 'canguro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canguro'.
+Panel 1: Discovering 'canguro' for the first time
+Panel 2: Seeing 'canguro' in its natural context
+Panel 3: A person interacting with 'canguro'
+Panel 4: 'canguro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canguro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1045
+Word: canna
+Story: 1. Discovering 'canna' for the first time. 2. Seeing 'canna' in its natural context. 3. A person interacting with 'canna'. 4. 'canna' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canna'.
+Panel 1: Discovering 'canna' for the first time
+Panel 2: Seeing 'canna' in its natural context
+Panel 3: A person interacting with 'canna'
+Panel 4: 'canna' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canna (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1046
+Word: cannibale
+Story: 1. Encountering someone or something described as 'cannibale'. 2. Recognizing the quality of 'cannibale' in a scene. 3. A vivid example showing 'cannibale' clearly. 4. Understanding the full meaning of 'cannibale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cannibale'.
+Panel 1: Encountering someone or something described as 'cannibale'
+Panel 2: Recognizing the quality of 'cannibale' in a scene
+Panel 3: A vivid example showing 'cannibale' clearly
+Panel 4: Understanding the full meaning of 'cannibale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cannibale (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1047
+Word: cannuccia
+Story: 1. Discovering 'cannuccia' for the first time. 2. Seeing 'cannuccia' in its natural context. 3. A person interacting with 'cannuccia'. 4. 'cannuccia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cannuccia'.
+Panel 1: Discovering 'cannuccia' for the first time
+Panel 2: Seeing 'cannuccia' in its natural context
+Panel 3: A person interacting with 'cannuccia'
+Panel 4: 'cannuccia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cannuccia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1048
+Word: canone
+Story: 1. Discovering 'canone' for the first time. 2. Seeing 'canone' in its natural context. 3. A person interacting with 'canone'. 4. 'canone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canone'.
+Panel 1: Discovering 'canone' for the first time
+Panel 2: Seeing 'canone' in its natural context
+Panel 3: A person interacting with 'canone'
+Panel 4: 'canone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1049
+Word: canottiera
+Story: 1. Discovering 'canottiera' for the first time. 2. Seeing 'canottiera' in its natural context. 3. A person interacting with 'canottiera'. 4. 'canottiera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canottiera'.
+Panel 1: Discovering 'canottiera' for the first time
+Panel 2: Seeing 'canottiera' in its natural context
+Panel 3: A person interacting with 'canottiera'
+Panel 4: 'canottiera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canottiera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1050
+Word: canotto
+Story: 1. Discovering 'canotto' for the first time. 2. Seeing 'canotto' in its natural context. 3. A person interacting with 'canotto'. 4. 'canotto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'canotto'.
+Panel 1: Discovering 'canotto' for the first time
+Panel 2: Seeing 'canotto' in its natural context
+Panel 3: A person interacting with 'canotto'
+Panel 4: 'canotto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "canotto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1051
+Word: cantante
+Story: 1. Encountering someone or something described as 'cantante'. 2. Recognizing the quality of 'cantante' in a scene. 3. A vivid example showing 'cantante' clearly. 4. Understanding the full meaning of 'cantante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cantante'.
+Panel 1: Encountering someone or something described as 'cantante'
+Panel 2: Recognizing the quality of 'cantante' in a scene
+Panel 3: A vivid example showing 'cantante' clearly
+Panel 4: Understanding the full meaning of 'cantante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cantante (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1052
+Word: cantare
+Story: 1. A person thinking about the action of 'cantare'. 2. Starting to perform the action 'cantare'. 3. Actively doing 'cantare' with full effort. 4. Successfully completing the action 'cantare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cantare'.
+Panel 1: A person thinking about the action of 'cantare'
+Panel 2: Starting to perform the action 'cantare'
+Panel 3: Actively doing 'cantare' with full effort
+Panel 4: Successfully completing the action 'cantare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cantare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1053
+Word: cantautore
+Story: 1. Discovering 'cantautore' for the first time. 2. Seeing 'cantautore' in its natural context. 3. A person interacting with 'cantautore'. 4. 'cantautore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cantautore'.
+Panel 1: Discovering 'cantautore' for the first time
+Panel 2: Seeing 'cantautore' in its natural context
+Panel 3: A person interacting with 'cantautore'
+Panel 4: 'cantautore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cantautore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 1054
+Word: cantiere
+Story: 1. Discovering 'cantiere' for the first time. 2. Seeing 'cantiere' in its natural context. 3. A person interacting with 'cantiere'. 4. 'cantiere' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'cantiere'.
+Panel 1: Discovering 'cantiere' for the first time
+Panel 2: Seeing 'cantiere' in its natural context
+Panel 3: A person interacting with 'cantiere'
+Panel 4: 'cantiere' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "cantiere (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

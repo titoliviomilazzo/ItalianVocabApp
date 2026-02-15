@@ -1,0 +1,500 @@
+Image ID: 3155
+Word: indipendenza
+Story: 1. Discovering 'indipendenza' for the first time. 2. Seeing 'indipendenza' in its natural context. 3. A person interacting with 'indipendenza'. 4. 'indipendenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indipendenza'.
+Panel 1: Discovering 'indipendenza' for the first time
+Panel 2: Seeing 'indipendenza' in its natural context
+Panel 3: A person interacting with 'indipendenza'
+Panel 4: 'indipendenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indipendenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3156
+Word: indiretto
+Story: 1. Seeing something that is clearly 'indiretto'. 2. Comparing two things, one is 'indiretto' and one is not. 3. A person pointing at something 'indiretto' and explaining. 4. A memorable example of something very 'indiretto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indiretto'.
+Panel 1: Seeing something that is clearly 'indiretto'
+Panel 2: Comparing two things, one is 'indiretto' and one is not
+Panel 3: A person pointing at something 'indiretto' and explaining
+Panel 4: A memorable example of something very 'indiretto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indiretto (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3157
+Word: indirizzare
+Story: 1. A person thinking about the action of 'indirizzare'. 2. Starting to perform the action 'indirizzare'. 3. Actively doing 'indirizzare' with full effort. 4. Successfully completing the action 'indirizzare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indirizzare'.
+Panel 1: A person thinking about the action of 'indirizzare'
+Panel 2: Starting to perform the action 'indirizzare'
+Panel 3: Actively doing 'indirizzare' with full effort
+Panel 4: Successfully completing the action 'indirizzare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indirizzare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3158
+Word: indirizzo
+Story: 1. Discovering 'indirizzo' for the first time. 2. Seeing 'indirizzo' in its natural context. 3. A person interacting with 'indirizzo'. 4. 'indirizzo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indirizzo'.
+Panel 1: Discovering 'indirizzo' for the first time
+Panel 2: Seeing 'indirizzo' in its natural context
+Panel 3: A person interacting with 'indirizzo'
+Panel 4: 'indirizzo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indirizzo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3159
+Word: indisciplinato
+Story: 1. Seeing something that is clearly 'indisciplinato'. 2. Comparing two things, one is 'indisciplinato' and one is not. 3. A person pointing at something 'indisciplinato' and explaining. 4. A memorable example of something very 'indisciplinato'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indisciplinato'.
+Panel 1: Seeing something that is clearly 'indisciplinato'
+Panel 2: Comparing two things, one is 'indisciplinato' and one is not
+Panel 3: A person pointing at something 'indisciplinato' and explaining
+Panel 4: A memorable example of something very 'indisciplinato'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indisciplinato (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3160
+Word: indispensabile
+Story: 1. Encountering someone or something described as 'indispensabile'. 2. Recognizing the quality of 'indispensabile' in a scene. 3. A vivid example showing 'indispensabile' clearly. 4. Understanding the full meaning of 'indispensabile'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indispensabile'.
+Panel 1: Encountering someone or something described as 'indispensabile'
+Panel 2: Recognizing the quality of 'indispensabile' in a scene
+Panel 3: A vivid example showing 'indispensabile' clearly
+Panel 4: Understanding the full meaning of 'indispensabile'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indispensabile (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3161
+Word: individuale
+Story: 1. Seeing something that is clearly 'individuale'. 2. Comparing two things, one is 'individuale' and one is not. 3. A person pointing at something 'individuale' and explaining. 4. A memorable example of something very 'individuale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'individuale'.
+Panel 1: Seeing something that is clearly 'individuale'
+Panel 2: Comparing two things, one is 'individuale' and one is not
+Panel 3: A person pointing at something 'individuale' and explaining
+Panel 4: A memorable example of something very 'individuale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "individuale (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3162
+Word: individuare
+Story: 1. A person thinking about the action of 'individuare'. 2. Starting to perform the action 'individuare'. 3. Actively doing 'individuare' with full effort. 4. Successfully completing the action 'individuare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'individuare'.
+Panel 1: A person thinking about the action of 'individuare'
+Panel 2: Starting to perform the action 'individuare'
+Panel 3: Actively doing 'individuare' with full effort
+Panel 4: Successfully completing the action 'individuare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "individuare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3163
+Word: individuo
+Story: 1. Encountering someone or something described as 'individuo'. 2. Recognizing the quality of 'individuo' in a scene. 3. A vivid example showing 'individuo' clearly. 4. Understanding the full meaning of 'individuo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'individuo'.
+Panel 1: Encountering someone or something described as 'individuo'
+Panel 2: Recognizing the quality of 'individuo' in a scene
+Panel 3: A vivid example showing 'individuo' clearly
+Panel 4: Understanding the full meaning of 'individuo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "individuo (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3164
+Word: indizio
+Story: 1. Discovering 'indizio' for the first time. 2. Seeing 'indizio' in its natural context. 3. A person interacting with 'indizio'. 4. 'indizio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indizio'.
+Panel 1: Discovering 'indizio' for the first time
+Panel 2: Seeing 'indizio' in its natural context
+Panel 3: A person interacting with 'indizio'
+Panel 4: 'indizio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indizio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3165
+Word: indossare
+Story: 1. A person thinking about the action of 'indossare'. 2. Starting to perform the action 'indossare'. 3. Actively doing 'indossare' with full effort. 4. Successfully completing the action 'indossare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indossare'.
+Panel 1: A person thinking about the action of 'indossare'
+Panel 2: Starting to perform the action 'indossare'
+Panel 3: Actively doing 'indossare' with full effort
+Panel 4: Successfully completing the action 'indossare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indossare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3166
+Word: indovinare
+Story: 1. A person thinking about the action of 'indovinare'. 2. Starting to perform the action 'indovinare'. 3. Actively doing 'indovinare' with full effort. 4. Successfully completing the action 'indovinare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indovinare'.
+Panel 1: A person thinking about the action of 'indovinare'
+Panel 2: Starting to perform the action 'indovinare'
+Panel 3: Actively doing 'indovinare' with full effort
+Panel 4: Successfully completing the action 'indovinare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indovinare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3167
+Word: indovinello
+Story: 1. Discovering 'indovinello' for the first time. 2. Seeing 'indovinello' in its natural context. 3. A person interacting with 'indovinello'. 4. 'indovinello' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indovinello'.
+Panel 1: Discovering 'indovinello' for the first time
+Panel 2: Seeing 'indovinello' in its natural context
+Panel 3: A person interacting with 'indovinello'
+Panel 4: 'indovinello' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indovinello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3168
+Word: indubbiamente
+Story: 1. A scene where something happens 'indubbiamente'. 2. Showing the manner or degree of 'indubbiamente'. 3. Contrasting doing something 'indubbiamente' vs not. 4. A clear example of 'indubbiamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indubbiamente'.
+Panel 1: A scene where something happens 'indubbiamente'
+Panel 2: Showing the manner or degree of 'indubbiamente'
+Panel 3: Contrasting doing something 'indubbiamente' vs not
+Panel 4: A clear example of 'indubbiamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indubbiamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3169
+Word: indumento
+Story: 1. Discovering 'indumento' for the first time. 2. Seeing 'indumento' in its natural context. 3. A person interacting with 'indumento'. 4. 'indumento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indumento'.
+Panel 1: Discovering 'indumento' for the first time
+Panel 2: Seeing 'indumento' in its natural context
+Panel 3: A person interacting with 'indumento'
+Panel 4: 'indumento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indumento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3170
+Word: indurre
+Story: 1. A person thinking about the action of 'indurre'. 2. Starting to perform the action 'indurre'. 3. Actively doing 'indurre' with full effort. 4. Successfully completing the action 'indurre' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'indurre'.
+Panel 1: A person thinking about the action of 'indurre'
+Panel 2: Starting to perform the action 'indurre'
+Panel 3: Actively doing 'indurre' with full effort
+Panel 4: Successfully completing the action 'indurre' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "indurre (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3171
+Word: industria
+Story: 1. Discovering 'industria' for the first time. 2. Seeing 'industria' in its natural context. 3. A person interacting with 'industria'. 4. 'industria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'industria'.
+Panel 1: Discovering 'industria' for the first time
+Panel 2: Seeing 'industria' in its natural context
+Panel 3: A person interacting with 'industria'
+Panel 4: 'industria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "industria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3172
+Word: industriale
+Story: 1. Encountering someone or something described as 'industriale'. 2. Recognizing the quality of 'industriale' in a scene. 3. A vivid example showing 'industriale' clearly. 4. Understanding the full meaning of 'industriale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'industriale'.
+Panel 1: Encountering someone or something described as 'industriale'
+Panel 2: Recognizing the quality of 'industriale' in a scene
+Panel 3: A vivid example showing 'industriale' clearly
+Panel 4: Understanding the full meaning of 'industriale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "industriale (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3173
+Word: inedito
+Story: 1. Seeing something that is clearly 'inedito'. 2. Comparing two things, one is 'inedito' and one is not. 3. A person pointing at something 'inedito' and explaining. 4. A memorable example of something very 'inedito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inedito'.
+Panel 1: Seeing something that is clearly 'inedito'
+Panel 2: Comparing two things, one is 'inedito' and one is not
+Panel 3: A person pointing at something 'inedito' and explaining
+Panel 4: A memorable example of something very 'inedito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inedito (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3174
+Word: inefficace
+Story: 1. Seeing something that is clearly 'inefficace'. 2. Comparing two things, one is 'inefficace' and one is not. 3. A person pointing at something 'inefficace' and explaining. 4. A memorable example of something very 'inefficace'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inefficace'.
+Panel 1: Seeing something that is clearly 'inefficace'
+Panel 2: Comparing two things, one is 'inefficace' and one is not
+Panel 3: A person pointing at something 'inefficace' and explaining
+Panel 4: A memorable example of something very 'inefficace'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inefficace (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3175
+Word: inerte
+Story: 1. Seeing something that is clearly 'inerte'. 2. Comparing two things, one is 'inerte' and one is not. 3. A person pointing at something 'inerte' and explaining. 4. A memorable example of something very 'inerte'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inerte'.
+Panel 1: Seeing something that is clearly 'inerte'
+Panel 2: Comparing two things, one is 'inerte' and one is not
+Panel 3: A person pointing at something 'inerte' and explaining
+Panel 4: A memorable example of something very 'inerte'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inerte (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3176
+Word: inesistente
+Story: 1. Seeing something that is clearly 'inesistente'. 2. Comparing two things, one is 'inesistente' and one is not. 3. A person pointing at something 'inesistente' and explaining. 4. A memorable example of something very 'inesistente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inesistente'.
+Panel 1: Seeing something that is clearly 'inesistente'
+Panel 2: Comparing two things, one is 'inesistente' and one is not
+Panel 3: A person pointing at something 'inesistente' and explaining
+Panel 4: A memorable example of something very 'inesistente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inesistente (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3177
+Word: inesperienza
+Story: 1. Discovering 'inesperienza' for the first time. 2. Seeing 'inesperienza' in its natural context. 3. A person interacting with 'inesperienza'. 4. 'inesperienza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inesperienza'.
+Panel 1: Discovering 'inesperienza' for the first time
+Panel 2: Seeing 'inesperienza' in its natural context
+Panel 3: A person interacting with 'inesperienza'
+Panel 4: 'inesperienza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inesperienza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3178
+Word: inesperto
+Story: 1. Seeing something that is clearly 'inesperto'. 2. Comparing two things, one is 'inesperto' and one is not. 3. A person pointing at something 'inesperto' and explaining. 4. A memorable example of something very 'inesperto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inesperto'.
+Panel 1: Seeing something that is clearly 'inesperto'
+Panel 2: Comparing two things, one is 'inesperto' and one is not
+Panel 3: A person pointing at something 'inesperto' and explaining
+Panel 4: A memorable example of something very 'inesperto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inesperto (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3179
+Word: inevitabile
+Story: 1. Encountering someone or something described as 'inevitabile'. 2. Recognizing the quality of 'inevitabile' in a scene. 3. A vivid example showing 'inevitabile' clearly. 4. Understanding the full meaning of 'inevitabile'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inevitabile'.
+Panel 1: Encountering someone or something described as 'inevitabile'
+Panel 2: Recognizing the quality of 'inevitabile' in a scene
+Panel 3: A vivid example showing 'inevitabile' clearly
+Panel 4: Understanding the full meaning of 'inevitabile'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inevitabile (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3180
+Word: inevitabilmente
+Story: 1. A scene where something happens 'inevitabilmente'. 2. Showing the manner or degree of 'inevitabilmente'. 3. Contrasting doing something 'inevitabilmente' vs not. 4. A clear example of 'inevitabilmente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inevitabilmente'.
+Panel 1: A scene where something happens 'inevitabilmente'
+Panel 2: Showing the manner or degree of 'inevitabilmente'
+Panel 3: Contrasting doing something 'inevitabilmente' vs not
+Panel 4: A clear example of 'inevitabilmente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inevitabilmente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3181
+Word: infame
+Story: 1. Encountering someone or something described as 'infame'. 2. Recognizing the quality of 'infame' in a scene. 3. A vivid example showing 'infame' clearly. 4. Understanding the full meaning of 'infame'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infame'.
+Panel 1: Encountering someone or something described as 'infame'
+Panel 2: Recognizing the quality of 'infame' in a scene
+Panel 3: A vivid example showing 'infame' clearly
+Panel 4: Understanding the full meaning of 'infame'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infame (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3182
+Word: infantile
+Story: 1. Seeing something that is clearly 'infantile'. 2. Comparing two things, one is 'infantile' and one is not. 3. A person pointing at something 'infantile' and explaining. 4. A memorable example of something very 'infantile'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infantile'.
+Panel 1: Seeing something that is clearly 'infantile'
+Panel 2: Comparing two things, one is 'infantile' and one is not
+Panel 3: A person pointing at something 'infantile' and explaining
+Panel 4: A memorable example of something very 'infantile'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infantile (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3183
+Word: infanzia
+Story: 1. Discovering 'infanzia' for the first time. 2. Seeing 'infanzia' in its natural context. 3. A person interacting with 'infanzia'. 4. 'infanzia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infanzia'.
+Panel 1: Discovering 'infanzia' for the first time
+Panel 2: Seeing 'infanzia' in its natural context
+Panel 3: A person interacting with 'infanzia'
+Panel 4: 'infanzia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infanzia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3184
+Word: infarto
+Story: 1. Discovering 'infarto' for the first time. 2. Seeing 'infarto' in its natural context. 3. A person interacting with 'infarto'. 4. 'infarto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infarto'.
+Panel 1: Discovering 'infarto' for the first time
+Panel 2: Seeing 'infarto' in its natural context
+Panel 3: A person interacting with 'infarto'
+Panel 4: 'infarto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infarto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3185
+Word: infatti
+Story: 1. A scene where something happens 'infatti'. 2. Showing the manner or degree of 'infatti'. 3. Contrasting doing something 'infatti' vs not. 4. A clear example of 'infatti' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infatti'.
+Panel 1: A scene where something happens 'infatti'
+Panel 2: Showing the manner or degree of 'infatti'
+Panel 3: Contrasting doing something 'infatti' vs not
+Panel 4: A clear example of 'infatti' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infatti (cong., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3186
+Word: infedele
+Story: 1. Encountering someone or something described as 'infedele'. 2. Recognizing the quality of 'infedele' in a scene. 3. A vivid example showing 'infedele' clearly. 4. Understanding the full meaning of 'infedele'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infedele'.
+Panel 1: Encountering someone or something described as 'infedele'
+Panel 2: Recognizing the quality of 'infedele' in a scene
+Panel 3: A vivid example showing 'infedele' clearly
+Panel 4: Understanding the full meaning of 'infedele'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infedele (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3187
+Word: infelice
+Story: 1. Encountering someone or something described as 'infelice'. 2. Recognizing the quality of 'infelice' in a scene. 3. A vivid example showing 'infelice' clearly. 4. Understanding the full meaning of 'infelice'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infelice'.
+Panel 1: Encountering someone or something described as 'infelice'
+Panel 2: Recognizing the quality of 'infelice' in a scene
+Panel 3: A vivid example showing 'infelice' clearly
+Panel 4: Understanding the full meaning of 'infelice'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infelice (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3188
+Word: inferiore
+Story: 1. Seeing something that is clearly 'inferiore'. 2. Comparing two things, one is 'inferiore' and one is not. 3. A person pointing at something 'inferiore' and explaining. 4. A memorable example of something very 'inferiore'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inferiore'.
+Panel 1: Seeing something that is clearly 'inferiore'
+Panel 2: Comparing two things, one is 'inferiore' and one is not
+Panel 3: A person pointing at something 'inferiore' and explaining
+Panel 4: A memorable example of something very 'inferiore'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inferiore (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3189
+Word: infermiera
+Story: 1. Discovering 'infermiera' for the first time. 2. Seeing 'infermiera' in its natural context. 3. A person interacting with 'infermiera'. 4. 'infermiera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infermiera'.
+Panel 1: Discovering 'infermiera' for the first time
+Panel 2: Seeing 'infermiera' in its natural context
+Panel 3: A person interacting with 'infermiera'
+Panel 4: 'infermiera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infermiera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3190
+Word: infermiere
+Story: 1. Discovering 'infermiere' for the first time. 2. Seeing 'infermiere' in its natural context. 3. A person interacting with 'infermiere'. 4. 'infermiere' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infermiere'.
+Panel 1: Discovering 'infermiere' for the first time
+Panel 2: Seeing 'infermiere' in its natural context
+Panel 3: A person interacting with 'infermiere'
+Panel 4: 'infermiere' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infermiere (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3191
+Word: inferno
+Story: 1. Encountering someone or something described as 'inferno'. 2. Recognizing the quality of 'inferno' in a scene. 3. A vivid example showing 'inferno' clearly. 4. Understanding the full meaning of 'inferno'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'inferno'.
+Panel 1: Encountering someone or something described as 'inferno'
+Panel 2: Recognizing the quality of 'inferno' in a scene
+Panel 3: A vivid example showing 'inferno' clearly
+Panel 4: Understanding the full meaning of 'inferno'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "inferno (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3192
+Word: infezione
+Story: 1. Discovering 'infezione' for the first time. 2. Seeing 'infezione' in its natural context. 3. A person interacting with 'infezione'. 4. 'infezione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infezione'.
+Panel 1: Discovering 'infezione' for the first time
+Panel 2: Seeing 'infezione' in its natural context
+Panel 3: A person interacting with 'infezione'
+Panel 4: 'infezione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infezione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3193
+Word: infilare
+Story: 1. A person thinking about the action of 'infilare'. 2. Starting to perform the action 'infilare'. 3. Actively doing 'infilare' with full effort. 4. Successfully completing the action 'infilare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infilare'.
+Panel 1: A person thinking about the action of 'infilare'
+Panel 2: Starting to perform the action 'infilare'
+Panel 3: Actively doing 'infilare' with full effort
+Panel 4: Successfully completing the action 'infilare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infilare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3194
+Word: infine
+Story: 1. A scene where something happens 'infine'. 2. Showing the manner or degree of 'infine'. 3. Contrasting doing something 'infine' vs not. 4. A clear example of 'infine' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infine'.
+Panel 1: A scene where something happens 'infine'
+Panel 2: Showing the manner or degree of 'infine'
+Panel 3: Contrasting doing something 'infine' vs not
+Panel 4: A clear example of 'infine' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infine (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3195
+Word: infinito
+Story: 1. Encountering someone or something described as 'infinito'. 2. Recognizing the quality of 'infinito' in a scene. 3. A vivid example showing 'infinito' clearly. 4. Understanding the full meaning of 'infinito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infinito'.
+Panel 1: Encountering someone or something described as 'infinito'
+Panel 2: Recognizing the quality of 'infinito' in a scene
+Panel 3: A vivid example showing 'infinito' clearly
+Panel 4: Understanding the full meaning of 'infinito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infinito (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3196
+Word: influenza
+Story: 1. Discovering 'influenza' for the first time. 2. Seeing 'influenza' in its natural context. 3. A person interacting with 'influenza'. 4. 'influenza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'influenza'.
+Panel 1: Discovering 'influenza' for the first time
+Panel 2: Seeing 'influenza' in its natural context
+Panel 3: A person interacting with 'influenza'
+Panel 4: 'influenza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "influenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3197
+Word: influenzare
+Story: 1. A person thinking about the action of 'influenzare'. 2. Starting to perform the action 'influenzare'. 3. Actively doing 'influenzare' with full effort. 4. Successfully completing the action 'influenzare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'influenzare'.
+Panel 1: A person thinking about the action of 'influenzare'
+Panel 2: Starting to perform the action 'influenzare'
+Panel 3: Actively doing 'influenzare' with full effort
+Panel 4: Successfully completing the action 'influenzare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "influenzare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3198
+Word: informare
+Story: 1. A person thinking about the action of 'informare'. 2. Starting to perform the action 'informare'. 3. Actively doing 'informare' with full effort. 4. Successfully completing the action 'informare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'informare'.
+Panel 1: A person thinking about the action of 'informare'
+Panel 2: Starting to perform the action 'informare'
+Panel 3: Actively doing 'informare' with full effort
+Panel 4: Successfully completing the action 'informare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "informare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3199
+Word: informatica
+Story: 1. Discovering 'informatica' for the first time. 2. Seeing 'informatica' in its natural context. 3. A person interacting with 'informatica'. 4. 'informatica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'informatica'.
+Panel 1: Discovering 'informatica' for the first time
+Panel 2: Seeing 'informatica' in its natural context
+Panel 3: A person interacting with 'informatica'
+Panel 4: 'informatica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "informatica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3200
+Word: informatico
+Story: 1. Encountering someone or something described as 'informatico'. 2. Recognizing the quality of 'informatico' in a scene. 3. A vivid example showing 'informatico' clearly. 4. Understanding the full meaning of 'informatico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'informatico'.
+Panel 1: Encountering someone or something described as 'informatico'
+Panel 2: Recognizing the quality of 'informatico' in a scene
+Panel 3: A vivid example showing 'informatico' clearly
+Panel 4: Understanding the full meaning of 'informatico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "informatico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3201
+Word: informativo
+Story: 1. Seeing something that is clearly 'informativo'. 2. Comparing two things, one is 'informativo' and one is not. 3. A person pointing at something 'informativo' and explaining. 4. A memorable example of something very 'informativo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'informativo'.
+Panel 1: Seeing something that is clearly 'informativo'
+Panel 2: Comparing two things, one is 'informativo' and one is not
+Panel 3: A person pointing at something 'informativo' and explaining
+Panel 4: A memorable example of something very 'informativo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "informativo (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3202
+Word: informazione
+Story: 1. Discovering 'informazione' for the first time. 2. Seeing 'informazione' in its natural context. 3. A person interacting with 'informazione'. 4. 'informazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'informazione'.
+Panel 1: Discovering 'informazione' for the first time
+Panel 2: Seeing 'informazione' in its natural context
+Panel 3: A person interacting with 'informazione'
+Panel 4: 'informazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "informazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3203
+Word: infradito
+Story: 1. Encountering someone or something described as 'infradito'. 2. Recognizing the quality of 'infradito' in a scene. 3. A vivid example showing 'infradito' clearly. 4. Understanding the full meaning of 'infradito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infradito'.
+Panel 1: Encountering someone or something described as 'infradito'
+Panel 2: Recognizing the quality of 'infradito' in a scene
+Panel 3: A vivid example showing 'infradito' clearly
+Panel 4: Understanding the full meaning of 'infradito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infradito (agg., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3204
+Word: infrastruttura
+Story: 1. Discovering 'infrastruttura' for the first time. 2. Seeing 'infrastruttura' in its natural context. 3. A person interacting with 'infrastruttura'. 4. 'infrastruttura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'infrastruttura'.
+Panel 1: Discovering 'infrastruttura' for the first time
+Panel 2: Seeing 'infrastruttura' in its natural context
+Panel 3: A person interacting with 'infrastruttura'
+Panel 4: 'infrastruttura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "infrastruttura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

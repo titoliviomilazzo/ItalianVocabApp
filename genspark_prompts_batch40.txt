@@ -1,0 +1,500 @@
+Image ID: 2105
+Word: divano
+Story: 1. Discovering 'divano' for the first time. 2. Seeing 'divano' in its natural context. 3. A person interacting with 'divano'. 4. 'divano' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divano'.
+Panel 1: Discovering 'divano' for the first time
+Panel 2: Seeing 'divano' in its natural context
+Panel 3: A person interacting with 'divano'
+Panel 4: 'divano' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divano (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2106
+Word: divano-letto
+Story: 1. Discovering 'divano-letto' for the first time. 2. Seeing 'divano-letto' in its natural context. 3. A person interacting with 'divano-letto'. 4. 'divano-letto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divano-letto'.
+Panel 1: Discovering 'divano-letto' for the first time
+Panel 2: Seeing 'divano-letto' in its natural context
+Panel 3: A person interacting with 'divano-letto'
+Panel 4: 'divano-letto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divano-letto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2107
+Word: divenire
+Story: 1. A person thinking about the action of 'divenire'. 2. Starting to perform the action 'divenire'. 3. Actively doing 'divenire' with full effort. 4. Successfully completing the action 'divenire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divenire'.
+Panel 1: A person thinking about the action of 'divenire'
+Panel 2: Starting to perform the action 'divenire'
+Panel 3: Actively doing 'divenire' with full effort
+Panel 4: Successfully completing the action 'divenire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divenire (v.intr., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2108
+Word: diventare
+Story: 1. A person thinking about the action of 'diventare'. 2. Starting to perform the action 'diventare'. 3. Actively doing 'diventare' with full effort. 4. Successfully completing the action 'diventare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'diventare'.
+Panel 1: A person thinking about the action of 'diventare'
+Panel 2: Starting to perform the action 'diventare'
+Panel 3: Actively doing 'diventare' with full effort
+Panel 4: Successfully completing the action 'diventare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "diventare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2109
+Word: diversamente
+Story: 1. A scene where something happens 'diversamente'. 2. Showing the manner or degree of 'diversamente'. 3. Contrasting doing something 'diversamente' vs not. 4. A clear example of 'diversamente' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'diversamente'.
+Panel 1: A scene where something happens 'diversamente'
+Panel 2: Showing the manner or degree of 'diversamente'
+Panel 3: Contrasting doing something 'diversamente' vs not
+Panel 4: A clear example of 'diversamente' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "diversamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2110
+Word: diversità
+Story: 1. Discovering 'diversità' for the first time. 2. Seeing 'diversità' in its natural context. 3. A person interacting with 'diversità'. 4. 'diversità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'diversità'.
+Panel 1: Discovering 'diversità' for the first time
+Panel 2: Seeing 'diversità' in its natural context
+Panel 3: A person interacting with 'diversità'
+Panel 4: 'diversità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "diversità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2111
+Word: diverso
+Story: 1. Encountering someone or something described as 'diverso'. 2. Recognizing the quality of 'diverso' in a scene. 3. A vivid example showing 'diverso' clearly. 4. Understanding the full meaning of 'diverso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'diverso'.
+Panel 1: Encountering someone or something described as 'diverso'
+Panel 2: Recognizing the quality of 'diverso' in a scene
+Panel 3: A vivid example showing 'diverso' clearly
+Panel 4: Understanding the full meaning of 'diverso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "diverso (agg., agg.indef., pron.indef., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2112
+Word: divertente
+Story: 1. Seeing something that is clearly 'divertente'. 2. Comparing two things, one is 'divertente' and one is not. 3. A person pointing at something 'divertente' and explaining. 4. A memorable example of something very 'divertente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divertente'.
+Panel 1: Seeing something that is clearly 'divertente'
+Panel 2: Comparing two things, one is 'divertente' and one is not
+Panel 3: A person pointing at something 'divertente' and explaining
+Panel 4: A memorable example of something very 'divertente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divertente (p.pres., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2113
+Word: divertimento
+Story: 1. Discovering 'divertimento' for the first time. 2. Seeing 'divertimento' in its natural context. 3. A person interacting with 'divertimento'. 4. 'divertimento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divertimento'.
+Panel 1: Discovering 'divertimento' for the first time
+Panel 2: Seeing 'divertimento' in its natural context
+Panel 3: A person interacting with 'divertimento'
+Panel 4: 'divertimento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divertimento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2114
+Word: divertire
+Story: 1. A person thinking about the action of 'divertire'. 2. Starting to perform the action 'divertire'. 3. Actively doing 'divertire' with full effort. 4. Successfully completing the action 'divertire' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divertire'.
+Panel 1: A person thinking about the action of 'divertire'
+Panel 2: Starting to perform the action 'divertire'
+Panel 3: Actively doing 'divertire' with full effort
+Panel 4: Successfully completing the action 'divertire' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divertire (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2115
+Word: divertito
+Story: 1. Seeing something that is clearly 'divertito'. 2. Comparing two things, one is 'divertito' and one is not. 3. A person pointing at something 'divertito' and explaining. 4. A memorable example of something very 'divertito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divertito'.
+Panel 1: Seeing something that is clearly 'divertito'
+Panel 2: Comparing two things, one is 'divertito' and one is not
+Panel 3: A person pointing at something 'divertito' and explaining
+Panel 4: A memorable example of something very 'divertito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divertito (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2116
+Word: dividere
+Story: 1. A person thinking about the action of 'dividere'. 2. Starting to perform the action 'dividere'. 3. Actively doing 'dividere' with full effort. 4. Successfully completing the action 'dividere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dividere'.
+Panel 1: A person thinking about the action of 'dividere'
+Panel 2: Starting to perform the action 'dividere'
+Panel 3: Actively doing 'dividere' with full effort
+Panel 4: Successfully completing the action 'dividere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dividere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2117
+Word: divieto
+Story: 1. Discovering 'divieto' for the first time. 2. Seeing 'divieto' in its natural context. 3. A person interacting with 'divieto'. 4. 'divieto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divieto'.
+Panel 1: Discovering 'divieto' for the first time
+Panel 2: Seeing 'divieto' in its natural context
+Panel 3: A person interacting with 'divieto'
+Panel 4: 'divieto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divieto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2118
+Word: divinità
+Story: 1. Discovering 'divinità' for the first time. 2. Seeing 'divinità' in its natural context. 3. A person interacting with 'divinità'. 4. 'divinità' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divinità'.
+Panel 1: Discovering 'divinità' for the first time
+Panel 2: Seeing 'divinità' in its natural context
+Panel 3: A person interacting with 'divinità'
+Panel 4: 'divinità' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divinità (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2119
+Word: divino
+Story: 1. Encountering someone or something described as 'divino'. 2. Recognizing the quality of 'divino' in a scene. 3. A vivid example showing 'divino' clearly. 4. Understanding the full meaning of 'divino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divino'.
+Panel 1: Encountering someone or something described as 'divino'
+Panel 2: Recognizing the quality of 'divino' in a scene
+Panel 3: A vivid example showing 'divino' clearly
+Panel 4: Understanding the full meaning of 'divino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divino (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2120
+Word: divisa
+Story: 1. Discovering 'divisa' for the first time. 2. Seeing 'divisa' in its natural context. 3. A person interacting with 'divisa'. 4. 'divisa' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divisa'.
+Panel 1: Discovering 'divisa' for the first time
+Panel 2: Seeing 'divisa' in its natural context
+Panel 3: A person interacting with 'divisa'
+Panel 4: 'divisa' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divisa (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2121
+Word: divisione
+Story: 1. Discovering 'divisione' for the first time. 2. Seeing 'divisione' in its natural context. 3. A person interacting with 'divisione'. 4. 'divisione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divisione'.
+Panel 1: Discovering 'divisione' for the first time
+Panel 2: Seeing 'divisione' in its natural context
+Panel 3: A person interacting with 'divisione'
+Panel 4: 'divisione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divisione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2122
+Word: divorare
+Story: 1. A person thinking about the action of 'divorare'. 2. Starting to perform the action 'divorare'. 3. Actively doing 'divorare' with full effort. 4. Successfully completing the action 'divorare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divorare'.
+Panel 1: A person thinking about the action of 'divorare'
+Panel 2: Starting to perform the action 'divorare'
+Panel 3: Actively doing 'divorare' with full effort
+Panel 4: Successfully completing the action 'divorare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divorare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2123
+Word: divorziare
+Story: 1. A person thinking about the action of 'divorziare'. 2. Starting to perform the action 'divorziare'. 3. Actively doing 'divorziare' with full effort. 4. Successfully completing the action 'divorziare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divorziare'.
+Panel 1: A person thinking about the action of 'divorziare'
+Panel 2: Starting to perform the action 'divorziare'
+Panel 3: Actively doing 'divorziare' with full effort
+Panel 4: Successfully completing the action 'divorziare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divorziare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2124
+Word: divorzio
+Story: 1. Discovering 'divorzio' for the first time. 2. Seeing 'divorzio' in its natural context. 3. A person interacting with 'divorzio'. 4. 'divorzio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'divorzio'.
+Panel 1: Discovering 'divorzio' for the first time
+Panel 2: Seeing 'divorzio' in its natural context
+Panel 3: A person interacting with 'divorzio'
+Panel 4: 'divorzio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "divorzio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2125
+Word: dizionario
+Story: 1. Discovering 'dizionario' for the first time. 2. Seeing 'dizionario' in its natural context. 3. A person interacting with 'dizionario'. 4. 'dizionario' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dizionario'.
+Panel 1: Discovering 'dizionario' for the first time
+Panel 2: Seeing 'dizionario' in its natural context
+Panel 3: A person interacting with 'dizionario'
+Panel 4: 'dizionario' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dizionario (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2126
+Word: do
+Story: 1. Discovering 'do' for the first time. 2. Seeing 'do' in its natural context. 3. A person interacting with 'do'. 4. 'do' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'do'.
+Panel 1: Discovering 'do' for the first time
+Panel 2: Seeing 'do' in its natural context
+Panel 3: A person interacting with 'do'
+Panel 4: 'do' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "do (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2127
+Word: doccia
+Story: 1. Discovering 'doccia' for the first time. 2. Seeing 'doccia' in its natural context. 3. A person interacting with 'doccia'. 4. 'doccia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'doccia'.
+Panel 1: Discovering 'doccia' for the first time
+Panel 2: Seeing 'doccia' in its natural context
+Panel 3: A person interacting with 'doccia'
+Panel 4: 'doccia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "doccia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2128
+Word: docciaschiuma
+Story: 1. Discovering 'docciaschiuma' for the first time. 2. Seeing 'docciaschiuma' in its natural context. 3. A person interacting with 'docciaschiuma'. 4. 'docciaschiuma' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'docciaschiuma'.
+Panel 1: Discovering 'docciaschiuma' for the first time
+Panel 2: Seeing 'docciaschiuma' in its natural context
+Panel 3: A person interacting with 'docciaschiuma'
+Panel 4: 'docciaschiuma' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "docciaschiuma (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2129
+Word: docente
+Story: 1. Encountering someone or something described as 'docente'. 2. Recognizing the quality of 'docente' in a scene. 3. A vivid example showing 'docente' clearly. 4. Understanding the full meaning of 'docente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'docente'.
+Panel 1: Encountering someone or something described as 'docente'
+Panel 2: Recognizing the quality of 'docente' in a scene
+Panel 3: A vivid example showing 'docente' clearly
+Panel 4: Understanding the full meaning of 'docente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "docente (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2130
+Word: docile
+Story: 1. Seeing something that is clearly 'docile'. 2. Comparing two things, one is 'docile' and one is not. 3. A person pointing at something 'docile' and explaining. 4. A memorable example of something very 'docile'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'docile'.
+Panel 1: Seeing something that is clearly 'docile'
+Panel 2: Comparing two things, one is 'docile' and one is not
+Panel 3: A person pointing at something 'docile' and explaining
+Panel 4: A memorable example of something very 'docile'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "docile (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2131
+Word: documentare
+Story: 1. A person thinking about the action of 'documentare'. 2. Starting to perform the action 'documentare'. 3. Actively doing 'documentare' with full effort. 4. Successfully completing the action 'documentare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'documentare'.
+Panel 1: A person thinking about the action of 'documentare'
+Panel 2: Starting to perform the action 'documentare'
+Panel 3: Actively doing 'documentare' with full effort
+Panel 4: Successfully completing the action 'documentare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "documentare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2132
+Word: documentario
+Story: 1. Encountering someone or something described as 'documentario'. 2. Recognizing the quality of 'documentario' in a scene. 3. A vivid example showing 'documentario' clearly. 4. Understanding the full meaning of 'documentario'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'documentario'.
+Panel 1: Encountering someone or something described as 'documentario'
+Panel 2: Recognizing the quality of 'documentario' in a scene
+Panel 3: A vivid example showing 'documentario' clearly
+Panel 4: Understanding the full meaning of 'documentario'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "documentario (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2133
+Word: documentazione
+Story: 1. Discovering 'documentazione' for the first time. 2. Seeing 'documentazione' in its natural context. 3. A person interacting with 'documentazione'. 4. 'documentazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'documentazione'.
+Panel 1: Discovering 'documentazione' for the first time
+Panel 2: Seeing 'documentazione' in its natural context
+Panel 3: A person interacting with 'documentazione'
+Panel 4: 'documentazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "documentazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2134
+Word: documento
+Story: 1. Discovering 'documento' for the first time. 2. Seeing 'documento' in its natural context. 3. A person interacting with 'documento'. 4. 'documento' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'documento'.
+Panel 1: Discovering 'documento' for the first time
+Panel 2: Seeing 'documento' in its natural context
+Panel 3: A person interacting with 'documento'
+Panel 4: 'documento' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "documento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2135
+Word: dodici
+Story: 1. Encountering someone or something described as 'dodici'. 2. Recognizing the quality of 'dodici' in a scene. 3. A vivid example showing 'dodici' clearly. 4. Understanding the full meaning of 'dodici'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dodici'.
+Panel 1: Encountering someone or something described as 'dodici'
+Panel 2: Recognizing the quality of 'dodici' in a scene
+Panel 3: A vivid example showing 'dodici' clearly
+Panel 4: Understanding the full meaning of 'dodici'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dodici (agg.num.card.inv., s.m.inv., s.f.pl., s.m.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2136
+Word: dogana
+Story: 1. Discovering 'dogana' for the first time. 2. Seeing 'dogana' in its natural context. 3. A person interacting with 'dogana'. 4. 'dogana' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dogana'.
+Panel 1: Discovering 'dogana' for the first time
+Panel 2: Seeing 'dogana' in its natural context
+Panel 3: A person interacting with 'dogana'
+Panel 4: 'dogana' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dogana (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2137
+Word: dolce
+Story: 1. A scene where something happens 'dolce'. 2. Showing the manner or degree of 'dolce'. 3. Contrasting doing something 'dolce' vs not. 4. A clear example of 'dolce' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dolce'.
+Panel 1: A scene where something happens 'dolce'
+Panel 2: Showing the manner or degree of 'dolce'
+Panel 3: Contrasting doing something 'dolce' vs not
+Panel 4: A clear example of 'dolce' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dolce (agg., s.m., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2138
+Word: dolcezza
+Story: 1. Discovering 'dolcezza' for the first time. 2. Seeing 'dolcezza' in its natural context. 3. A person interacting with 'dolcezza'. 4. 'dolcezza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dolcezza'.
+Panel 1: Discovering 'dolcezza' for the first time
+Panel 2: Seeing 'dolcezza' in its natural context
+Panel 3: A person interacting with 'dolcezza'
+Panel 4: 'dolcezza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dolcezza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2139
+Word: dolcificante
+Story: 1. Encountering someone or something described as 'dolcificante'. 2. Recognizing the quality of 'dolcificante' in a scene. 3. A vivid example showing 'dolcificante' clearly. 4. Understanding the full meaning of 'dolcificante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dolcificante'.
+Panel 1: Encountering someone or something described as 'dolcificante'
+Panel 2: Recognizing the quality of 'dolcificante' in a scene
+Panel 3: A vivid example showing 'dolcificante' clearly
+Panel 4: Understanding the full meaning of 'dolcificante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dolcificante (p.pres., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2140
+Word: dolciume
+Story: 1. Discovering 'dolciume' for the first time. 2. Seeing 'dolciume' in its natural context. 3. A person interacting with 'dolciume'. 4. 'dolciume' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dolciume'.
+Panel 1: Discovering 'dolciume' for the first time
+Panel 2: Seeing 'dolciume' in its natural context
+Panel 3: A person interacting with 'dolciume'
+Panel 4: 'dolciume' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dolciume (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2141
+Word: dolere
+Story: 1. A person thinking about the action of 'dolere'. 2. Starting to perform the action 'dolere'. 3. Actively doing 'dolere' with full effort. 4. Successfully completing the action 'dolere' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dolere'.
+Panel 1: A person thinking about the action of 'dolere'
+Panel 2: Starting to perform the action 'dolere'
+Panel 3: Actively doing 'dolere' with full effort
+Panel 4: Successfully completing the action 'dolere' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dolere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2142
+Word: dolersi
+Story: 1. Two speech bubbles connected by the word 'dolersi'. 2. A sentence on a blackboard highlighting 'dolersi'. 3. A teacher explaining the use of 'dolersi'. 4. Students practicing sentences with 'dolersi'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dolersi'.
+Panel 1: Two speech bubbles connected by the word 'dolersi'
+Panel 2: A sentence on a blackboard highlighting 'dolersi'
+Panel 3: A teacher explaining the use of 'dolersi'
+Panel 4: Students practicing sentences with 'dolersi'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dolersi (v.pronom.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2143
+Word: dollaro
+Story: 1. Discovering 'dollaro' for the first time. 2. Seeing 'dollaro' in its natural context. 3. A person interacting with 'dollaro'. 4. 'dollaro' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dollaro'.
+Panel 1: Discovering 'dollaro' for the first time
+Panel 2: Seeing 'dollaro' in its natural context
+Panel 3: A person interacting with 'dollaro'
+Panel 4: 'dollaro' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dollaro (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2144
+Word: dolore
+Story: 1. Discovering 'dolore' for the first time. 2. Seeing 'dolore' in its natural context. 3. A person interacting with 'dolore'. 4. 'dolore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dolore'.
+Panel 1: Discovering 'dolore' for the first time
+Panel 2: Seeing 'dolore' in its natural context
+Panel 3: A person interacting with 'dolore'
+Panel 4: 'dolore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dolore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2145
+Word: doloroso
+Story: 1. Seeing something that is clearly 'doloroso'. 2. Comparing two things, one is 'doloroso' and one is not. 3. A person pointing at something 'doloroso' and explaining. 4. A memorable example of something very 'doloroso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'doloroso'.
+Panel 1: Seeing something that is clearly 'doloroso'
+Panel 2: Comparing two things, one is 'doloroso' and one is not
+Panel 3: A person pointing at something 'doloroso' and explaining
+Panel 4: A memorable example of something very 'doloroso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "doloroso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2146
+Word: domanda
+Story: 1. Discovering 'domanda' for the first time. 2. Seeing 'domanda' in its natural context. 3. A person interacting with 'domanda'. 4. 'domanda' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'domanda'.
+Panel 1: Discovering 'domanda' for the first time
+Panel 2: Seeing 'domanda' in its natural context
+Panel 3: A person interacting with 'domanda'
+Panel 4: 'domanda' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "domanda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2147
+Word: domandare
+Story: 1. A person thinking about the action of 'domandare'. 2. Starting to perform the action 'domandare'. 3. Actively doing 'domandare' with full effort. 4. Successfully completing the action 'domandare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'domandare'.
+Panel 1: A person thinking about the action of 'domandare'
+Panel 2: Starting to perform the action 'domandare'
+Panel 3: Actively doing 'domandare' with full effort
+Panel 4: Successfully completing the action 'domandare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "domandare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2148
+Word: domani
+Story: 1. A scene where something happens 'domani'. 2. Showing the manner or degree of 'domani'. 3. Contrasting doing something 'domani' vs not. 4. A clear example of 'domani' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'domani'.
+Panel 1: A scene where something happens 'domani'
+Panel 2: Showing the manner or degree of 'domani'
+Panel 3: Contrasting doing something 'domani' vs not
+Panel 4: A clear example of 'domani' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "domani (avv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2149
+Word: domenica
+Story: 1. Discovering 'domenica' for the first time. 2. Seeing 'domenica' in its natural context. 3. A person interacting with 'domenica'. 4. 'domenica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'domenica'.
+Panel 1: Discovering 'domenica' for the first time
+Panel 2: Seeing 'domenica' in its natural context
+Panel 3: A person interacting with 'domenica'
+Panel 4: 'domenica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "domenica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2150
+Word: domestica
+Story: 1. Discovering 'domestica' for the first time. 2. Seeing 'domestica' in its natural context. 3. A person interacting with 'domestica'. 4. 'domestica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'domestica'.
+Panel 1: Discovering 'domestica' for the first time
+Panel 2: Seeing 'domestica' in its natural context
+Panel 3: A person interacting with 'domestica'
+Panel 4: 'domestica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "domestica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2151
+Word: domestico
+Story: 1. Encountering someone or something described as 'domestico'. 2. Recognizing the quality of 'domestico' in a scene. 3. A vivid example showing 'domestico' clearly. 4. Understanding the full meaning of 'domestico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'domestico'.
+Panel 1: Encountering someone or something described as 'domestico'
+Panel 2: Recognizing the quality of 'domestico' in a scene
+Panel 3: A vivid example showing 'domestico' clearly
+Panel 4: Understanding the full meaning of 'domestico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "domestico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2152
+Word: dominante
+Story: 1. Encountering someone or something described as 'dominante'. 2. Recognizing the quality of 'dominante' in a scene. 3. A vivid example showing 'dominante' clearly. 4. Understanding the full meaning of 'dominante'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dominante'.
+Panel 1: Encountering someone or something described as 'dominante'
+Panel 2: Recognizing the quality of 'dominante' in a scene
+Panel 3: A vivid example showing 'dominante' clearly
+Panel 4: Understanding the full meaning of 'dominante'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dominante (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2153
+Word: dominare
+Story: 1. A person thinking about the action of 'dominare'. 2. Starting to perform the action 'dominare'. 3. Actively doing 'dominare' with full effort. 4. Successfully completing the action 'dominare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dominare'.
+Panel 1: A person thinking about the action of 'dominare'
+Panel 2: Starting to perform the action 'dominare'
+Panel 3: Actively doing 'dominare' with full effort
+Panel 4: Successfully completing the action 'dominare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dominare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 2154
+Word: dominio
+Story: 1. Discovering 'dominio' for the first time. 2. Seeing 'dominio' in its natural context. 3. A person interacting with 'dominio'. 4. 'dominio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'dominio'.
+Panel 1: Discovering 'dominio' for the first time
+Panel 2: Seeing 'dominio' in its natural context
+Panel 3: A person interacting with 'dominio'
+Panel 4: 'dominio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "dominio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

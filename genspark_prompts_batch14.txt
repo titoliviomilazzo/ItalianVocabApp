@@ -1,0 +1,500 @@
+Image ID: 805
+Word: biglietteria
+Story: 1. Discovering 'biglietteria' for the first time. 2. Seeing 'biglietteria' in its natural context. 3. A person interacting with 'biglietteria'. 4. 'biglietteria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'biglietteria'.
+Panel 1: Discovering 'biglietteria' for the first time
+Panel 2: Seeing 'biglietteria' in its natural context
+Panel 3: A person interacting with 'biglietteria'
+Panel 4: 'biglietteria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "biglietteria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 806
+Word: biglietto
+Story: 1. Discovering 'biglietto' for the first time. 2. Seeing 'biglietto' in its natural context. 3. A person interacting with 'biglietto'. 4. 'biglietto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'biglietto'.
+Panel 1: Discovering 'biglietto' for the first time
+Panel 2: Seeing 'biglietto' in its natural context
+Panel 3: A person interacting with 'biglietto'
+Panel 4: 'biglietto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "biglietto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 807
+Word: bikini
+Story: 1. Discovering 'bikini' for the first time. 2. Seeing 'bikini' in its natural context. 3. A person interacting with 'bikini'. 4. 'bikini' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bikini'.
+Panel 1: Discovering 'bikini' for the first time
+Panel 2: Seeing 'bikini' in its natural context
+Panel 3: A person interacting with 'bikini'
+Panel 4: 'bikini' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bikini (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 808
+Word: bilancia
+Story: 1. Discovering 'bilancia' for the first time. 2. Seeing 'bilancia' in its natural context. 3. A person interacting with 'bilancia'. 4. 'bilancia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bilancia'.
+Panel 1: Discovering 'bilancia' for the first time
+Panel 2: Seeing 'bilancia' in its natural context
+Panel 3: A person interacting with 'bilancia'
+Panel 4: 'bilancia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bilancia (s.f., s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 809
+Word: bilancio
+Story: 1. Discovering 'bilancio' for the first time. 2. Seeing 'bilancio' in its natural context. 3. A person interacting with 'bilancio'. 4. 'bilancio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bilancio'.
+Panel 1: Discovering 'bilancio' for the first time
+Panel 2: Seeing 'bilancio' in its natural context
+Panel 3: A person interacting with 'bilancio'
+Panel 4: 'bilancio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bilancio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 810
+Word: biliardo
+Story: 1. Discovering 'biliardo' for the first time. 2. Seeing 'biliardo' in its natural context. 3. A person interacting with 'biliardo'. 4. 'biliardo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'biliardo'.
+Panel 1: Discovering 'biliardo' for the first time
+Panel 2: Seeing 'biliardo' in its natural context
+Panel 3: A person interacting with 'biliardo'
+Panel 4: 'biliardo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "biliardo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 811
+Word: bimba
+Story: 1. Discovering 'bimba' for the first time. 2. Seeing 'bimba' in its natural context. 3. A person interacting with 'bimba'. 4. 'bimba' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bimba'.
+Panel 1: Discovering 'bimba' for the first time
+Panel 2: Seeing 'bimba' in its natural context
+Panel 3: A person interacting with 'bimba'
+Panel 4: 'bimba' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bimba (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 812
+Word: bimbo
+Story: 1. Discovering 'bimbo' for the first time. 2. Seeing 'bimbo' in its natural context. 3. A person interacting with 'bimbo'. 4. 'bimbo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bimbo'.
+Panel 1: Discovering 'bimbo' for the first time
+Panel 2: Seeing 'bimbo' in its natural context
+Panel 3: A person interacting with 'bimbo'
+Panel 4: 'bimbo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bimbo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 813
+Word: binario
+Story: 1. Discovering 'binario' for the first time. 2. Seeing 'binario' in its natural context. 3. A person interacting with 'binario'. 4. 'binario' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'binario'.
+Panel 1: Discovering 'binario' for the first time
+Panel 2: Seeing 'binario' in its natural context
+Panel 3: A person interacting with 'binario'
+Panel 4: 'binario' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "binario (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 814
+Word: biografia
+Story: 1. Discovering 'biografia' for the first time. 2. Seeing 'biografia' in its natural context. 3. A person interacting with 'biografia'. 4. 'biografia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'biografia'.
+Panel 1: Discovering 'biografia' for the first time
+Panel 2: Seeing 'biografia' in its natural context
+Panel 3: A person interacting with 'biografia'
+Panel 4: 'biografia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "biografia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 815
+Word: biologia
+Story: 1. Discovering 'biologia' for the first time. 2. Seeing 'biologia' in its natural context. 3. A person interacting with 'biologia'. 4. 'biologia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'biologia'.
+Panel 1: Discovering 'biologia' for the first time
+Panel 2: Seeing 'biologia' in its natural context
+Panel 3: A person interacting with 'biologia'
+Panel 4: 'biologia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "biologia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 816
+Word: biologico
+Story: 1. Encountering someone or something described as 'biologico'. 2. Recognizing the quality of 'biologico' in a scene. 3. A vivid example showing 'biologico' clearly. 4. Understanding the full meaning of 'biologico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'biologico'.
+Panel 1: Encountering someone or something described as 'biologico'
+Panel 2: Recognizing the quality of 'biologico' in a scene
+Panel 3: A vivid example showing 'biologico' clearly
+Panel 4: Understanding the full meaning of 'biologico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "biologico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 817
+Word: bionda
+Story: 1. Discovering 'bionda' for the first time. 2. Seeing 'bionda' in its natural context. 3. A person interacting with 'bionda'. 4. 'bionda' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bionda'.
+Panel 1: Discovering 'bionda' for the first time
+Panel 2: Seeing 'bionda' in its natural context
+Panel 3: A person interacting with 'bionda'
+Panel 4: 'bionda' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bionda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 818
+Word: biondo
+Story: 1. Encountering someone or something described as 'biondo'. 2. Recognizing the quality of 'biondo' in a scene. 3. A vivid example showing 'biondo' clearly. 4. Understanding the full meaning of 'biondo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'biondo'.
+Panel 1: Encountering someone or something described as 'biondo'
+Panel 2: Recognizing the quality of 'biondo' in a scene
+Panel 3: A vivid example showing 'biondo' clearly
+Panel 4: Understanding the full meaning of 'biondo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "biondo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 819
+Word: birichino
+Story: 1. Encountering someone or something described as 'birichino'. 2. Recognizing the quality of 'birichino' in a scene. 3. A vivid example showing 'birichino' clearly. 4. Understanding the full meaning of 'birichino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'birichino'.
+Panel 1: Encountering someone or something described as 'birichino'
+Panel 2: Recognizing the quality of 'birichino' in a scene
+Panel 3: A vivid example showing 'birichino' clearly
+Panel 4: Understanding the full meaning of 'birichino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "birichino (s.m., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 820
+Word: birillo
+Story: 1. Discovering 'birillo' for the first time. 2. Seeing 'birillo' in its natural context. 3. A person interacting with 'birillo'. 4. 'birillo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'birillo'.
+Panel 1: Discovering 'birillo' for the first time
+Panel 2: Seeing 'birillo' in its natural context
+Panel 3: A person interacting with 'birillo'
+Panel 4: 'birillo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "birillo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 821
+Word: birra
+Story: 1. Discovering 'birra' for the first time. 2. Seeing 'birra' in its natural context. 3. A person interacting with 'birra'. 4. 'birra' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'birra'.
+Panel 1: Discovering 'birra' for the first time
+Panel 2: Seeing 'birra' in its natural context
+Panel 3: A person interacting with 'birra'
+Panel 4: 'birra' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "birra (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 822
+Word: bisbigliare
+Story: 1. A person thinking about the action of 'bisbigliare'. 2. Starting to perform the action 'bisbigliare'. 3. Actively doing 'bisbigliare' with full effort. 4. Successfully completing the action 'bisbigliare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bisbigliare'.
+Panel 1: A person thinking about the action of 'bisbigliare'
+Panel 2: Starting to perform the action 'bisbigliare'
+Panel 3: Actively doing 'bisbigliare' with full effort
+Panel 4: Successfully completing the action 'bisbigliare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bisbigliare (v.intr. e tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 823
+Word: biscia
+Story: 1. Discovering 'biscia' for the first time. 2. Seeing 'biscia' in its natural context. 3. A person interacting with 'biscia'. 4. 'biscia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'biscia'.
+Panel 1: Discovering 'biscia' for the first time
+Panel 2: Seeing 'biscia' in its natural context
+Panel 3: A person interacting with 'biscia'
+Panel 4: 'biscia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "biscia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 824
+Word: biscotto
+Story: 1. Encountering someone or something described as 'biscotto'. 2. Recognizing the quality of 'biscotto' in a scene. 3. A vivid example showing 'biscotto' clearly. 4. Understanding the full meaning of 'biscotto'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'biscotto'.
+Panel 1: Encountering someone or something described as 'biscotto'
+Panel 2: Recognizing the quality of 'biscotto' in a scene
+Panel 3: A vivid example showing 'biscotto' clearly
+Panel 4: Understanding the full meaning of 'biscotto'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "biscotto (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 825
+Word: bisnonno
+Story: 1. Discovering 'bisnonno' for the first time. 2. Seeing 'bisnonno' in its natural context. 3. A person interacting with 'bisnonno'. 4. 'bisnonno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bisnonno'.
+Panel 1: Discovering 'bisnonno' for the first time
+Panel 2: Seeing 'bisnonno' in its natural context
+Panel 3: A person interacting with 'bisnonno'
+Panel 4: 'bisnonno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bisnonno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 826
+Word: bisognare
+Story: 1. A person thinking about the action of 'bisognare'. 2. Starting to perform the action 'bisognare'. 3. Actively doing 'bisognare' with full effort. 4. Successfully completing the action 'bisognare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bisognare'.
+Panel 1: A person thinking about the action of 'bisognare'
+Panel 2: Starting to perform the action 'bisognare'
+Panel 3: Actively doing 'bisognare' with full effort
+Panel 4: Successfully completing the action 'bisognare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bisognare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 827
+Word: bisogno
+Story: 1. Discovering 'bisogno' for the first time. 2. Seeing 'bisogno' in its natural context. 3. A person interacting with 'bisogno'. 4. 'bisogno' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bisogno'.
+Panel 1: Discovering 'bisogno' for the first time
+Panel 2: Seeing 'bisogno' in its natural context
+Panel 3: A person interacting with 'bisogno'
+Panel 4: 'bisogno' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bisogno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 828
+Word: bistecca
+Story: 1. Discovering 'bistecca' for the first time. 2. Seeing 'bistecca' in its natural context. 3. A person interacting with 'bistecca'. 4. 'bistecca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bistecca'.
+Panel 1: Discovering 'bistecca' for the first time
+Panel 2: Seeing 'bistecca' in its natural context
+Panel 3: A person interacting with 'bistecca'
+Panel 4: 'bistecca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bistecca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 829
+Word: bistecchiera
+Story: 1. Discovering 'bistecchiera' for the first time. 2. Seeing 'bistecchiera' in its natural context. 3. A person interacting with 'bistecchiera'. 4. 'bistecchiera' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bistecchiera'.
+Panel 1: Discovering 'bistecchiera' for the first time
+Panel 2: Seeing 'bistecchiera' in its natural context
+Panel 3: A person interacting with 'bistecchiera'
+Panel 4: 'bistecchiera' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bistecchiera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 830
+Word: bisticciare
+Story: 1. A person thinking about the action of 'bisticciare'. 2. Starting to perform the action 'bisticciare'. 3. Actively doing 'bisticciare' with full effort. 4. Successfully completing the action 'bisticciare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bisticciare'.
+Panel 1: A person thinking about the action of 'bisticciare'
+Panel 2: Starting to perform the action 'bisticciare'
+Panel 3: Actively doing 'bisticciare' with full effort
+Panel 4: Successfully completing the action 'bisticciare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bisticciare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 831
+Word: bit
+Story: 1. Discovering 'bit' for the first time. 2. Seeing 'bit' in its natural context. 3. A person interacting with 'bit'. 4. 'bit' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bit'.
+Panel 1: Discovering 'bit' for the first time
+Panel 2: Seeing 'bit' in its natural context
+Panel 3: A person interacting with 'bit'
+Panel 4: 'bit' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bit (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 832
+Word: bizzarro
+Story: 1. Seeing something that is clearly 'bizzarro'. 2. Comparing two things, one is 'bizzarro' and one is not. 3. A person pointing at something 'bizzarro' and explaining. 4. A memorable example of something very 'bizzarro'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bizzarro'.
+Panel 1: Seeing something that is clearly 'bizzarro'
+Panel 2: Comparing two things, one is 'bizzarro' and one is not
+Panel 3: A person pointing at something 'bizzarro' and explaining
+Panel 4: A memorable example of something very 'bizzarro'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bizzarro (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 833
+Word: bloccare
+Story: 1. A person thinking about the action of 'bloccare'. 2. Starting to perform the action 'bloccare'. 3. Actively doing 'bloccare' with full effort. 4. Successfully completing the action 'bloccare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bloccare'.
+Panel 1: A person thinking about the action of 'bloccare'
+Panel 2: Starting to perform the action 'bloccare'
+Panel 3: Actively doing 'bloccare' with full effort
+Panel 4: Successfully completing the action 'bloccare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bloccare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 834
+Word: blocco
+Story: 1. Discovering 'blocco' for the first time. 2. Seeing 'blocco' in its natural context. 3. A person interacting with 'blocco'. 4. 'blocco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'blocco'.
+Panel 1: Discovering 'blocco' for the first time
+Panel 2: Seeing 'blocco' in its natural context
+Panel 3: A person interacting with 'blocco'
+Panel 4: 'blocco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "blocco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 835
+Word: blocco
+Story: 1. Discovering 'blocco' for the first time. 2. Seeing 'blocco' in its natural context. 3. A person interacting with 'blocco'. 4. 'blocco' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'blocco'.
+Panel 1: Discovering 'blocco' for the first time
+Panel 2: Seeing 'blocco' in its natural context
+Panel 3: A person interacting with 'blocco'
+Panel 4: 'blocco' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "blocco (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 836
+Word: blog
+Story: 1. Discovering 'blog' for the first time. 2. Seeing 'blog' in its natural context. 3. A person interacting with 'blog'. 4. 'blog' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'blog'.
+Panel 1: Discovering 'blog' for the first time
+Panel 2: Seeing 'blog' in its natural context
+Panel 3: A person interacting with 'blog'
+Panel 4: 'blog' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "blog (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 837
+Word: blu
+Story: 1. Encountering someone or something described as 'blu'. 2. Recognizing the quality of 'blu' in a scene. 3. A vivid example showing 'blu' clearly. 4. Understanding the full meaning of 'blu'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'blu'.
+Panel 1: Encountering someone or something described as 'blu'
+Panel 2: Recognizing the quality of 'blu' in a scene
+Panel 3: A vivid example showing 'blu' clearly
+Panel 4: Understanding the full meaning of 'blu'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "blu (agg.inv., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 838
+Word: bocca
+Story: 1. Discovering 'bocca' for the first time. 2. Seeing 'bocca' in its natural context. 3. A person interacting with 'bocca'. 4. 'bocca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bocca'.
+Panel 1: Discovering 'bocca' for the first time
+Panel 2: Seeing 'bocca' in its natural context
+Panel 3: A person interacting with 'bocca'
+Panel 4: 'bocca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bocca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 839
+Word: bocchino
+Story: 1. Discovering 'bocchino' for the first time. 2. Seeing 'bocchino' in its natural context. 3. A person interacting with 'bocchino'. 4. 'bocchino' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bocchino'.
+Panel 1: Discovering 'bocchino' for the first time
+Panel 2: Seeing 'bocchino' in its natural context
+Panel 3: A person interacting with 'bocchino'
+Panel 4: 'bocchino' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bocchino (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 840
+Word: boccia
+Story: 1. Discovering 'boccia' for the first time. 2. Seeing 'boccia' in its natural context. 3. A person interacting with 'boccia'. 4. 'boccia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'boccia'.
+Panel 1: Discovering 'boccia' for the first time
+Panel 2: Seeing 'boccia' in its natural context
+Panel 3: A person interacting with 'boccia'
+Panel 4: 'boccia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "boccia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 841
+Word: bocciare
+Story: 1. A person thinking about the action of 'bocciare'. 2. Starting to perform the action 'bocciare'. 3. Actively doing 'bocciare' with full effort. 4. Successfully completing the action 'bocciare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bocciare'.
+Panel 1: A person thinking about the action of 'bocciare'
+Panel 2: Starting to perform the action 'bocciare'
+Panel 3: Actively doing 'bocciare' with full effort
+Panel 4: Successfully completing the action 'bocciare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bocciare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 842
+Word: bocciatura
+Story: 1. Discovering 'bocciatura' for the first time. 2. Seeing 'bocciatura' in its natural context. 3. A person interacting with 'bocciatura'. 4. 'bocciatura' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bocciatura'.
+Panel 1: Discovering 'bocciatura' for the first time
+Panel 2: Seeing 'bocciatura' in its natural context
+Panel 3: A person interacting with 'bocciatura'
+Panel 4: 'bocciatura' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bocciatura (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 843
+Word: bocciolo
+Story: 1. Discovering 'bocciolo' for the first time. 2. Seeing 'bocciolo' in its natural context. 3. A person interacting with 'bocciolo'. 4. 'bocciolo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bocciolo'.
+Panel 1: Discovering 'bocciolo' for the first time
+Panel 2: Seeing 'bocciolo' in its natural context
+Panel 3: A person interacting with 'bocciolo'
+Panel 4: 'bocciolo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bocciolo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 844
+Word: boccone
+Story: 1. Discovering 'boccone' for the first time. 2. Seeing 'boccone' in its natural context. 3. A person interacting with 'boccone'. 4. 'boccone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'boccone'.
+Panel 1: Discovering 'boccone' for the first time
+Panel 2: Seeing 'boccone' in its natural context
+Panel 3: A person interacting with 'boccone'
+Panel 4: 'boccone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "boccone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 845
+Word: boh
+Story: 1. Two speech bubbles connected by the word 'boh'. 2. A sentence on a blackboard highlighting 'boh'. 3. A teacher explaining the use of 'boh'. 4. Students practicing sentences with 'boh'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'boh'.
+Panel 1: Two speech bubbles connected by the word 'boh'
+Panel 2: A sentence on a blackboard highlighting 'boh'
+Panel 3: A teacher explaining the use of 'boh'
+Panel 4: Students practicing sentences with 'boh'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "boh (inter.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 846
+Word: boia
+Story: 1. Encountering someone or something described as 'boia'. 2. Recognizing the quality of 'boia' in a scene. 3. A vivid example showing 'boia' clearly. 4. Understanding the full meaning of 'boia'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'boia'.
+Panel 1: Encountering someone or something described as 'boia'
+Panel 2: Recognizing the quality of 'boia' in a scene
+Panel 3: A vivid example showing 'boia' clearly
+Panel 4: Understanding the full meaning of 'boia'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "boia (s.m.inv., agg.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 847
+Word: bolla
+Story: 1. Discovering 'bolla' for the first time. 2. Seeing 'bolla' in its natural context. 3. A person interacting with 'bolla'. 4. 'bolla' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bolla'.
+Panel 1: Discovering 'bolla' for the first time
+Panel 2: Seeing 'bolla' in its natural context
+Panel 3: A person interacting with 'bolla'
+Panel 4: 'bolla' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bolla (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 848
+Word: bolletta
+Story: 1. Discovering 'bolletta' for the first time. 2. Seeing 'bolletta' in its natural context. 3. A person interacting with 'bolletta'. 4. 'bolletta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bolletta'.
+Panel 1: Discovering 'bolletta' for the first time
+Panel 2: Seeing 'bolletta' in its natural context
+Panel 3: A person interacting with 'bolletta'
+Panel 4: 'bolletta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bolletta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 849
+Word: bollito
+Story: 1. Encountering someone or something described as 'bollito'. 2. Recognizing the quality of 'bollito' in a scene. 3. A vivid example showing 'bollito' clearly. 4. Understanding the full meaning of 'bollito'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bollito'.
+Panel 1: Encountering someone or something described as 'bollito'
+Panel 2: Recognizing the quality of 'bollito' in a scene
+Panel 3: A vivid example showing 'bollito' clearly
+Panel 4: Understanding the full meaning of 'bollito'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bollito (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 850
+Word: bollitore
+Story: 1. Discovering 'bollitore' for the first time. 2. Seeing 'bollitore' in its natural context. 3. A person interacting with 'bollitore'. 4. 'bollitore' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bollitore'.
+Panel 1: Discovering 'bollitore' for the first time
+Panel 2: Seeing 'bollitore' in its natural context
+Panel 3: A person interacting with 'bollitore'
+Panel 4: 'bollitore' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bollitore (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 851
+Word: bollo
+Story: 1. Discovering 'bollo' for the first time. 2. Seeing 'bollo' in its natural context. 3. A person interacting with 'bollo'. 4. 'bollo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bollo'.
+Panel 1: Discovering 'bollo' for the first time
+Panel 2: Seeing 'bollo' in its natural context
+Panel 3: A person interacting with 'bollo'
+Panel 4: 'bollo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bollo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 852
+Word: bolognese
+Story: 1. Encountering someone or something described as 'bolognese'. 2. Recognizing the quality of 'bolognese' in a scene. 3. A vivid example showing 'bolognese' clearly. 4. Understanding the full meaning of 'bolognese'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bolognese'.
+Panel 1: Encountering someone or something described as 'bolognese'
+Panel 2: Recognizing the quality of 'bolognese' in a scene
+Panel 3: A vivid example showing 'bolognese' clearly
+Panel 4: Understanding the full meaning of 'bolognese'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bolognese (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 853
+Word: bolzanino
+Story: 1. Encountering someone or something described as 'bolzanino'. 2. Recognizing the quality of 'bolzanino' in a scene. 3. A vivid example showing 'bolzanino' clearly. 4. Understanding the full meaning of 'bolzanino'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bolzanino'.
+Panel 1: Encountering someone or something described as 'bolzanino'
+Panel 2: Recognizing the quality of 'bolzanino' in a scene
+Panel 3: A vivid example showing 'bolzanino' clearly
+Panel 4: Understanding the full meaning of 'bolzanino'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bolzanino (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 854
+Word: bomba
+Story: 1. Discovering 'bomba' for the first time. 2. Seeing 'bomba' in its natural context. 3. A person interacting with 'bomba'. 4. 'bomba' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'bomba'.
+Panel 1: Discovering 'bomba' for the first time
+Panel 2: Seeing 'bomba' in its natural context
+Panel 3: A person interacting with 'bomba'
+Panel 4: 'bomba' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "bomba (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------

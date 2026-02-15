@@ -1,0 +1,499 @@
+Image ID: 7569
+Word: provare a
+Story: 1. An illustration showing what provare a looks like. 2. Provare A in its typical environment or context. 3. A person pointing at provare a and explaining it. 4. A scene where provare a is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'provare a'.
+Panel 1: An illustration showing what provare a looks like.
+Panel 2: Provare A in its typical environment or context.
+Panel 3: A person pointing at provare a and explaining it.
+Panel 4: A scene where provare a is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "provare a (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5060
+Word: pulire
+Story: 1. Someone explaining the concept of pulire to a friend. 2. A real-life scenario that requires pulire. 3. A person in the middle of pulire with focus. 4. The positive outcome of pulire shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'pulire'.
+Panel 1: Someone explaining the concept of pulire to a friend.
+Panel 2: A real-life scenario that requires pulire.
+Panel 3: A person in the middle of pulire with focus.
+Panel 4: The positive outcome of pulire shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "pulire (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5079
+Word: punto
+Story: 1. Discovering punto in an interesting setting. 2. Observing punto up close with curiosity. 3. A practical use of punto in daily life. 4. Understanding why punto matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'punto'.
+Panel 1: Discovering punto in an interesting setting.
+Panel 2: Observing punto up close with curiosity.
+Panel 3: A practical use of punto in daily life.
+Panel 4: Understanding why punto matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "punto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5090
+Word: purtroppo
+Story: 1. A person facing a situation where they need to purtroppo. 2. Preparing and getting ready to purtroppo. 3. Actively performing the action of purtroppo with determination. 4. The satisfying result after successfully completing purtroppo.
+Prompt: A 4-panel grid comic strip telling a story for the word 'purtroppo'.
+Panel 1: A person facing a situation where they need to purtroppo.
+Panel 2: Preparing and getting ready to purtroppo.
+Panel 3: Actively performing the action of purtroppo with determination.
+Panel 4: The satisfying result after successfully completing purtroppo.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "purtroppo (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5101
+Word: qualche
+Story: 1. A thought bubble showing the idea of qualche. 2. Taking the first step to qualche. 3. Fully engaged in the act of qualche. 4. A completed scene showing the effect of qualche.
+Prompt: A 4-panel grid comic strip telling a story for the word 'qualche'.
+Panel 1: A thought bubble showing the idea of qualche.
+Panel 2: Taking the first step to qualche.
+Panel 3: Fully engaged in the act of qualche.
+Panel 4: A completed scene showing the effect of qualche.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "qualche (agg.indef., avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5108
+Word: qualsiasi
+Story: 1. A scene that perfectly represents the feeling of qualsiasi. 2. An object or place that embodies qualsiasi. 3. Someone reacting to something qualsiasi. 4. The concept of qualsiasi illustrated in a clear way.
+Prompt: A 4-panel grid comic strip telling a story for the word 'qualsiasi'.
+Panel 1: A scene that perfectly represents the feeling of qualsiasi.
+Panel 2: An object or place that embodies qualsiasi.
+Panel 3: Someone reacting to something qualsiasi.
+Panel 4: The concept of qualsiasi illustrated in a clear way.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "qualsiasi (agg.indef., agg.rel.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5109
+Word: qualunque
+Story: 1. Seeing something that is clearly qualunque. 2. Comparing two things: one is qualunque, the other is not. 3. A person describing something as qualunque with gestures. 4. A vivid, memorable example of something very qualunque.
+Prompt: A 4-panel grid comic strip telling a story for the word 'qualunque'.
+Panel 1: Seeing something that is clearly qualunque.
+Panel 2: Comparing two things: one is qualunque, the other is not.
+Panel 3: A person describing something as qualunque with gestures.
+Panel 4: A vivid, memorable example of something very qualunque.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "qualunque (agg.indef., agg.rel., pron.rel.indef.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5116
+Word: quartiere
+Story: 1. An illustration showing what quartiere looks like. 2. Quartiere in its typical environment or context. 3. A person pointing at quartiere and explaining it. 4. A scene where quartiere is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quartiere'.
+Panel 1: An illustration showing what quartiere looks like.
+Panel 2: Quartiere in its typical environment or context.
+Panel 3: A person pointing at quartiere and explaining it.
+Panel 4: A scene where quartiere is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quartiere (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5117
+Word: quarto
+Story: 1. Discovering quarto in an interesting setting. 2. Observing quarto up close with curiosity. 3. A practical use of quarto in daily life. 4. Understanding why quarto matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quarto'.
+Panel 1: Discovering quarto in an interesting setting.
+Panel 2: Observing quarto up close with curiosity.
+Panel 3: A practical use of quarto in daily life.
+Panel 4: Understanding why quarto matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quarto (agg.num.ord., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5130
+Word: quinto
+Story: 1. An illustration showing what quinto looks like. 2. Quinto in its typical environment or context. 3. A person pointing at quinto and explaining it. 4. A scene where quinto is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quinto'.
+Panel 1: An illustration showing what quinto looks like.
+Panel 2: Quinto in its typical environment or context.
+Panel 3: A person pointing at quinto and explaining it.
+Panel 4: A scene where quinto is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quinto (agg.num.ord., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7570
+Word: quotidianamente
+Story: 1. A thought bubble showing the idea of quotidianamente. 2. Taking the first step to quotidianamente. 3. Fully engaged in the act of quotidianamente. 4. A completed scene showing the effect of quotidianamente.
+Prompt: A 4-panel grid comic strip telling a story for the word 'quotidianamente'.
+Panel 1: A thought bubble showing the idea of quotidianamente.
+Panel 2: Taking the first step to quotidianamente.
+Panel 3: Fully engaged in the act of quotidianamente.
+Panel 4: A completed scene showing the effect of quotidianamente.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "quotidianamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5141
+Word: raccontare
+Story: 1. A thought bubble showing the idea of raccontare. 2. Taking the first step to raccontare. 3. Fully engaged in the act of raccontare. 4. A completed scene showing the effect of raccontare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raccontare'.
+Panel 1: A thought bubble showing the idea of raccontare.
+Panel 2: Taking the first step to raccontare.
+Panel 3: Fully engaged in the act of raccontare.
+Panel 4: A completed scene showing the effect of raccontare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raccontare (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5161
+Word: raggiungere
+Story: 1. Someone explaining the concept of raggiungere to a friend. 2. A real-life scenario that requires raggiungere. 3. A person in the middle of raggiungere with focus. 4. The positive outcome of raggiungere shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'raggiungere'.
+Panel 1: Someone explaining the concept of raggiungere to a friend.
+Panel 2: A real-life scenario that requires raggiungere.
+Panel 3: A person in the middle of raggiungere with focus.
+Panel 4: The positive outcome of raggiungere shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "raggiungere (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5164
+Word: ragione
+Story: 1. Discovering ragione in an interesting setting. 2. Observing ragione up close with curiosity. 3. A practical use of ragione in daily life. 4. Understanding why ragione matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ragione'.
+Panel 1: Discovering ragione in an interesting setting.
+Panel 2: Observing ragione up close with curiosity.
+Panel 3: A practical use of ragione in daily life.
+Panel 4: Understanding why ragione matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ragione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5171
+Word: rallentare
+Story: 1. A thought bubble showing the idea of rallentare. 2. Taking the first step to rallentare. 3. Fully engaged in the act of rallentare. 4. A completed scene showing the effect of rallentare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rallentare'.
+Panel 1: A thought bubble showing the idea of rallentare.
+Panel 2: Taking the first step to rallentare.
+Panel 3: Fully engaged in the act of rallentare.
+Panel 4: A completed scene showing the effect of rallentare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rallentare (v.tr., v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5186
+Word: rappresentante
+Story: 1. An illustration showing what rappresentante looks like. 2. Rappresentante in its typical environment or context. 3. A person pointing at rappresentante and explaining it. 4. A scene where rappresentante is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rappresentante'.
+Panel 1: An illustration showing what rappresentante looks like.
+Panel 2: Rappresentante in its typical environment or context.
+Panel 3: A person pointing at rappresentante and explaining it.
+Panel 4: A scene where rappresentante is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rappresentante (p.pres., agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5188
+Word: rappresentare
+Story: 1. Someone explaining the concept of rappresentare to a friend. 2. A real-life scenario that requires rappresentare. 3. A person in the middle of rappresentare with focus. 4. The positive outcome of rappresentare shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rappresentare'.
+Panel 1: Someone explaining the concept of rappresentare to a friend.
+Panel 2: A real-life scenario that requires rappresentare.
+Panel 3: A person in the middle of rappresentare with focus.
+Panel 4: The positive outcome of rappresentare shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rappresentare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5189
+Word: rappresentazione
+Story: 1. A clear depiction of rappresentazione in everyday life. 2. Someone encountering rappresentazione for the first time. 3. A person using or interacting with rappresentazione. 4. Rappresentazione playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rappresentazione'.
+Panel 1: A clear depiction of rappresentazione in everyday life.
+Panel 2: Someone encountering rappresentazione for the first time.
+Panel 3: A person using or interacting with rappresentazione.
+Panel 4: Rappresentazione playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rappresentazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5212
+Word: realizzare
+Story: 1. A person facing a situation where they need to realizzare. 2. Preparing and getting ready to realizzare. 3. Actively performing the action of realizzare with determination. 4. The satisfying result after successfully completing realizzare.
+Prompt: A 4-panel grid comic strip telling a story for the word 'realizzare'.
+Panel 1: A person facing a situation where they need to realizzare.
+Panel 2: Preparing and getting ready to realizzare.
+Panel 3: Actively performing the action of realizzare with determination.
+Panel 4: The satisfying result after successfully completing realizzare.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "realizzare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5240
+Word: regalo
+Story: 1. An illustration showing what regalo looks like. 2. Regalo in its typical environment or context. 3. A person pointing at regalo and explaining it. 4. A scene where regalo is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'regalo'.
+Panel 1: An illustration showing what regalo looks like.
+Panel 2: Regalo in its typical environment or context.
+Panel 3: A person pointing at regalo and explaining it.
+Panel 4: A scene where regalo is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "regalo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5243
+Word: reggiseno
+Story: 1. Discovering reggiseno in an interesting setting. 2. Observing reggiseno up close with curiosity. 3. A practical use of reggiseno in daily life. 4. Understanding why reggiseno matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'reggiseno'.
+Panel 1: Discovering reggiseno in an interesting setting.
+Panel 2: Observing reggiseno up close with curiosity.
+Panel 3: A practical use of reggiseno in daily life.
+Panel 4: Understanding why reggiseno matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "reggiseno (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5248
+Word: regione
+Story: 1. Discovering regione in an interesting setting. 2. Observing regione up close with curiosity. 3. A practical use of regione in daily life. 4. Understanding why regione matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'regione'.
+Panel 1: Discovering regione in an interesting setting.
+Panel 2: Observing regione up close with curiosity.
+Panel 3: A practical use of regione in daily life.
+Panel 4: Understanding why regione matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "regione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5250
+Word: registrare
+Story: 1. Someone explaining the concept of registrare to a friend. 2. A real-life scenario that requires registrare. 3. A person in the middle of registrare with focus. 4. The positive outcome of registrare shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'registrare'.
+Panel 1: Someone explaining the concept of registrare to a friend.
+Panel 2: A real-life scenario that requires registrare.
+Panel 3: A person in the middle of registrare with focus.
+Panel 4: The positive outcome of registrare shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "registrare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5260
+Word: regolarmente
+Story: 1. Someone explaining the concept of regolarmente to a friend. 2. A real-life scenario that requires regolarmente. 3. A person in the middle of regolarmente with focus. 4. The positive outcome of regolarmente shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'regolarmente'.
+Panel 1: Someone explaining the concept of regolarmente to a friend.
+Panel 2: A real-life scenario that requires regolarmente.
+Panel 3: A person in the middle of regolarmente with focus.
+Panel 4: The positive outcome of regolarmente shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "regolarmente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5261
+Word: relativamente
+Story: 1. A thought bubble showing the idea of relativamente. 2. Taking the first step to relativamente. 3. Fully engaged in the act of relativamente. 4. A completed scene showing the effect of relativamente.
+Prompt: A 4-panel grid comic strip telling a story for the word 'relativamente'.
+Panel 1: A thought bubble showing the idea of relativamente.
+Panel 2: Taking the first step to relativamente.
+Panel 3: Fully engaged in the act of relativamente.
+Panel 4: A completed scene showing the effect of relativamente.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "relativamente (avv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7571
+Word: rendersi conto
+Story: 1. An illustration showing what rendersi conto looks like. 2. Rendersi Conto in its typical environment or context. 3. A person pointing at rendersi conto and explaining it. 4. A scene where rendersi conto is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rendersi conto'.
+Panel 1: An illustration showing what rendersi conto looks like.
+Panel 2: Rendersi Conto in its typical environment or context.
+Panel 3: A person pointing at rendersi conto and explaining it.
+Panel 4: A scene where rendersi conto is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rendersi conto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5281
+Word: residente
+Story: 1. Discovering residente in an interesting setting. 2. Observing residente up close with curiosity. 3. A practical use of residente in daily life. 4. Understanding why residente matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'residente'.
+Panel 1: Discovering residente in an interesting setting.
+Panel 2: Observing residente up close with curiosity.
+Panel 3: A practical use of residente in daily life.
+Panel 4: Understanding why residente matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "residente (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5282
+Word: residenza
+Story: 1. An illustration showing what residenza looks like. 2. Residenza in its typical environment or context. 3. A person pointing at residenza and explaining it. 4. A scene where residenza is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'residenza'.
+Panel 1: An illustration showing what residenza looks like.
+Panel 2: Residenza in its typical environment or context.
+Panel 3: A person pointing at residenza and explaining it.
+Panel 4: A scene where residenza is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "residenza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7572
+Word: respingimento alla frontiera
+Story: 1. An illustration showing what respingimento alla frontiera looks like. 2. Respingimento Alla Frontiera in its typical environment or context. 3. A person pointing at respingimento alla frontiera and explaining it. 4. A scene where respingimento alla frontiera is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'respingimento alla frontiera'.
+Panel 1: An illustration showing what respingimento alla frontiera looks like.
+Panel 2: Respingimento Alla Frontiera in its typical environment or context.
+Panel 3: A person pointing at respingimento alla frontiera and explaining it.
+Panel 4: A scene where respingimento alla frontiera is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "respingimento alla frontiera (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5329
+Word: ricetta
+Story: 1. An illustration showing what ricetta looks like. 2. Ricetta in its typical environment or context. 3. A person pointing at ricetta and explaining it. 4. A scene where ricetta is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ricetta'.
+Panel 1: An illustration showing what ricetta looks like.
+Panel 2: Ricetta in its typical environment or context.
+Panel 3: A person pointing at ricetta and explaining it.
+Panel 4: A scene where ricetta is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ricetta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7573
+Word: richuedente asilo
+Story: 1. An illustration showing what richuedente asilo looks like. 2. Richuedente Asilo in its typical environment or context. 3. A person pointing at richuedente asilo and explaining it. 4. A scene where richuedente asilo is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'richuedente asilo'.
+Panel 1: An illustration showing what richuedente asilo looks like.
+Panel 2: Richuedente Asilo in its typical environment or context.
+Panel 3: A person pointing at richuedente asilo and explaining it.
+Panel 4: A scene where richuedente asilo is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "richuedente asilo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7574
+Word: ricollocazione
+Story: 1. An illustration showing what ricollocazione looks like. 2. Ricollocazione in its typical environment or context. 3. A person pointing at ricollocazione and explaining it. 4. A scene where ricollocazione is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ricollocazione'.
+Panel 1: An illustration showing what ricollocazione looks like.
+Panel 2: Ricollocazione in its typical environment or context.
+Panel 3: A person pointing at ricollocazione and explaining it.
+Panel 4: A scene where ricollocazione is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ricollocazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7575
+Word: ricordarsi
+Story: 1. Someone explaining the concept of ricordarsi to a friend. 2. A real-life scenario that requires ricordarsi. 3. A person in the middle of ricordarsi with focus. 4. The positive outcome of ricordarsi shown clearly.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ricordarsi'.
+Panel 1: Someone explaining the concept of ricordarsi to a friend.
+Panel 2: A real-life scenario that requires ricordarsi.
+Panel 3: A person in the middle of ricordarsi with focus.
+Panel 4: The positive outcome of ricordarsi shown clearly.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ricordarsi (v.pronom.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7576
+Word: ricordi
+Story: 1. A scene that perfectly represents the feeling of ricordi. 2. An object or place that embodies ricordi. 3. Someone reacting to something ricordi. 4. The concept of ricordi illustrated in a clear way.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ricordi'.
+Panel 1: A scene that perfectly represents the feeling of ricordi.
+Panel 2: An object or place that embodies ricordi.
+Panel 3: Someone reacting to something ricordi.
+Panel 4: The concept of ricordi illustrated in a clear way.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ricordi (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5348
+Word: ricorrere
+Story: 1. A person facing a situation where they need to ricorrere. 2. Preparing and getting ready to ricorrere. 3. Actively performing the action of ricorrere with determination. 4. The satisfying result after successfully completing ricorrere.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ricorrere'.
+Panel 1: A person facing a situation where they need to ricorrere.
+Panel 2: Preparing and getting ready to ricorrere.
+Panel 3: Actively performing the action of ricorrere with determination.
+Panel 4: The satisfying result after successfully completing ricorrere.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ricorrere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5357
+Word: ridere
+Story: 1. A person facing a situation where they need to ridere. 2. Preparing and getting ready to ridere. 3. Actively performing the action of ridere with determination. 4. The satisfying result after successfully completing ridere.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ridere'.
+Panel 1: A person facing a situation where they need to ridere.
+Panel 2: Preparing and getting ready to ridere.
+Panel 3: Actively performing the action of ridere with determination.
+Panel 4: The satisfying result after successfully completing ridere.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ridere (v.intr. e tr., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5359
+Word: ridotto
+Story: 1. Discovering ridotto in an interesting setting. 2. Observing ridotto up close with curiosity. 3. A practical use of ridotto in daily life. 4. Understanding why ridotto matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ridotto'.
+Panel 1: Discovering ridotto in an interesting setting.
+Panel 2: Observing ridotto up close with curiosity.
+Panel 3: A practical use of ridotto in daily life.
+Panel 4: Understanding why ridotto matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ridotto (p.pass., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5360
+Word: ridurre
+Story: 1. A thought bubble showing the idea of ridurre. 2. Taking the first step to ridurre. 3. Fully engaged in the act of ridurre. 4. A completed scene showing the effect of ridurre.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ridurre'.
+Panel 1: A thought bubble showing the idea of ridurre.
+Panel 2: Taking the first step to ridurre.
+Panel 3: Fully engaged in the act of ridurre.
+Panel 4: A completed scene showing the effect of ridurre.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ridurre (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5366
+Word: riferimento
+Story: 1. A clear depiction of riferimento in everyday life. 2. Someone encountering riferimento for the first time. 3. A person using or interacting with riferimento. 4. Riferimento playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riferimento'.
+Panel 1: A clear depiction of riferimento in everyday life.
+Panel 2: Someone encountering riferimento for the first time.
+Panel 3: A person using or interacting with riferimento.
+Panel 4: Riferimento playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riferimento (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7577
+Word: rifiuti
+Story: 1. Seeing something that is clearly rifiuti. 2. Comparing two things: one is rifiuti, the other is not. 3. A person describing something as rifiuti with gestures. 4. A vivid, memorable example of something very rifiuti.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rifiuti'.
+Panel 1: Seeing something that is clearly rifiuti.
+Panel 2: Comparing two things: one is rifiuti, the other is not.
+Panel 3: A person describing something as rifiuti with gestures.
+Panel 4: A vivid, memorable example of something very rifiuti.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rifiuti (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5372
+Word: riflesso
+Story: 1. An illustration showing what riflesso looks like. 2. Riflesso in its typical environment or context. 3. A person pointing at riflesso and explaining it. 4. A scene where riflesso is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riflesso'.
+Panel 1: An illustration showing what riflesso looks like.
+Panel 2: Riflesso in its typical environment or context.
+Panel 3: A person pointing at riflesso and explaining it.
+Panel 4: A scene where riflesso is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riflesso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5373
+Word: riflettere
+Story: 1. A thought bubble showing the idea of riflettere. 2. Taking the first step to riflettere. 3. Fully engaged in the act of riflettere. 4. A completed scene showing the effect of riflettere.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riflettere'.
+Panel 1: A thought bubble showing the idea of riflettere.
+Panel 2: Taking the first step to riflettere.
+Panel 3: Fully engaged in the act of riflettere.
+Panel 4: A completed scene showing the effect of riflettere.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riflettere (v.tr. e intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5375
+Word: riforma
+Story: 1. A clear depiction of riforma in everyday life. 2. Someone encountering riforma for the first time. 3. A person using or interacting with riforma. 4. Riforma playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'riforma'.
+Panel 1: A clear depiction of riforma in everyday life.
+Panel 2: Someone encountering riforma for the first time.
+Panel 3: A person using or interacting with riforma.
+Panel 4: Riforma playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "riforma (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7578
+Word: rifugiato
+Story: 1. A clear depiction of rifugiato in everyday life. 2. Someone encountering rifugiato for the first time. 3. A person using or interacting with rifugiato. 4. Rifugiato playing a key role in a memorable scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rifugiato'.
+Panel 1: A clear depiction of rifugiato in everyday life.
+Panel 2: Someone encountering rifugiato for the first time.
+Panel 3: A person using or interacting with rifugiato.
+Panel 4: Rifugiato playing a key role in a memorable scene.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rifugiato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7579
+Word: rilassarsi
+Story: 1. A person facing a situation where they need to rilassarsi. 2. Preparing and getting ready to rilassarsi. 3. Actively performing the action of rilassarsi with determination. 4. The satisfying result after successfully completing rilassarsi.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rilassarsi'.
+Panel 1: A person facing a situation where they need to rilassarsi.
+Panel 2: Preparing and getting ready to rilassarsi.
+Panel 3: Actively performing the action of rilassarsi with determination.
+Panel 4: The satisfying result after successfully completing rilassarsi.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rilassarsi (v.pronom.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 5397
+Word: rimanere
+Story: 1. A thought bubble showing the idea of rimanere. 2. Taking the first step to rimanere. 3. Fully engaged in the act of rimanere. 4. A completed scene showing the effect of rimanere.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimanere'.
+Panel 1: A thought bubble showing the idea of rimanere.
+Panel 2: Taking the first step to rimanere.
+Panel 3: Fully engaged in the act of rimanere.
+Panel 4: A completed scene showing the effect of rimanere.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimanere (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7580
+Word: rimborso
+Story: 1. An illustration showing what rimborso looks like. 2. Rimborso in its typical environment or context. 3. A person pointing at rimborso and explaining it. 4. A scene where rimborso is essential and important.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimborso'.
+Panel 1: An illustration showing what rimborso looks like.
+Panel 2: Rimborso in its typical environment or context.
+Panel 3: A person pointing at rimborso and explaining it.
+Panel 4: A scene where rimborso is essential and important.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimborso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7581
+Word: rimpatrio
+Story: 1. Discovering rimpatrio in an interesting setting. 2. Observing rimpatrio up close with curiosity. 3. A practical use of rimpatrio in daily life. 4. Understanding why rimpatrio matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rimpatrio'.
+Panel 1: Discovering rimpatrio in an interesting setting.
+Panel 2: Observing rimpatrio up close with curiosity.
+Panel 3: A practical use of rimpatrio in daily life.
+Panel 4: Understanding why rimpatrio matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rimpatrio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7582
+Word: rinfrescarsi
+Story: 1. A person facing a situation where they need to rinfrescarsi. 2. Preparing and getting ready to rinfrescarsi. 3. Actively performing the action of rinfrescarsi with determination. 4. The satisfying result after successfully completing rinfrescarsi.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rinfrescarsi'.
+Panel 1: A person facing a situation where they need to rinfrescarsi.
+Panel 2: Preparing and getting ready to rinfrescarsi.
+Panel 3: Actively performing the action of rinfrescarsi with determination.
+Panel 4: The satisfying result after successfully completing rinfrescarsi.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rinfrescarsi (v.pronom.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 7583
+Word: rinomato
+Story: 1. Discovering rinomato in an interesting setting. 2. Observing rinomato up close with curiosity. 3. A practical use of rinomato in daily life. 4. Understanding why rinomato matters to people.
+Prompt: A 4-panel grid comic strip telling a story for the word 'rinomato'.
+Panel 1: Discovering rinomato in an interesting setting.
+Panel 2: Observing rinomato up close with curiosity.
+Panel 3: A practical use of rinomato in daily life.
+Panel 4: Understanding why rinomato matters to people.
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "rinomato (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.

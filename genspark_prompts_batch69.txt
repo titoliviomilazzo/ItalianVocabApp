@@ -1,0 +1,500 @@
+Image ID: 3555
+Word: livello
+Story: 1. Discovering 'livello' for the first time. 2. Seeing 'livello' in its natural context. 3. A person interacting with 'livello'. 4. 'livello' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'livello'.
+Panel 1: Discovering 'livello' for the first time
+Panel 2: Seeing 'livello' in its natural context
+Panel 3: A person interacting with 'livello'
+Panel 4: 'livello' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "livello (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3556
+Word: lo
+Story: 1. Two speech bubbles connected by the word 'lo'. 2. A sentence on a blackboard highlighting 'lo'. 3. A teacher explaining the use of 'lo'. 4. Students practicing sentences with 'lo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lo'.
+Panel 1: Two speech bubbles connected by the word 'lo'
+Panel 2: A sentence on a blackboard highlighting 'lo'
+Panel 3: A teacher explaining the use of 'lo'
+Panel 4: Students practicing sentences with 'lo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lo (art.det.m.sing., pron.pers. di terza pers.m.sing.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3557
+Word: locale
+Story: 1. Encountering someone or something described as 'locale'. 2. Recognizing the quality of 'locale' in a scene. 3. A vivid example showing 'locale' clearly. 4. Understanding the full meaning of 'locale'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'locale'.
+Panel 1: Encountering someone or something described as 'locale'
+Panel 2: Recognizing the quality of 'locale' in a scene
+Panel 3: A vivid example showing 'locale' clearly
+Panel 4: Understanding the full meaning of 'locale'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "locale (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3558
+Word: locale
+Story: 1. Discovering 'locale' for the first time. 2. Seeing 'locale' in its natural context. 3. A person interacting with 'locale'. 4. 'locale' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'locale'.
+Panel 1: Discovering 'locale' for the first time
+Panel 2: Seeing 'locale' in its natural context
+Panel 3: A person interacting with 'locale'
+Panel 4: 'locale' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "locale (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3559
+Word: località
+Story: 1. Discovering 'località' for the first time. 2. Seeing 'località' in its natural context. 3. A person interacting with 'località'. 4. 'località' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'località'.
+Panel 1: Discovering 'località' for the first time
+Panel 2: Seeing 'località' in its natural context
+Panel 3: A person interacting with 'località'
+Panel 4: 'località' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "località (s.f.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3560
+Word: locanda
+Story: 1. Discovering 'locanda' for the first time. 2. Seeing 'locanda' in its natural context. 3. A person interacting with 'locanda'. 4. 'locanda' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'locanda'.
+Panel 1: Discovering 'locanda' for the first time
+Panel 2: Seeing 'locanda' in its natural context
+Panel 3: A person interacting with 'locanda'
+Panel 4: 'locanda' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "locanda (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3561
+Word: locazione
+Story: 1. Discovering 'locazione' for the first time. 2. Seeing 'locazione' in its natural context. 3. A person interacting with 'locazione'. 4. 'locazione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'locazione'.
+Panel 1: Discovering 'locazione' for the first time
+Panel 2: Seeing 'locazione' in its natural context
+Panel 3: A person interacting with 'locazione'
+Panel 4: 'locazione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "locazione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3562
+Word: locomotiva
+Story: 1. Discovering 'locomotiva' for the first time. 2. Seeing 'locomotiva' in its natural context. 3. A person interacting with 'locomotiva'. 4. 'locomotiva' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'locomotiva'.
+Panel 1: Discovering 'locomotiva' for the first time
+Panel 2: Seeing 'locomotiva' in its natural context
+Panel 3: A person interacting with 'locomotiva'
+Panel 4: 'locomotiva' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "locomotiva (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3563
+Word: logica
+Story: 1. Discovering 'logica' for the first time. 2. Seeing 'logica' in its natural context. 3. A person interacting with 'logica'. 4. 'logica' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'logica'.
+Panel 1: Discovering 'logica' for the first time
+Panel 2: Seeing 'logica' in its natural context
+Panel 3: A person interacting with 'logica'
+Panel 4: 'logica' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "logica (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3564
+Word: logico
+Story: 1. Encountering someone or something described as 'logico'. 2. Recognizing the quality of 'logico' in a scene. 3. A vivid example showing 'logico' clearly. 4. Understanding the full meaning of 'logico'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'logico'.
+Panel 1: Encountering someone or something described as 'logico'
+Panel 2: Recognizing the quality of 'logico' in a scene
+Panel 3: A vivid example showing 'logico' clearly
+Panel 4: Understanding the full meaning of 'logico'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "logico (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3565
+Word: logoro
+Story: 1. Seeing something that is clearly 'logoro'. 2. Comparing two things, one is 'logoro' and one is not. 3. A person pointing at something 'logoro' and explaining. 4. A memorable example of something very 'logoro'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'logoro'.
+Panel 1: Seeing something that is clearly 'logoro'
+Panel 2: Comparing two things, one is 'logoro' and one is not
+Panel 3: A person pointing at something 'logoro' and explaining
+Panel 4: A memorable example of something very 'logoro'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "logoro (p.pass., agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3566
+Word: lombardo
+Story: 1. Encountering someone or something described as 'lombardo'. 2. Recognizing the quality of 'lombardo' in a scene. 3. A vivid example showing 'lombardo' clearly. 4. Understanding the full meaning of 'lombardo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lombardo'.
+Panel 1: Encountering someone or something described as 'lombardo'
+Panel 2: Recognizing the quality of 'lombardo' in a scene
+Panel 3: A vivid example showing 'lombardo' clearly
+Panel 4: Understanding the full meaning of 'lombardo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lombardo (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3567
+Word: londinese
+Story: 1. Encountering someone or something described as 'londinese'. 2. Recognizing the quality of 'londinese' in a scene. 3. A vivid example showing 'londinese' clearly. 4. Understanding the full meaning of 'londinese'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'londinese'.
+Panel 1: Encountering someone or something described as 'londinese'
+Panel 2: Recognizing the quality of 'londinese' in a scene
+Panel 3: A vivid example showing 'londinese' clearly
+Panel 4: Understanding the full meaning of 'londinese'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "londinese (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3568
+Word: lontananza
+Story: 1. Discovering 'lontananza' for the first time. 2. Seeing 'lontananza' in its natural context. 3. A person interacting with 'lontananza'. 4. 'lontananza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lontananza'.
+Panel 1: Discovering 'lontananza' for the first time
+Panel 2: Seeing 'lontananza' in its natural context
+Panel 3: A person interacting with 'lontananza'
+Panel 4: 'lontananza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lontananza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3569
+Word: lontano
+Story: 1. A scene where something happens 'lontano'. 2. Showing the manner or degree of 'lontano'. 3. Contrasting doing something 'lontano' vs not. 4. A clear example of 'lontano' in action.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lontano'.
+Panel 1: A scene where something happens 'lontano'
+Panel 2: Showing the manner or degree of 'lontano'
+Panel 3: Contrasting doing something 'lontano' vs not
+Panel 4: A clear example of 'lontano' in action
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lontano (agg., avv., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3570
+Word: lonza
+Story: 1. Discovering 'lonza' for the first time. 2. Seeing 'lonza' in its natural context. 3. A person interacting with 'lonza'. 4. 'lonza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lonza'.
+Panel 1: Discovering 'lonza' for the first time
+Panel 2: Seeing 'lonza' in its natural context
+Panel 3: A person interacting with 'lonza'
+Panel 4: 'lonza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lonza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3571
+Word: look
+Story: 1. Discovering 'look' for the first time. 2. Seeing 'look' in its natural context. 3. A person interacting with 'look'. 4. 'look' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'look'.
+Panel 1: Discovering 'look' for the first time
+Panel 2: Seeing 'look' in its natural context
+Panel 3: A person interacting with 'look'
+Panel 4: 'look' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "look (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3572
+Word: loro
+Story: 1. Encountering someone or something described as 'loro'. 2. Recognizing the quality of 'loro' in a scene. 3. A vivid example showing 'loro' clearly. 4. Understanding the full meaning of 'loro'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'loro'.
+Panel 1: Encountering someone or something described as 'loro'
+Panel 2: Recognizing the quality of 'loro' in a scene
+Panel 3: A vivid example showing 'loro' clearly
+Panel 4: Understanding the full meaning of 'loro'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "loro (pron.pers. di terza pers.m. e f.pl., agg.poss. di terza pers.pl., pron.poss. di terza pers.pl.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3573
+Word: lotta
+Story: 1. Discovering 'lotta' for the first time. 2. Seeing 'lotta' in its natural context. 3. A person interacting with 'lotta'. 4. 'lotta' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lotta'.
+Panel 1: Discovering 'lotta' for the first time
+Panel 2: Seeing 'lotta' in its natural context
+Panel 3: A person interacting with 'lotta'
+Panel 4: 'lotta' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lotta (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3574
+Word: lottare
+Story: 1. A person thinking about the action of 'lottare'. 2. Starting to perform the action 'lottare'. 3. Actively doing 'lottare' with full effort. 4. Successfully completing the action 'lottare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lottare'.
+Panel 1: A person thinking about the action of 'lottare'
+Panel 2: Starting to perform the action 'lottare'
+Panel 3: Actively doing 'lottare' with full effort
+Panel 4: Successfully completing the action 'lottare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lottare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3575
+Word: lozione
+Story: 1. Discovering 'lozione' for the first time. 2. Seeing 'lozione' in its natural context. 3. A person interacting with 'lozione'. 4. 'lozione' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lozione'.
+Panel 1: Discovering 'lozione' for the first time
+Panel 2: Seeing 'lozione' in its natural context
+Panel 3: A person interacting with 'lozione'
+Panel 4: 'lozione' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lozione (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3576
+Word: lucano
+Story: 1. Encountering someone or something described as 'lucano'. 2. Recognizing the quality of 'lucano' in a scene. 3. A vivid example showing 'lucano' clearly. 4. Understanding the full meaning of 'lucano'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lucano'.
+Panel 1: Encountering someone or something described as 'lucano'
+Panel 2: Recognizing the quality of 'lucano' in a scene
+Panel 3: A vivid example showing 'lucano' clearly
+Panel 4: Understanding the full meaning of 'lucano'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lucano (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3577
+Word: luccicare
+Story: 1. A person thinking about the action of 'luccicare'. 2. Starting to perform the action 'luccicare'. 3. Actively doing 'luccicare' with full effort. 4. Successfully completing the action 'luccicare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'luccicare'.
+Panel 1: A person thinking about the action of 'luccicare'
+Panel 2: Starting to perform the action 'luccicare'
+Panel 3: Actively doing 'luccicare' with full effort
+Panel 4: Successfully completing the action 'luccicare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "luccicare (v.intr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3578
+Word: lucciola
+Story: 1. Discovering 'lucciola' for the first time. 2. Seeing 'lucciola' in its natural context. 3. A person interacting with 'lucciola'. 4. 'lucciola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lucciola'.
+Panel 1: Discovering 'lucciola' for the first time
+Panel 2: Seeing 'lucciola' in its natural context
+Panel 3: A person interacting with 'lucciola'
+Panel 4: 'lucciola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lucciola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3579
+Word: luce
+Story: 1. Discovering 'luce' for the first time. 2. Seeing 'luce' in its natural context. 3. A person interacting with 'luce'. 4. 'luce' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'luce'.
+Panel 1: Discovering 'luce' for the first time
+Panel 2: Seeing 'luce' in its natural context
+Panel 3: A person interacting with 'luce'
+Panel 4: 'luce' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "luce (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3580
+Word: lucente
+Story: 1. Encountering someone or something described as 'lucente'. 2. Recognizing the quality of 'lucente' in a scene. 3. A vivid example showing 'lucente' clearly. 4. Understanding the full meaning of 'lucente'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lucente'.
+Panel 1: Encountering someone or something described as 'lucente'
+Panel 2: Recognizing the quality of 'lucente' in a scene
+Panel 3: A vivid example showing 'lucente' clearly
+Panel 4: Understanding the full meaning of 'lucente'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lucente (p.pres., agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3581
+Word: lucertola
+Story: 1. Discovering 'lucertola' for the first time. 2. Seeing 'lucertola' in its natural context. 3. A person interacting with 'lucertola'. 4. 'lucertola' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lucertola'.
+Panel 1: Discovering 'lucertola' for the first time
+Panel 2: Seeing 'lucertola' in its natural context
+Panel 3: A person interacting with 'lucertola'
+Panel 4: 'lucertola' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lucertola (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3582
+Word: lucidare
+Story: 1. A person thinking about the action of 'lucidare'. 2. Starting to perform the action 'lucidare'. 3. Actively doing 'lucidare' with full effort. 4. Successfully completing the action 'lucidare' with satisfaction.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lucidare'.
+Panel 1: A person thinking about the action of 'lucidare'
+Panel 2: Starting to perform the action 'lucidare'
+Panel 3: Actively doing 'lucidare' with full effort
+Panel 4: Successfully completing the action 'lucidare' with satisfaction
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lucidare (v.tr.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3583
+Word: lucido
+Story: 1. Encountering someone or something described as 'lucido'. 2. Recognizing the quality of 'lucido' in a scene. 3. A vivid example showing 'lucido' clearly. 4. Understanding the full meaning of 'lucido'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lucido'.
+Panel 1: Encountering someone or something described as 'lucido'
+Panel 2: Recognizing the quality of 'lucido' in a scene
+Panel 3: A vivid example showing 'lucido' clearly
+Panel 4: Understanding the full meaning of 'lucido'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lucido (agg., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3584
+Word: luglio
+Story: 1. Discovering 'luglio' for the first time. 2. Seeing 'luglio' in its natural context. 3. A person interacting with 'luglio'. 4. 'luglio' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'luglio'.
+Panel 1: Discovering 'luglio' for the first time
+Panel 2: Seeing 'luglio' in its natural context
+Panel 3: A person interacting with 'luglio'
+Panel 4: 'luglio' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "luglio (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3585
+Word: lui
+Story: 1. Two speech bubbles connected by the word 'lui'. 2. A sentence on a blackboard highlighting 'lui'. 3. A teacher explaining the use of 'lui'. 4. Students practicing sentences with 'lui'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lui'.
+Panel 1: Two speech bubbles connected by the word 'lui'
+Panel 2: A sentence on a blackboard highlighting 'lui'
+Panel 3: A teacher explaining the use of 'lui'
+Panel 4: Students practicing sentences with 'lui'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lui (pron.pers. di terza pers.m.sing., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3586
+Word: lumaca
+Story: 1. Discovering 'lumaca' for the first time. 2. Seeing 'lumaca' in its natural context. 3. A person interacting with 'lumaca'. 4. 'lumaca' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lumaca'.
+Panel 1: Discovering 'lumaca' for the first time
+Panel 2: Seeing 'lumaca' in its natural context
+Panel 3: A person interacting with 'lumaca'
+Panel 4: 'lumaca' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lumaca (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3587
+Word: luminoso
+Story: 1. Seeing something that is clearly 'luminoso'. 2. Comparing two things, one is 'luminoso' and one is not. 3. A person pointing at something 'luminoso' and explaining. 4. A memorable example of something very 'luminoso'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'luminoso'.
+Panel 1: Seeing something that is clearly 'luminoso'
+Panel 2: Comparing two things, one is 'luminoso' and one is not
+Panel 3: A person pointing at something 'luminoso' and explaining
+Panel 4: A memorable example of something very 'luminoso'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "luminoso (agg.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3588
+Word: luna
+Story: 1. Discovering 'luna' for the first time. 2. Seeing 'luna' in its natural context. 3. A person interacting with 'luna'. 4. 'luna' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'luna'.
+Panel 1: Discovering 'luna' for the first time
+Panel 2: Seeing 'luna' in its natural context
+Panel 3: A person interacting with 'luna'
+Panel 4: 'luna' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "luna (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3589
+Word: lunedì
+Story: 1. Discovering 'lunedì' for the first time. 2. Seeing 'lunedì' in its natural context. 3. A person interacting with 'lunedì'. 4. 'lunedì' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lunedì'.
+Panel 1: Discovering 'lunedì' for the first time
+Panel 2: Seeing 'lunedì' in its natural context
+Panel 3: A person interacting with 'lunedì'
+Panel 4: 'lunedì' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lunedì (s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3590
+Word: lunghezza
+Story: 1. Discovering 'lunghezza' for the first time. 2. Seeing 'lunghezza' in its natural context. 3. A person interacting with 'lunghezza'. 4. 'lunghezza' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lunghezza'.
+Panel 1: Discovering 'lunghezza' for the first time
+Panel 2: Seeing 'lunghezza' in its natural context
+Panel 3: A person interacting with 'lunghezza'
+Panel 4: 'lunghezza' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lunghezza (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3591
+Word: lungo
+Story: 1. Encountering someone or something described as 'lungo'. 2. Recognizing the quality of 'lungo' in a scene. 3. A vivid example showing 'lungo' clearly. 4. Understanding the full meaning of 'lungo'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lungo'.
+Panel 1: Encountering someone or something described as 'lungo'
+Panel 2: Recognizing the quality of 'lungo' in a scene
+Panel 3: A vivid example showing 'lungo' clearly
+Panel 4: Understanding the full meaning of 'lungo'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lungo (agg., prep., s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3592
+Word: luogo
+Story: 1. Discovering 'luogo' for the first time. 2. Seeing 'luogo' in its natural context. 3. A person interacting with 'luogo'. 4. 'luogo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'luogo'.
+Panel 1: Discovering 'luogo' for the first time
+Panel 2: Seeing 'luogo' in its natural context
+Panel 3: A person interacting with 'luogo'
+Panel 4: 'luogo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "luogo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3593
+Word: lupo
+Story: 1. Discovering 'lupo' for the first time. 2. Seeing 'lupo' in its natural context. 3. A person interacting with 'lupo'. 4. 'lupo' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lupo'.
+Panel 1: Discovering 'lupo' for the first time
+Panel 2: Seeing 'lupo' in its natural context
+Panel 3: A person interacting with 'lupo'
+Panel 4: 'lupo' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lupo (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3594
+Word: lussemburghese
+Story: 1. Encountering someone or something described as 'lussemburghese'. 2. Recognizing the quality of 'lussemburghese' in a scene. 3. A vivid example showing 'lussemburghese' clearly. 4. Understanding the full meaning of 'lussemburghese'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lussemburghese'.
+Panel 1: Encountering someone or something described as 'lussemburghese'
+Panel 2: Recognizing the quality of 'lussemburghese' in a scene
+Panel 3: A vivid example showing 'lussemburghese' clearly
+Panel 4: Understanding the full meaning of 'lussemburghese'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lussemburghese (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3595
+Word: lusso
+Story: 1. Discovering 'lusso' for the first time. 2. Seeing 'lusso' in its natural context. 3. A person interacting with 'lusso'. 4. 'lusso' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lusso'.
+Panel 1: Discovering 'lusso' for the first time
+Panel 2: Seeing 'lusso' in its natural context
+Panel 3: A person interacting with 'lusso'
+Panel 4: 'lusso' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lusso (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3596
+Word: lutto
+Story: 1. Discovering 'lutto' for the first time. 2. Seeing 'lutto' in its natural context. 3. A person interacting with 'lutto'. 4. 'lutto' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'lutto'.
+Panel 1: Discovering 'lutto' for the first time
+Panel 2: Seeing 'lutto' in its natural context
+Panel 3: A person interacting with 'lutto'
+Panel 4: 'lutto' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "lutto (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3597
+Word: ma
+Story: 1. Two speech bubbles connected by the word 'ma'. 2. A sentence on a blackboard highlighting 'ma'. 3. A teacher explaining the use of 'ma'. 4. Students practicing sentences with 'ma'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'ma'.
+Panel 1: Two speech bubbles connected by the word 'ma'
+Panel 2: A sentence on a blackboard highlighting 'ma'
+Panel 3: A teacher explaining the use of 'ma'
+Panel 4: Students practicing sentences with 'ma'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "ma (cong., s.m.inv.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3598
+Word: maccherone
+Story: 1. Discovering 'maccherone' for the first time. 2. Seeing 'maccherone' in its natural context. 3. A person interacting with 'maccherone'. 4. 'maccherone' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'maccherone'.
+Panel 1: Discovering 'maccherone' for the first time
+Panel 2: Seeing 'maccherone' in its natural context
+Panel 3: A person interacting with 'maccherone'
+Panel 4: 'maccherone' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "maccherone (s.m.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3599
+Word: macchia
+Story: 1. Discovering 'macchia' for the first time. 2. Seeing 'macchia' in its natural context. 3. A person interacting with 'macchia'. 4. 'macchia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'macchia'.
+Panel 1: Discovering 'macchia' for the first time
+Panel 2: Seeing 'macchia' in its natural context
+Panel 3: A person interacting with 'macchia'
+Panel 4: 'macchia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "macchia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3600
+Word: macchina
+Story: 1. Discovering 'macchina' for the first time. 2. Seeing 'macchina' in its natural context. 3. A person interacting with 'macchina'. 4. 'macchina' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'macchina'.
+Panel 1: Discovering 'macchina' for the first time
+Panel 2: Seeing 'macchina' in its natural context
+Panel 3: A person interacting with 'macchina'
+Panel 4: 'macchina' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "macchina (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3601
+Word: macchinista
+Story: 1. Discovering 'macchinista' for the first time. 2. Seeing 'macchinista' in its natural context. 3. A person interacting with 'macchinista'. 4. 'macchinista' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'macchinista'.
+Panel 1: Discovering 'macchinista' for the first time
+Panel 2: Seeing 'macchinista' in its natural context
+Panel 3: A person interacting with 'macchinista'
+Panel 4: 'macchinista' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "macchinista (s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3602
+Word: macedone
+Story: 1. Encountering someone or something described as 'macedone'. 2. Recognizing the quality of 'macedone' in a scene. 3. A vivid example showing 'macedone' clearly. 4. Understanding the full meaning of 'macedone'.
+Prompt: A 4-panel grid comic strip telling a story for the word 'macedone'.
+Panel 1: Encountering someone or something described as 'macedone'
+Panel 2: Recognizing the quality of 'macedone' in a scene
+Panel 3: A vivid example showing 'macedone' clearly
+Panel 4: Understanding the full meaning of 'macedone'
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "macedone (agg., s.m. e f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3603
+Word: macedonia
+Story: 1. Discovering 'macedonia' for the first time. 2. Seeing 'macedonia' in its natural context. 3. A person interacting with 'macedonia'. 4. 'macedonia' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'macedonia'.
+Panel 1: Discovering 'macedonia' for the first time
+Panel 2: Seeing 'macedonia' in its natural context
+Panel 3: A person interacting with 'macedonia'
+Panel 4: 'macedonia' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "macedonia (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
+Image ID: 3604
+Word: maceria
+Story: 1. Discovering 'maceria' for the first time. 2. Seeing 'maceria' in its natural context. 3. A person interacting with 'maceria'. 4. 'maceria' playing an important role in a scene.
+Prompt: A 4-panel grid comic strip telling a story for the word 'maceria'.
+Panel 1: Discovering 'maceria' for the first time
+Panel 2: Seeing 'maceria' in its natural context
+Panel 3: A person interacting with 'maceria'
+Panel 4: 'maceria' playing an important role in a scene
+Style: Clean 2D comic art, 2x2 grid layout, bold outlines, flat colors, European comic book style. The word "maceria (s.f.)" is written as a main title in a bold comic-book banner. Educational and clear. High quality. White borders between panels. Do NOT include any numbers, digits, or numbering in the panels.
+----------------------------------------
