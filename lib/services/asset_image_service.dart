@@ -3,16 +3,19 @@ import 'package:flutter/services.dart';
 import '../models/word.dart';
 
 class AssetImageService {
-  static Set<String>? _assetPaths;
+  static Set<String>? _normalizedAssetPaths;
 
   static Future<Set<String>> _loadAssetPaths() async {
-    if (_assetPaths != null) return _assetPaths!;
+    if (_normalizedAssetPaths != null) return _normalizedAssetPaths!;
 
     final manifestJson = await rootBundle.loadString('AssetManifest.json');
     final Map<String, dynamic> manifestMap =
         json.decode(manifestJson) as Map<String, dynamic>;
-    _assetPaths = manifestMap.keys.toSet();
-    return _assetPaths!;
+
+    // Flutter web can expose keys like `assets/assets/...`.
+    // Normalize to `assets/...` so app paths match consistently.
+    _normalizedAssetPaths = manifestMap.keys.map(_normalizeAssetKey).toSet();
+    return _normalizedAssetPaths!;
   }
 
   static Future<String?> resolveWordImagePath(Word word) async {
@@ -66,5 +69,12 @@ class AssetImageService {
     value = value.replaceAll(RegExp(r'_+'), '_');
     value = value.replaceAll(RegExp(r'^_|_$'), '');
     return value;
+  }
+
+  static String _normalizeAssetKey(String key) {
+    if (key.startsWith('assets/assets/')) {
+      return key.replaceFirst('assets/assets/', 'assets/');
+    }
+    return key;
   }
 }
