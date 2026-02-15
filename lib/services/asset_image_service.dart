@@ -62,39 +62,6 @@ class AssetImageService {
 
   static String _slugify(String input) {
     var value = input.toLowerCase();
-
-    const replacements = <String, String>{
-      'à': 'a',
-      'á': 'a',
-      'â': 'a',
-      'ä': 'a',
-      'ã': 'a',
-      'å': 'a',
-      'è': 'e',
-      'é': 'e',
-      'ê': 'e',
-      'ë': 'e',
-      'ì': 'i',
-      'í': 'i',
-      'î': 'i',
-      'ï': 'i',
-      'ò': 'o',
-      'ó': 'o',
-      'ô': 'o',
-      'ö': 'o',
-      'õ': 'o',
-      'ù': 'u',
-      'ú': 'u',
-      'û': 'u',
-      'ü': 'u',
-      'ç': 'c',
-      'ñ': 'n',
-    };
-
-    replacements.forEach((k, v) {
-      value = value.replaceAll(k, v);
-    });
-
     value = value.replaceAll(RegExp(r'[^a-z0-9]+'), '_');
     value = value.replaceAll(RegExp(r'_+'), '_');
     value = value.replaceAll(RegExp(r'^_|_$'), '');

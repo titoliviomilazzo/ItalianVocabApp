@@ -11,8 +11,8 @@ class FlashcardScreen extends StatefulWidget {
   final bool shuffle;
 
   const FlashcardScreen({
-    super.key, 
-    required this.words, 
+    super.key,
+    required this.words,
     required this.initialIndex,
     required this.onToggleLearned,
     this.shuffle = false,
@@ -54,7 +54,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
     setState(() {
       _words[_currentIndex] = currentWord.copyWith(isLearned: newStatus);
     });
-    
+
     widget.onToggleLearned(currentWord.id);
   }
 
@@ -79,7 +79,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
   @override
   Widget build(BuildContext context) {
     final currentWord = _words[_currentIndex];
-    
+
     return Scaffold(
       backgroundColor: AppTheme.warmCream,
       appBar: AppBar(
@@ -100,8 +100,12 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
             ),
           IconButton(
             icon: Icon(
-              currentWord.isLearned ? Icons.check_circle : Icons.check_circle_outline,
-              color: currentWord.isLearned ? const Color(0xFF90EE90) : Colors.white70,
+              currentWord.isLearned
+                  ? Icons.check_circle
+                  : Icons.check_circle_outline,
+              color: currentWord.isLearned
+                  ? const Color(0xFF90EE90)
+                  : Colors.white70,
             ),
             tooltip: 'Mark as Learned',
             onPressed: _handleToggleLearned,
@@ -117,9 +121,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
           });
         },
         itemBuilder: (context, index) {
-          return Center(
-            child: FlashcardWidget(word: _words[index]),
-          );
+          return Center(child: FlashcardWidget(word: _words[index]));
         },
       ),
       bottomNavigationBar: Container(
@@ -145,36 +147,25 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                   iconSize: 26,
                   color: AppTheme.terracotta,
                   disabledColor: AppTheme.warmGrey.withValues(alpha: 0.3),
-                  tooltip: '이전 카드',
+                  tooltip: 'Previous card',
                 ),
-                Column(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Text(
-                      _words[_currentIndex].word,
-                      style: GoogleFonts.outfit(
-                        fontSize: 16,
-                        color: AppTheme.darkEspresso,
-                        fontWeight: FontWeight.w600,
-                      ),
-                    ),
-                    if (_words[_currentIndex].meaning.isNotEmpty)
-                      Text(
-                        _words[_currentIndex].meaning,
-                        style: GoogleFonts.inter(
-                          fontSize: 12,
-                          color: AppTheme.warmGrey,
-                        ),
-                      ),
-                  ],
+                Text(
+                  '${_currentIndex + 1}/${_words.length}',
+                  style: GoogleFonts.inter(
+                    fontSize: 14,
+                    color: AppTheme.warmGrey,
+                    fontWeight: FontWeight.w600,
+                  ),
                 ),
                 IconButton(
-                  onPressed: _currentIndex < _words.length - 1 ? _goToNext : null,
+                  onPressed: _currentIndex < _words.length - 1
+                      ? _goToNext
+                      : null,
                   icon: const Icon(Icons.arrow_forward_ios_rounded),
                   iconSize: 26,
                   color: AppTheme.terracotta,
                   disabledColor: AppTheme.warmGrey.withValues(alpha: 0.3),
-                  tooltip: '다음 카드',
+                  tooltip: 'Next card',
                 ),
               ],
             ),
