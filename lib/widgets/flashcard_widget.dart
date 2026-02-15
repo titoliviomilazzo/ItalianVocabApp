@@ -2,6 +2,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../models/word.dart';
+import '../services/asset_image_service.dart';
 import '../services/tts_service.dart';
 import '../theme/app_theme.dart';
 
@@ -18,6 +19,7 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
     with SingleTickerProviderStateMixin {
   late AnimationController _controller;
   late Animation<double> _animation;
+  late Future<String?> _resolvedImageFuture;
   bool _isFront = true;
 
   @override
@@ -27,9 +29,11 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
       duration: const Duration(milliseconds: 400),
       vsync: this,
     );
-    _animation = Tween<double>(begin: 0, end: 1).animate(
-      CurvedAnimation(parent: _controller, curve: Curves.easeInOut),
-    );
+    _animation = Tween<double>(
+      begin: 0,
+      end: 1,
+    ).animate(CurvedAnimation(parent: _controller, curve: Curves.easeInOut));
+    _resolvedImageFuture = AssetImageService.resolveWordImagePath(widget.word);
   }
 
   @override
@@ -54,6 +58,9 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
     if (oldWidget.word.id != widget.word.id) {
       _isFront = true;
       _controller.reset();
+      _resolvedImageFuture = AssetImageService.resolveWordImagePath(
+        widget.word,
+      );
     }
   }
 
@@ -103,7 +110,6 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
       padding: const EdgeInsets.all(16),
       child: Column(
         children: [
-          // ── Image area ──
           Expanded(
             flex: 5,
             child: Container(
@@ -114,20 +120,27 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
               ),
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(16),
-                child: Image.asset(
-                  widget.word.imagePath,
-                  fit: BoxFit.contain,
-                  errorBuilder: (context, error, stackTrace) {
-                    return Column(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Icon(Icons.image_not_supported, size: 48, color: AppTheme.warmGrey.withValues(alpha: 0.5)),
-                        const SizedBox(height: 10),
-                        Text(
-                          'Immagine non disponibile',
-                          style: GoogleFonts.inter(color: AppTheme.warmGrey, fontSize: 13),
+                child: FutureBuilder<String?>(
+                  future: _resolvedImageFuture,
+                  builder: (context, snapshot) {
+                    if (snapshot.connectionState == ConnectionState.waiting) {
+                      return const Center(
+                        child: CircularProgressIndicator(
+                          color: AppTheme.terracotta,
                         ),
-                      ],
+                      );
+                    }
+
+                    final resolvedPath = snapshot.data;
+                    if (resolvedPath == null || resolvedPath.isEmpty) {
+                      return _buildImageUnavailable();
+                    }
+
+                    return Image.asset(
+                      resolvedPath,
+                      fit: BoxFit.contain,
+                      errorBuilder: (context, error, stackTrace) =>
+                          _buildImageUnavailable(),
                     );
                   },
                 ),
@@ -135,8 +148,6 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
             ),
           ),
           const SizedBox(height: 16),
-
-          // ── Word + TTS ──
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
@@ -179,15 +190,17 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
             ),
           ),
           const SizedBox(height: 8),
-
-          // ── Tap hint ──
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Icon(Icons.touch_app, size: 14, color: AppTheme.warmGrey.withValues(alpha: 0.4)),
+              Icon(
+                Icons.touch_app,
+                size: 14,
+                color: AppTheme.warmGrey.withValues(alpha: 0.4),
+              ),
               const SizedBox(width: 4),
               Text(
-                '탭하여 뒤집기',
+                'Tap to flip',
                 style: GoogleFonts.inter(
                   fontSize: 11,
                   color: AppTheme.warmGrey.withValues(alpha: 0.4),
@@ -207,7 +220,6 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            // ── Word header with TTS ──
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
@@ -241,8 +253,6 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
               ),
             ),
             const SizedBox(height: 16),
-
-            // ── Divider ──
             Container(
               width: 40,
               height: 3,
@@ -252,13 +262,13 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
               ),
             ),
             const SizedBox(height: 20),
-
-            // ── Meaning ──
             _buildSection(
-              label: '뜻',
+              label: 'Meaning',
               icon: Icons.translate,
               child: Text(
-                widget.word.meaning.isEmpty ? '(의미 없음)' : widget.word.meaning,
+                widget.word.meaning.isEmpty
+                    ? '(meaning not available)'
+                    : widget.word.meaning,
                 textAlign: TextAlign.center,
                 style: GoogleFonts.inter(
                   fontSize: 26,
@@ -267,36 +277,33 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
                 ),
               ),
             ),
-
-            // ── Example sentence ──
-            if (widget.word.example.isNotEmpty) ...[
-              const SizedBox(height: 20),
-              _buildSection(
-                label: 'Esempio',
-                icon: Icons.format_quote,
-                child: Text(
-                  widget.word.example,
-                  textAlign: TextAlign.center,
-                  style: GoogleFonts.inter(
-                    fontSize: 15,
-                    color: AppTheme.deepWine,
-                    fontStyle: FontStyle.italic,
-                    height: 1.5,
-                  ),
+            const SizedBox(height: 20),
+            _buildSection(
+              label: 'Esempio',
+              icon: Icons.format_quote,
+              child: Text(
+                _displayExample(widget.word),
+                textAlign: TextAlign.center,
+                style: GoogleFonts.inter(
+                  fontSize: 15,
+                  color: AppTheme.deepWine,
+                  fontStyle: FontStyle.italic,
+                  height: 1.5,
                 ),
               ),
-            ],
-
+            ),
             const SizedBox(height: 20),
-
-            // ── Tap hint ──
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Icon(Icons.touch_app, size: 14, color: AppTheme.warmGrey.withValues(alpha: 0.4)),
+                Icon(
+                  Icons.touch_app,
+                  size: 14,
+                  color: AppTheme.warmGrey.withValues(alpha: 0.4),
+                ),
                 const SizedBox(width: 4),
                 Text(
-                  '탭하여 앞면으로',
+                  'Tap to return',
                   style: GoogleFonts.inter(
                     fontSize: 11,
                     color: AppTheme.warmGrey.withValues(alpha: 0.4),
@@ -321,9 +328,7 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
       decoration: BoxDecoration(
         color: AppTheme.softWhite.withValues(alpha: 0.7),
         borderRadius: BorderRadius.circular(16),
-        border: Border.all(
-          color: AppTheme.terracotta.withValues(alpha: 0.08),
-        ),
+        border: Border.all(color: AppTheme.terracotta.withValues(alpha: 0.08)),
       ),
       child: Column(
         children: [
@@ -348,6 +353,30 @@ class _FlashcardWidgetState extends State<FlashcardWidget>
           child,
         ],
       ),
+    );
+  }
+
+  String _displayExample(Word word) {
+    final example = word.example.trim();
+    if (example.isNotEmpty) return example;
+    return "Esempio: '${word.word}' in una frase.";
+  }
+
+  Widget _buildImageUnavailable() {
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        Icon(
+          Icons.image_not_supported,
+          size: 48,
+          color: AppTheme.warmGrey.withValues(alpha: 0.5),
+        ),
+        const SizedBox(height: 10),
+        Text(
+          'Immagine non disponibile',
+          style: GoogleFonts.inter(color: AppTheme.warmGrey, fontSize: 13),
+        ),
+      ],
     );
   }
 }
