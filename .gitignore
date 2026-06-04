@@ -26,5 +26,10 @@ android/local.properties
 .idea/
 *.iml
 
+# Logs & editor/agent scratch
+*.log
+flutter_log.txt
+.agent/
+.claude/
 
 assets/images/nul
